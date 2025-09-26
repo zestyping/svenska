@@ -21,9 +21,6 @@ u_alla		alla	everyone
 u_allt		allt	everything
 u_alltid		alltid	always
 u_andra		andra	second
-u_april		april	April
-u_artonde		artonde	eighteenth
-u_augusti		augusti	August
 u_avdelning		avdelning	department
 u_bakning		bakning	baking
 u_bara		bara	only
@@ -54,15 +51,11 @@ u_daer		där	there
 u_daa_ska_vi_se		då ska vi se	let's see
 u_egyptisk		egyptisk	Egyptian
 u_elev		elev	student
-u_elfte		elfte	eleventh
 u_eller		eller	or
 u_engelska		engelska	English (language)
 u_extra_kostnad		extra kostnad	extra cost
 u_fantastisk		fantastisk	fantastic
-u_februari		februari	February
 u_femte		femte	fifth
-u_femtonde		femtonde	fifteenth
-u_fjortonde		fjortonde	fourteenth
 u_fjaerde		fjärde	fourth
 u_fler_saker		fler saker	more things
 u_flera		flera	several
@@ -73,7 +66,6 @@ u_franska		franska	French (language)
 u_frisk_luft		frisk luft	fresh air
 u_fraan		från	from
 u_full		full	full
-u_fyra		fyra	bus number 4
 u_faa_barn		få barn	have children
 u_foer_x_aar_seda		för ... år sedan	... years ago
 u_foer_stora		för stora	too large
@@ -138,13 +130,10 @@ u_inte_precis		inte precis	not exactly
 u_inte_aen		inte än	not yet
 u_intervjua		intervjua	interview
 u_jag		jag	I
-u_januari		januari	January
 u_japanska		japanska	Japanese (language)
 u_jobba_extra		jobba extra	work part-time / work extra
 u_jordgubbslukt		jordgubbslukt	strawberry scent
 u_ju		ju	you know
-u_juli		juli	July
-u_juni		juni	June
 u_just_nu		just nu	right now
 u_jaettekul		jättekul	a lot of fun
 u_jaettemaanga		jättemånga	a huge number
@@ -177,10 +166,8 @@ u_laenge		länge	a long time / long
 u_laerare		lärare	teacher
 u_laesa		läsa	read
 u_laana		låna	borrow
-u_maj		maj	May
 u_man_trodde		man trodde	people believed
 u_markera		markera	mark
-u_mars		mars	March
 u_med		med	with
 u_mellan_x_och_y		mellan X och Y	between X and Y
 u_men		men	but
@@ -195,12 +182,9 @@ u_mot		mot	against
 u_maanga		många	many
 u_nachos		nachos	nachos
 u_ner		ner	down
-u_nia		nia	ninth grade
-u_nionde		nionde	ninth
-u_nittonde		nittonde	nineteenth
+u_nio		nio (nian)	nine
 u_norr		norr	north
 u_norra		norra	northern
-u_november		november	November
 u_nu		nu	now
 u_naer		när	when
 u_naera		nära	near / close to
@@ -215,7 +199,6 @@ u_objektspronomen		objektspronomen	object pronoun
 u_och		och	and
 u_ofta		ofta	often
 u_okej		okej	okay
-u_oktober		oktober	October
 u_olika_saett		olika sätt	different ways
 u_om_10_dagar		om 10 dagar	in 10 days
 u_om_inte		om inte	if not
@@ -255,19 +238,12 @@ u_sammansatta_ord		sammansatta ord	compound words
 u_science_fiction		science fiction	science fiction
 u_semesterplan		semesterplan	holiday plan
 u_sent_paa_kvaell		sent på kvällen	late in the evening
-u_september		september	September
 u_serie		serie	series
-u_sextonde		sextonde	sixteenth
 u_shopping		shopping	shopping
 u_sida		sida	page
 u_singel		singel	single
 u_sista		sista	last
 u_sitta		sitta	sit
-u_sju		sju	seven
-u_sjua		sjua	seventh grade
-u_sjunde		sjunde	seventh
-u_sjuttonde		sjuttonde	seventeenth
-u_sjaette		sjätte	sixth
 u_ska		ska	will (verb)
 u_skorpa		skorpa	rusk
 u_skoen		skön	pleasant
@@ -302,24 +278,13 @@ u_thaimat		thaimat	Thai food
 u_till_hoeger		till höger	to the right
 u_till_vaenster		till vänster	to the left
 u_tillsammans		tillsammans	together
-u_tio		tio	ten
-u_tionde		tionde	tenth
 u_tja		tja	well
-u_tjugo		tjugo	twenty
-u_tjugoandra		tjugoandra	twenty-second
-u_tjugofoersta		tjugoförsta	twenty-first
-u_tjugonde		tjugonde	twentieth
 u_tjaena_pengar		tjäna pengar	earn money
-u_tolfte		tolfte	twelfth
 u_tredje		tredje	third
-u_trettiofoersta		trettioförsta	thirty-first
-u_trettionde		trettionde	thirtieth
-u_trettonde		trettonde	thirteenth
 u_trosor		trosor (trosorna)	panties / women's underwear
 u_traeningsklaede		träningskläder	sportswear
 u_traakig		tråkig	boring
 u_turkiska		turkiska	Turkish (language)
-u_tvaaa		tvåa	bus number 2
 u_taenk_dig_att		tänk dig att	imagine that
 u_upp		upp	up
 u_uppgift		uppgift	task
@@ -352,8 +317,6 @@ u_vaeldigt_mycket		väldigt mycket	very much
 u_vaerldens_mat		världens mat	international food
 u_vaexlande_vaede		växlande väder	changing weather
 u_aaka_runt		åka runt	drive around
-u_aatta		åtta	eight
-u_aattonde		åttonde	eighth
 u_oeppet_koep		öppet köp	refund policy
 u_oeverallt		överallt	everywhere
 adj_allergisk	adj	allergisk	allergic
@@ -544,7 +507,9 @@ n_tyskland	mass n	Tyskland	Germany
 n_vasamuseet	mass n	Vasamuseet	the Vasa Museum
 n_vaenern	mass n	Vänern	Vänern (largest lake in Sweden)
 n_vaettern	mass n	Vättern	Vättern (second-largest lake in Sweden)
+n_april	mass n	april	April
 n_asfalt	mass n	asfalt [asfalten]	asphalt
+n_augusti	mass n	augusti	August
 n_bagage	mass n	bagage [bagaget]	luggage
 n_bearnaisesaas	mass n	bearnaisesås [bearnaisesåsen]	Béarnaise sauce
 n_bio	mass n	bio [bion]	cinema
@@ -556,12 +521,12 @@ n_chark	mass n	chark [charken]	cured meat, deli section
 n_charter	mass n	charter [chartern]	charter
 n_choklad	mass n	choklad [chokladen]	chocolate
 n_cykel	mass n	cykel [cykeln]	bicycle
+n_december	mass n	december	December
 n_dubbelsaeng	mass n	dubbelsäng [dubbelsängen]	double bed
 n_duntaecke	mass n	duntäcke [duntäcket]	down duvet
 n_duschkraem	mass n	duschkräm [duschkrämen]	body wash
 n_dynamit	mass n	dynamit [dynamiten]	dynamite
 n_nobelpristagare	mass n	en Nobelpristagare [Nobelpristagaren] .: Nobelpristagare [Nobelpristagarna]	Nobel prize winner
-n_december	mass n	en december [decembern] .: decembrar [decembrarna]	December
 n_fransman	mass n	en fransman [fransmannen] .: fransmän [fransmännen]	Frenchman
 n_fredag	mass n	en fredag [fredagen] .: fredagar [fredagarna]	Friday
 n_it_ingenjoer	mass n	en it-ingenjör [it-ingenjören] .: it-ingenjörer [it-ingenjörerna]	IT engineer
@@ -580,6 +545,7 @@ n_tisdag	mass n	en tisdag [tisdagen] .: tisdagar [tisdagarna]	Tuesday
 n_torsdag	mass n	en torsdag [torsdagen] .: torsdagar [torsdagarna]	Thursday
 n_wienerbroed	mass n	ett wienerbröd [wienerbrödet] .: wienerbröden [wienerbrödena]	Danish pastry
 n_fakta	mass n	fakta [faktan]	facts
+n_februari	mass n	februari	February
 n_fil	mass n	fil [filen]	soured milk / file
 n_filmjoelk	mass n	filmjölk [filmjölken]	soured milk
 n_framtid	mass n	framtid [framtiden]	future
@@ -597,8 +563,11 @@ n_honung	mass n	honung [honungen]	honey
 n_hygien	mass n	hygien [hygienen]	hygiene
 n_inlines	mass n	inlines [inlinesen]	rollerblades
 n_innebandy	mass n	innebandy [innebandyn]	floorball
+n_januari	mass n	januari	January
 n_jazz	mass n	jazz [jazzen]	jazz
 n_jord	mass n	jord [jorden]	earth / soil
+n_juli	mass n	juli	July
+n_juni	mass n	juni	June
 n_jaest	mass n	jäst [jästen]	yeast
 n_kastrull	mass n	kastrull [kastrullen]	saucepan
 n_kaviar	mass n	kaviar [kaviaren]	cod roe spread
@@ -618,7 +587,9 @@ n_lingonsylt	mass n	lingonsylt [lingonsylten]	lingonberry preserves
 n_laesk	mass n	läsk [läsken]	soft drink, fizzy drink
 n_laettoel	mass n	lättöl [lättölet]	light beer
 n_madrass	mass n	madrass [madrassen]	mattress
+n_maj	mass n	maj	May
 n_marmelad	mass n	marmelad [marmeladen]	marmalade
+n_mars	mass n	mars	March
 n_medeltid	mass n	medeltid [medeltiden]	Middle Ages
 n_mineralvatten	mass n	mineralvatten [mineralvattnet]	mineral water
 n_mjoel	mass n	mjöl [mjölet]	flour
@@ -626,6 +597,8 @@ n_mjoelk	mass n	mjölk [mjölken]	milk
 n_mountainbike	mass n	mountainbike [mountainbiken]	mountain bike
 n_mys	mass n	mys [myset]	coziness
 n_nitroglycerin	mass n	nitroglycerin [nitroglycerinet]	nitroglycerin
+n_november	mass n	november	November
+n_oktober	mass n	oktober	October
 n_olja	mass n	olja [oljan]	oil
 n_ordfoeljd	mass n	ordföljd [ordföljden]	word order
 n_potatismos	mass n	potatismos [potatismoset]	mashed potatoes
@@ -636,6 +609,7 @@ n_ryska	mass n	ryska [ryskan]	Russian
 n_salami	mass n	salami [salamin]	salami
 n_saltlakrits	mass n	saltlakrits [saltlakritset]	salty licorice
 n_satsadverbial	mass n	satsadverbial [satsadverbialet]	adverbial
+n_september	mass n	september	September
 n_sked	mass n	sked [skeden]	spoon
 n_skrattyoga	mass n	skrattyoga [skrattyogan]	laughter yoga
 n_slaekt	mass n	släkt [släkten]	relatives
@@ -726,7 +700,7 @@ n_dusch	n	en dusch [duschen] .: duschar [duscharna]	a shower
 n_duschtvaal	n	en duschtvål [duschtvålen] .: duschtvålar [duschtvålarna]	a body wash
 n_dvaergpudel	n	en dvärgpudel [dvärgpudeln] .: dvärgpudlar [dvärgpudlarna]	a miniature poodle
 n_doerr	n	en dörr [dörren] .: dörrar [dörrarna]	a door
-n_ekonom	n	en ekonom [ekonomen] .: ekonomer [ekonomerna]	an economist
+n_ekonom	n	en ekonom [ekonomen] .: ekonomer [ekonomerna]	an economist / financial officer
 n_ekonomi	n	en ekonomi [ekonomin] .: ekonomier [ekonomierna]	an economy / economics
 n_elektronikaffae	n	en elektronikaffär [elektronikaffären] .: elektronikaffärer [elektronikaffärerna]	an electronics store
 n_elsparkcykel	n	en elsparkcykel [elsparkcykeln] .: elsparkscyklar [elsparkscyklarna]	an e-scooter
@@ -1156,6 +1130,7 @@ n_oegon	n	en ögon [ögonen] .: ögon [ögonen]	an eye
 n_oegonskugga	n	en ögonskugga [ögonskuggan] .: ögonskuggor [ögonskuggorna]	an eye shadow
 n_oevning	n	en övning [övningen] .: övningar [övningarna]	an exercise
 n_nobelpris	n	ett Nobelpris [Nobelpriset] .: Nobelpris [Nobelprisen]	a Nobel Prize
+n_ettan	n	ett [ettan]	an one
 n_adverb	n	ett adverb [adverbet] .: adverb [adverben]	an adverb
 n_alfabet	n	ett alfabet [alfabetet] .: alfabet [alfabeten]	an alphabet
 n_alternativ	n	ett alternativ [alternativet] .: alternativ [alternativen]	an option
@@ -1316,6 +1291,36 @@ n_aepple	n	ett äpple [äpplet] .: äpplen [äpplena]	an apple
 n_aar	n	ett år [året] .: år [åren]	a year
 n_oegonblick	n	ett ögonblick	a moment
 n_oertte	n	ett örtte [örttet] .: örtter [örtterna]	a herbal tea
+num_artonde	num	artonde	eighteenth
+num_elfte	num	elfte	eleventh
+num_elva_elvan	num	elva [elvan]	eleven
+num_fem_femman	num	fem [femman]	five
+num_femtonde	num	femtonde	fifteenth
+num_fjortonde	num	fjortonde	fourteenth
+num_fyra_fyran	num	fyra [fyran]	four
+num_nionde	num	nionde	ninth
+num_nittonde	num	nittonde	nineteenth
+num_sex_sexan	num	sex [sexan]	six
+num_sextonde	num	sextonde	sixteenth
+num_sju_sjuan	num	sju [sjuan]	seven
+num_sjunde	num	sjunde	seventh
+num_sjuttonde	num	sjuttonde	seventeenth
+num_sjaette	num	sjätte	sixth
+num_tio_tian	num	tio [tian]	ten
+num_tionde	num	tionde	tenth
+num_tjugo_tjugan	num	tjugo [tjugan]	twenty
+num_tjugoandra	num	tjugoandra	twenty-second
+num_tjugofoersta	num	tjugoförsta	twenty-first
+num_tjugonde	num	tjugonde	twentieth
+num_tolfte	num	tolfte	twelfth
+num_tolv_tolvan	num	tolv [tolvan]	twelve
+num_tre_trean	num	tre [trean]	three
+num_trettiofoersta	num	trettioförsta	thirty-first
+num_trettionde	num	trettionde	thirtieth
+num_trettonde	num	trettonde	thirteenth
+num_tvaa_tvaaan	num	två [tvåan]	two
+num_aatta_aattan	num	åtta [åttan]	eight
+num_aattonde	num	åttonde	eighth
 pn_baada	pn	båda	both
 pn_dem	pn	dem	them
 pn_dig	pn	dig	you (obj)
@@ -1693,7 +1698,7 @@ s_frekvensen_av_tvfa	s	Frekvensen av träning varierar för alla.	The frequency 
 s_frisoeren_klipp_mhk	s	Frisören klippte mitt hår kort.	The hairdresser cut my hair short.
 s_frysta_raekor_fif	s	Frysta räkor finns i frysen.	Frozen shrimp are in the freezer.
 s_fy_vad_kallt_de_a	s	Fy, vad kallt det är!	Ugh, it's so cold!
-s_fyran_gaar_till_u	s	Fyran går till universitetet.	Bus number 4 goes to the university.
+s_fyran_gaar_till_u	s	Fyran går till universitetet.	Bus/train number 4 goes to the university.
 s_fysisk_aktivite_avfh	s	Fysisk aktivitet är viktig för hälsan.	Physical activity is important for health.
 s_faar_jag_fraaga_dn	s	Får jag fråga dig något?	May I ask you something?
 s_faar_jag_fraaga_es	s	Får jag fråga en sak?	Can I ask you a question?
@@ -1808,7 +1813,7 @@ s_han_vill_bli_sk	s	Han vill bli skådespelare.	He wants to become an actor.
 s_han_ville_dela_sf	s	Han ville dela sin förmögenhet.	He wanted to share his fortune.
 s_han_vrickade_fo_nhs	s	Han vrickade foten när han sprang.	He sprained his foot when he was running.
 s_han_aer_civilin_ib	s	Han är civilingenjör i byggteknik.	He is a structural engineer.
-s_han_aer_ekonom_pesf	s	Han är ekonom på ett stort företag.	He is an economist at a large company.
+s_han_aer_ekonom_pesf	s	Han är ekonom på ett stort företag.	He is a financial officer at a large company.
 s_han_aer_fortfar_vu	s	Han är fortfarande väldigt ung.	He is still very young.
 s_han_aer_fransma_mbis	s	Han är fransman men bor i Sverige.	He is a Frenchman but lives in Sweden.
 s_han_aer_god_foe_fm	s	Han är god för flera miljoner.	He is worth several millions.
@@ -2767,7 +2772,7 @@ s_ta_bussen_till_s	s	Ta bussen till stan.	Take the bus to town.
 s_ta_hand_om_dig	s	Ta hand om dig!	Take care!
 s_ta_med_en_regnj_odbr	s	Ta med en regnjacka om det börjar regna.	Bring a raincoat if it starts raining.
 s_ta_paa_dig_en_vt	s	Ta på dig en varm tröja.	Put on a warm sweater.
-s_ta_tvaaan_till_c	s	Ta tvåan till centrum.	Take bus number 2 to the city centre.
+s_ta_tvaaan_till_c	s	Ta tvåan till centrum.	Take bus/train number 2 to the city centre.
 s_tack_foer_idag	s	Tack för idag!	Thanks for today!
 s_tack_snaella_fo_h	s	Tack snälla för hjälpen.	Thank you so much for the help.
 s_tack_snaella	s	Tack snälla!	Thank you so much!
