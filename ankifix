@@ -59,7 +59,7 @@ def fix_sv(sv, tags):
         forms = re.split(r', *', match.group(2))
         [f1, f2, f3] = (forms + ['', ''])[:3]
         if len(forms) == 1 and (has(tags, 'n') or f1 in [
-            base + 'n', base + 't', base + 'en', base + 'et',
+            base + 'n', base + 't', base + 'en', base + 'et', base + 'na',
             base[:-2] + base[-1] + 'en', base[:-2] + base[-1] + 'et',
             '-n', '-t', '-en', '-et'
         ]):

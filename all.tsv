@@ -139,10 +139,8 @@ u_jaettekul		jättekul	a lot of fun
 u_jaettemaanga		jättemånga	a huge number
 u_kaffe_paa_maten		kaffe på maten	coffee after the meal
 u_kafaegare		kaféägare	café owner
-u_kalsonger		kalsonger (kalsongerna)	briefs / men's underwear
 u_kanske		kanske	maybe
 u_karaoke		karaoke	karaoke
-u_klaeder		kläder (kläderna)	clothes
 u_komma		komma	come
 u_komma_i_kontakt_m		komma i kontakt med	get in touch with
 u_konst		konst	art
@@ -281,7 +279,6 @@ u_tillsammans		tillsammans	together
 u_tja		tja	well
 u_tjaena_pengar		tjäna pengar	earn money
 u_tredje		tredje	third
-u_trosor		trosor (trosorna)	panties / women's underwear
 u_traeningsklaede		träningskläder	sportswear
 u_traakig		tråkig	boring
 u_turkiska		turkiska	Turkish (language)
@@ -302,7 +299,6 @@ u_varfoer_inte		varför inte	why not
 u_varifraan		varifrån	from where
 u_varje		varje	each / every
 u_varje_dag		varje dag	every day
-u_varor		varor (varorna)	goods
 u_vart		vart	where to
 u_vattna_blommor		vattna blommor	water the flowers
 u_vem		vem?	who?
@@ -569,10 +565,12 @@ n_jord	mass n	jord [jorden]	earth / soil
 n_juli	mass n	juli	July
 n_juni	mass n	juni	June
 n_jaest	mass n	jäst [jästen]	yeast
+n_kalsonger	mass n	kalsonger [kalsongerna]	briefs / men's underwear
 n_kastrull	mass n	kastrull [kastrullen]	saucepan
 n_kaviar	mass n	kaviar [kaviaren]	cod roe spread
 n_kemi	mass n	kemi [kemin]	chemistry
 n_ketchup	mass n	ketchup [ketchupen]	ketchup
+n_klaeder	mass n	kläder [kläderna]	clothes
 n_klaettring	mass n	klättring [klättringen]	climbing
 n_kniv	mass n	kniv [kniven]	knife
 n_koffein	mass n	koffein [koffeinet]	caffeine
@@ -624,7 +622,9 @@ n_staaupp	mass n	ståupp [ståuppen]	stand-up comedy
 n_sylt	mass n	sylt [sylten]	jam
 n_saeng	mass n	säng [sängen]	bed
 n_saenglampa	mass n	sänglampa [sänglampan]	bedside lamp
+n_trosor	mass n	trosor [trosorna]	panties / women's underwear
 n_tyska	mass n	tyska [tyskan]	German
+n_varor	mass n	varor [varorna]	goods
 n_varuhus	mass n	varuhus [varuhuset]	department store
 n_vatten	mass n	vatten [vattnet]	water
 n_veganbrownie	mass n	veganbrownie [veganbrownien]	vegan brownie
