@@ -25,7 +25,7 @@ def has(tags, tag):
 def split_pos(text, tags):
     new_tags = set()
     while True:
-        match = re.search(r'\((adj|adv|conj|mass|n|phr|pn|prep|s|v)\)', text)
+        match = re.search(r'\((adj|adv|conj|mass|n|num|phr|pn|prep|s|v)\)', text)
         if match:
             new_tags.add(match.group(1))
             text = text[:match.start()] + ' ' + text[match.end():]
