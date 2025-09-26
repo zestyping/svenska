@@ -48,6 +48,14 @@ def fix_sv(sv, tags):
         return sv, 'q'
     if sv.split()[:2] in [['Object', 'pronouns:'], ['Possessive', 'pronouns:'], ['Verb', 'groups:'], ['Give', 'two'], ['In', 'what'], ['Default', 'ending']]:
         return sv, 'q'
+    if sv.split().count('...') == 1:
+        sv = sv.replace('...', 'X')
+    if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
+        return sv, 'phr'
+    if re.match(r'^(förra|hela|i|inte) [a-zäåö]', sv):
+        return sv, 'phr'
+    if 'X' in sv.split():
+        return sv, 'phr'
     if re.search(r'^[A-ZÄÅÖ][a-zäåö]+$', sv):
         return sv, 'n'
     sv, tags = split_pos(sv, tags)
@@ -126,6 +134,8 @@ def fix_en(en, tags):
     en, tags = split_pos(en, tags)
     if en.startswith('*'):
         return en[1:], tags
+    if en.split().count('...') == 1:
+        en = en.replace('...', 'X')
     if has(tags, 'v'):
         return 'to ' + re.sub('^(to )*', '', en), tags
     if has(tags, 'n') and not has(tags, 'mass'):

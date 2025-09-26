@@ -33,7 +33,6 @@ u_borde		borde	should
 u_bredvid		bredvid	next to
 u_byta_buss		byta buss	change buses
 u_baesta		bästa	best
-u_baade_x_och_y		både X och Y	both X and Y
 u_cirka		cirka	approximately
 u_dansa_tango		dansa tango	tango
 u_dansmusik		dansmusik	dance music
@@ -67,11 +66,7 @@ u_frisk_luft		frisk luft	fresh air
 u_fraan		från	from
 u_full		full	full
 u_faa_barn		få barn	have children
-u_foer_x_aar_seda		för ... år sedan	... years ago
 u_foer_stora		för stora	too large
-u_foerra_maanaden		förra månaden	last month
-u_foerra_veckan		förra veckan	last week
-u_foerra_aaret		förra året	last year
 u_foersta_gaangen		första gången	first time
 u_gamla_stan		gamla stan	Old Town
 u_ganska		ganska	quite / rather
@@ -81,15 +76,8 @@ u_genre		genre	genre
 u_grekiska		grekiska	Greek (language)
 u_gaerna		gärna	gladly / willingly
 u_gaa_av		gå av	get off
-u_gaa_i_skolan		gå i skolan	go to school
-u_gaa_i_tvaaan		gå i tvåan	in second grade
-u_gaa_och_laegga_s		gå och lägga sig	go to bed
-u_gaa_paa_museum		gå på museum	go to a museum
 u_gaa_upp		gå upp	go up
-u_gaa_ut_med_hund		gå ut med hunden	walk the dog
 u_halva_priset		halva priset	half price
-u_hela_dagen		hela dagen	all day
-u_hela_helgen		hela helgen	all weekend
 u_hem		hem	home (to)
 u_hemifraan		hemifrån	from home
 u_hemma		hemma	at home
@@ -100,22 +88,6 @@ u_husdjur		husdjur	pet
 u_haer		här	here
 u_haer_borta		här borta	over here
 u_i		i	in / at
-u_i_dagens_vaerde		i dagens värde	in today's value
-u_i_gaar		i går	yesterday
-u_i_helgen		i helgen	this weekend
-u_i_hoestas		i höstas	last autumn
-u_i_kvaell		i kväll	tonight
-u_i_loerdags		i lördags	last Saturday
-u_i_morgon		i morgon	tomorrow
-u_i_maandags		i måndags	last Monday
-u_i_present		i present	as a gift
-u_i_sommar		i sommar	this summer
-u_i_somras		i somras	last summer
-u_i_stora_delar_as		i stora delar av Sverige	in large parts of Sweden
-u_i_staellet		i stället	instead
-u_i_saa_fall		i så fall	in that case
-u_i_tisdags		i tisdags	last Tuesday
-u_i_oevermorgon		i övermorgon	the day after tomorrow
 u_ibland		ibland	sometimes
 u_igen		igen	again
 u_igaar_morse		igår morse	yesterday morning
@@ -125,9 +97,6 @@ u_inget_speciellt		inget speciellt	nothing special
 u_inne		inne	inside
 u_inom_parentes		inom parentes	in parentheses
 u_inte		inte	not
-u_inte_direkt		inte direkt	not really
-u_inte_precis		inte precis	not exactly
-u_inte_aen		inte än	not yet
 u_intervjua		intervjua	interview
 u_jag		jag	I
 u_japanska		japanska	Japanese (language)
@@ -167,7 +136,6 @@ u_laana		låna	borrow
 u_man_trodde		man trodde	people believed
 u_markera		markera	mark
 u_med		med	with
-u_mellan_x_och_y		mellan X och Y	between X and Y
 u_men		men	but
 u_mer		mer	more
 u_middag		middag	dinner
@@ -269,7 +237,6 @@ u_soeder		söder	south
 u_ta_bussen		ta bussen	take the bus
 u_ta_det_lugnt		ta det lugnt	take it easy
 u_ta_en_aw		ta en AW	go for after-work drinks
-u_ta_ett_glas_x		ta ett glas ...	have a glass of ...
 u_tack		tack	thank you
 u_tala		tala	speak
 u_thaimat		thaimat	Thai food
@@ -288,7 +255,6 @@ u_uppgift		uppgift	task
 u_ut		ut	out
 u_utan		utan	without
 u_uttala		uttala	pronounce
-u_vad_x_foer		vad ... för	what kind of
 u_vad_bra		vad bra	that's great
 u_vakna_av		vakna av	wake up from
 u_vanilj		vanilj	vanilla
@@ -1321,6 +1287,57 @@ num_trettonde	num	trettonde	thirteenth
 num_tvaa_tvaaan	num	två [tvåan]	two
 num_aatta_aattan	num	åtta [åttan]	eight
 num_aattonde	num	åttonde	eighth
+phr_den_boerjar_klo_x	phr	Den börjar klockan X	It starts at X
+phr_det_tar_en_timm_ax	phr	Det tar en timme att X	It takes an hour to X
+phr_har_ni_x	phr	Har ni X ?	Do you have ...?
+phr_hur_stavar_skri_mx	phr	Hur stavar/skriver man X ?	How do you spell/write X ?
+phr_hur_saeger_man_xps	phr	Hur säger man X på svenska?	How do you say X in Swedish?
+phr_hur_uttalar_man_x	phr	Hur uttalar man X ?	How do you pronounce X ?
+phr_jag_firar_x	phr	Jag firar X	I celebrate X
+phr_jag_heter_x	phr	Jag heter X	My name is X
+phr_jag_aelskar_x	phr	Jag älskar X	I love X
+phr_kan_vi_inte_x_is	phr	Kan vi inte X i stället?	Could we do X instead?
+phr_titta_paa_sidan_xito	phr	Titta på sidan X i textboken/övningsboken.	Look at page X in the textbook/exercise book.
+phr_tyvaerr_jag_kan_ijmx	phr	Tyvärr, jag kan inte. Jag måste X	Sorry, I can't. I have to...
+phr_vad_heter_x_paa_s	phr	Vad heter X på svenska?	What is X called in Swedish?
+phr_vilken_x_ska_vi_s	phr	Vilken X ska vi se?	Which X should we watch?
+phr_baade_x_och_y	phr	både X och Y	both X and Y
+phr_foer_x_aar_seda	phr	för X år sedan	X years ago
+phr_foerra_maanaden	phr	förra månaden	last month
+phr_foerra_veckan	phr	förra veckan	last week
+phr_foerra_aaret	phr	förra året	last year
+phr_gaa_i_skolan	phr	gå i skolan	go to school
+phr_gaa_i_tvaaan	phr	gå i tvåan	in second grade
+phr_gaa_och_laegga_s	phr	gå och lägga sig	go to bed
+phr_gaa_paa_gym	phr	gå på gym (går, gick, gått)	go to the gym
+phr_gaa_paa_museum	phr	gå på museum	go to a museum
+phr_gaa_ut_med_hund	phr	gå ut med hunden	walk the dog
+phr_hela_dagen	phr	hela dagen	all day
+phr_hela_helgen	phr	hela helgen	all weekend
+phr_i_dagens_vaerde	phr	i dagens värde	in today's value
+phr_i_gaar	phr	i går	yesterday
+phr_i_helgen	phr	i helgen	this weekend
+phr_i_hoestas	phr	i höstas	last autumn
+phr_i_kvaell	phr	i kväll	tonight
+phr_i_loerdags	phr	i lördags	last Saturday
+phr_i_morgon	phr	i morgon	tomorrow
+phr_i_maandags	phr	i måndags	last Monday
+phr_i_present	phr	i present	as a gift
+phr_i_sommar	phr	i sommar	this summer
+phr_i_somras	phr	i somras	last summer
+phr_i_stora_delar_as	phr	i stora delar av Sverige	in large parts of Sweden
+phr_i_staellet	phr	i stället	instead
+phr_i_saa_fall	phr	i så fall	in that case
+phr_i_tisdags	phr	i tisdags	last Tuesday
+phr_i_oevermorgon	phr	i övermorgon	the day after tomorrow
+phr_inte_direkt	phr	inte direkt	not really
+phr_inte_precis	phr	inte precis	not exactly
+phr_inte_aen	phr	inte än	not yet
+phr_mellan_x_och_y	phr	mellan X och Y	between X and Y
+phr_promenera_i_x	phr	promenera i X (promenerar, promenerade, promenerat)	take a walk in X
+phr_ta_ett_glas_x	phr	ta ett glas X	have a glass of X
+phr_vad_x_foer	phr	vad X för	what kind of
+phr_aa_vad_synd_jag_sx	phr	Å, vad synd! Jag ska X	Oh, what a shame! I'm going to...
 pn_baada	pn	båda	both
 pn_dem	pn	dem	them
 pn_dig	pn	dig	you (obj)
@@ -1480,7 +1497,6 @@ s_de_aer_saerbor_mto	s	De är särbor men träffas ofta.	They are a couple who l
 s_de_aakte_paa_kr_ik	s	De åkte på kryssning i Karibien.	They went on a cruise in the Caribbean.
 s_de_aakte_paa_se_ts	s	De åkte på semester till Storbritannien.	They went on holiday to the UK.
 s_de_oeverlevde_elk	s	De överlevde ett långt krig.	They survived a long war.
-s_den_boerjar_klo_x	s	Den börjar klockan ...	It starts at ...
 s_den_daer_killen_hj	s	Den där killen heter Johan.	That guy is called Johan.
 s_den_daer_stolen_afd	s	Den där stolen är för dyr.	That chair is too expensive.
 s_den_filmen_var_rt	s	Den filmen var riktigt tråkig.	That movie was really boring.
@@ -1546,7 +1562,6 @@ s_det_snoeade_i_sdas	s	Det snöade i stora delar av Sverige.	It snowed in large 
 s_det_snoear	s	Det snöar.	It is snowing.
 s_det_spelar_inge_rvht	s	Det spelar ingen roll vad han tycker.	It doesn't matter what he thinks.
 s_det_svenska_tec_vs	s	Det svenska techbolaget växer snabbt.	The Swedish tech company is growing fast.
-s_det_tar_en_timm_ax	s	Det tar en timme att ...	It takes an hour to ...
 s_det_tar_en_timm_alm	s	Det tar en timme att laga middagen.	It takes an hour to cook dinner.
 s_det_tar_en_timm	s	Det tar en timme.	It takes an hour.
 s_det_tar_ungefae_et	s	Det tar ungefär en timme.	It takes about an hour.
@@ -1839,7 +1854,6 @@ s_har_du_naagot_h	s	Har du något husdjur?	Do you have a pet?
 s_har_du_naagra_f	s	Har du några frågor?	Do you have any questions?
 s_har_du_naagra_s	s	Har du några semesterplaner?	Do you have any holiday plans?
 s_har_du_aetit_in_a	s	Har du ätit? Inte än.	Have you eaten? Not yet.
-s_har_ni_x	s	Har ni ... ?	Do you have ...?
 s_har_ni_fraagor	s	Har ni frågor?	Do you have questions?
 s_har_ni_glutenfr_b	s	Har ni glutenfritt bröd?	Do you have gluten-free bread?
 s_har_ni_naagra_f	s	Har ni några frågor?	Do you have any questions?
@@ -1979,11 +1993,8 @@ s_hur_mycket_kost_d	s	Hur mycket kostar den?	How much does it cost?
 s_hur_mycket_kost_i	s	Hur mycket kostar inträdet?	How much does the admission cost?
 s_hur_maar_du	s	Hur mår du?	How are you?
 s_hur_ska_vi_goer_mx	s	Hur ska vi göra med ...?	What should we do about ...?
-s_hur_stavar_skri_mx	s	Hur stavar/skriver man ... ?	How do you spell/write ... ?
-s_hur_saeger_man_xps	s	Hur säger man ... på svenska?	How do you say ... in Swedish?
 s_hur_saa	s	Hur så?	How so?
 s_hur_uttalar_man_g	s	Hur uttalar man "Göteborg"?	How do you pronounce "Göteborg"?
-s_hur_uttalar_man_x	s	Hur uttalar man ... ?	How do you pronounce ... ?
 s_hur_aer_det_med_d	s	Hur är det med dig?	How are you?
 s_hur_aer_laeget	s	Hur är läget?	How are things?
 s_hus_aer_ett_sub	s	Hus" är ett substantiv."	"House" is a noun.
@@ -2070,7 +2081,6 @@ s_jag_fick_en_ork_ip	s	Jag fick en orkidé i present.	I got an orchid as a gift.
 s_jag_fick_en_pre_amv	s	Jag fick en present av min vän.	I got a present from my friend.
 s_jag_fick_inget_s	s	Jag fick inget svar.	I got no answer.
 s_jag_fick_kontak_mgv	s	Jag fick kontakt med gamla vänner.	I made contact with old friends.
-s_jag_firar_x	s	Jag firar X	I celebrate X
 s_jag_fyller_tjug_na	s	Jag fyller tjugo nästa år.	I turn twenty next year.
 s_jag_foeredrar_asppt	s	Jag föredrar att se pjäser på teater.	I prefer watching plays at the theater.
 s_jag_foeredrar_emtk	s	Jag föredrar en mazarin till kaffet.	I prefer an almond pastry with my coffee.
@@ -2147,7 +2157,6 @@ s_jag_har_tio_kus_pmps	s	Jag har tio kusiner på min pappas sida.	I have ten cou
 s_jag_har_tvaa_la_fmnm	s	Jag har två låtsassyskon från mammas nya man.	I have two step-siblings from my mom's new husband.
 s_jag_har_tvaa_sy	s	Jag har två systrar.	I have two sisters.
 s_jag_har_varit_ipng	s	Jag har varit i Paris några gånger.	I've been to Paris a few times.
-s_jag_heter_x	s	Jag heter ...	My name is ...
 s_jag_hittade_bar_es	s	Jag hittade bara en strumpa.	I found only one sock.
 s_jag_hittade_en_ndph	s	Jag hittade en ny duschkräm på hygienavdelningen.	I found a new body wash in the hygiene section.
 s_jag_hittar_insp_in	s	Jag hittar inspiration i naturen.	I find inspiration in nature.
@@ -2341,7 +2350,6 @@ s_jag_vaentade_pa_sitt	s	Jag väntade på stationen i två timmar.	I waited at t
 s_jag_vaexte_upp_ies	s	Jag växte upp i en småstad.	I grew up in a small town.
 s_jag_vaagar_knap_sese	s	Jag vågar knappt se en skräckfilm ensam.	I hardly dare watch a horror movie alone.
 s_jag_yogar_foer_asa	s	Jag yogar för att slappna av.	I practice yoga to relax.
-s_jag_aelskar_x	s	Jag älskar X	I love X
 s_jag_aelskar_att_bps	s	Jag älskar att bada på sommaren.	I love to swim in the summer.
 s_jag_aelskar_att_bbph	s	Jag älskar att baka bullar på helgen.	I love to bake buns on the weekend.
 s_jag_aelskar_att_dpf	s	Jag älskar att dansa på fredagkvällar.	I love dancing on Friday evenings.
@@ -2424,7 +2432,6 @@ s_kan_jag_faa_ett_gv	s	Kan jag få ett glas vatten?	Can I have a glass of water?
 s_kan_jag_faa_se_m	s	Kan jag få se menyn?	Can I see the menu?
 s_kan_jag_hjaelpa_t	s	Kan jag hjälpa till?	Can I help you?
 s_kan_jag_laana_dp	s	Kan jag låna din penna?	Can I borrow your pen?
-s_kan_vi_inte_x_is	s	Kan vi inte ... i stället?	Could we do ... instead?
 s_kanada_aer_kaen_fsvl	s	Kanada är känt för sina vackra landskap.	Canada is known for its beautiful landscapes.
 s_kappan_aer_gjor_ay	s	Kappan är gjord av ylle.	The coat is made of wool.
 s_kassan_ligger_rf	s	Kassan ligger rakt fram.	The checkout is straight ahead.
@@ -2781,7 +2788,6 @@ s_temperaturen_st_ttg	s	Temperaturen steg till tjugo grader.	The temperature ros
 s_texten_fortsaet_pns	s	Texten fortsätter på nästa sida.	The text continues on the next page.
 s_tidpunkten_foer_maa	s	Tidpunkten för mötet är ändrad.	The time of the meeting has changed.
 s_tidtabellen_vis_na	s	Tidtabellen visar nästa avgångstid.	The timetable shows the next departure time.
-s_titta_paa_sidan_xito	s	Titta på sidan X i textboken/övningsboken.	Look at page X in the textbook/exercise book.
 s_tja_det_aer_sva_as	s	Tja, det är svårt att säga.	Well, it's hard to say.
 s_tjuren_betade_pa	s	Tjuren betade på ängen.	The bull grazed in the meadow.
 s_tortillas_finns_vvm	s	Tortillas finns vid världens mat.	Tortillas are by the international foods.
@@ -2794,7 +2800,6 @@ s_tunnelbanestati_lut	s	Tunnelbanestationen ligger under torget.	The subway stat
 s_turkiet_har_maa_fs	s	Turkiet har många fina stränder.	Turkey has many beautiful beaches.
 s_tveka_inte_att_sf	s	Tveka inte att ställa frågor.	Don't hesitate to ask questions.
 s_tyskland_aer_ka_fo	s	Tyskland är känt för öl.	Germany is known for beer.
-s_tyvaerr_jag_kan_ijmx	s	Tyvärr, jag kan inte. Jag måste ...	Sorry, I can't. I have to...
 s_taenk_dig_att_dvl	s	Tänk dig att du vinner lotteriet!	Imagine that you win the lottery!
 s_taaget_avgaar_fst	s	Tåget avgår från spår tre.	The train departs from track three.
 s_taaget_gaar_den_td	s	Tåget går den tolfte december.	The train departs on the twelfth of December.
@@ -2802,19 +2807,18 @@ s_taaget_koerde_get	s	Tåget körde genom en tunnel.	The train went through a tu
 s_taaget_till_goe_af	s	Tåget till Göteborg är fullt.	The train to Gothenburg is full.
 s_uppgiften_var_e	s	Uppgiften var enkel.	The task was easy.
 s_uppsala_ligger_nos	s	Uppsala ligger norr om Stockholm.	Uppsala lies north of Stockholm.
-s_ursaekta_var_fi_x	s	Ursäkta, var finns ...?	Excuse me, where is ... ?
+s_ursaekta_var_fi_x	s	Ursäkta, var finns ...?	Excuse me, where is X ?
 s_ursaekta_var_fi_t	s	Ursäkta, var finns tacobröd?	Excuse me, where are the tortillas?
 s_vad_betyder_x	s	Vad betyder X?	What does X mean?
 s_vad_betyder_det	s	Vad betyder det?	What does that mean?
 s_vad_bra_att_du_k	s	Vad bra att du kom!	That's great that you came!
 s_vad_brukar_du_sndh	s	Vad brukar du säga när du hälsar?	What do you usually say when you greet?
-s_vad_gillar_du_fx	s	Vad gillar du för ...?	What kind of ... do you like?
+s_vad_gillar_du_fx	s	Vad gillar du för ...?	What kind of X do you like?
 s_vad_gillar_du_ff	s	Vad gillar du för filmer?	What kind of movies do you like?
 s_vad_goer_du_paa_fndal	s	Vad gör du på fritiden när du är ledig?	What do you do in your free time when you're off?
 s_vad_goer_du_paa_f	s	Vad gör du på fritiden?	What do you do in your free time?
 s_vad_har_du_foer_y	s	Vad har du för yrke?	What is your profession?
 s_vad_har_du_paa_did	s	Vad har du på dig i dag?	What are you wearing today?
-s_vad_heter_x_paa_s	s	Vad heter ... på svenska?	What is ... called in Swedish?
 s_vad_heter_du	s	Vad heter du?	What is your name?
 s_vad_kan_jag_hja_em	s	Vad kan jag hjälpa er med?	What can I help you with?
 s_vad_kul	s	Vad kul!	Great! / How fun!
@@ -3059,7 +3063,6 @@ s_vi_aat_middag_pes	s	Vi åt middag på en sushirestaurang.	We had dinner at a s
 s_vi_aat_middag_verb	s	Vi åt middag vid ett runt bord.	We had dinner at a round table.
 s_vi_oevernattade_pf	s	Vi övernattade på fjällstationen.	We stayed overnight at the mountain station.
 s_vigseln_hoells_is	s	Vigseln hölls i stadshuset.	The wedding was held at city hall.
-s_vilken_x_ska_vi_s	s	Vilken ... ska vi se?	Which ... should we watch?
 s_vilken_bild_foe_d	s	Vilken bild föredrar du?	Which picture do you prefer?
 s_vilken_biograf_bdgt	s	Vilken biograf brukar du gå till?	Which cinema do you usually go to?
 s_vilken_bokstav_bdnp	s	Vilken bokstav börjar ditt namn på?	Which letter does your name start with?
@@ -3112,7 +3115,6 @@ s_aer_det_sant	s	Är det sant?	Is that true? / Really?
 s_aa_gud	s	Å gud!	Oh God!
 s_aa_nej	s	Å nej!	Oh no!
 s_aa_nej_jag_gloe_nh	s	Å nej! Jag glömde nycklarna hemma.	Oh no! I forgot my keys at home.
-s_aa_vad_synd_jag_sx	s	Å, vad synd! Jag ska ...	Oh, what a shame! I'm going to...
 s_oen_var_taeckt_as	s	Ön var täckt av skog.	The island was covered with forest.
 s_oeppet_koep_gae_i3d	s	Öppet köp gäller i 30 dagar.	Refund policy applies for 30 days.
 s_oevningen_blev_ipgar	s	Övningen blev inställd på grund av regn.	The exercise was canceled due to rain.
@@ -3168,7 +3170,6 @@ v_gilla	v	att gilla (gillar, gillade, har gillat)	to like
 v_gissa	v	att gissa (gissar, gissade, har gissat)	to guess
 v_gloemma	v	att glömma (glömmer, glömde, har glömt)	to forget
 v_gaa	v	att gå (går, gick, har gått)	to walk / go
-v_gaa_paa_gym	v	att gå på gym (går, gick, har gått)	to go to the gym
 v_gaa_upp	v	att gå upp (går, gick, har gått)	to get up
 v_goera	v	att göra (gör, gjorde, har gjort)	to do / make
 v_goera_trick	v	att göra trick	to do tricks
@@ -3239,7 +3240,6 @@ v_planera	v	att planera (planerar, planerade, har planerat)	to plan
 v_plugga	v	att plugga (pluggar, pluggade, har pluggat)	to study
 v_presentera_sig	v	att presentera sig (presenterar, presenterade, har presenterat)	to introduce oneself
 v_promenera	v	att promenera (promenerar, promenerade, har promenerat)	to walk
-v_promenera_i_x	v	att promenera i ... (promenerar, promenerade, har promenerat)	to take a walk in ...
 v_prova	v	att prova (provar, provade, har provat)	to try
 v_provsmaka	v	att provsmaka (provsmakar, provsmakade, har provsmakat)	to taste / sample
 v_proeva	v	att pröva (prövar, prövade, har prövat)	to test
