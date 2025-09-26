@@ -1,0 +1,263 @@
+#!/usr/bin/env python
+
+import csv
+import re
+import sys
+
+def fix_note(sv, en, tags):
+    if sv.startswith('"') and sv.endswith('"'):
+        sv = sv.strip('"')
+    match = re.search(r'^(.*),&quot;(.*?)(&quot;)?\s*$', sv)
+    if match and not en.strip():
+        sv = match.group(1)
+        en = match.group(2)
+    sv, tags = fix_sv(sv, tags)
+    en, tags = fix_en(en, tags)
+    tags = norm_tags(tags)
+    return sv, en, tags
+
+def norm_tags(tags):
+    return ' '.join(sorted(tags.split()))
+
+def has(tags, tag):
+    return tag in tags.split()
+
+def split_pos(text, tags):
+    new_tags = set()
+    while True:
+        match = re.search(r'\((adj|adv|conj|mass|n|phr|pn|prep|s|v)\)', text)
+        if match:
+            new_tags.add(match.group(1))
+            text = text[:match.start()] + ' ' + text[match.end():]
+            text = ' '.join(text.split()).strip()
+        else:
+            break
+    if new_tags:
+        return text, ' '.join(sorted(new_tags))
+    return text, tags
+
+def fix_sv(sv, tags):
+    sv = sv.strip()
+    if sv.startswith('<br>'):
+        sv = sv[4:]
+    if '<br>' in sv:
+        first, rest = sv.split('<br>', 1)
+        sv, tags = fix_sv(first, tags)
+        return sv + '<br>' + rest, tags
+    if sv.split()[0] in ['How', 'What', 'Whats', 'Which', 'When', 'Where', 'Translate', 'Plural', 'Preteritum:', 'Pronouns:', 'Då-adverb']:
+        return sv, 'q'
+    if sv.split()[:2] in [['Object', 'pronouns:'], ['Possessive', 'pronouns:'], ['Verb', 'groups:'], ['Give', 'two'], ['In', 'what'], ['Default', 'ending']]:
+        return sv, 'q'
+    if re.search(r'^[A-ZÄÅÖ][a-zäåö]+$', sv):
+        return sv, 'n'
+    sv, tags = split_pos(sv, tags)
+    if sv.startswith('*'):
+        return sv[1:], tags
+    match = re.search(r'^([^(]+) \(([^,)]+(, [^,)]+)*)\)\s*$', sv)
+    if match:
+        base = match.group(1)
+        forms = re.split(r', *', match.group(2))
+        [f1, f2, f3] = (forms + ['', ''])[:3]
+        if len(forms) == 1 and (has(tags, 'n') or f1 in [
+            base + 'n', base + 't', base + 'en', base + 'et',
+            base[:-2] + base[-1] + 'en', base[:-2] + base[-1] + 'et',
+            '-n', '-t', '-en', '-et'
+        ]):
+            # noun with definite form only
+            if f1.startswith('-'):
+                f1 = base + f1[1:]
+            article = 'ett' if f1.endswith('t') else 'en'
+            return f'{base} [{f1}]', 'mass n'
+
+        if len(forms) == 3 and (has(tags, 'n') or (
+            f1.endswith('et') or f1.endswith('en') or f3.endswith('rna') or
+            f1 in ['-n', '-t', '-en', '-et']
+        )):
+            # noun with definite, plural, and definite plural forms
+            base = re.sub(r'^(en|ett) ', '', base)
+            article = 'ett' if f1.endswith('t') else 'en'
+            if f1.startswith('-'):
+                f1 = base + f1[1:]
+            if f2 in ['-', '--', '–']:
+                f2 = base
+            elif f2.startswith('-'):
+                f2 = base + f2[1:]
+            if f3.startswith('-'):
+                f3 = base + f3[1:]
+            return f'{article} {base} [{f1}] .: {f2} [{f3}]', 'n'
+
+        if len(forms) == 1 and (has(tags, 'adj') or f1 == '-a'):
+            # adjective with plural form
+            if f1.startswith('-'):
+                f1 = base + f1[1:]
+            return f'{base} .: {f1}', 'adj'
+        if len(forms) == 2 and (has(tags, 'adj') or
+            f1.endswith('t') or f2.endswith('a')
+        ):
+            if f1.startswith('-'):
+                f1 = base + f1[1:]
+            if f2.startswith('-'):
+                f2 = base + f2[1:]
+            # adjective with ett and plural forms
+            return f'{base} / {f1} .: {f2}', 'adj'
+
+        if len(forms) == 3:
+            # verb with present, preteritum, and pluperfect forms
+            base = re.sub(r'^(att )*', '', base)
+            f3 = re.sub(r'^(har )*', '', f3)
+            return f'att {base} ({f1}, {f2}, har {f3})', 'v'
+
+    if re.search(r'.* \[.*\] => .* \[.*\]', sv):
+        return sv.replace('=>', '.:'), 'n'
+    if re.search(r'.* / .* => .*', sv):
+        return sv.replace('=>', '.:'), 'adj'
+    if sv.startswith('att '):
+        return sv, 'v'
+    if sv.startswith('en ') or sv.startswith('ett '):
+        return sv, 'n'
+    if re.search(r'^"?[A-ZÄÅÖ]', sv) and len(sv.split()) > 1:
+        return sv, 's'
+    return sv, tags
+
+def fix_en(en, tags):
+    if '<br>' in en:
+        first, rest = en.split('<br>', 1)
+        return fix_en(first, tags) + '<br>' + rest, tags
+    en, tags = split_pos(en, tags)
+    if en.startswith('*'):
+        return en[1:], tags
+    if has(tags, 'v'):
+        return 'to ' + re.sub('^(to )*', '', en), tags
+    if has(tags, 'n') and not has(tags, 'mass'):
+        last = en[0].split()[-1]
+        proper = last[0] != last[0].lower()
+        weekday = last[0] == last[0].upper() and last.endswith('day')
+        en = re.sub('^(an? )*', '', en)
+        first = en[0]
+        # Weekdays are countable!
+        if (weekday or not proper) and en.split()[0] != 'the':
+            return 'an ' + en if first in 'aeiou' else 'a ' + en, tags
+        else:
+            return en, tags + ' mass'
+    return en, tags
+
+def find_cols(count, directives, sides):
+    cols = [''] * count
+    for directive in directives:
+        match = re.search(r'^#(\w+) column:(\d+)', directive)
+        if match:
+            cols[int(match.group(2)) - 1] = match.group(1)
+    sides = sides[:]
+    for i, col in enumerate(cols):
+        if not col:
+            cols[i] = sides.pop(0)
+        if not sides:
+            break
+    return cols
+
+def clean(value):
+    value = value.strip()
+    value = re.sub(r'^<i>(.*)</i>$', r'\1', value)
+    value = value.replace('–', '-')
+    value = value.replace('“', '"')
+    value = value.replace('”', '"')
+    value = value.replace("’", "'")
+    value = value.replace('‥', '..')
+    value = value.replace('…', '...')
+    if value.startswith('"') and value.endswith('"'):
+        value = value[1:-1]
+    return value.strip()
+
+def generate_guid(sv, tags):
+    prefix = tags or 'u'
+    prefix = (' ' + prefix + ' ').replace(' mass ', ' ')
+    prefix = prefix.strip()
+    text = sv.lower().replace('ä', 'ae').replace('å', 'aa').replace('ö', 'oe')
+    text = text.replace('...', 'x')
+    text = re.sub(r'\(.*\)', '', text)
+    text = re.sub(r'[ /-]+', ' ', text)
+    text = re.sub(r'[^a-z0-9 ]', '', text)
+    if prefix == 'n':
+        text = re.sub(r'^en |^ett ', '', text)
+    if prefix == 'v':
+        text = re.sub(r'^att ', '', text)
+    words = text.split()
+    if len(words) > 1:
+        i = 0
+        while len('_'.join(words[:i])) < 14 and i < len(words): i += 1
+        ident = '_'.join(words[:i])[:15]
+        if ident[-2] != '_': ident += '_'
+        ident += ''.join(word[0] for word in words[i:])
+    else:
+        ident = text[:15]
+    return prefix + '_' + ident.strip('_').strip()
+
+def fix(infile, outfile, sides=['sv', 'en']):
+    lines = infile.readlines()
+    directives = [line for line in lines if line.startswith('#')]
+    notes = [line for line in lines if not line.startswith('#')]
+    if directives and any('column:' in d for d in directives):
+        delim = '\t'
+        cols = find_cols(len(notes[0].split(delim)), directives, sides)
+    else:
+        delim = ','
+        cols = sides
+    records = []
+    for values in csv.reader(notes, delimiter=delim):
+        if not values:
+            continue
+        fields = {col: values[i] for i, col in enumerate(cols)}
+        if 'sv' in fields and 'en' in fields:
+            sv_lines = fields.pop('sv').split('<br>')
+            en_lines = fields.pop('en').split('<br>')
+            if len(sv_lines) == len(en_lines):
+                for sv, en in zip(sv_lines, en_lines):
+                    records.append(dict(fields, sv=clean(sv), en=clean(en)))
+    seen = set()
+    fixed = {}
+    en_tags = {}
+    en_guids = {}
+
+    for record in records:
+        tags = record.get('tags', '')
+        sv, en, tags = fix_note(record['sv'], record['en'], tags)
+        guid = record.get('guid', generate_guid(record['sv'], tags))
+        if len(sv.split()) == 1 and sv.capitalize() == sv and sv == en:
+            # skip proper nouns that are identical in Swedish and English
+            continue
+        fixed[guid] = {'guid': guid, 'sv': sv, 'en': en, 'tags': tags}
+        en_key = re.sub(r'\([^)]*\)', '', en.split('/')[0]).strip()
+        if tags:
+            en_tags.setdefault(en_key, set()).add(tags)
+        en_guids.setdefault(en_key, set()).add(guid)
+
+    for en_key in en_guids:
+        if len(en_guids[en_key]) > 1:
+            # remove untagged English duplicates
+            for guid in en_guids[en_key]:
+                if guid.startswith('u_'):
+                    del fixed[guid]
+
+    for record in fixed.values():
+        en_key = re.sub(r'\([^)]*\)', '', record['en'].split('/')[0]).strip()
+        if len(en_tags.get(en_key, set())) > 1:
+            # add part-of-speeeh tag to disambiguate identical English words
+            record['en'] += f' ({record["tags"]})'
+
+    outfile.write('#html:true\n')
+    outfile.write('#separator:tab\n')
+    outfile.write('#guid column:1\n')
+    outfile.write('#tags column:2\n')
+    for n in sorted(fixed.values(), key=lambda n: (n['tags'], n['sv'])):
+        fields = [n['guid'], n['tags']] + [n[col] for col in sides]
+        outfile.write('\t'.join(fields) + '\n')
+
+if __name__ == '__main__':
+    args = sys.argv[1:]
+    infile = sys.stdin
+    outfile = sys.stdout
+    if len(args) >= 1:
+        infile = open(args[0])
+    if len(args) >= 2:
+        outfile = open(args[0], 'w')
+    fix(infile, outfile)
