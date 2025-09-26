@@ -41,7 +41,7 @@
 "ord","word"
 "Skriv ett ord på tavlan.","Write a word on the board."
 
-"fråga","question"
+#"fråga","question"
 "Jag har en fråga till dig.","I have a question for you."
 
 "ruta","box / square"
@@ -55,7 +55,7 @@
 "varifrån?","from where?"
 "Varifrån kommer du?","Where are you from?"
 
-"fråga (verb)","ask"
+#"fråga (verb)","ask"
 "Jag ska fråga läraren.","I will ask the teacher."
 
 "svara","answer"
@@ -77,69 +77,70 @@
 "rivstart","flying start"
 "Projektet fick en riktig rivstart.","The project got a real flying start."
 
-"kapitel","chapter"
+"kapitel (kapitlet, kapitel, kapitlen)","chapter"
 "Det här kapitlet handlar om historia.","This chapter is about history."
 
 "sida","page"
 "Texten fortsätter på nästa sida.","The text continues on the next page."
+"sätta (sätter, satte, satt)",put
 
 "Du kan svenska!","You speak Swedish!"
 
-"kunna","be able to / know"
+"kunna (kan, kunde, kunnat)","be able to"
 "Jag kan prata lite svenska.","I can speak a little Swedish."
 
 "svenska","Swedish (language)"
 "Hon studerar svenska på universitetet.","She studies Swedish at the university."
 
-"kombinera","combine"
+"kombinera (kombinerar, kombinerade, kombinerat)","combine"
 "Försök att kombinera bilderna med orden.","Try to combine the pictures with the words."
 
-"foto","photo"
+"foto (fotot, foton, fotona)","photo"
 "Jag tog ett fint foto på stranden.","I took a nice photo on the beach."
 
 "och","and"
 "Kaffe och kaka passar bra ihop.","Coffee and cake go well together."
 
-"ord","word"
+"ord (ordet, ord, orden)","word"
 "Skriv ett nytt ord i din bok.","Write a new word in your book."
 
-"lampa","lamp"
+"lampa (lampan, lampor, lamporna)","lamp"
 "Lampan står på skrivbordet.","The lamp is on the desk."
 
-"bok","book"
+"bok (boken, böcker, böckerna)","book"
 "Jag läser en spännande bok.","I am reading an exciting book."
 
-"dator","computer"
+"dator (datorn, datorer, datorerna)","computer"
 "Min dator är ganska snabb.","My computer is quite fast."
 
-"buss","bus"
+"buss (n)","bus"
 "Bussen går klockan sju.","The bus leaves at seven."
 
-"te","tea"
+"te (teet, teer, teerna)","tea"
 "Hon dricker te varje kväll.","She drinks tea every evening."
 
-"mobil","mobile phone"
+"mobil (mobilen, mobiler, mobilerna)","mobile phone"
 "Min mobil ligger på bordet.","My phone is on the table."
 
-"penna","pen"
+"penna (pennan, pennor, pennorna)","pen"
 "Kan jag låna din penna?","Can I borrow your pen?"
 
-"kaffe","coffee"
+"kaffe (kaffet, kaffen, kaffena)","coffee"
 "Jag tar en kopp kaffe på morgonen.","I have a cup of coffee in the morning."
 
-"lång","long"
+"lång (långt, långa)","long"
 "Vägen hem är lång.","The road home is long."
 
-"vokal","vowel"
+"vokal (vokalen, vokaler, vokalerna)","vowel"
 "Ordet har tre vokaler.","The word has three vowels."
 
 "eller","or"
 "Vill du ha te eller kaffe?","Do you want tea or coffee?"
-"konsonant","consonant"
+"konsonant (konsonanten, konsonanter, konsonanterna)","consonant"
 "Svenskans alfabet har 20 konsonanter.","The Swedish alphabet has 20 consonants."
-"exempel","example"
+"exempel (exemplet, exempel, exemplen)","example"
 "Hon gav ett bra exempel på meningen.","She gave a good example of the sentence."
-"namn","name"
+"namn (namnet, namn, namnen)","name"
 "Mitt namn är Sofia.","My name is Sofia."
 
 "språk","language"
@@ -155,7 +156,7 @@
 "jag","I"
 "Jag är lärare.","I am a teacher."
 
-"heta","be called"
+"heta (heter, hette, hetat)","be called"
 "Staden heter Malmö.","The city is called Malmö."
 
 "varifrån","from where"
@@ -178,13 +179,13 @@
 "tala","speak"
 "Vi talar svenska hemma.","We speak Swedish at home."
 
-"grekiska","Greek"
+"grekiska","Greek (language)"
 "Hon studerar grekiska på kvällskurs.","She studies Greek in an evening class."
 
-"engelska","English"
+"engelska","English (language)"
 "Barnen lär sig engelska i skolan.","The children learn English at school."
 
-"fråga","ask"
+#"fråga","ask"
 "Får jag fråga dig något?","May I ask you something?"
 
 "varandra","each other"
@@ -216,13 +217,13 @@
 "jaha","I see"
 "Jaha, då förstår jag.","I see, now I understand."
 
-"spanska","Spanish"
+"spanska","Spanish (language)"
 "Spanska talas i många länder.","Spanish is spoken in many countries."
 
 "lite","some / a little"
 "Jag kan bara lite svenska.","I can only speak a little Swedish."
 
-"portugisiska","Portuguese"
+"portugisiska","Portuguese (language)"
 "Han läser portugisiska på universitetet.","He studies Portuguese at university."
 
 "så klart","of course"
@@ -230,16 +231,16 @@
 
 "Du då?","How about you?"
 
-"turkiska","Turkish"
+"turkiska","Turkish (language)"
 "Hon talar turkiska med sina föräldrar.","She speaks Turkish with her parents."
 
-"franska","French"
+"franska","French (language)"
 "De lär sig franska i skolan.","They are learning French at school."
 
 "pyttelite","a tiny bit"
 "Jag talar bara pyttelite finska.","I speak only a tiny bit of Finnish."
 
-"förstå","understand"
+"förstå (förstår, förstod, förstått)","understand"
 "Jag förstår inte frågan.","I don’t understand the question."
 
 "vad bra","that’s great"
@@ -280,7 +281,7 @@
 "vilken","which"
 "Vilken buss går till centrum?","Which bus goes to the centre?"
 
-"ha","have"
+"ha (har, hade, haft)","have"
 "Jag har två systrar.","I have two sisters."
 
 "betoning","emphasis"
@@ -304,7 +305,7 @@
 "läsa","read"
 "Hon gillar att läsa romaner.","She likes to read novels."
 
-"öva","practice"
+"att öva (övar, övade, har övat)","practise"
 "Vi måste öva uttalet.","We have to practise the pronunciation."
 "fokus (fokuset, –, fokusen)","focus"
 "Vi måste behålla fokus på uppgiften.","We must keep focus on the task."
@@ -320,9 +321,11 @@
 "I svensk ordföljd kommer fundamentet först.","In Swedish word order the clause-initial position comes first."
 "påstående (påståendet, påståenden, påståendena)","statement"
 "Han gjorde ett tydligt påstående.","He made a clear statement."
-"före","before"
+"före (prep)","before (prep)"
+"förr (adv)","in the past"
+"innan (conj)","before (conj)"
 "Vi äter före mötet.","We eat before the meeting."
-"efter","after"
+"efter","after (prep)"
 "Efter lektionen går vi hem.","After the class we go home."
 "fråga (frågan, frågor, frågorna)","question"
 "Jag har en viktig fråga.","I have an important question."
@@ -346,17 +349,18 @@
 "Hon dricker kaffe med mjölk.","She drinks coffee with milk."
 "ord (ordet, –, orden)","word"
 "Skriv ett nytt ord i boken.","Write a new word in the book."
-"vid","by"
+"vid","(prep) by"
+"bakom","(prep) behind"
 "Bussen stannar vid torget.","The bus stops by the square."
-"rätt (rätt, rätta)","correct; right"
+"rätt (rätt, rätta)","correct / right"
 "Svaret är helt rätt.","The answer is completely correct."
 "bild (bilden, bilder, bilderna)","picture"
 "Jag tog en fin bild på stranden.","I took a nice picture at the beach."
-"läkare (läkaren, –, läkarna)","doctor; physician"
+"läkare (läkaren, –, läkarna)","doctor"
 "Läkaren undersökte patienten.","The doctor examined the patient."
 "polis (polisen, poliser, poliserna)","police officer"
 "En polis dirigerade trafiken.","A police officer directed the traffic."
-"servitör (servitören, servitörer, servitörerna)","waiter; waitress"
+"servitör (servitören, servitörer, servitörerna)","waiter"
 "Servitören kom med menyn.","The waiter brought the menu."
 "advokat (advokaten, advokater, advokaterna)","lawyer"
 "Hon arbetar som advokat i Stockholm.","She works as a lawyer in Stockholm."
@@ -374,11 +378,11 @@
 "Webbdesignern skapade en snygg hemsida.","The web designer created a nice website."
 "sjuksköterska (sjuksköterskan, sjuksköterskor, sjuksköterskorna)","nurse"
 "Sjuksköterskan gav patienten medicin.","The nurse gave the patient medicine."
-"pensionär (pensionären, pensionärer, pensionärerna)","retiree; pensioner"
-"Min farfar är pensionär sedan två år.","My grandfather has been a pensioner for two years."
+"pensionär (pensionären, pensionärer, pensionärerna)","pensioner"
+"Min farfar är pensionär sedan två år.","My (paternal) grandfather has been a pensioner for two years."
 "programmerare (programmeraren, –, programmerarna)","programmer"
 "Min syster är programmerare på ett spelbolag.","My sister is a programmer at a game company."
-"söka (söker, sökte, sökt)","seek; look for"
+"söka (söker, sökte, sökt)","seek / look for"
 "Hon söker ett nytt jobb.","She’s looking for a new job."
 "kafé (kaféet, kaféer, kaféerna)","café"
 "Vi drack kaffe på ett mysigt kafé.","We drank coffee at a cosy café."
@@ -397,7 +401,7 @@
 "Jag ville gå ut, men det regnade.","I wanted to go out, but it rained."
 "jobba extra","work part-time / work extra"
 "Han jobbar extra som servitör på helgerna.","He works extra as a waiter on weekends."
-"som","as; that; who"
+"som","as / that / who"
 "Huset som jag bor i är gammalt.","The house that I live in is old."
 "negation (negationen, negationer, negationerna)","negation"
 "Ordet ”inte” är en negation.","The word “inte” is a negation."
@@ -405,3 +409,4 @@
 "Skriv en mening med ordet ”katt”.","Write a sentence with the word “cat”."
 "Tjeckien","the Czech Republic"
 "Prag är huvudstaden i Tjeckien.","Prague is the capital of the Czech Republic."
+
