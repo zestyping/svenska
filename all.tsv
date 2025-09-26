@@ -1130,7 +1130,6 @@ n_oegon	n	en ögon [ögonen] .: ögon [ögonen]	an eye
 n_oegonskugga	n	en ögonskugga [ögonskuggan] .: ögonskuggor [ögonskuggorna]	an eye shadow
 n_oevning	n	en övning [övningen] .: övningar [övningarna]	an exercise
 n_nobelpris	n	ett Nobelpris [Nobelpriset] .: Nobelpris [Nobelprisen]	a Nobel Prize
-n_ettan	n	ett [ettan]	an one
 n_adverb	n	ett adverb [adverbet] .: adverb [adverben]	an adverb
 n_alfabet	n	ett alfabet [alfabetet] .: alfabet [alfabeten]	an alphabet
 n_alternativ	n	ett alternativ [alternativet] .: alternativ [alternativen]	an option
@@ -1294,6 +1293,7 @@ n_oertte	n	ett örtte [örttet] .: örtter [örtterna]	a herbal tea
 num_artonde	num	artonde	eighteenth
 num_elfte	num	elfte	eleventh
 num_elva_elvan	num	elva [elvan]	eleven
+num_ett_ettan	num	ett [ettan]	one
 num_fem_femman	num	fem [femman]	five
 num_femtonde	num	femtonde	fifteenth
 num_fjortonde	num	fjortonde	fourteenth

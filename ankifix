@@ -113,7 +113,7 @@ def fix_sv(sv, tags):
         return sv.replace('=>', '.:'), 'adj'
     if sv.startswith('att '):
         return sv, 'v'
-    if sv.startswith('en ') or sv.startswith('ett '):
+    if sv.startswith('en ') or re.match(r'^ett [a-zäåö]', sv):
         return sv, 'n'
     if re.search(r'^"?[A-ZÄÅÖ]', sv) and len(sv.split()) > 1:
         return sv, 's'
