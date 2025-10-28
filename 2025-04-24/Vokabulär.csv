@@ -2,7 +2,7 @@
 "Hon är en duktig elev.","She is a good student."
 "lärare","teacher"
 "Vår lärare heter Maria.","Our teacher is called Maria."
-"Ursäkta.","Excuse me."
+"Ursäkta. (s)","Excuse me."
 "Jag har en fråga.","I have a question."
 "Vad betyder det?","What does that mean?"
 "Hur säger man … på svenska?","How do you say … in Swedish?"
@@ -31,7 +31,7 @@
 "nästa","next"
 "Vi ses nästa vecka.","See you next week."
 
-"lyssna","listen"
+"lyssna (lyssnar, lyssnade, lyssnat)","listen"
 "Jag gillar att lyssna på musik.","I like to listen to music."
 
 "Vi lyssnar på dialog 3.","We listen to dialog 3."
@@ -284,7 +284,7 @@
 "ha (har, hade, haft)","have"
 "Jag har två systrar.","I have two sisters."
 
-"betoning","emphasis"
+"betoning (betoningen)","emphasis"
 "Betoningen ligger på första stavelsen.","The emphasis is on the first syllable."
 
 "ringa in","circle"

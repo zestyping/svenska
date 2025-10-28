@@ -2,36 +2,8 @@
 #separator:tab
 #guid column:1
 #tags column:2
-u_90_saeng		90-säng	single bed
-u_abba_museet		ABBA-museet	The ABBA Museum
-u_detsamma		Detsamma!	You too! / Likewise!
-u_grattis		Grattis!	Congratulations!
-u_kram		Kram!	Hugs!
-u_mums		Mums!	Yummy! / Delicious!
-u_skriv		Skriv!	Write!
-u_tjoho		Tjoho!	Woohoo!/Yay!
-u_trevligt		Trevligt.	Nice to meet you.
-u_typiskt		Typiskt!	That's typical!
-u_usa		USA	USA
-u_ursaekta		Ursäkta.	Excuse me.
-u_absolut		absolut	absolutely
-u_actionfilm		actionfilm	action movie
-u_aldrig		aldrig	never
-u_alla		alla	everyone
-u_allt		allt	everything
-u_alltid		alltid	always
-u_andra		andra	second
-u_avdelning		avdelning	department
-u_bakning		bakning	baking
 u_bara		bara	only
-u_bara_bra		bara bra	I'm fine
-u_bestaemd_form		bestämd form	definite form
-u_betoning		betoning	emphasis
-u_bioteknik		bioteknik	biotechnology
-u_bo_ihop		bo ihop	live together
 u_borde		borde	should
-u_bredvid		bredvid	next to
-u_byta_buss		byta buss	change buses
 u_baesta		bästa	best
 u_cirka		cirka	approximately
 u_dansa_tango		dansa tango	tango
@@ -54,8 +26,6 @@ u_eller		eller	or
 u_engelska		engelska	English (language)
 u_extra_kostnad		extra kostnad	extra cost
 u_fantastisk		fantastisk	fantastic
-u_femte		femte	fifth
-u_fjaerde		fjärde	fourth
 u_fler_saker		fler saker	more things
 u_flera		flera	several
 u_flera_gaanger		flera gånger	several times
@@ -180,14 +150,6 @@ u_presens_futurum		presens futurum	future tense
 u_presens_perfekt		presens perfekt	present perfect
 u_presentation		presentation	presentation
 u_pyttelite		pyttelite	a tiny bit
-u_paa_kartan		på kartan	on the map
-u_paa_landet		på landet	in the countryside
-u_paa_min_pappas_s		på min pappas sida	on my father's side
-u_paa_maandag		på måndag	on Monday
-u_paa_stan		på stan	downtown / in the city
-u_paa_taket		på taket	on the roof
-u_paa_vintern		på vintern	in the winter
-u_paa_vaegen_hem		på vägen hem	on the way home
 u_rakt_fram		rakt fram	straight ahead
 u_rea		rea	sale
 u_redan		redan	already
@@ -245,7 +207,6 @@ u_till_vaenster		till vänster	to the left
 u_tillsammans		tillsammans	together
 u_tja		tja	well
 u_tjaena_pengar		tjäna pengar	earn money
-u_tredje		tredje	third
 u_traeningsklaede		träningskläder	sportswear
 u_traakig		tråkig	boring
 u_turkiska		turkiska	Turkish (language)
@@ -416,6 +377,9 @@ adj_vit	adj	vit / vitt .: vita	white
 adj_vaelkommen	adj	välkommen / välkommet .: välkomna	welcome
 adj_aerlig	adj	ärlig / ärligt .: ärliga	honest
 adj_oeppen	adj	öppen / öppet .: öppna	open
+adv_absolut	adv	absolut	absolutely
+adv_aldrig	adv	aldrig	never
+adv_alltid	adv	alltid	always
 adv_bak	adv	bak	back (adv)
 adv_efteraat	adv	efteråt	afterwards
 adv_fortfarande	adv	fortfarande	still (ongoing)
@@ -466,6 +430,7 @@ n_syrien	mass n	Syrien	Syria
 n_tjeckien	mass n	Tjeckien	the Czech Republic
 n_turkiet	mass n	Turkiet	Turkey
 n_tyskland	mass n	Tyskland	Germany
+n_usa	mass n	USA	USA
 n_vasamuseet	mass n	Vasamuseet	the Vasa Museum
 n_vaenern	mass n	Vänern	Vänern (largest lake in Sweden)
 n_vaettern	mass n	Vättern	Vättern (second-largest lake in Sweden)
@@ -473,7 +438,9 @@ n_april	mass n	april	April
 n_asfalt	mass n	asfalt [asfalten]	asphalt
 n_augusti	mass n	augusti	August
 n_bagage	mass n	bagage [bagaget]	luggage
+n_bakning	mass n	bakning [bakningen]	baking
 n_bearnaisesaas	mass n	bearnaisesås [bearnaisesåsen]	Béarnaise sauce
+n_betoning	mass n	betoning [betoningen]	emphasis
 n_bio	mass n	bio [bion]	cinema
 n_bomull	mass n	bomull [bomullen]	cotton
 n_boule	mass n	boule [boulen]	boules
@@ -598,8 +565,13 @@ n_vaestkust	mass n	västkust [västkusten]	west coast
 n_oeland	mass n	Öland	Öland (island in the Baltic Sea)
 n_oedla	mass n	ödla [ödlan]	lizard
 n_oel	mass n	öl [ölet]	beer
+n_alla	n	alla	an everyone
+n_allt	n	allt	an everything
+n_bioteknik	n	bioteknik	a biotechnology
 n_17_aaring	n	en 17-åring [17-åringen] .: 17-åringar [17-åringarna]	a 17-year-old
+n_90_saeng	n	en 90-säng [sängen] .: sängar [sängarna]	a single bed
 n_bh	n	en BH [BH:n] .: BH:ar [BH:arna]	a bra
+n_actionfilm	n	en actionfilm [actionfilmen] .: actionfilmer [actionfilmerna]	an action movie
 n_advokat	n	en advokat [advokaten] .: advokater [advokaterna]	a lawyer
 n_affaer	n	en affär [affären] .: affärer [affärerna]	a business
 n_aktivitet	n	en aktivitet [aktiviteten] .: aktiviteter [aktiviteterna]	an activity
@@ -614,6 +586,7 @@ n_artikel	n	en artikel [artikeln] .: artiklar [artiklarna]	an article
 n_ask	n	en ask [asken] .: askar [askarna]	a box
 n_att_goera_lista	n	en att-göra-lista [att-göra-listan] .: att-göra-listor [att-göra-listorna]	a to-do list
 n_auktion	n	en auktion [auktionen] .: auktioner [auktionerna]	an auction
+n_avdelning	n	en avdelning [avdelningen] .: avdelningar [avdelningarna]	a department
 n_bag	n	en bag [bagen] .: bagar [bagarna]	a bag
 n_bagare	n	en bagare [bagaren] .: bagare [bagarna]	a baker
 n_bakelse	n	en bakelse [bakelsen] .: bakelser [bakelserna]	a pastry
@@ -1256,13 +1229,16 @@ n_aepple	n	ett äpple [äpplet] .: äpplen [äpplena]	an apple
 n_aar	n	ett år [året] .: år [åren]	a year
 n_oegonblick	n	ett ögonblick	a moment
 n_oertte	n	ett örtte [örttet] .: örtter [örtterna]	a herbal tea
+num_andra	num	andra	second
 num_artonde	num	artonde	eighteenth
 num_elfte	num	elfte	eleventh
 num_elva_elvan	num	elva [elvan]	eleven
 num_ett_ettan	num	ett [ettan]	one
 num_fem_femman	num	fem [femman]	five
+num_femte	num	femte	fifth
 num_femtonde	num	femtonde	fifteenth
 num_fjortonde	num	fjortonde	fourteenth
+num_fjaerde	num	fjärde	fourth
 num_fyra_fyran	num	fyra [fyran]	four
 num_nionde	num	nionde	ninth
 num_nittonde	num	nittonde	nineteenth
@@ -1281,12 +1257,14 @@ num_tjugonde	num	tjugonde	twentieth
 num_tolfte	num	tolfte	twelfth
 num_tolv_tolvan	num	tolv [tolvan]	twelve
 num_tre_trean	num	tre [trean]	three
+num_tredje	num	tredje	third
 num_trettiofoersta	num	trettioförsta	thirty-first
 num_trettionde	num	trettionde	thirtieth
 num_trettonde	num	trettonde	thirteenth
 num_tvaa_tvaaan	num	två [tvåan]	two
 num_aatta_aattan	num	åtta [åttan]	eight
 num_aattonde	num	åttonde	eighth
+phr_abba_museet	phr	ABBA-museet	The ABBA Museum
 phr_den_boerjar_klo_x	phr	Den börjar klockan X	It starts at X
 phr_det_tar_en_timm_ax	phr	Det tar en timme att X	It takes an hour to X
 phr_har_ni_x	phr	Har ni X ?	Do you have ...?
@@ -1301,6 +1279,10 @@ phr_titta_paa_sidan_xito	phr	Titta på sidan X i textboken/övningsboken.	Look a
 phr_tyvaerr_jag_kan_ijmx	phr	Tyvärr, jag kan inte. Jag måste X	Sorry, I can't. I have to...
 phr_vad_heter_x_paa_s	phr	Vad heter X på svenska?	What is X called in Swedish?
 phr_vilken_x_ska_vi_s	phr	Vilken X ska vi se?	Which X should we watch?
+phr_bara_bra	phr	bara bra	I'm fine
+phr_bestaemd_form	phr	bestämd form	definite form
+phr_bo_ihop	phr	bo ihop	live together
+phr_byta_buss	phr	byta buss	change buses
 phr_baade_x_och_y	phr	både X och Y	both X and Y
 phr_foer_x_aar_seda	phr	för X år sedan	X years ago
 phr_foerra_maanaden	phr	förra månaden	last month
@@ -1335,6 +1317,14 @@ phr_inte_precis	phr	inte precis	not exactly
 phr_inte_aen	phr	inte än	not yet
 phr_mellan_x_och_y	phr	mellan X och Y	between X and Y
 phr_promenera_i_x	phr	promenera i X (promenerar, promenerade, promenerat)	take a walk in X
+phr_paa_kartan	phr	på kartan	on the map
+phr_paa_landet	phr	på landet	in the countryside
+phr_paa_min_pappas_s	phr	på min pappas sida	on my father's side
+phr_paa_maandag	phr	på måndag	on Monday
+phr_paa_stan	phr	på stan	downtown / in the city
+phr_paa_taket	phr	på taket	on the roof
+phr_paa_vintern	phr	på vintern	in the winter
+phr_paa_vaegen_hem	phr	på vägen hem	on the way home
 phr_ta_ett_glas_x	phr	ta ett glas X	have a glass of X
 phr_vad_x_foer	phr	vad X för	what kind of
 phr_aa_vad_synd_jag_sx	phr	Å, vad synd! Jag ska X	Oh, what a shame! I'm going to...
@@ -1349,6 +1339,7 @@ pn_honom	pn	honom	him (obj)
 pn_mig	pn	mig	me
 pn_oss	pn	oss	us
 prep_bakom	prep	bakom	behind
+prep_bredvid	prep	bredvid	next to
 prep_efter	prep	efter	after
 prep_framfoer	prep	framför	in front of
 prep_foere	prep	före	before (prep)
@@ -1625,6 +1616,7 @@ s_det_aer_varmt	s	Det är varmt.	It is hot.
 s_det_aer_viktigt_asb	s	Det är viktigt att sova bra.	It is important to sleep well.
 s_det_aer_vaerlde_sb	s	Det är världens snabbaste bil.	It is the world's fastest car.
 s_det_aaskar	s	Det åskar.	There is a thunderstorm.
+s_detsamma	s	Detsamma!	You too! / Likewise!
 s_detta_system_fu_b	s	Detta system fungerar bra.	This system works well.
 s_din_nya_jacka_ars	s	Din nya jacka är riktigt snygg.	Your new jacket is really nice.
 s_diskussionen_fo_ito	s	Diskussionen fortsatte i tråden online.	The discussion continued in the thread online.
@@ -1741,6 +1733,8 @@ s_gloem_inte_att_sl	s	Glöm inte att släcka lampan.	Don't forget to turn off th
 s_gloem_inte_mygg_tc	s	Glöm inte myggmedel till campingen.	Don't forget mosquito repellent for the camping trip.
 s_god_mat_goer_mi_g	s	God mat gör mig glad.	Good food makes me happy.
 s_godiset_finns_pfgtv	s	Godiset finns på femte gången till vänster.	Candy is on the fifth aisle on the left.
+s_grattis	s	Grattis!	Congratulations!
+s_grejt	s	Grejt!	Great!
 s_grekland_ligger_ie	s	Grekland ligger i Europa.	Greece is in Europe.
 s_graeddfil_hitta_dim	s	Gräddfil hittar du i mejeriavdelningen.	You'll find sour cream in the dairy section.
 s_graeset_aer_gro_pv	s	Gräset är grönt på våren.	The grass is green in spring.
@@ -1860,6 +1854,7 @@ s_har_ni_naagra_f	s	Har ni några frågor?	Do you have any questions?
 s_havremjoelk_fin_oim	s	Havremjölk finns också i mejeriavdelningen.	Oat milk is also in the dairy section.
 s_havremjoelken_ats	s	Havremjölken är tyvärr slut.	Unfortunately, the oat milk is finished.
 s_hej_aelskling_hmd	s	Hej älskling, hur mår du?	Hi darling, how are you?
+s_hej	s	Hej!	Hi!
 s_helgen_var_lugn_os	s	Helgen var lugn och skön.	The weekend was calm and nice.
 s_helsingfors_aer_fh	s	Helsingfors är Finlands huvudstad.	Helsinki is the capital of Finland.
 s_hennes_haar_aer_b	s	Hennes hår är brunt.	Her hair is brown.
@@ -2391,6 +2386,7 @@ s_jag_aat_glass_ps	s	Jag åt glass på stranden.	I ate ice cream on the beach.
 s_jag_aat_groet_tf	s	Jag åt gröt till frukost.	I ate porridge for breakfast.
 s_jag_aat_kall_po_mgk	s	Jag åt kall potatissallad med grillat kött.	I ate cold potato salad with grilled meat.
 s_jag_aat_lunch_mpd	s	Jag åt lunch mitt på dagen.	I ate lunch in the middle of the day.
+s_jaha	s	Jaha!	Ah!
 s_jaha_nu_foersta_j	s	Jaha! Nu förstår jag!	Ah! Now I understand!
 s_jaha_daa_foerst_j	s	Jaha, då förstår jag.	I see, now I understand.
 s_jaha_vad_trevli	s	Jaha, vad trevligt!	I see, that's nice!
@@ -2451,6 +2447,7 @@ s_kommer_du_ihaag	s	Kommer du ihåg?	Do you remember?
 s_komparationen_aaal	s	Komparationen av adjektiv är lätt.	The comparison of adjectives is easy.
 s_kontoret_staeng_kf	s	Kontoret stänger klockan fem.	The office closes at five.
 s_kontrollera_om_dhrk	s	Kontrollera om du har rätt kvitto.	Check if you have the correct receipt.
+s_kram	s	Kram!	Hugs!
 s_kronprinsen_del_ic	s	Kronprinsen deltog i ceremonin.	The crown prince took part in the ceremony.
 s_kroppen_behoeve_vet	s	Kroppen behöver vila efter träningen.	The body needs rest after the workout.
 s_krossade_tomate_aims	s	Krossade tomater används i många såser.	Crushed tomatoes are used in many sauces.
@@ -2610,6 +2607,7 @@ s_moderna_museet_hsu	s	Moderna museet har spännande utställningar.	The Museum 
 s_montering_ingaa_uek	s	Montering ingår utan extra kostnad.	Assembly is included at no extra cost.
 s_morfar_beraetta_ehfo	s	Morfar berättade en historia för oss.	Grandfather told us a story.
 s_motsatsen_till_lak	s	Motsatsen till lång är kort.	The opposite of tall is short.
+s_mums	s	Mums!	Yummy! / Delicious!
 s_museet_staenger_kf	s	Museet stänger klockan fem.	The museum closes at five.
 s_musik_aer_hans_si	s	Musik är hans största intresse.	Music is his biggest interest.
 s_maanen_lyste_st_in	s	Månen lyste starkt i natt.	The moon was shining brightly last night.
@@ -2691,6 +2689,7 @@ s_sjukskoeterskan_gpm	s	Sjuksköterskan gav patienten medicin.	The nurse gave th
 s_sjukskoeterskan_tmb	s	Sjuksköterskan tog mitt blodtryck.	The nurse took my blood pressure.
 s_sjaelv_daa	s	Själv då?	How about you?/And you?
 s_sjaelvklart_hja_jd	s	Självklart hjälper jag dig.	Of course I'll help you.
+s_sjaelvklart	s	Självklart!	Of course!
 s_ska_du_goera_na_sik	s	Ska du göra något speciellt i kväll?	Are you doing anything special tonight?
 s_ska_vi_gaa_paa_x	s	Ska vi gå på ...?	Shall we go to ...?
 s_ska_vi_gaa_paa_bik	s	Ska vi gå på bio i kväll?	Shall we go to the cinema tonight?
@@ -2713,6 +2712,7 @@ s_skriv_ett_nytt_oidb	s	Skriv ett nytt ord i din bok.	Write a new word in your b
 s_skriv_ett_ord_pt	s	Skriv ett ord på tavlan.	Write a word on the board.
 s_skriv_ordet_i_bf	s	Skriv ordet i bestämd form.	Write the word in the definite form.
 s_skriv_substanti_iof	s	Skriv substantivet i obestämd form.	Write the noun in the indefinite form.
+s_skriv	s	Skriv!	Write!
 s_skylten_visar_vtm	s	Skylten visar vägen till museet.	The sign shows the way to the museum.
 s_skaane_aer_en_pr	s	Skåne är en populär region.	Skåne is a popular region.
 s_skaanegatan_str_sgs	s	Skånegatan sträcker sig genom Södermalm.	Skånegatan runs through Södermalm.
@@ -2788,7 +2788,10 @@ s_temperaturen_st_ttg	s	Temperaturen steg till tjugo grader.	The temperature ros
 s_texten_fortsaet_pns	s	Texten fortsätter på nästa sida.	The text continues on the next page.
 s_tidpunkten_foer_maa	s	Tidpunkten för mötet är ändrad.	The time of the meeting has changed.
 s_tidtabellen_vis_na	s	Tidtabellen visar nästa avgångstid.	The timetable shows the next departure time.
+s_tja	s	Tja!	Hey! / Hi!
 s_tja_det_aer_sva_as	s	Tja, det är svårt att säga.	Well, it's hard to say.
+s_tjena	s	Tjena!	Hi!
+s_tjoho	s	Tjoho!	Woohoo!/Yay!
 s_tjuren_betade_pa	s	Tjuren betade på ängen.	The bull grazed in the meadow.
 s_tortillas_finns_vvm	s	Tortillas finns vid världens mat.	Tortillas are by the international foods.
 s_trafiken_paa_de_vrvt	s	Trafiken på den vanliga rutten var tät.	Traffic on the usual route was heavy.
@@ -2799,6 +2802,7 @@ s_tunnelbanan_gaa_vfm	s	Tunnelbanan går var femte minut.	The subway runs every 
 s_tunnelbanestati_lut	s	Tunnelbanestationen ligger under torget.	The subway station is located under the square.
 s_turkiet_har_maa_fs	s	Turkiet har många fina stränder.	Turkey has many beautiful beaches.
 s_tveka_inte_att_sf	s	Tveka inte att ställa frågor.	Don't hesitate to ask questions.
+s_typiskt	s	Typiskt!	That's typical!
 s_tyskland_aer_ka_fo	s	Tyskland är känt för öl.	Germany is known for beer.
 s_taenk_dig_att_dvl	s	Tänk dig att du vinner lotteriet!	Imagine that you win the lottery!
 s_taaget_avgaar_fst	s	Tåget avgår från spår tre.	The train departs from track three.
@@ -2809,6 +2813,7 @@ s_uppgiften_var_e	s	Uppgiften var enkel.	The task was easy.
 s_uppsala_ligger_nos	s	Uppsala ligger norr om Stockholm.	Uppsala lies north of Stockholm.
 s_ursaekta_var_fi_x	s	Ursäkta, var finns ...?	Excuse me, where is X ?
 s_ursaekta_var_fi_t	s	Ursäkta, var finns tacobröd?	Excuse me, where are the tortillas?
+s_ursaekta	s	Ursäkta.	Excuse me.
 s_vad_betyder_x	s	Vad betyder X?	What does X mean?
 s_vad_betyder_det	s	Vad betyder det?	What does that mean?
 s_vad_bra_att_du_k	s	Vad bra att du kom!	That's great that you came!
@@ -3213,6 +3218,7 @@ v_ladda_ner	v	att ladda ner (laddar, laddade, har laddat)	to download
 v_laga_mat	v	att laga mat (lagar, lagade, har lagat)	to cook
 v_leka	v	att leka (leker, lekte, har lekt)	to play
 v_ligga	v	att ligga (ligger, låg, har legat)	to be located
+v_lyssna	v	att lyssna (lyssnar, lyssnade, har lyssnat)	to listen
 v_laegga	v	att lägga (lägger, lade, har lagt)	to lay / put down
 v_laemna	v	att lämna (lämnar, lämnade, har lämnat)	to submit / hand in
 v_laemna_tillbaka	v	att lämna tillbaka (lämnar, lämnade, har lämnat)	to return
@@ -3332,3 +3338,4 @@ v_aaka_vattenskid	v	att åka vattenskidor (åker, åkte, har åkt)	to water-ski
 v_oeppna	v	att öppna (öppnar, öppnade, har öppnat)	to open
 v_oeva	v	att öva (övar, övade, har övat)	to practise
 v_oeversaetta	v	att översätta (översätter, översatte, har översatt)	to translate
+v_borde	v	borde	to should
