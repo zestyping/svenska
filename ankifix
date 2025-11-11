@@ -218,6 +218,9 @@ def fix(infile, outfile, sides=['sv', 'en']):
     for values in csv.reader(notes, delimiter=delim):
         if not values:
             continue
+        if len(values) < len(cols):
+            sys.stderr.write('Missing columns: %r\n' % values)
+            continue
         fields = {col: values[i] for i, col in enumerate(cols)}
         if 'sv' in fields and 'en' in fields:
             sv_lines = fields.pop('sv').split('<br>')
@@ -247,7 +250,7 @@ def fix(infile, outfile, sides=['sv', 'en']):
         if len(en_guids[en_key]) > 1:
             # remove untagged English duplicates
             for guid in en_guids[en_key]:
-                if guid.startswith('u_'):
+                if guid.startswith('u_') and guid in fixed:
                     del fixed[guid]
 
     for record in fixed.values():

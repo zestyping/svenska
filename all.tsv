@@ -4,6 +4,7 @@
 #tags column:2
 u_bara		bara	only
 u_borde		borde	should
+u_braaka		bråka	quarrel / struggle
 u_baesta		bästa	best
 u_cirka		cirka	approximately
 u_dansa_tango		dansa tango	tango
@@ -18,14 +19,12 @@ u_doftljus		doftljus	scented candle
 u_dokumentaer		dokumentär	documentary
 u_drama		drama	drama
 u_duva		duva	pigeon
-u_daer		där	there
 u_daa_ska_vi_se		då ska vi se	let's see
 u_egyptisk		egyptisk	Egyptian
 u_elev		elev	student
 u_eller		eller	or
 u_engelska		engelska	English (language)
 u_extra_kostnad		extra kostnad	extra cost
-u_fantastisk		fantastisk	fantastic
 u_fler_saker		fler saker	more things
 u_flera		flera	several
 u_flera_gaanger		flera gånger	several times
@@ -112,7 +111,6 @@ u_middag		middag	dinner
 u_minus_10_grader		minus 10 grader	minus 10 °C
 u_mitt_i_stan		mitt i stan	in the middle of the city
 u_mitt_paa_dagen		mitt på dagen	middle of the day
-u_mittemot		mittemot	opposite
 u_morsdag		morsdag	Mother's Day
 u_mot		mot	against
 u_maanga		många	many
@@ -120,12 +118,9 @@ u_nachos		nachos	nachos
 u_ner		ner	down
 u_nio		nio (nian)	nine
 u_norr		norr	north
-u_norra		norra	northern
 u_nu		nu	now
 u_naer		när	when
-u_naera		nära	near / close to
 u_naermare		närmare	closer
-u_naesta		nästa	next
 u_naesta_vecka		nästa vecka	next week
 u_naestan		nästan	almost
 u_naagon_gaang		någon gång	some time
@@ -161,7 +156,6 @@ u_ruta		ruta	box / square
 u_rysare		rysare	thriller / horror
 u_raett_alternati		rätt alternativ	correct option
 u_roed_dag		röd dag	public holiday
-u_samma		samma	same
 u_sammansatta_ord		sammansatta ord	compound words
 u_science_fiction		science fiction	science fiction
 u_semesterplan		semesterplan	holiday plan
@@ -169,25 +163,20 @@ u_sent_paa_kvaell		sent på kvällen	late in the evening
 u_serie		serie	series
 u_shopping		shopping	shopping
 u_sida		sida	page
-u_singel		singel	single
-u_sista		sista	last
 u_sitta		sitta	sit
 u_ska		ska	will (verb)
 u_skorpa		skorpa	rusk
-u_skoen		skön	pleasant
+u_skulle		skulle	would / was going to
 u_slut		slut	finished / run out
 u_sneakers		sneakers	sneakers
 u_som		som	as / that / who
 u_sommarklaeder		sommarkläder	summer clothes
-u_sorglig		sorglig	sad
 u_sova_gott		sova gott	sleep well
 u_sova_paa_saken		sova på saken	sleep on it
 u_spanska		spanska	Spanish (language)
 u_spara		spara	save
 u_spela_roll		spela roll	matter
 u_spraak		språk	language
-u_spaennande		spännande	exciting
-u_stackars		stackars	poor / unfortunate
 u_startup		startup	startup
 u_staella_en_fraa		ställa en fråga	pose a question
 u_staenga_av		stänga av	shut off
@@ -195,6 +184,7 @@ u_suddgummi		suddgummi	eraser
 u_svenska		svenska	Swedish (language)
 u_saellan		sällan	rarely
 u_saa		så	so
+u_saa_laenge		så länge	meanwhile / in the meantime
 u_soeder		söder	south
 u_ta_bussen		ta bussen	take the bus
 u_ta_det_lugnt		ta det lugnt	take it easy
@@ -208,7 +198,6 @@ u_tillsammans		tillsammans	together
 u_tja		tja	well
 u_tjaena_pengar		tjäna pengar	earn money
 u_traeningsklaede		träningskläder	sportswear
-u_traakig		tråkig	boring
 u_turkiska		turkiska	Turkish (language)
 u_taenk_dig_att		tänk dig att	imagine that
 u_upp		upp	up
@@ -219,7 +208,6 @@ u_uttala		uttala	pronounce
 u_vad_bra		vad bra	that's great
 u_vakna_av		vakna av	wake up from
 u_vanilj		vanilj	vanilla
-u_var		var	where
 u_varandra		varandra	each other
 u_varfoer		varför	why
 u_varfoer_inte		varför inte	why not
@@ -245,42 +233,50 @@ u_oeverallt		överallt	everywhere
 adj_allergisk	adj	allergisk	allergic
 adj_annan	adj	annan / annat .: andra	another
 adj_avlaang	adj	avlång / avlångt .: avlånga	elongated, oblong
+adj_avstaengd	adj	avstängd / avstängt .: avstängda	off (switched off)
 adj_bakre	adj	bakre	back / rear (adj)
 adj_begagnad	adj	begagnad / begagnat .: begagnade	used / second-hand
 adj_betonad	adj	betonad / betonat .: betonade	emphasized
 adj_billig	adj	billig / billigt .: billiga	cheap
 adj_blommig	adj	blommig / blommigt .: blommiga	floral
 adj_blaa	adj	blå / blått .: blåa	blue
-adj_bra	adj	bra / bra .: bra	fine, well
+adj_bra	adj	bra	good
 adj_bred	adj	bred / brett .: breda	wide
 adj_brun	adj	brun / brunt .: bruna	brown
 adj_cool	adj	cool / coolt .: coola	cool
 adj_dyr	adj	dyr / dyrt .: dyra	expensive
-adj_daalig	adj	dålig / dåligt .: dåliga	bad / ill
+adj_daalig	adj	dålig / dåligt .: dåliga	bad
 adj_egen	adj	egen / eget .: egna	own
 adj_ekologisk	adj	ekologisk / ekologiskt .: ekologiska	organic
 adj_ekonomisk	adj	ekonomisk / ekonomiskt .: ekonomiska	economic
 adj_enkel	adj	enkel / enkelt .: enkla	simple
 adj_ensam	adj	ensam / ensamt .: ensamma	alone
+adj_falsk	adj	falsk / falskt .: falska	fake
+adj_fantastisk	adj	fantastisk / fantastiskt .: fantastiska	fantastic
 adj_farlig	adj	farlig / farligt .: farliga	dangerous
+adj_fel	adj	fel	wrong (incorrect)
 adj_fin	adj	fin / fint .: fina	nice / pretty
+adj_frisk	adj	frisk / friskt .: friska	healthy / fresh
 adj_fryst	adj	fryst / fryst .: frysta	frozen
 adj_fraemre	adj	främre	front (adj)
 adj_ful	adj	ful / fult .: fula	ugly
 adj_fysisk	adj	fysisk / fysiskt .: fysiska	physical
 adj_faersk	adj	färsk / färskt .: färska	fresh
 adj_foerkyld	adj	förkyld / förkylt .: förkylda	sick with a cold
+adj_foerra	adj	förra	previous
 adj_foersenad	adj	försenad / försenat .: försenade	delayed
 adj_foersta	adj	första	first (adj)
 adj_galen	adj	galen / galet .: galna	crazy
+adj_gammal	adj	gammal / gammalt .: gamla	old
 adj_generell	adj	generell / generellt .: generella	general
 adj_gift	adj	gift / gift .: gifta	married
 adj_glad	adj	glad / glatt .: glada	happy
 adj_glutenfri	adj	glutenfri / glutenfritt .: glutenfria	gluten-free
-adj_god	adj	god / gott .: goda	good
-adj_graa	adj	grå / grått .: gråa	grey
+adj_god	adj	god / gott .: goda	tasty
+adj_graa	adj	grå / grått .: gråa	gray
 adj_groen	adj	grön / grönt .: gröna	green
 adj_gul	adj	gul / gult .: gula	yellow
+adj_halv	adj	halv / halvt .: halva	half
 adj_halvstaengd	adj	halvstängd / halvstängt .: halvstängda	half-closed
 adj_hemsk	adj	hemsk / hemskt .: hemska	horrible
 adj_historisk	adj	historisk / historiskt .: historiska	historical
@@ -288,7 +284,9 @@ adj_haerlig	adj	härlig / härligt .: härliga	lovely
 adj_haard	adj	hård / hårt .: hårda	hard
 adj_indisk	adj	indisk / indiskt .: indiska	Indian
 adj_informell	adj	informell / informellt .: informella	informal
+adj_inre	adj	inre (inre, inre)	inner
 adj_instaelld	adj	inställd / inställt .: inställda	canceled
+adj_intressant	adj	intressant / intressant .: intressanta	interesting
 adj_intresserad_av	adj	intresserad av / intresserat .: intresserade	interested in
 adj_jaetteduktig	adj	jätteduktig / jätteduktigt .: jätteduktiga	very good / very skilled
 adj_jaettekonstig	adj	jättekonstig / jättekonstigt .: jättekonstiga	really strange
@@ -297,31 +295,40 @@ adj_kall	adj	kall / kallt .: kalla	cold
 adj_klassisk	adj	klassisk / klassiskt .: klassiska	classic
 adj_korrekt	adj	korrekt / korrekt .: korrekta	correct
 adj_kort	adj	kort / kort .: korta	short
+adj_kul	adj	kul (kul, kul)	fun
 adj_kaend	adj	känd / känt .: kända	famous
 adj_kaer	adj	kär / kärt .: kära	in love
+adj_lila	adj	lila / lila .: lila	purple
+adj_liten	adj	liten / litet .: små	small
 adj_ljus	adj	ljus / ljust .: ljusa	light / bright
-adj_lugn	adj	lugn / lugnt .: lugna	cool / calm
+adj_lugn	adj	lugn / lugnt .: lugna	calm
 adj_laeskig	adj	läskig / läskigt .: läskiga	scary
 adj_laett	adj	lätt / lätt .: lätta	easy / lightweight
 adj_laang	adj	lång / långt .: långa	long
 adj_mjuk	adj	mjuk / mjukt .: mjuka	soft
 adj_modern	adj	modern / modernt .: moderna	modern
 adj_modig	adj	modig / modigt .: modiga	brave
+adj_motsatt	adj	motsatt / motsatt .: motsatta	opposite
 adj_mysig	adj	mysig / mysigt .: mysiga	cozy
 adj_moenstrad	adj	mönstrad / mönstrat .: mönstrade	patterned
 adj_moerk	adj	mörk / mörkt .: mörka	dark
+adj_nedre	adj	nedre (nedre, nedre)	lower
 adj_negativ	adj	negativ / negativt .: negativa	negative
 adj_neongroen	adj	neongrön / neongrönt .: neongröna	neon green
 adj_nervoes	adj	nervös / nervöst .: nervösa	nervous
+adj_nordlig	adj	nordlig / nordligt .: nordliga	northern
 adj_ny	adj	ny / nytt .: nya	new
+adj_naera	adj	nära / nära .: nära	near
+adj_naesta	adj	nästa	next
 adj_naagon	adj	någon / något .: några	any / someone
 adj_noedvaendig	adj	nödvändig / nödvändigt .: nödvändiga	necessary
 adj_obestaemd	adj	obestämd / obestämt .: obestämda	indefinite
 adj_obetonad	adj	obetonad / obetonat .: obetonade	unstressed
 adj_ogift	adj	ogift / ogift .: ogifta	unmarried
+adj_olik	adj	olik / olikt .: olika	different
 adj_omgift	adj	omgift / omgift .: omgifta	remarried
 adj_omodern	adj	omodern / omodernt .: omoderna	outdated / old-fashioned
-adj_orange	adj	orange / orange .: orangea	orange
+adj_orange	adj	orange (orange, orange)	orange
 adj_otrolig	adj	otrolig / otroligt .: otroliga	incredible
 adj_perfekt	adj	perfekt .: perfekta	perfect
 adj_populaer	adj	populär / populärt .: populära	popular
@@ -329,27 +336,39 @@ adj_positiv	adj	positiv / positivt .: positiva	positive
 adj_prickig	adj	prickig / prickigt .: prickiga	spotted / polka-dot
 adj_privat	adj	privat / privat .: privata	private
 adj_psykisk	adj	psykisk / psykiskt .: psykiska	psychological
+adj_pytteliten	adj	pytteliten / pyttelitet .: pyttesmå	tiny
+adj_paaslagen	adj	påslagen / påslaget .: påslagna	on (switched on)
+adj_rak	adj	rak / rakt .: raka	straight
 adj_randig	adj	randig / randigt .: randiga	striped
+adj_relativ	adj	relativ / relativt .: relativa	relative
 adj_rolig	adj	rolig / roligt .: roliga	fun
 adj_romantisk	adj	romantisk / romantiskt .: romantiska	romantic
 adj_rosa	adj	rosa / rosa .: rosa	pink
 adj_rund	adj	rund / runt .: runda	round
 adj_rutig	adj	rutig / rutigt .: rutiga	checkered
 adj_raedd	adj	rädd .: rädda	afraid
-adj_raett	adj	rätt / rätt .: rätta	correct / right
+adj_raett	adj	rätt / rätt .: rätta	right (correct)
 adj_roed	adj	röd / rött .: röda	red
 adj_salt	adj	salt / salt .: salta	salty
+adj_samma	adj	samma / samma .: samma	same
+adj_sen	adj	sen / sent .: sena	late
 adj_separerad	adj	separerad / separerat .: separerade	separated
+adj_singel	adj	singel	single
+adj_sista	adj	sista	last
 adj_sjaelv	adj	själv / självt .: själva	self / myself / yourself
 adj_skild	adj	skild / skilt .: skilda	divorced
 adj_skaer	adj	skär / skärt .: skära	pink
+adj_skoen	adj	skön / skönt .: sköna	pleasant / comfortable
 adj_smal	adj	smal / smalt .: smala	thin / narrow
 adj_snabb	adj	snabb / snabbt .: snabba	quick
 adj_snygg	adj	snygg / snyggt .: snygga	nice / attractive
 adj_solig	adj	solig / soligt .: soliga	sunny
+adj_sorglig	adj	sorglig / sorgligt .: sorgliga	sad
 adj_speciell	adj	speciell / speciellt .: speciella	special
 adj_specifik	adj	specifik / specifikt .: specifika	specific
 adj_sportig	adj	sportig / sportigt .: sportiga	athletic
+adj_spaennande	adj	spännande	exciting
+adj_stackars	adj	stackars	poor (unfortunate)
 adj_stor	adj	stor / stort .: stora	big
 adj_staengd	adj	stängd / stängt .: stängda	closed
 adj_superekologisk	adj	superekologisk / superekologiskt .: superekologiska	ultra-organic
@@ -358,13 +377,17 @@ adj_supernervoes	adj	supernervös / supernervöst .: supernervösa	super nervous
 adj_svart	adj	svart / svart .: svarta	black
 adj_svaar	adj	svår / svårt .: svåra	difficult
 adj_sydamerikansk	adj	sydamerikansk / sydamerikanskt .: sydamerikanska	South American
+adj_sydlig	adj	sydlig / sydligt .: sydliga	southern
 adj_tidig	adj	tidig / tidigt .: tidiga	early
 adj_tjock	adj	tjock / tjockt .: tjocka	fat / thick
 adj_total	adj	total / totalt .: totala	total
+adj_traakig	adj	tråkig / tråkigt .: tråkiga	boring
 adj_troett	adj	trött / trött .: trötta	tired
+adj_tuff	adj	tuff / tufft .: tuffa	tough
 adj_tyst	adj	tyst / tyst .: tysta	silent
 adj_underbar	adj	underbar / underbart .: underbara	wonderful
 adj_ung	adj	ung / ungt .: unga	young
+adj_ungefaerlig	adj	ungefärlig / ungefärligt .: ungefärliga	approximate
 adj_upptagen	adj	upptagen / upptaget .: upptagna	busy
 adj_vacker	adj	vacker / vackert .: vackra	beautiful
 adj_vaken	adj	vaken / vaket .: vakna	awake
@@ -372,11 +395,18 @@ adj_vanlig	adj	vanlig / vanligt .: vanliga	usual, ordinary
 adj_varannan	adj	varannan / varannat .: varannan	every other
 adj_varm	adj	varm / varmt .: varma	warm
 adj_vegansk	adj	vegansk / veganskt .: veganska	vegan
+adj_verklig	adj	verklig / verkligt .: verkliga	real
 adj_viktig	adj	viktig / viktigt .: viktiga	important
+adj_viss	adj	viss / visst .: vissa	certain / specific
 adj_vit	adj	vit / vitt .: vita	white
+adj_vaeldig	adj	väldig / väldigt .: väldiga	vast / immense
 adj_vaelkommen	adj	välkommen / välkommet .: välkomna	welcome
+adj_vaestlig	adj	västlig / västligt .: västliga	western
+adj_yttre	adj	yttre (yttre, yttre)	outer
 adj_aerlig	adj	ärlig / ärligt .: ärliga	honest
 adj_oeppen	adj	öppen / öppet .: öppna	open
+adj_oestlig	adj	östlig / östligt .: östliga	eastern
+adj_oevre	adj	övre (övre, övre)	upper
 adv_absolut	adv	absolut	absolutely
 adv_aldrig	adv	aldrig	never
 adv_alltid	adv	alltid	always
@@ -388,6 +418,7 @@ adv_foerr	adv	förr	in the past
 adv_foerst	adv	först	first (adv)
 adv_kvar	adv	kvar	left / remaining
 adv_aendaa	adv	ändå	still / anyway
+conj_daer_conj	conj	där (conj	where
 conj_innan	conj	innan	before (conj)
 n_arlanda	mass n	Arlanda	Arlanda International Airport
 n_australien	mass n	Australien	Australia
@@ -477,11 +508,13 @@ n_fakta	mass n	fakta [faktan]	facts
 n_februari	mass n	februari	February
 n_fil	mass n	fil [filen]	soured milk / file
 n_filmjoelk	mass n	filmjölk [filmjölken]	soured milk
+n_forskning	mass n	forskning [forskningen]	research
 n_framtid	mass n	framtid [framtiden]	future
 n_fritid	mass n	fritid [fritiden]	free time
 n_fysik	mass n	fysik [fysiken]	physics
 n_gaffel	mass n	gaffel [gaffeln]	fork
 n_godis	mass n	godis [godiset]	candy
+n_golve	mass n	golve [golvet]	floor
 n_gryta	mass n	gryta [grytan]	pot
 n_graeddfil	mass n	gräddfil [gräddfilen]	sour cream
 n_guacamole	mass n	guacamole [guacamolen]	guacamole
@@ -595,6 +628,7 @@ n_banan	n	en banan [bananen] .: bananer [bananerna]	a banana
 n_bank	n	en bank [banken] .: banker [bankerna]	a bank
 n_bar	n	en bar [baren] .: barer [barerna]	a bar
 n_bastu	n	en bastu [bastun] .: bastur [basturna]	a sauna
+n_begravning	n	en begravning [begravningen] .: begravningar [begravningarna]	a funeral
 n_bil	n	en bil [bilen] .: bilar [bilarna]	a car
 n_bild	n	en bild [bilden] .: bilder [bilderna]	a picture
 n_biljett	n	en biljett [biljetten] .: biljetter [biljetterna]	a ticket
@@ -676,7 +710,6 @@ n_flygbuss	n	en flygbuss [flygbussen] .: flygbussar [flygbussarna]	an airport bu
 n_flygplats	n	en flygplats [flygplatsen] .: flygplatser [flygplatserna]	an airport
 n_form	n	en form [formen] .: former [formerna]	a shape
 n_forskare	n	en forskare [forskaren] .: forskare [forskarna]	a researcher
-n_forskning	n	en forskning [forskningen] .: forskningar [forskningarna]	a research
 n_fot	n	en fot [foten] .: fötter [fötterna]	a foot
 n_fotboll	n	en fotboll [fotbollen] .: fotbollar [fotbollarna]	a football / soccer
 n_fras	n	en fras [frasen] .: fraser [fraserna]	a phrase
@@ -1312,6 +1345,7 @@ phr_i_staellet	phr	i stället	instead
 phr_i_saa_fall	phr	i så fall	in that case
 phr_i_tisdags	phr	i tisdags	last Tuesday
 phr_i_oevermorgon	phr	i övermorgon	the day after tomorrow
+phr_innan_x	phr	innan X	before X (in a sequence)
 phr_inte_direkt	phr	inte direkt	not really
 phr_inte_precis	phr	inte precis	not exactly
 phr_inte_aen	phr	inte än	not yet
@@ -1340,6 +1374,7 @@ pn_mig	pn	mig	me
 pn_oss	pn	oss	us
 prep_bakom	prep	bakom	behind
 prep_bredvid	prep	bredvid	next to
+prep_daer	prep	där	there
 prep_efter	prep	efter	after
 prep_framfoer	prep	framför	in front of
 prep_foere	prep	före	before (prep)
@@ -3164,16 +3199,20 @@ v_fortsaetta	v	att fortsätta (fortsätter, fortsatte, har fortsatt)	to continue
 v_foto	v	att foto (fotot, foton, har fotona)	to photo
 v_fraaga	v	att fråga (frågar, frågade, har frågat)	to ask
 v_fundera	v	att fundera (funderar, funderade, har funderat)	to ponder
+v_fungera	v	att fungera (fungerar, fungerade, har fungerat)	to work (function)
 v_faa	v	att få (får, fick, har fått)	to get
 v_foedas	v	att födas (föds, föddes, har fötts)	to be born
 v_foelja_med	v	att följa med (följer, följde, har följt)	to come along
 v_foerbjuda	v	att förbjuda (förbjuder, förbjöd, har förbjudit)	to ban / prohibit
+v_foerbaettra	v	att förbättra (förbättrar, förbättrade, har förbättrat)	to improve
+v_foeredra	v	att föredra (föredrar, föredrade, har föredrat)	to prefer
 v_foerstaa	v	att förstå (förstår, förstod, har förstått)	to understand
 v_ge	v	att ge (ger, gav, har gett)	to give
 v_gifta_sig	v	att gifta sig (gifter, gifte, har gift)	to get married
 v_gilla	v	att gilla (gillar, gillade, har gillat)	to like
 v_gissa	v	att gissa (gissar, gissade, har gissat)	to guess
 v_gloemma	v	att glömma (glömmer, glömde, har glömt)	to forget
+v_gunga	v	att gunga (gungar, gungade, har gungat)	to swing
 v_gaa	v	att gå (går, gick, har gått)	to walk / go
 v_gaa_upp	v	att gå upp (går, gick, har gått)	to get up
 v_goera	v	att göra (gör, gjorde, har gjort)	to do / make
@@ -3196,6 +3235,7 @@ v_imitera	v	att imitera (imiterar, imiterade, har imiterat)	to imitate
 v_inspirera	v	att inspirera (inspirerar, inspirerade, har inspirerat)	to inspire
 v_jaga	v	att jaga (jagar, jagade, har jagat)	to hunt
 v_jobba	v	att jobba (jobbar, jobbade, har jobbat)	to work
+v_jobba_paa	v	att jobba på (jobbar, jobbade, har jobbat)	to work on (something)
 v_jogga	v	att jogga (joggar, joggade, har joggat)	to jog
 v_jaemfoera	v	att jämföra (jämför, jämförde, har jämfört)	to compare
 v_klae_paa_sig	v	att klä på sig (klär, klädde, har klätt)	to get dressed
@@ -3233,6 +3273,7 @@ v_mingla	v	att mingla (minglar, minglade, har minglat)	to mingle
 v_missa	v	att missa (missar, missade, har missat)	to miss
 v_mysa	v	att mysa (myser, myste, har myst)	to cozy up
 v_maa	v	att må (mår, mådde, har mått)	to feel
+v_maala	v	att måla (målar, målade, har målat)	to paint
 v_maala_graffiti	v	att måla graffiti (målar, målade, har målat)	to paint graffiti
 v_maaste	v	att måste (måste, måste, har måst)	to must
 v_orka	v	att orka (orkar, orkade, har orkat)	to have the energy
@@ -3265,6 +3306,7 @@ v_servera	v	att servera (serverar, serverade, har serverat)	to serve
 v_ses	v	att ses (ses, sågs, har setts)	to see / meet (informal)
 v_shoppa	v	att shoppa (shoppar, shoppade, har shoppat)	to shop
 v_simma	v	att simma (simmar, simmade, har simmat)	to swim
+v_sitta	v	att sitta (sitter, satt, har suttit)	to sit
 v_sjunga	v	att sjunga (sjunger, sjöng, har sjungit)	to sing
 v_skapa	v	att skapa (skapar, skapade, har skapat)	to create
 v_skejta	v	att skejta (skejtar, skejtade, har skejtat)	to skate
