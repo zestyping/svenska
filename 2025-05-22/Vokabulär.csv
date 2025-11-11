@@ -13,7 +13,7 @@
 "hur dags","what time"
 "servera (serverar, serverade, serverat)<br><i>Restaurangen serverar middag fram till klockan tio.</i>","serve<br><i>The restaurant serves dinner until ten o’clock.</i>"
 "vegansk (veganskt, veganska)<br><i>Hon beställde en vegansk pizza.</i>","vegan<br><i>She ordered a vegan pizza.</i>"
-"kaffe på maten","coffee after the meal"
+"kaffe på maten (phr)","coffee after the meal"
 "paus (pausen, pauser, pauserna)<br><i>Vi tog en paus efter lektionen.</i>","break, pause<br><i>We took a break after the lesson.</i>"
 "sista<br><i>Det var hans sista dag på jobbet.</i>","last<br><i>It was his last day at work.</i>"
 "sluta (slutar, slutade, slutat)<br><i>Föreställningen slutar vid midnatt.</i>","end<br><i>The performance ends at midnight.</i>"
@@ -97,6 +97,6 @@
 "Jag har inga barn","I have no kids"
 "redan<br><i>Jag har redan ätit.</i>","already<br><i>I have already eaten.</i>"
 "vanlig (vanligt, vanliga)<br><i>Den här situationen är helt vanlig.</i>","usual / ordinary<br><i>This situation is completely ordinary.</i>"
-"mitt på dagen<br><i>Jag åt lunch mitt på dagen.</i>","middle of the day<br><i>I ate lunch in the middle of the day.</i>"
+"mitt på dagen (phr)<br><i>Jag åt lunch mitt på dagen.</i>","middle of the day<br><i>I ate lunch in the middle of the day.</i>"
 "pronomen (pronomenet, pronomen, pronomenen)<br><i>Pronomen ersätter ofta substantiv.</i>","pronoun<br><i>Pronouns often replace nouns.</i>"
 

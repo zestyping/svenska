@@ -7,8 +7,6 @@ u_borde		borde	should
 u_braaka		bråka	quarrel / struggle
 u_baesta		bästa	best
 u_cirka		cirka	approximately
-u_dansa_tango		dansa tango	tango
-u_dansmusik		dansmusik	dance music
 u_de		de	they
 u_demonstrativa_p		demonstrativa pronomen	demonstrative pronouns
 u_den_det		den / det	it
@@ -19,69 +17,44 @@ u_doftljus		doftljus	scented candle
 u_dokumentaer		dokumentär	documentary
 u_drama		drama	drama
 u_duva		duva	pigeon
-u_daa_ska_vi_se		då ska vi se	let's see
 u_egyptisk		egyptisk	Egyptian
 u_elev		elev	student
 u_eller		eller	or
 u_engelska		engelska	English (language)
-u_extra_kostnad		extra kostnad	extra cost
-u_fler_saker		fler saker	more things
 u_flera		flera	several
 u_flera_gaanger		flera gånger	several times
-u_flytta_ihop		flytta ihop	move in together
 u_framme		framme	arrived
 u_franska		franska	French (language)
-u_frisk_luft		frisk luft	fresh air
 u_fraan		från	from
 u_full		full	full
-u_faa_barn		få barn	have children
-u_foer_stora		för stora	too large
-u_foersta_gaangen		första gången	first time
-u_gamla_stan		gamla stan	Old Town
 u_ganska		ganska	quite / rather
-u_ganska_mycket		ganska mycket	pretty much
 u_ge_bort		ge bort	give away
 u_genre		genre	genre
 u_grekiska		grekiska	Greek (language)
 u_gaerna		gärna	gladly / willingly
-u_gaa_av		gå av	get off
-u_gaa_upp		gå upp	go up
-u_halva_priset		halva priset	half price
 u_hem		hem	home (to)
 u_hemifraan		hemifrån	from home
 u_hemma		hemma	at home
-u_hemma_hos		hemma hos	at the home of
-u_hoppa_fallskaer		hoppa fallskärm	go skydiving
 u_hur_maanga		hur många?	how many?
 u_husdjur		husdjur	pet
 u_haer		här	here
-u_haer_borta		här borta	over here
 u_i		i	in / at
 u_ibland		ibland	sometimes
 u_igen		igen	again
-u_igaar_morse		igår morse	yesterday morning
-u_imorgon_bitti		imorgon bitti	tomorrow morning
 u_imorse		imorse	this morning
-u_inget_speciellt		inget speciellt	nothing special
 u_inne		inne	inside
-u_inom_parentes		inom parentes	in parentheses
 u_inte		inte	not
 u_intervjua		intervjua	interview
 u_jag		jag	I
 u_japanska		japanska	Japanese (language)
-u_jobba_extra		jobba extra	work part-time / work extra
 u_jordgubbslukt		jordgubbslukt	strawberry scent
 u_ju		ju	you know
 u_just_nu		just nu	right now
 u_jaettekul		jättekul	a lot of fun
 u_jaettemaanga		jättemånga	a huge number
-u_kaffe_paa_maten		kaffe på maten	coffee after the meal
 u_kafaegare		kaféägare	café owner
 u_kanske		kanske	maybe
-u_karaoke		karaoke	karaoke
 u_komma		komma	come
-u_komma_i_kontakt_m		komma i kontakt med	get in touch with
-u_konst		konst	art
 u_krossade_tomate		krossade tomater	crushed tomatoes
 u_krukvaext		krukväxt	potted plant
 u_krya_paa_dig		krya på dig!	get well
@@ -108,24 +81,15 @@ u_med		med	with
 u_men		men	but
 u_mer		mer	more
 u_middag		middag	dinner
-u_minus_10_grader		minus 10 grader	minus 10 °C
-u_mitt_i_stan		mitt i stan	in the middle of the city
-u_mitt_paa_dagen		mitt på dagen	middle of the day
-u_morsdag		morsdag	Mother's Day
 u_mot		mot	against
 u_maanga		många	many
-u_nachos		nachos	nachos
 u_ner		ner	down
 u_nio		nio (nian)	nine
-u_norr		norr	north
 u_nu		nu	now
 u_naer		när	when
 u_naermare		närmare	closer
 u_naesta_vecka		nästa vecka	next week
 u_naestan		nästan	almost
-u_naagon_gaang		någon gång	some time
-u_naagra_gaanger		några gånger	few times
-u_obestaemd_form		obestämd form	indefinite form
 u_objektspronomen		objektspronomen	object pronoun
 u_och		och	and
 u_ofta		ofta	often
@@ -135,14 +99,9 @@ u_om_10_dagar		om 10 dagar	in 10 days
 u_om_inte		om inte	if not
 u_ord		ord	word
 u_plugga_till		plugga till	study to be
-u_plus_12_grader		plus 12 grader	12 °C
-u_politik		politik	politics
-u_pommes_frites		pommes frites	french fries
 u_portugisiska		portugisiska	Portuguese (language)
 u_prata_engelska		prata engelska	speak English
 u_presens		presens	present tense
-u_presens_futurum		presens futurum	future tense
-u_presens_perfekt		presens perfekt	present perfect
 u_presentation		presentation	presentation
 u_pyttelite		pyttelite	a tiny bit
 u_rakt_fram		rakt fram	straight ahead
@@ -154,22 +113,16 @@ u_ringa_in		ringa in	circle
 u_rivstart		rivstart	flying start
 u_ruta		ruta	box / square
 u_rysare		rysare	thriller / horror
-u_raett_alternati		rätt alternativ	correct option
 u_roed_dag		röd dag	public holiday
 u_sammansatta_ord		sammansatta ord	compound words
-u_science_fiction		science fiction	science fiction
 u_semesterplan		semesterplan	holiday plan
-u_sent_paa_kvaell		sent på kvällen	late in the evening
 u_serie		serie	series
-u_shopping		shopping	shopping
 u_sida		sida	page
 u_ska		ska	will (verb)
 u_skorpa		skorpa	rusk
 u_skulle		skulle	would / was going to
 u_slut		slut	finished / run out
-u_sneakers		sneakers	sneakers
 u_som		som	as / that / who
-u_sommarklaeder		sommarkläder	summer clothes
 u_sova_gott		sova gott	sleep well
 u_sova_paa_saken		sova på saken	sleep on it
 u_spanska		spanska	Spanish (language)
@@ -177,20 +130,15 @@ u_spara		spara	save
 u_spela_roll		spela roll	matter
 u_spraak		språk	language
 u_startup		startup	startup
-u_staella_en_fraa		ställa en fråga	pose a question
 u_staenga_av		stänga av	shut off
 u_suddgummi		suddgummi	eraser
 u_svenska		svenska	Swedish (language)
 u_saellan		sällan	rarely
 u_saa		så	so
 u_saa_laenge		så länge	meanwhile / in the meantime
-u_soeder		söder	south
-u_ta_bussen		ta bussen	take the bus
-u_ta_det_lugnt		ta det lugnt	take it easy
 u_ta_en_aw		ta en AW	go for after-work drinks
 u_tack		tack	thank you
 u_tala		tala	speak
-u_thaimat		thaimat	Thai food
 u_till_hoeger		till höger	to the right
 u_till_vaenster		till vänster	to the left
 u_tillsammans		tillsammans	together
@@ -206,7 +154,6 @@ u_utan		utan	without
 u_uttala		uttala	pronounce
 u_vad_bra		vad bra	that's great
 u_vakna_av		vakna av	wake up from
-u_vanilj		vanilj	vanilla
 u_varandra		varandra	each other
 u_varfoer		varför	why
 u_varfoer_inte		varför inte	why not
@@ -224,10 +171,7 @@ u_vilken		vilken	which
 u_vissa_av_dem		vissa av dem	some of them
 u_vaeder		väder	weather
 u_vaeldigt_mycket		väldigt mycket	very much
-u_vaerldens_mat		världens mat	international food
-u_vaexlande_vaede		växlande väder	changing weather
-u_aaka_runt		åka runt	drive around
-u_oeppet_koep		öppet köp	refund policy
+u_oeppet_koep		öppet köp (öppna köpet)	return policy
 u_oeverallt		överallt	everywhere
 adj_allergisk	adj	allergisk	allergic
 adj_annan	adj	annan / annat .: andra	another
@@ -480,6 +424,7 @@ n_chark	mass n	chark [charken]	cured meat, deli section
 n_charter	mass n	charter [chartern]	charter
 n_choklad	mass n	choklad [chokladen]	chocolate
 n_cykel	mass n	cykel [cykeln]	bicycle
+n_dansmusik	mass n	dansmusik [dansmusiken]	dance music
 n_december	mass n	december	December
 n_dubbelsaeng	mass n	dubbelsäng [dubbelsängen]	double bed
 n_duntaecke	mass n	duntäcke [duntäcket]	down duvet
@@ -494,6 +439,7 @@ n_korean	mass n	en korean [koreanen] .: koreaner [koreanerna]	Korean
 n_koettfaerssaas	mass n	en köttfärssås [köttfärssåsen] .: köttfärssåser [köttfärssåserna]	Bolognese
 n_loerdag	mass n	en lördag [lördagen] .: lördagar [lördagarna]	Saturday
 n_mil	mass n	en mil [milen] .: mil [milen]	Swedish mile (10 km)
+n_morsdag	mass n	en morsdag [morsdagen] .: morsdagar [morsdagarna]	Mother's Day
 n_maandag	mass n	en måndag [måndagen] .: måndagar [måndagarna]	Monday
 n_onsdag	mass n	en onsdag [onsdagen] .: onsdagar [onsdagarna]	Wednesday
 n_prinsesstaarta	mass n	en prinsesstårta [prinsesstårtan] .: prinsesstårtor [prinsesstårtorna]	Princess cake
@@ -527,10 +473,12 @@ n_innebandy	mass n	innebandy [innebandyn]	floorball
 n_januari	mass n	januari	January
 n_jazz	mass n	jazz [jazzen]	jazz
 n_jord	mass n	jord [jorden]	earth / soil
+n_jordgubbslukt	mass n	jordgubbslukt [jordgubbslukten]	strawberry smell
 n_juli	mass n	juli	July
 n_juni	mass n	juni	June
 n_jaest	mass n	jäst [jästen]	yeast
 n_kalsonger	mass n	kalsonger [kalsongerna]	briefs / men's underwear
+n_karaoke	mass n	karaoke [karaoken]	karaoke
 n_kastrull	mass n	kastrull [kastrullen]	saucepan
 n_kaviar	mass n	kaviar [kaviaren]	cod roe spread
 n_kemi	mass n	kemi [kemin]	chemistry
@@ -539,12 +487,14 @@ n_klaeder	mass n	kläder [kläderna]	clothes
 n_klaettring	mass n	klättring [klättringen]	climbing
 n_kniv	mass n	kniv [kniven]	knife
 n_koffein	mass n	koffein [koffeinet]	caffeine
+n_konst	mass n	konst [konsten]	art (noun)
 n_konsumentfakta	mass n	konsumentfakta [konsumentfaktan]	consumer information
 n_kudde	mass n	kudde [kudden]	pillow
 n_kvalitet	mass n	kvalitet [kvaliteten]	quality
 n_kaernteknik	mass n	kärnteknik [kärntekniken]	nuclear technology
 n_kaal	mass n	kål [kålen]	cabbage
 n_lakan	mass n	lakan [lakanet]	bedsheets
+n_lego	mass n	lego [legot]	Lego
 n_lillkusin	mass n	lillkusin [lillkusinen]	little cousin
 n_lingonsylt	mass n	lingonsylt [lingonsylten]	lingonberry preserves
 n_laesk	mass n	läsk [läsken]	soft drink, fizzy drink
@@ -559,12 +509,18 @@ n_mjoel	mass n	mjöl [mjölet]	flour
 n_mjoelk	mass n	mjölk [mjölken]	milk
 n_mountainbike	mass n	mountainbike [mountainbiken]	mountain bike
 n_mys	mass n	mys [myset]	coziness
+n_nachos	mass n	nachos [nachosen]	nachos
 n_nitroglycerin	mass n	nitroglycerin [nitroglycerinet]	nitroglycerin
+n_norr	mass n	norr [norren]	north (noun)
 n_november	mass n	november	November
+n_nutid	mass n	nutid [nutiden]	present (time)
 n_oktober	mass n	oktober	October
 n_olja	mass n	olja [oljan]	oil
 n_ordfoeljd	mass n	ordföljd [ordföljden]	word order
+n_politik	mass n	politik [politiken]	politics
+n_pommes_frites	mass n	pommes frites [pommes fritesen]	french fries
 n_potatismos	mass n	potatismos [potatismoset]	mashed potatoes
+n_presens	mass n	presens [presenset]	present (tense)
 n_paelsdjur	mass n	pälsdjur [pälsdjuret]	furry animal
 n_radio	mass n	radio [radion]	radio
 n_rum	mass n	rum [rummet]	room
@@ -572,23 +528,31 @@ n_ryska	mass n	ryska [ryskan]	Russian
 n_salami	mass n	salami [salamin]	salami
 n_saltlakrits	mass n	saltlakrits [saltlakritset]	salty licorice
 n_satsadverbial	mass n	satsadverbial [satsadverbialet]	adverbial
+n_science_fiction	mass n	science fiction [science fictionen]	science fiction
 n_september	mass n	september	September
+n_shopping	mass n	shopping [shoppingen]	shopping
 n_sked	mass n	sked [skeden]	spoon
 n_skrattyoga	mass n	skrattyoga [skrattyogan]	laughter yoga
 n_slaekt	mass n	släkt [släkten]	relatives
 n_smoer	mass n	smör [smöret]	butter
 n_snabbkaffe	mass n	snabbkaffe [snabbkaffet]	instant coffee
+n_sneakers	mass n	sneakers [sneakersen]	sneakers
 n_snus	mass n	snus [snuset]	snuff
 n_snoe	mass n	snö [snön]	snow
 n_socker	mass n	socker [sockret]	sugar
+n_sommarklaeder	mass n	sommarkläder [sommarkläderna]	summer clothes
 n_squash	mass n	squash [squashen]	squash (sport)
 n_stycke	mass n	stycke [stycket]	paragraph
 n_staaupp	mass n	ståupp [ståuppen]	stand-up comedy
 n_sylt	mass n	sylt [sylten]	jam
 n_saeng	mass n	säng [sängen]	bed
 n_saenglampa	mass n	sänglampa [sänglampan]	bedside lamp
+n_soeder	mass n	söder [södern]	south (noun)
+n_thaimat	mass n	thaimat [thaimaten]	Thai food
 n_trosor	mass n	trosor [trosorna]	panties / women's underwear
+n_traeningsklaede	mass n	träningskläder [träningskläderna]	workout clothes
 n_tyska	mass n	tyska [tyskan]	German
+n_vanilj	mass n	vanilj [vaniljen]	vanilla
 n_varor	mass n	varor [varorna]	goods
 n_varuhus	mass n	varuhus [varuhuset]	department store
 n_vatten	mass n	vatten [vattnet]	water
@@ -661,8 +625,11 @@ n_deckare	n	en deckare [deckaren] .: deckare [deckarna]	a crime novel
 n_del	n	en del [delen] .: delar [delarna]	a part
 n_deo	n	en deo [deon] .: deos [deorna]	a deodorant
 n_depression	n	en depression [depressionen] .: depressioner [depressionerna]	a depression
+n_designpryl	n	en designpryl [designprylen] .: designprylar [designprylarna]	a design object
 n_dessert	n	en dessert [desserten] .: desserter [desserterna]	a dessert
 n_destination	n	en destination [destinationen] .: destinationer [destinationerna]	a destination
+n_dialog	n	en dialog [dialogen] .: dialoger [dialogerna]	a dialogue
+n_dokumentaer	n	en dokumentär [dokumentären] .: dokumentärer [dokumentärerna]	a documentary
 n_dosa	n	en dosa [dosan] .: dosor [dosorna]	a box (small)
 n_dotter	n	en dotter [dottern] .: döttrar [döttrarna]	a daughter
 n_dricka	n	en dricka [drickan] .: drickor [drickorna]	a drink
@@ -670,11 +637,13 @@ n_druva_vindruva	n	en druva/vindruva [druvan] .: druvor [druvorna]	a grape
 n_dryg_vecka	n	en dryg vecka	a bit more than a week
 n_dusch	n	en dusch [duschen] .: duschar [duscharna]	a shower
 n_duschtvaal	n	en duschtvål [duschtvålen] .: duschtvålar [duschtvålarna]	a body wash
+n_duva	n	en duva [duvan] .: duvor [duvorna]	a dove
 n_dvaergpudel	n	en dvärgpudel [dvärgpudeln] .: dvärgpudlar [dvärgpudlarna]	a miniature poodle
 n_doerr	n	en dörr [dörren] .: dörrar [dörrarna]	a door
 n_ekonom	n	en ekonom [ekonomen] .: ekonomer [ekonomerna]	an economist / financial officer
 n_ekonomi	n	en ekonomi [ekonomin] .: ekonomier [ekonomierna]	an economy / economics
 n_elektronikaffae	n	en elektronikaffär [elektronikaffären] .: elektronikaffärer [elektronikaffärerna]	an electronics store
+n_elev	n	en elev [eleven] .: elever [eleverna]	a student
 n_elsparkcykel	n	en elsparkcykel [elsparkcykeln] .: elsparkscyklar [elsparkscyklarna]	an e-scooter
 n_energi	n	en energi [energin] .: energier [energierna]	an energy
 n_energidryck	n	en energidryck [energidrycken] .: energidrycker [energidryckerna]	an energy drink
@@ -737,6 +706,7 @@ n_garanti	n	en garanti [garantin] .: garantier [garantierna]	a guarantee
 n_garderob	n	en garderob [garderoben] .: garderober [garderoberna]	a wardrobe / closet
 n_gardin	n	en gardin [gardinen] .: gardiner [gardinerna]	a curtain
 n_gate	n	en gate [gate] .: gater [gaterna]	a gate
+n_genre	n	en genre [genren] .: genrer [genrerna]	a genre
 n_get	n	en get [geten] .: getter [getterna]	a goat
 n_giraff	n	en giraff [giraffen] .: giraffer [girafferna]	a giraffe
 n_glass	n	en glass [glassen] .: glassar [glassarna]	an ice cream
@@ -780,6 +750,7 @@ n_information	n	en information [informationen] .: informationer [informationerna
 n_ingenjoer	n	en ingenjör [ingenjören] .: ingenjörer [ingenjörerna]	an engineer
 n_inkoepslista	n	en inköpslista [inköpslistan] .: inköpslistor [inköpslistorna]	a grocery list
 n_inspiration	n	en inspiration [inspirationen] .: inspirationer [inspirationerna]	an inspiration
+n_intervju	n	en intervju [intervjun] .: intervjuer [intervjuerna]	an interview (noun)
 n_intonation	n	en intonation [intonationen] .: intonationer [intonationerna]	an intonation
 n_ja_och_nejfraag	n	en ja- och nejfråga [ja- och nejfrågan] .: ja- och nejfrågor [ja- och nejfrågorna]	a yes-no question
 n_jacka	n	en jacka [jackan] .: jackor [jackorna]	a jacket
@@ -787,6 +758,7 @@ n_jordgubbe	n	en jordgubbe [jordgubben] .: jordgubbar [jordgubbarna]	a strawberr
 n_journalist	n	en journalist [journalisten] .: journalister [journalisterna]	a journalist
 n_juice	n	en juice [juicen] .: juicer [juicerna]	a juice
 n_jaernvaeg	n	en järnväg [järnvägen] .: järnvägar [järnvägarna]	a railway
+n_kafaegare	n	en kaféägare [kaféägaren] .: kaféägare [kaféägarna]	a café owner
 n_kaka	n	en kaka [kakan] .: kakor [kakorna]	a cookie, biscuit
 n_kanal	n	en kanal [kanalen] .: kanaler [kanalerna]	a canal
 n_kanelbulle	n	en kanelbulle [kanelbullen] .: kanelbullar [kanelbullarna]	a cinnamon roll/bun
@@ -831,6 +803,7 @@ n_korvkiosk	n	en korvkiosk [korvkiosken] .: korvkiosker [korvkioskerna]	a hot do
 n_krokodil	n	en krokodil [krokodilen] .: krokodiler [krokodilerna]	a crocodile
 n_kronprins	n	en kronprins [kronprinsen] .: kronprinsar [kronprinsarna]	a crown prince
 n_kropp	n	en kropp [kroppen] .: kroppar [kropparna]	a body
+n_krukvaext	n	en krukväxt [krukväxten] .: krukväxter [krukväxterna]	a potted plant
 n_kryssning	n	en kryssning [kryssningen] .: kryssningar [kryssningarna]	a cruise
 n_kultur	n	en kultur [kulturen] .: kulturer [kulturerna]	a culture
 n_kung	n	en kung [kungen] .: kungar [kungarna]	a king
@@ -845,6 +818,8 @@ n_kyrkby	n	en kyrkby [kyrkbyn] .: kyrkbyar [kyrkbyarna]	a church village
 n_kaella	n	en källa [källan] .: källor [källorna]	a source
 n_kaerlek	n	en kärlek [kärleken] .: kärlekar [kärlekarna]	a love
 n_koeksavdelning	n	en köksavdelning [köksavdelningen] .: köksavdelningar [köksavdelningarna]	a kitchen department
+n_koeksgrej	n	en köksgrej [köksgrejen] .: köksgrejer [köksgrejerna]	a kitchen utensil
+n_koersbaerstomat	n	en körsbärstomat [körsbärstomaten] .: körsbärstomater [körsbärstomatena]	a cherry tomato
 n_koettbulle	n	en köttbulle [köttbullen] .: köttbullar [köttbullarna]	a meatball
 n_koettfaers	n	en köttfärs [köttfärsen] .: köttfärser [köttfärserna]	a minced meat
 n_lampa	n	en lampa [lampan] .: lampor [lamporna]	a lamp
@@ -853,6 +828,7 @@ n_lista	n	en lista [listan] .: listor [listorna]	a list
 n_liter	n	en liter [litern] .: litrar [litrarna]	a liter
 n_litteratur	n	en litteratur [litteraturen] .: litteraturer [litteraturerna]	a literature
 n_loppis	n	en loppis [loppisen] .: loppisar [loppisarna]	a flea market
+n_lukt	n	en lukt [lukten] .: lukter [lukterna]	a smell (noun)
 n_lunch	n	en lunch [lunchen] .: luncher [luncherna]	a lunch
 n_lust	n	en lust [lusten] .: lustar [lustarna]	a desire
 n_luvtroeja	n	en luvtröja [luvtröjan] .: luvtröjor [luvtröjorna]	a hoodie
@@ -925,6 +901,7 @@ n_person	n	en person [personen] .: personer [personerna]	a person
 n_personlig_traen	n	en personlig tränare [tränaren] .: tränare [tränarna]	a personal trainer
 n_pizzabit	n	en pizzabit [pizzabiten] .: pizzabitar [pizzabitarna]	a pizza slice
 n_pjaes	n	en pjäs [pjäsen] .: pjäser [pjäserna]	a theatre play
+n_plan	n	en plan [planen] .: planer [planerna]	a plan (noun)
 n_plastikkirurg	n	en plastikkirurg [plastikkirurgen] .: plastikkirurger [plastikkirurgerna]	a plastic surgeon
 n_plastmamma	n	en plastmamma [plastmamman] .: plastmammor [plastmammorna]	a stepmother
 n_podd	n	en podd [podden] .: poddar [poddarna]	a podcast
@@ -936,10 +913,12 @@ n_position	n	en position [positionen] .: positioner [positionerna]	a position
 n_potatis	n	en potatis [potatisen] .: potatisar [potatisarna]	a potato
 n_potatissallad	n	en potatissallad [potatissalladen] .: potatissallader [potatissalladerna]	a potato salad
 n_preposition	n	en preposition [prepositionen] .: prepositioner [prepositionerna]	a preposition
+n_presentation	n	en presentation [presentationen] .: presentationer [presentationerna]	a presentation
 n_prinsessa	n	en prinsessa [prinsessan] .: prinsessor [prinsessorna]	a princess
 n_prisutdelning	n	en prisutdelning [prisutdelningen] .: prisutdelningar [prisutdelningarna]	an award ceremony
 n_professor	n	en professor [professorn] .: professorer [professorerna]	a professor
 n_programmerare	n	en programmerare [programmeraren] .: programmerare [programmerarna]	a programmer
+n_pryl	n	en pryl [prylen] .: prylar [prylarna]	a thing (gadget)
 n_psykolog	n	en psykolog [psykologen] .: psykologer [psykologerna]	a psychologist
 n_pub	n	en pub [puben] .: pubar [pubarna]	a pub
 n_puls	n	en puls [pulsen] .: pulser [pulserna]	a pulse
@@ -949,6 +928,7 @@ n_pyjamas	n	en pyjamas [pyjamasen] .: pyjamasar [pyjamasarna]	a pyjamas
 n_paerla	n	en pärla [pärlan] .: pärlor [pärlorna]	a pearl
 n_paase	n	en påse [påsen] .: påsar [påsarna]	a bag
 n_rast	n	en rast [rasten] .: raster [rasterna]	a break
+n_rea	n	en rea [rean] .: reor [reorna]	a sale (discount)
 n_region	n	en region [regionen] .: regioner [regionerna]	a region
 n_regnjacka	n	en regnjacka [regnjackan] .: regnjackor [regnjackorna]	a raincoat
 n_rekommendation	n	en rekommendation [rekommendationen] .: rekommendationer [rekommendationerna]	a recommendation
@@ -959,13 +939,16 @@ n_respons	n	en respons [responsen] .: responser [responserna]	a response
 n_restaurang	n	en restaurang [restaurangen] .: restauranger [restaurangerna]	a restaurant
 n_restaurangvagn	n	en restaurangvagn [restaurangvagnen] .: restaurangvagnar [restaurangvagnarna]	a restaurant carriage, dining car
 n_resvaeska	n	en resväska [resväskan] .: resväskor [resväskorna]	a suitcase
+n_retroflex	n	en retroflex [retroflexen] .: retroflexer [retroflexerna]	a retroflex
 n_retur	n	en retur [returen] .: returer [returerna]	a return
 n_ringmur	n	en ringmur [ringmuren] .: ringmurar [ringmurarna]	a city wall / ring wall
+n_rivstart	n	en rivstart [rivstarten] .: rivstarter [rivstarterna]	a flying start
 n_ros	n	en ros [rosen] .: rosor [rosorna]	a rose
 n_rundresa	n	en rundresa [rundresan] .: rundresor [rundresorna]	a circular trip
-n_ruta	n	en ruta [rutan] .: rutor [rutorna]	a box
+n_ruta	n	en ruta [rutan] .: rutor [rutorna]	a square (box)
 n_rutt	n	en rutt [rutten] .: rutter [rutterna]	a route
 n_ryggsaeck	n	en ryggsäck [ryggsäcken] .: ryggsäckar [ryggsäckarna]	a backpack
+n_rysare	n	en rysare [rysaren] .: rysare [rysarna]	a thriller (movie/book)
 n_raeka	n	en räka [räkan] .: räkor [räkorna]	a shrimp
 n_raeksallad	n	en räksallad [räksalladen] .: räksallader [räksalladerna]	a shrimp salad
 n_saffransbulle	n	en saffransbulle [saffransbullen] .: saffransbullar [saffransbullarna]	a saffron bun
@@ -977,6 +960,7 @@ n_semester	n	en semester [semestern] .: semestrar [semestrarna]	a vacation, holi
 n_semla	n	en semla [semlan] .: semlor [semlorna]	a semla, Swedish cream bun
 n_serie	n	en serie [serien] .: serier [serierna]	a series
 n_servitoer	n	en servitör [servitören] .: servitörer [servitörerna]	a waiter
+n_sida	n	en sida [sidan] .: sidor [sidorna]	a page (side)
 n_sill	n	en sill [sillen] .: sillar [sillarna]	a herring
 n_singular	n	en singular [singularen] .: singularer [singularerna]	a singular
 n_sjukskoeterska	n	en sjuksköterska [sjuksköterskan] .: sjuksköterskor [sjuksköterskorna]	a nurse
@@ -991,6 +975,7 @@ n_sko	n	en sko [skon] .: skor [skorna]	a shoe
 n_skoaffaer	n	en skoaffär [skoaffären] .: skoaffärer [skoaffärerna]	a shoe store
 n_skog	n	en skog [skogen] .: skogar [skogarna]	a forest
 n_skola	n	en skola [skolan] .: skolor [skolorna]	a school
+n_skorpa	n	en skorpa [skorpan] .: skorpor [skorporna]	a rusk (biscotti)
 n_skridsko	n	en skridsko [skridskon] .: skridskor [skridskorna]	a skate
 n_skraeckfilm	n	en skräckfilm [skräckfilmen] .: skräckfilmer [skräckfilmerna]	a horror movie
 n_skylt	n	en skylt [skylten] .: skyltar [skylttarna]	a sign
@@ -1012,6 +997,7 @@ n_spindel	n	en spindel [spindeln] .: spindlar [spindlarna]	a spider
 n_sport	n	en sport [sporten] .: sporter [sporterna]	a sport
 n_stad	n	en stad [staden] .: städer [städerna]	a city / town
 n_stan	n	en stan [staden] .: städer [städerna]	a city / downtown
+n_startup	n	en startup [startupen] .: startuper [startuperna]	a startup
 n_station	n	en station [stationen] .: stationer [stationerna]	a station
 n_stavning	n	en stavning [stavningen] .: stavningar [stavningarna]	a spelling
 n_stickad_troeja	n	en stickad tröja [tröjan] .: tröjor [tröjorna]	a knitted sweater
@@ -1054,6 +1040,7 @@ n_ton	n	en ton [tonen] .: toner [tonerna]	a pitch
 n_transport	n	en transport [transporten] .: transporter [transporterna]	a transport
 n_trumpet	n	en trumpet [trumpeten] .: trumpeter [trumpeterna]	a trumpet
 n_traedgaard	n	en trädgård [trädgården] .: trädgårdar [trädgårdarna]	a garden
+n_traening	n	en träning [träningen] .: träningar [träningarna]	a training (workout)
 n_traad	n	en tråd [tråden] .: trådar [trådarna]	a thread
 n_troeja	n	en tröja [tröjan] .: tröjor [tröjorna]	a sweater
 n_tub	n	en tub [tuben] .: tuber [tuberna]	a tube
@@ -1065,7 +1052,7 @@ n_turist	n	en turist [turisten] .: turister [turisterna]	a tourist
 n_taendsticka	n	en tändsticka [tändstickan] .: tändstickor [tändstickorna]	a match
 n_taa	n	en tå [tån] .: tår [tårna]	a toe
 n_uppfinnare	n	en uppfinnare [uppfinnaren] .: uppfinnare [uppfinnarna]	an inventor
-n_uppgift	n	en uppgift [uppgiften] .: uppgifter [uppgifterna]	a task
+n_uppgift	n	en uppgift [uppgiften] .: uppgifter [uppgifterna]	a task (assignment)
 n_utsikt	n	en utsikt [utsikten] .: utsikter [utsikterna]	a view
 n_vagn	n	en vagn [vagnen] .: vagnar [vagnarna]	a carriage
 n_vampyr	n	en vampyr [vampyren] .: vampyrer [vampyrerna]	a vampire
@@ -1119,6 +1106,7 @@ n_bonusbarn	n	ett bonusbarn [bonusbarnet] .: bonusbarn [bonusbarnen]	a stepchild
 n_bonusbarnbarn	n	ett bonusbarnbarn [bonusbarnbarnet] .: bonusbarnbarn [bonusbarnbarnen]	a step-grandchild
 n_bord	n	ett bord [bordet] .: bord [borden]	a table
 n_braedspel	n	ett brädspel [brädspelet] .: brädspel [brädspelen]	a board game
+n_braak	n	ett bråk [bråket] .: bråk [bråken]	an argument (noun)
 n_broed	n	ett bröd [brödet] .: bröd [bröden]	a bread
 n_baer	n	ett bär [bäret] .: bär [bären]	a berry
 n_cerat	n	ett cerat [ceratet] .: cerat [ceraten]	a lip balm
@@ -1127,6 +1115,8 @@ n_citat	n	ett citat [citatet] .: citat [citaten]	a quote
 n_dataspel	n	ett dataspel [dataspelet] .: dataspel [dataspelen]	a video game
 n_datum	n	ett datum [datumet] .: datum [datumen]	a date
 n_djur	n	ett djur [djuret] .: djur [djuren]	an animal
+n_doftljus	n	ett doftljus [doftljuset] .: doftljus [doftljusen]	a scented candle
+n_drama	n	ett drama [dramat] .: dramer [dramerna]	a drama
 n_efternamn	n	ett efternamn [efternamnet] .: efternamn [efternamnen]	a surname
 n_erbjudande	n	ett erbjudande [erbjudandet] .: erbjudanden [erbjudandena]	an offer
 n_ex	n	ett ex [exet] .: ex [exen]	an ex
@@ -1152,10 +1142,11 @@ n_glas	n	ett glas [glaset] .: glas [glasen]	a glass
 n_gym	n	ett gym [gymmet] .: gym [gymmen]	a gym
 n_halvsyskon	n	ett halvsyskon [halvsyskonet] .: halvsyskon [halvsyskonen]	a half-sibling
 n_helvete	n	ett helvete [helvetet] .: helveten [helvetena]	a hell
-n_hem	n	ett hem [hemmet] .: hem [hemmen]	a home
+n_hem	n	ett hem [hemmet] .: hem [hemmen]	a home (noun)
 n_hjaelpverb	n	ett hjälpverb [hjälpverbet] .: hjälpverb [hjälpverben]	a helping verb
 n_hotell	n	ett hotell [hotellet] .: hotell [hotellen]	a hotel
 n_hus	n	ett hus [huset] .: hus [husen]	a house
+n_husdjur	n	ett husdjur [husdjuret] .: husdjur [husdjuren]	a pet (animal)
 n_haenglaas	n	ett hänglås [hänglåset] .: hänglås [hänglåsen]	a padlock
 n_hoern	n	ett hörn [hörnet] .: hörn [hörnen]	a corner
 n_infinitiv	n	ett infinitiv [infinitivet] .: infinitiv [infinitiven]	an infinitive
@@ -1169,13 +1160,16 @@ n_kapitel	n	ett kapitel [kapitlet] .: kapitel [kapitlen]	a chapter
 n_knaeckebroed	n	ett knäckebröd [knäckebrödet] .: knäckebröd [knäckebröden]	a crispbread
 n_kontor	n	ett kontor [kontoret] .: kontor [kontoren]	an office
 n_krig	n	ett krig [kriget] .: krig [krigen]	a war
+n_koek	n	ett kök [köket] .: kök [köken]	a kitchen
 n_koen	n	ett kön [könet] .: kön [könen]	a gender
 n_koep	n	ett köp [köpet] .: köp [köpen]	a purchase
 n_koett	n	ett kött [köttet] .: kött [kötten]	a meat
+n_land	n	ett land [landet] .: länder [länderna]	a country
 n_landskap	n	ett landskap [landskapet] .: landskap [landen]	a landscape
 n_linne	n	ett linne [linnet] .: linnen [linnena]	a tank top
 n_liv	n	ett liv [livet] .: liv [liven]	a life
 n_ljud	n	ett ljud [ljudet] .: ljud [ljuden]	a sound
+n_ljus	n	ett ljus [ljuset] .: ljus [ljusen]	a light (noun)
 n_luktsinne	n	ett luktsinne [luktsinnet] .: luktsinnen [luktsinnena]	a sense of smell
 n_laege	n	ett läge [läget] .: lägen [lägena]	a situation
 n_laatsassyskon	n	ett låtsassyskon [låtsassyskonet] .: låtsassyskon [låtsassyskonen]	a step-sibling
@@ -1222,6 +1216,7 @@ n_slut	n	ett slut [slutet] .: slut [sluten]	an end
 n_slutspel	n	ett slutspel [slutspelet] .: slutspel [slutspelen]	a playoff
 n_slaekttraed	n	ett släktträd [släktträdet] .: släktträd [släktträden]	a family tree
 n_snack	n	ett snack [snacket] .: snacks [snacksen]	a snack
+n_spraak	n	ett språk [språket] .: språk [språken]	a language
 n_spaar	n	ett spår [spåret] .: spår [spåren]	a rail
 n_stadshus	n	ett stadshus [stadshuset] .: stadshus [stadshusen]	a city hall
 n_stadssafari	n	ett stadssafari [stadssafarit] .: stadssafaris [stadssafarisarna]	a city safari
@@ -1235,6 +1230,7 @@ n_svarsalternativ	n	ett svarsalternativ [svarsalternativet] .: svarsalternativ [
 n_syskon	n	ett syskon [syskonet] .: syskon [syskonen]	a sibling
 n_syskonbarn	n	ett syskonbarn [syskonbarnet] .: syskonbarn [syskonbarnen]	a niece / nephew
 n_system	n	ett system [systemet] .: system [systemen]	a system
+n_saett	n	ett sätt [sättet] .: sätt [sätten]	a way (method)
 n_tacobroed	n	ett tacobröd [tacobrödet] .: tacobröd [tacobröden]	a tortilla
 n_te	n	ett te [teet] .: teer [teerna]	a tea
 n_techbolag	n	ett techbolag [techbolaget] .: techbolag [techbolagen]	a tech company
@@ -1316,18 +1312,32 @@ phr_bestaemd_form	phr	bestämd form	definite form
 phr_bo_ihop	phr	bo ihop	live together
 phr_byta_buss	phr	byta buss	change buses
 phr_baade_x_och_y	phr	både X och Y	both X and Y
+phr_daa_ska_vi_se	phr	då ska vi se	let's see
+phr_extra_kostnad	phr	extra kostnad	extra cost
+phr_fler_saker	phr	fler saker	more things
+phr_flytta_ihop	phr	flytta ihop	move in together
+phr_frisk_luft	phr	frisk luft	fresh air
+phr_faa_barn	phr	få barn	have children
 phr_foer_x_aar_seda	phr	för X år sedan	X years ago
 phr_foerra_maanaden	phr	förra månaden	last month
 phr_foerra_veckan	phr	förra veckan	last week
 phr_foerra_aaret	phr	förra året	last year
+phr_foersta_gaangen	phr	första gången	first time
+phr_gamla_stan	phr	gamla stan	Old Town
+phr_ganska_mycket	phr	ganska mycket	pretty much
+phr_gaa_av	phr	gå av	get off
 phr_gaa_i_skolan	phr	gå i skolan	go to school
 phr_gaa_i_tvaaan	phr	gå i tvåan	in second grade
 phr_gaa_och_laegga_s	phr	gå och lägga sig	go to bed
 phr_gaa_paa_gym	phr	gå på gym (går, gick, gått)	go to the gym
 phr_gaa_paa_museum	phr	gå på museum	go to a museum
 phr_gaa_ut_med_hund	phr	gå ut med hunden	walk the dog
+phr_halva_priset	phr	halva priset	half price
 phr_hela_dagen	phr	hela dagen	all day
-phr_hela_helgen	phr	hela helgen	all weekend
+phr_hela_helgen	phr	hela helgen (phr)	all weekend
+phr_hemma_hos_x	phr	hemma hos X (phr)	at the home of X
+phr_hoppa_fallskaer	phr	hoppa fallskärm	go skydiving
+phr_haer_borta	phr	här borta	over here
 phr_i_dagens_vaerde	phr	i dagens värde	in today's value
 phr_i_gaar	phr	i går	yesterday
 phr_i_helgen	phr	i helgen	this weekend
@@ -1344,11 +1354,27 @@ phr_i_staellet	phr	i stället	instead
 phr_i_saa_fall	phr	i så fall	in that case
 phr_i_tisdags	phr	i tisdags	last Tuesday
 phr_i_oevermorgon	phr	i övermorgon	the day after tomorrow
+phr_igaar_morse	phr	igår morse	yesterday morning
+phr_imorgon_bitti	phr	imorgon bitti	tomorrow morning
+phr_inget_speciellt	phr	inget speciellt	nothing special
 phr_innan_x	phr	innan X	before X (in a sequence)
+phr_inom_parentes	phr	inom parentes	in parentheses
 phr_inte_direkt	phr	inte direkt	not really
 phr_inte_precis	phr	inte precis	not exactly
 phr_inte_aen	phr	inte än	not yet
+phr_jobba_extra	phr	jobba extra	work part-time / work extra
+phr_kaffe_paa_maten	phr	kaffe på maten	coffee after the meal
+phr_komma_i_kontakt_m	phr	komma i kontakt med	get in touch with
 phr_mellan_x_och_y	phr	mellan X och Y	between X and Y
+phr_minus_10_grader	phr	minus 10 grader	minus 10 °C
+phr_mitt_i_stan	phr	mitt i stan	in the middle of the city
+phr_mitt_paa_dagen	phr	mitt på dagen	middle of the day
+phr_naagon_gaang	phr	någon gång	sometime / at some point
+phr_naagra_gaanger	phr	några gånger	a few times
+phr_obestaemd_form	phr	obestämd form	indefinite form
+phr_plus_12_grader	phr	plus 12 grader	12 °C
+phr_presens_futurum	phr	presens futurum	future tense
+phr_presens_perfekt	phr	presens perfekt	present perfect
 phr_promenera_i_x	phr	promenera i X (promenerar, promenerade, promenerat)	take a walk in X
 phr_paa_kartan	phr	på kartan	on the map
 phr_paa_landet	phr	på landet	in the countryside
@@ -1358,9 +1384,17 @@ phr_paa_stan	phr	på stan	downtown / in the city
 phr_paa_taket	phr	på taket	on the roof
 phr_paa_vintern	phr	på vintern	in the winter
 phr_paa_vaegen_hem	phr	på vägen hem	on the way home
+phr_raett_alternati	phr	rätt alternativ	correct option
+phr_sent_paa_kvaell	phr	sent på kvällen	late in the evening
+phr_staella_en_fraa	phr	ställa en fråga	pose a question
+phr_ta_bussen	phr	ta bussen	take the bus
+phr_ta_det_lugnt	phr	ta det lugnt	take it easy
 phr_ta_ett_glas_x	phr	ta ett glas X	have a glass of X
 phr_vad_x_foer	phr	vad X för	what kind of
+phr_vaerldens_mat	phr	världens mat	international food
+phr_vaexlande_vaede	phr	växlande väder	changing weather
 phr_aa_vad_synd_jag_sx	phr	Å, vad synd! Jag ska X	Oh, what a shame! I'm going to...
+phr_aaka_runt	phr	åka runt	drive around
 pn_baada	pn	båda	both
 pn_dem	pn	dem	them
 pn_dig	pn	dig	you (obj)
@@ -3257,6 +3291,7 @@ v_ladda_ner	v	att ladda ner (laddar, laddade, har laddat)	to download
 v_laga_mat	v	att laga mat (lagar, lagade, har lagat)	to cook
 v_leka	v	att leka (leker, lekte, har lekt)	to play
 v_ligga	v	att ligga (ligger, låg, har legat)	to be located
+v_luktsuddgummi	v	att luktsuddgummi (luktsuddgummit, suddgummin, har suddgummina)	to scented eraser
 v_lyssna	v	att lyssna (lyssnar, lyssnade, har lyssnat)	to listen
 v_laegga	v	att lägga (lägger, lade, har lagt)	to lay / put down
 v_laemna	v	att lämna (lämnar, lämnade, har lämnat)	to submit / hand in
@@ -3334,6 +3369,7 @@ v_stoppa	v	att stoppa (stoppar, stoppade, har stoppat)	to stop
 v_stryka_under	v	att stryka under (stryker, strök, har strukit)	to underline
 v_staella_fraagor	v	att ställa frågor (ställer, ställde, har ställt)	to ask questions
 v_staella_ihop	v	att ställa ihop	to put together
+v_suddgummi	v	att suddgummi (suddgummit, suddgummin, har suddgummina)	to eraser
 v_saega	v	att säga (säger, sa, har sagt)	to say
 v_saelja	v	att sälja (säljer, sålde, har sålt)	to sell
 v_saetta	v	att sätta (sätter, satte, har satt)	to put
