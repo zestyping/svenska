@@ -8,7 +8,6 @@ u_braaka		bråka	quarrel / struggle
 u_baesta		bästa	best
 u_cirka		cirka	approximately
 u_de		de	they
-u_demonstrativa_p		demonstrativa pronomen	demonstrative pronouns
 u_den_det		den / det	it
 u_designprylar		designprylar	design stuff
 u_dialog		dialog	dialogue
@@ -22,7 +21,6 @@ u_elev		elev	student
 u_eller		eller	or
 u_engelska		engelska	English (language)
 u_flera		flera	several
-u_flera_gaanger		flera gånger	several times
 u_framme		framme	arrived
 u_franska		franska	French (language)
 u_fraan		från	from
@@ -35,8 +33,6 @@ u_gaerna		gärna	gladly / willingly
 u_hem		hem	home (to)
 u_hemifraan		hemifrån	from home
 u_hemma		hemma	at home
-u_hur_maanga		hur många?	how many?
-u_husdjur		husdjur	pet
 u_haer		här	here
 u_i		i	in / at
 u_ibland		ibland	sometimes
@@ -49,15 +45,12 @@ u_jag		jag	I
 u_japanska		japanska	Japanese (language)
 u_jordgubbslukt		jordgubbslukt	strawberry scent
 u_ju		ju	you know
-u_just_nu		just nu	right now
 u_jaettekul		jättekul	a lot of fun
 u_jaettemaanga		jättemånga	a huge number
 u_kafaegare		kaféägare	café owner
 u_kanske		kanske	maybe
 u_komma		komma	come
-u_krossade_tomate		krossade tomater	crushed tomatoes
 u_krukvaext		krukväxt	potted plant
-u_krya_paa_dig		krya på dig!	get well
 u_koek		kök	kitchen
 u_koeksgrejer		köksgrejer	kitchen stuff
 u_koersbaerstomat		körsbärstomater	cherry tomatoes
@@ -75,7 +68,6 @@ u_laenge		länge	a long time / long
 u_laerare		lärare	teacher
 u_laesa		läsa	read
 u_laana		låna	borrow
-u_man_trodde		man trodde	people believed
 u_markera		markera	mark
 u_med		med	with
 u_men		men	but
@@ -98,7 +90,6 @@ u_olika_saett		olika sätt	different ways
 u_om_10_dagar		om 10 dagar	in 10 days
 u_om_inte		om inte	if not
 u_ord		ord	word
-u_plugga_till		plugga till	study to be
 u_portugisiska		portugisiska	Portuguese (language)
 u_prata_engelska		prata engelska	speak English
 u_presens		presens	present tense
@@ -107,14 +98,12 @@ u_pyttelite		pyttelite	a tiny bit
 u_rakt_fram		rakt fram	straight ahead
 u_rea		rea	sale
 u_redan		redan	already
-u_relativt_pronom		relativt pronomen	relative pronoun
 u_retroflexer		retroflexer	retroflexes
 u_ringa_in		ringa in	circle
 u_rivstart		rivstart	flying start
 u_ruta		ruta	box / square
 u_rysare		rysare	thriller / horror
 u_roed_dag		röd dag	public holiday
-u_sammansatta_ord		sammansatta ord	compound words
 u_semesterplan		semesterplan	holiday plan
 u_serie		serie	series
 u_sida		sida	page
@@ -123,14 +112,10 @@ u_skorpa		skorpa	rusk
 u_skulle		skulle	would / was going to
 u_slut		slut	finished / run out
 u_som		som	as / that / who
-u_sova_gott		sova gott	sleep well
-u_sova_paa_saken		sova på saken	sleep on it
 u_spanska		spanska	Spanish (language)
 u_spara		spara	save
-u_spela_roll		spela roll	matter
 u_spraak		språk	language
 u_startup		startup	startup
-u_staenga_av		stänga av	shut off
 u_suddgummi		suddgummi	eraser
 u_svenska		svenska	Swedish (language)
 u_saellan		sällan	rarely
@@ -139,14 +124,10 @@ u_saa_laenge		så länge	meanwhile / in the meantime
 u_ta_en_aw		ta en AW	go for after-work drinks
 u_tack		tack	thank you
 u_tala		tala	speak
-u_till_hoeger		till höger	to the right
-u_till_vaenster		till vänster	to the left
 u_tillsammans		tillsammans	together
 u_tja		tja	well
-u_tjaena_pengar		tjäna pengar	earn money
 u_traeningsklaede		träningskläder	sportswear
 u_turkiska		turkiska	Turkish (language)
-u_taenk_dig_att		tänk dig att	imagine that
 u_upp		upp	up
 u_uppgift		uppgift	task
 u_ut		ut	out
@@ -156,12 +137,9 @@ u_vad_bra		vad bra	that's great
 u_vakna_av		vakna av	wake up from
 u_varandra		varandra	each other
 u_varfoer		varför	why
-u_varfoer_inte		varför inte	why not
 u_varifraan		varifrån	from where
 u_varje		varje	each / every
-u_varje_dag		varje dag	every day
 u_vart		vart	where to
-u_vattna_blommor		vattna blommor	water the flowers
 u_vem		vem?	who?
 u_verkligen		verkligen	really
 u_vid_floden		vid floden	by the river
@@ -1312,9 +1290,11 @@ phr_bestaemd_form	phr	bestämd form	definite form
 phr_bo_ihop	phr	bo ihop	live together
 phr_byta_buss	phr	byta buss	change buses
 phr_baade_x_och_y	phr	både X och Y	both X and Y
+phr_demonstrativa_p	phr	demonstrativa pronomen	demonstrative pronouns
 phr_daa_ska_vi_se	phr	då ska vi se	let's see
 phr_extra_kostnad	phr	extra kostnad	extra cost
 phr_fler_saker	phr	fler saker	more things
+phr_flera_gaanger	phr	flera gånger	several times
 phr_flytta_ihop	phr	flytta ihop	move in together
 phr_frisk_luft	phr	frisk luft	fresh air
 phr_faa_barn	phr	få barn	have children
@@ -1363,8 +1343,11 @@ phr_inte_direkt	phr	inte direkt	not really
 phr_inte_precis	phr	inte precis	not exactly
 phr_inte_aen	phr	inte än	not yet
 phr_jobba_extra	phr	jobba extra	work part-time / work extra
+phr_just_nu	phr	just nu	right now
 phr_kaffe_paa_maten	phr	kaffe på maten	coffee after the meal
 phr_komma_i_kontakt_m	phr	komma i kontakt med	get in touch with
+phr_krossade_tomate	phr	krossade tomater	crushed tomatoes
+phr_man_trodde	phr	man trodde	people believed
 phr_mellan_x_och_y	phr	mellan X och Y	between X and Y
 phr_minus_10_grader	phr	minus 10 grader	minus 10 °C
 phr_mitt_i_stan	phr	mitt i stan	in the middle of the city
@@ -1372,6 +1355,7 @@ phr_mitt_paa_dagen	phr	mitt på dagen	middle of the day
 phr_naagon_gaang	phr	någon gång	sometime / at some point
 phr_naagra_gaanger	phr	några gånger	a few times
 phr_obestaemd_form	phr	obestämd form	indefinite form
+phr_plugga_till_x	phr	plugga till X	study to be an X
 phr_plus_12_grader	phr	plus 12 grader	12 °C
 phr_presens_futurum	phr	presens futurum	future tense
 phr_presens_perfekt	phr	presens perfekt	present perfect
@@ -1384,13 +1368,25 @@ phr_paa_stan	phr	på stan	downtown / in the city
 phr_paa_taket	phr	på taket	on the roof
 phr_paa_vintern	phr	på vintern	in the winter
 phr_paa_vaegen_hem	phr	på vägen hem	on the way home
+phr_relativt_pronom	phr	relativt pronomen	relative pronoun
 phr_raett_alternati	phr	rätt alternativ	correct option
+phr_sammansatta_ord	phr	sammansatta ord	compound words
 phr_sent_paa_kvaell	phr	sent på kvällen	late in the evening
+phr_sova_gott	phr	sova gott	sleep well
+phr_sova_paa_saken	phr	sova på saken	sleep on it
+phr_spela_roll	phr	spela roll	matter
 phr_staella_en_fraa	phr	ställa en fråga	pose a question
+phr_staenga_av	phr	stänga av	switch off
 phr_ta_bussen	phr	ta bussen	take the bus
 phr_ta_det_lugnt	phr	ta det lugnt	take it easy
 phr_ta_ett_glas_x	phr	ta ett glas X	have a glass of X
+phr_till_hoeger	phr	till höger	to the right
+phr_till_vaenster	phr	till vänster	to the left
+phr_tjaena_pengar	phr	tjäna pengar	earn money
+phr_taenk_dig_att	phr	tänk dig att	imagine that
 phr_vad_x_foer	phr	vad X för	what kind of
+phr_varje_dag	phr	varje dag	every day
+phr_vattna_blommor	phr	vattna blommor	water the flowers
 phr_vaerldens_mat	phr	världens mat	international food
 phr_vaexlande_vaede	phr	växlande väder	changing weather
 phr_aa_vad_synd_jag_sx	phr	Å, vad synd! Jag ska X	Oh, what a shame! I'm going to...
@@ -2054,6 +2050,7 @@ s_hur_kommer_vi_tx	s	Hur kommer vi till ...?	How do we get to ...?
 s_hur_mycket_faar_dk	s	Hur mycket får de kosta?	How much can they cost?
 s_hur_mycket_kost_d	s	Hur mycket kostar den?	How much does it cost?
 s_hur_mycket_kost_i	s	Hur mycket kostar inträdet?	How much does the admission cost?
+s_hur_maanga	s	Hur många?	How many?
 s_hur_maar_du	s	Hur mår du?	How are you?
 s_hur_ska_vi_goer_mx	s	Hur ska vi göra med ...?	What should we do about ...?
 s_hur_saa	s	Hur så?	How so?
@@ -2916,6 +2913,7 @@ s_var_tyst	s	Var tyst!	Be silent!
 s_var_aer_gaffeln	s	Var är gaffeln?	Where is the fork?
 s_var_aer_min_vae	s	Var är min väska?	Where is my bag?
 s_var_aer_station	s	Var är stationen?	Where is the station?
+s_varfoer_inte	s	Varför inte?	Why not?
 s_varfoer_aer_du_s	s	Varför är du sen?	Why are you late?
 s_varifraan_komme_b	s	Varifrån kommer bussen?	From where does the bus come?
 s_varifraan_komme_d	s	Varifrån kommer du?	Where are you from?
