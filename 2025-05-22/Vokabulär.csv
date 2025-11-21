@@ -84,7 +84,7 @@
 "historia (historien, historier, historierna)<br><i>Jag studerar historia på universitetet.</i>","history<br><i>I study history at university.</i>"
 "analysera (analyserar, analyserade, analyserat)<br><i>Forskare analyserar data varje dag.</i>","analyse<br><i>Researchers analyse data every day.</i>"
 "system (systemet, system, systemen)<br><i>Detta system fungerar bra.</i>","system<br><i>This system works well.</i>"
-"bredvid (prep)<br><i>Boken ligger bredvid datorn.</i>","next to<br><i>The book is next to the computer.</i>"
+"bredvid X (prep)<br><i>Boken ligger bredvid datorn.</i>","next to X<br><i>The book is next to the computer.</i>"
 "byta roller (byter, bytte, bytt)<br><i>Barnen bytte roller i leken.</i>","change roles<br><i>The children changed roles in the game.</i>"
 "variera (varierar, varierade, varierat)<br><i>Läraren varierar sina uppgifter varje vecka.</i>","vary<br><i>The teacher varies his/her tasks every week.</i>"
 "brädspel (brädspelet, brädspel, brädspelen)<br><i>Vi spelar ett brädspel ikväll.</i>","a boardgame<br><i>We are playing a boardgame tonight.</i>"

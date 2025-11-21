@@ -259,7 +259,7 @@
 "mittemot","opposite"
 "mellan X och Y","between X and Y"
 "på<br><i>Kiosken ligger på torget.</i>","on<br><i>The kiosk is located on the square.</i>"
-"vid<br><i>Synagogan ligger vid Prinsesstorget.</i>","at, by<br><i>The synagogue is located at Princess Square.</i>"
+"vid X (prep)<br><i>Synagogan ligger vid Prinsesstorget.</i>","by / at X<br><i>The synagogue is located at Princess Square.</i>"
 "i<br><i>Puben ligger i korsningen Kungsgatan/Nygatan.</i>","in, at<br><i>The pub is located in the intersection of Kungsgatan/Nygatan.</i>"
 "Hur kommer vi till ...?","How do we get to ...?"
 "bageri (bageriet, bagerier, bagerierna)<br><i>Vi köpte bröd på bageriet.</i>","bakery<br><i>We bought bread at the bakery.</i>"

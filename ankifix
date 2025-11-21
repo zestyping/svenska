@@ -73,17 +73,18 @@ def fix_sv(sv, tags):
         return sv, 'q'
     if sv.split().count('...') == 1:
         sv = sv.replace('...', 'X')
-    if re.match(r'^[A-ZÄÅÖ][a-zäåö]+!$', sv):
-        return sv, 's'
-    if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
-        return sv, 'phr'
-    if re.match(r'^(förra|hela|i|inte|på) [a-zäåö]', sv):
-        return sv, 'phr'
-    if 'X' in sv.split():
-        return sv, 'phr'
     sv, tags = split_pos(sv, tags)
     if sv.startswith('*'):
         return sv[1:], tags
+    if not tags:
+        if re.match(r'^[A-ZÄÅÖ][a-zäåö]+!$', sv):
+            return sv, 's'
+        if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
+            return sv, 'phr'
+        if re.match(r'^(förra|hela|i|inte|på) [a-zäåö]', sv):
+            return sv, 'phr'
+        if 'X' in sv.split():
+            return sv, 'phr'
     match = re.search(r'^([^(]+) \(([^,)]+(, [^,)]+)*)\)\s*$', sv)
     if match:
         base = match.group(1)
