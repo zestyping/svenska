@@ -78,7 +78,7 @@ adj_hoegutbildad	adj	högutbildad / högutbildat .: högutbildade	highly educate
 adj_huslig	adj	huslig / husligt .: husliga	domestic; homey
 adj_indisk	adj	indisk / indiskt .: indiska	Indian
 adj_informell	adj	informell / informellt .: informella	informal
-adj_inre	adj	inre (inre, inre)	inner (adj)
+adj_inre	adj	inre	inner (adj)
 adj_instaelld	adj	inställd / inställt .: inställda	canceled
 adj_internationell	adj	internationell / internationellt .: internationella	international
 adj_intressant	adj	intressant / intressant .: intressanta	interesting
@@ -114,10 +114,10 @@ adj_moerk	adj	mörk / mörkt .: mörka	dark
 adj_motsatt	adj	motsatt / motsatt .: motsatta	opposite (adj)
 adj_mysig	adj	mysig / mysigt .: mysiga	cozy
 adj_naagon	adj	någon / något .: några	any / someone
-adj_naera	adj	nära / nära .: nära	near (adj)
+adj_naera	adj	nära	near (adj)
 adj_naesta	adj	nästa	next (adj)
 adj_nationell	adj	nationell / nationellt .: nationella	national
-adj_nedre	adj	nedre (nedre, nedre)	lower (adj)
+adj_nedre	adj	nedre	lower (adj)
 adj_negativ	adj	negativ / negativt .: negativa	negative
 adj_neongroen	adj	neongrön / neongrönt .: neongröna	neon green
 adj_nervoes	adj	nervös / nervöst .: nervösa	nervous
@@ -132,7 +132,7 @@ adj_obetonad	adj	obetonad / obetonat .: obetonade	unstressed
 adj_oeppen	adj	öppen / öppet .: öppna	open
 adj_oestlig	adj	östlig / östligt .: östliga	eastern
 adj_oevertygad	adj	övertygad / övertygat .: övertygade	convinced
-adj_oevre	adj	övre (övre, övre)	upper (adj)
+adj_oevre	adj	övre	upper (adj)
 adj_officiell	adj	officiell / officiellt .: officiella	official
 adj_ogift	adj	ogift / ogift .: ogifta	unmarried
 adj_ointressant	adj	ointressant / ointressant .: ointressanta	uninteresting
@@ -228,7 +228,7 @@ adj_viktig	adj	viktig / viktigt .: viktiga	important
 adj_viss	adj	viss / visst .: vissa	certain / specific
 adj_vit	adj	vit / vitt .: vita	white
 adj_vuxen	adj	vuxen / vuxet .: vuxna	adult
-adj_yttre	adj	yttre (yttre, yttre)	outer (adj)
+adj_yttre	adj	yttre	outer (adj)
 adv_absolut	adv	absolut	absolutely
 adv_aendaa	adv	ändå	still / anyway (adv)
 adv_aldrig	adv	aldrig	never
