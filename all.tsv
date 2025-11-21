@@ -443,7 +443,7 @@ n_farfar	count n	<span class="en">en farfar [farfadern] .: farfäder [farfädern
 n_farmor	count n	<span class="en">en farmor [farmodern] .: farmödrar [farmödrarna]</span>	a paternal grandmother
 n_faster	count n	<span class="en">en faster [fastern] .: fastrar [fastrarna]</span>	a paternal aunt
 n_favorit	count n	<span class="en">en favorit [favoriten] .: favoriter [favoriterna]</span>	a favorite
-n_favoritkaf	count n	<span class="ett">ett favoritkafé [favoritkaféet] .: favoritkaféer [favoritkaféerna]</span>	a favourite café
+n_favoritkafe	count n	<span class="ett">ett favoritkafé [favoritkaféet] .: favoritkaféer [favoritkaféerna]</span>	a favourite café
 n_favoritplats	count n	<span class="en">en favoritplats [favoritplatsen] .: favoritplatser [favoritplatserna]</span>	a favourite place
 n_favoritpub	count n	<span class="en">en favoritpub [favoritpuben] .: favoritpubar [favoritpubarna]</span>	a favourite pub
 n_favoritrestaura	count n	<span class="en">en favoritrestaurang [favoritrestaurangen] .: favoritrestauranger [favoritrestaurangerna]</span>	a favourite restaurant
@@ -464,7 +464,7 @@ n_fisk	count n	<span class="en">en fisk [fisken] .: fiskar [fiskarna]</span>	a f
 n_fisksoppa	count n	<span class="en">en fisksoppa [fisksoppan] .: fisksoppor [fisksopporna]</span>	a fish soup
 n_fjaell	count n	<span class="ett">ett fjäll [fjället] .: fjäll [fjällen]</span>	a mountain
 n_fjaellstation	count n	<span class="en">en fjällstation [fjällstationen] .: fjällstationer [fjällstationerna]</span>	a mountain station
-n_flaeskfil	count n	<span class="en">en fläskfilé [fläskfilén] .: fläskfiléer [fläskfiléerna]</span>	a pork tenderloin
+n_flaeskfile	count n	<span class="en">en fläskfilé [fläskfilén] .: fläskfiléer [fläskfiléerna]</span>	a pork tenderloin
 n_flaska	count n	<span class="en">en flaska [flaskan] .: flaskor [flaskorna]</span>	a bottle
 n_flicka	count n	<span class="en">en flicka [flickan] .: flickor [flickorna]</span>	a girl
 n_flyg	count n	<span class="ett">ett flyg [flyget] .: flyg [flygen]</span>	a flight
@@ -612,7 +612,7 @@ n_huvudspraak	count n	<span class="ett">ett huvudspråk [huvudspråket] .: huvud
 n_huvudstad	count n	<span class="en">en huvudstad [huvudstaden] .: huvudstäder [huvudstäderna]</span>	a capital city
 n_hygien	mass n	<span class="en">hygien [hygienen]</span>	hygiene
 n_hylla	count n	<span class="en">en hylla [hyllan] .: hyllor [hyllorna]</span>	a shelf
-n_id	count n	<span class="en">en idé [idén] .: idéer [idéerna]</span>	an idea
+n_ide	count n	<span class="en">en idé [idén] .: idéer [idéerna]</span>	an idea
 n_ikon	count n	<span class="en">en ikon [ikonen] .: ikoner [ikonerna]</span>	an icon
 n_illustration	count n	<span class="en">en illustration [illustrationen] .: illustrationer [illustrationerna]</span>	an illustration
 n_indien	mass n	Indien	India
@@ -658,8 +658,8 @@ n_kabel	count n	<span class="en">en kabel [kabeln] .: kablar [kablarna]</span>	a
 n_kaella	count n	<span class="en">en källa [källan] .: källor [källorna]</span>	a source
 n_kaerlek	count n	<span class="en">en kärlek [kärleken] .: kärlekar [kärlekarna]</span>	a love
 n_kaernteknik	mass n	<span class="en">kärnteknik [kärntekniken]</span>	nuclear technology
-n_kaf	count n	<span class="ett">ett kafé [kaféet] .: kaféer [kaféerna]</span>	a café
-n_kafaegare	count n	<span class="en">en kaféägare [kaféägaren] .: kaféägare [kaféägarna]</span>	a café owner
+n_kafe	count n	<span class="ett">ett kafé [kaféet] .: kaféer [kaféerna]</span>	a café
+n_kafeaegare	count n	<span class="en">en kaféägare [kaféägaren] .: kaféägare [kaféägarna]</span>	a café owner
 n_kaffe	count n	<span class="ett">ett kaffe [kaffet] .: kaffen [kaffena]</span>	a coffee
 n_kaka	count n	<span class="en">en kaka [kakan] .: kakor [kakorna]</span>	a cookie, biscuit
 n_kallbadhus	count n	<span class="ett">ett kallbadhus [kallbadhuset] .: kallbadhus [kallbadhusen]</span>	a cold bath facility
@@ -761,7 +761,7 @@ n_kvalitet	mass n	<span class="en">kvalitet [kvaliteten]</span>	quality
 n_kvinna	count n	<span class="en">en kvinna [kvinnan] .: kvinnor [kvinnorna]</span>	a woman
 n_kvinnonamn	count n	<span class="ett">ett kvinnonamn [kvinnonamnet] .: kvinnonamn [kvinnonamnen]</span>	a woman's name
 n_kyckling	count n	<span class="en">en kyckling [kycklingen] .: kycklingar [kycklingarna]</span>	a chicken
-n_kycklingfil	count n	<span class="en">en kycklingfilé [kycklingfilén] .: kycklingfiléer [kycklingfiléerna]</span>	a chicken fillet
+n_kycklingfile	count n	<span class="en">en kycklingfilé [kycklingfilén] .: kycklingfiléer [kycklingfiléerna]</span>	a chicken fillet
 n_kyrka	count n	<span class="en">en kyrka [kyrkan] .: kyrkor [kyrkorna]</span>	a church
 n_kyrkby	count n	<span class="en">en kyrkby [kyrkbyn] .: kyrkbyar [kyrkbyarna]</span>	a church village
 n_laat	count n	<span class="en">en låt [låten] .: låtar [låtarna]</span>	a song
@@ -871,7 +871,7 @@ n_mormor	count n	<span class="en">en mormor [mormodern] .: mormödrar [mormödra
 n_morot	count n	<span class="en">en morot [moroten] .: morötter [morötterna]</span>	a carrot
 n_morotskaka	count n	<span class="en">en morotskaka [morotskakan] .: morotskakor [morotskakorna]</span>	a carrot cake
 n_morsdag	count n	<span class="en">en morsdag [morsdagen] .: morsdagar [morsdagarna]</span>	a Mother's Day
-n_mosk	count n	<span class="en">en moské [moskén] .: moskéer [moskéerna]</span>	a mosque
+n_moske	count n	<span class="en">en moské [moskén] .: moskéer [moskéerna]</span>	a mosque
 n_moster	count n	<span class="en">en moster [mostern] .: mostrar [mostrarna]</span>	a maternal aunt
 n_motorcykel	count n	<span class="en">en motorcykel [motorcykeln] .: motorcyklar [motorcyklarna]</span>	a motorbike
 n_motorsport	count n	<span class="en">en motorsport [motorsporten] .: motorsporter [motorsporterna]</span>	a motorsport
@@ -938,7 +938,7 @@ n_optiker	count n	<span class="en">en optiker [optikern] .: optiker [optikerna]<
 n_ord	count n	<span class="ett">ett ord [ordet] .: ord [orden]</span>	a word
 n_ordfoeljd	mass n	<span class="en">ordföljd [ordföljden]</span>	word order
 n_ordningstal	count n	<span class="ett">ett ordningstal [ordningstalet] .: ordningstal [ordningstalen]</span>	an ordinal number
-n_orkid	count n	<span class="en">en orkidé [orkidén] .: orkidéer [orkidéerna]</span>	an orchid
+n_orkide	count n	<span class="en">en orkidé [orkidén] .: orkidéer [orkidéerna]</span>	an orchid
 n_orm	count n	<span class="en">en orm [ormen] .: ormar [ormarna]</span>	a snake
 n_ostbaage	count n	<span class="en">en ostbåge [ostbågen] .: ostbågar [ostbågarna]</span>	a cheese puff
 n_ostpaj	count n	<span class="en">en ostpaj [ostpajen] .: ostpajar [ostpajarna]</span>	a cheese quiche
@@ -1261,7 +1261,7 @@ n_tjur	count n	<span class="en">en tjur [tjuren] .: tjurar [tjurarna]</span>	a b
 n_toapapper	count n	<span class="ett">ett toapapper [toapappret] .: toapapper [toapappren]</span>	a toilet paper
 n_tobak	mass n	<span class="en">tobak [tobaken]</span>	tobacco
 n_tomat	count n	<span class="en">en tomat [tomaten] .: tomater [tomaterna]</span>	a tomato
-n_tomatpur	count n	<span class="en">en tomatpuré [tomatpurén] .: tomatpuréer [tomatpuréerna]</span>	a tomato paste
+n_tomatpure	count n	<span class="en">en tomatpuré [tomatpurén] .: tomatpuréer [tomatpuréerna]</span>	a tomato paste
 n_ton	count n	<span class="en">en ton [tonen] .: toner [tonerna]</span>	a pitch
 n_torg	count n	<span class="ett">ett torg [torget] .: torg [torgen]</span>	a square
 n_torsdag	count n	<span class="en">en torsdag [torsdagen] .: torsdagar [torsdagarna]</span>	a Thursday
@@ -1950,7 +1950,7 @@ s_en_stor_musikfe_hvs	s	En stor musikfestival hålls varje sommar.	A large music
 s_en_tjej_i_klass_hmml	s	En tjej i klassen hjälper mig med läxan.	A girl in the class is helping me with homework.
 s_en_varm_troeja_bpk	s	En varm tröja behövs på kvällarna.	A warm sweater is needed in the evenings.
 s_en_veganbrownie_aguap	s	En veganbrownie är gjord utan animaliska produkter.	A vegan brownie is made without animal products.
-s_entrn_aer_grati_fb	s	Entrén är gratis för barn.	Admission is free for children.
+s_entren_aer_grat_fb	s	Entrén är gratis för barn.	Admission is free for children.
 s_estland_ligger_vo	s	Estland ligger vid Östersjön.	Estonia lies by the Baltic Sea.
 s_ett_aar_har_tol_m	s	Ett år har tolv månader.	A year has twelve months.
 s_ett_fruktigt_me_an	s	Ett fruktigt mellanmål är nyttigt.	A fruity snack is healthy.
@@ -2835,8 +2835,8 @@ s_ju_baettre_dest_d	s	Ju bättre, desto dyrare.	The better, the more expensive.
 s_julen_aer_i_dec	s	Julen är i december.	Christmas is in December.
 s_just_det	s	Just det!	That's right!
 s_just_nu_har_vi_rpt	s	Just nu har vi rabatt på täcken.	Right now we have a discount on duvets.
-s_kafaegaren_bjoe_opk	s	Kaféägaren bjöd oss på kaffe.	The café owner offered us coffee.
-s_kafet_ligger_ih	s	Kaféet ligger i hörnet.	The café is on the corner.
+s_kafeaegaren_bjo_opk	s	Kaféägaren bjöd oss på kaffe.	The café owner offered us coffee.
+s_kafeet_ligger_ih	s	Kaféet ligger i hörnet.	The café is on the corner.
 s_kaffe_ger_mig_mepm	s	Kaffe ger mig mer energi på morgonen.	Coffee gives me more energy in the morning.
 s_kaffe_innehaall_k	s	Kaffe innehåller koffein.	Coffee contains caffeine.
 s_kaffe_och_kaka_pbi	s	Kaffe och kaka passar bra ihop.	Coffee and cake go well together.

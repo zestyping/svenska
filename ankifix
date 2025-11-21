@@ -203,6 +203,7 @@ def generate_guid(sv, tags):
     prefix = (' ' + prefix + ' ').replace(' mass ', ' ').replace(' count ', ' ')
     prefix = prefix.strip()
     text = sv.lower().replace('ä', 'ae').replace('å', 'aa').replace('ö', 'oe')
+    text = text.replace('é', 'e')
     text = text.replace('...', 'x')
     text = re.sub(r'\(.*\)', '', text)
     text = re.sub(r'\[.*\]', '', text)
