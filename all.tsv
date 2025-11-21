@@ -240,7 +240,6 @@ adv_foerst	adv	först	first (adv)
 adv_fortfarande	adv	fortfarande	still (ongoing) (adv)
 adv_fram	adv	fram	front (adv)
 adv_kvar	adv	kvar	left / remaining (adv)
-conj_daer	conj	där	where (conj)
 conj_innan	conj	innan	before (conj)
 n_17_aaring	count n	<span class="en">en 17-åring [17-åringen] .: 17-åringar [17-åringarna]</span>	a 17-year-old
 n_90_saeng	count n	<span class="en">en 90-säng [sängen] .: sängar [sängarna]</span>	a single bed
@@ -3935,6 +3934,7 @@ u_vad_bra		vad bra	that's great
 u_vaeder		väder	weather
 u_vaeldigt_mycket		väldigt mycket	very much
 u_vakna_av		vakna av	wake up from
+u_var		var	where
 u_varandra		varandra	each other
 u_varfoer		varför	why
 u_varifraan		varifrån	from where
