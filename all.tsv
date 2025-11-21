@@ -19,7 +19,7 @@ adj_billig	adj	billig / billigt .: billiga	cheap
 adj_blaa	adj	blå / blått .: blåa	blue
 adj_blommig	adj	blommig / blommigt .: blommiga	floral
 adj_bostadsloes	adj	bostadslös / bostadslöst .: bostadslösa	without housing; homeless
-adj_bra	adj	bra / bra .: bra	good
+adj_bra	adj	bra	good
 adj_bred	adj	bred / brett .: breda	wide
 adj_brun	adj	brun / brunt .: bruna	brown
 adj_central	adj	central / centralt .: centrala	central
@@ -97,7 +97,6 @@ adj_klok	adj	klok / klokt .: kloka	wise
 adj_kommunal	adj	kommunal / kommunalt .: kommunala	municipal
 adj_korrekt	adj	korrekt / korrekt .: korrekta	correct
 adj_kort	adj	kort / kort .: korta	short
-adj_kriget_foerstoe_s	adj	Kriget förstör staden.	<i>The war destroys the city.</i>"bra
 adj_kul	adj	kul (kul, kul)	fun
 adj_laang	adj	lång / långt .: långa	long
 adj_laeskig	adj	läskig / läskigt .: läskiga	scary
@@ -243,1151 +242,1151 @@ adv_fram	adv	fram	front (adv)
 adv_kvar	adv	kvar	left / remaining
 conj_daer_conj	conj	där (conj	where
 conj_innan	conj	innan	before (conj)
-n_17_aaring	n	en 17-åring [17-åringen] .: 17-åringar [17-åringarna]	a 17-year-old
-n_90_saeng	n	en 90-säng [sängen] .: sängar [sängarna]	a single bed
-n_aar	n	ett år [året] .: år [åren]	a year
-n_actionfilm	n	en actionfilm [actionfilmen] .: actionfilmer [actionfilmerna]	an action movie
-n_adverb	n	ett adverb [adverbet] .: adverb [adverben]	an adverb
-n_advokat	n	en advokat [advokaten] .: advokater [advokaterna]	a lawyer
-n_aegg	n	ett ägg [ägget] .: ägg [äggen]	an egg
-n_aelg	n	en älg [älgen] .: älgar [älgarna]	a moose
-n_aelgburgare	n	en älgburgare [älgburgaren] .: älgburgare [älgburgarna]	a moose burger
-n_aelskling	n	en älskling [älsklingen] .: älsklingar [älsklingarna]	a darling
-n_aelv	n	en älv [älven] .: älvar [älvarna]	a river
-n_aepple	n	ett äpple [äpplet] .: äpplen [äpplena]	an apple
-n_aert	n	en ärt [ärtan] .: ärtor [ärtorna]	a pea
-n_aerta	n	en ärta [ärtan] .: ärtor [ärtorna]	a pea
-n_affaer	n	en affär [affären] .: affärer [affärerna]	a business
-n_aktivitet	n	en aktivitet [aktiviteten] .: aktiviteter [aktiviteterna]	an activity
-n_alfabet	n	ett alfabet [alfabetet] .: alfabet [alfabeten]	an alphabet
-n_alla	n	alla	an everyone
-n_allt	n	allt	an everything
-n_alternativ	n	ett alternativ [alternativet] .: alternativ [alternativen]	an option
-n_annons	n	en annons [annonsen] .: annonser [annonserna]	an advertisement
-n_anslutningsbuss	n	en anslutningsbuss [anslutningsbussen] .: anslutningsbussar [anslutningsbussarna]	a connecting bus
-n_anteckningsbloc	n	ett anteckningsblock [anteckningsblocket] .: anteckningsblock [anteckningsblocken]	a notebook
-n_apelsin	n	en apelsin [apelsinen] .: apelsiner [apelsinerna]	an orange
-n_app	n	en app [appen] .: appar [apparna]	an app
-n_applaad	n	en applåd [applåden] .: applåder [applåderna]	an applause
-n_april	mass n	april	April
-n_arbete	n	ett arbete [arbetet] .: arbeten [arbetena]	a work
-n_arbetskraft	mass n	arbetskraft [arbetskraften]	manpower
-n_arkitekt	n	en arkitekt [arkitekten] .: arkitekter [arkitekterna]	an architect
-n_arkitektur	n	en arkitektur [arkitekturen] .: arkitekturer [arkitekturerna]	an architecture
+n_17_aaring	count n	<span class="en">en 17-åring [17-åringen] .: 17-åringar [17-åringarna]</span>	a 17-year-old
+n_90_saeng	count n	<span class="en">en 90-säng [sängen] .: sängar [sängarna]</span>	a single bed
+n_aar	count n	<span class="ett">ett år [året] .: år [åren]</span>	a year
+n_actionfilm	count n	<span class="en">en actionfilm [actionfilmen] .: actionfilmer [actionfilmerna]</span>	an action movie
+n_adverb	count n	<span class="ett">ett adverb [adverbet] .: adverb [adverben]</span>	an adverb
+n_advokat	count n	<span class="en">en advokat [advokaten] .: advokater [advokaterna]</span>	a lawyer
+n_aegg	count n	<span class="ett">ett ägg [ägget] .: ägg [äggen]</span>	an egg
+n_aelg	count n	<span class="en">en älg [älgen] .: älgar [älgarna]</span>	a moose
+n_aelgburgare	count n	<span class="en">en älgburgare [älgburgaren] .: älgburgare [älgburgarna]</span>	a moose burger
+n_aelskling	count n	<span class="en">en älskling [älsklingen] .: älsklingar [älsklingarna]</span>	a darling
+n_aelv	count n	<span class="en">en älv [älven] .: älvar [älvarna]</span>	a river
+n_aepple	count n	<span class="ett">ett äpple [äpplet] .: äpplen [äpplena]</span>	an apple
+n_aert	count n	<span class="en">en ärt [ärtan] .: ärtor [ärtorna]</span>	a pea
+n_aerta	count n	<span class="en">en ärta [ärtan] .: ärtor [ärtorna]</span>	a pea
+n_affaer	count n	<span class="en">en affär [affären] .: affärer [affärerna]</span>	a business
+n_aktivitet	count n	<span class="en">en aktivitet [aktiviteten] .: aktiviteter [aktiviteterna]</span>	an activity
+n_alfabet	count n	<span class="ett">ett alfabet [alfabetet] .: alfabet [alfabeten]</span>	an alphabet
+n_alternativ	count n	<span class="ett">ett alternativ [alternativet] .: alternativ [alternativen]</span>	an option
+n_annons	count n	<span class="en">en annons [annonsen] .: annonser [annonserna]</span>	an advertisement
+n_anslutningsbuss	count n	<span class="en">en anslutningsbuss [anslutningsbussen] .: anslutningsbussar [anslutningsbussarna]</span>	a connecting bus
+n_anteckningsbloc	count n	<span class="ett">ett anteckningsblock [anteckningsblocket] .: anteckningsblock [anteckningsblocken]</span>	a notebook
+n_apelsin	count n	<span class="en">en apelsin [apelsinen] .: apelsiner [apelsinerna]</span>	an orange
+n_app	count n	<span class="en">en app [appen] .: appar [apparna]</span>	an app
+n_applaad	count n	<span class="en">en applåd [applåden] .: applåder [applåderna]</span>	an applause
+n_april	n	april	April
+n_arbete	count n	<span class="ett">ett arbete [arbetet] .: arbeten [arbetena]</span>	a work
+n_arbetskraft	mass n	<span class="en">arbetskraft [arbetskraften]</span>	manpower
+n_arkitekt	count n	<span class="en">en arkitekt [arkitekten] .: arkitekter [arkitekterna]</span>	an architect
+n_arkitektur	count n	<span class="en">en arkitektur [arkitekturen] .: arkitekturer [arkitekturerna]</span>	an architecture
 n_arlanda	mass n	Arlanda	Arlanda International Airport
-n_arm	n	en arm [armen] .: armar [armarna]	an arm
-n_artikel	n	en artikel [artikeln] .: artiklar [artiklarna]	an article
-n_artist	n	en artist [artisten] .: artister [artisterna]	an artist
-n_asfalt	mass n	asfalt [asfalten]	asphalt
-n_ask	n	en ask [asken] .: askar [askarna]	a box
-n_astma	mass n	astma [astman]	asthma
-n_asyl	n	en asyl [asylen] .: asyler [asylerna]	an asylum
-n_att_goera_lista	n	en att-göra-lista [att-göra-listan] .: att-göra-listor [att-göra-listorna]	a to-do list
-n_aubergine	n	en aubergine [auberginen] .: auberginer [auberginerna]	an eggplant (noun)
-n_augusti	mass n	augusti	August
-n_auktion	n	en auktion [auktionen] .: auktioner [auktionerna]	an auction
+n_arm	count n	<span class="en">en arm [armen] .: armar [armarna]</span>	an arm
+n_artikel	count n	<span class="en">en artikel [artikeln] .: artiklar [artiklarna]</span>	an article
+n_artist	count n	<span class="en">en artist [artisten] .: artister [artisterna]</span>	an artist
+n_asfalt	mass n	<span class="en">asfalt [asfalten]</span>	asphalt
+n_ask	count n	<span class="en">en ask [asken] .: askar [askarna]</span>	a box
+n_astma	mass n	<span class="en">astma [astman]</span>	asthma
+n_asyl	count n	<span class="en">en asyl [asylen] .: asyler [asylerna]</span>	an asylum
+n_att_goera_lista	count n	<span class="en">en att-göra-lista [att-göra-listan] .: att-göra-listor [att-göra-listorna]</span>	a to-do list
+n_aubergine	count n	<span class="en">en aubergine [auberginen] .: auberginer [auberginerna]</span>	an eggplant (noun)
+n_augusti	n	augusti	August
+n_auktion	count n	<span class="en">en auktion [auktionen] .: auktioner [auktionerna]</span>	an auction
 n_australien	mass n	Australien	Australia
-n_avdelning	n	en avdelning [avdelningen] .: avdelningar [avdelningarna]	a department
+n_avdelning	count n	<span class="en">en avdelning [avdelningen] .: avdelningar [avdelningarna]</span>	a department
 n_avenyn	mass n	Avenyn	Avenyn, a street in Gothenburg
-n_avsnitt	n	ett avsnitt [avsnittet] .: avsnitt [avsnitten]	an episode
-n_baat	n	en båt [båten] .: båtar [båtarna]	a boat
-n_baattur	n	en båttur [båtturen] .: båtturer [båtturerna]	a boat tour
-n_bad	n	ett bad [badet] .: bad [baden]	a swimming spot
-n_baer	n	ett bär [bäret] .: bär [bären]	a berry
-n_bag	n	en bag [bagen] .: bagar [bagarna]	a bag
-n_bagage	mass n	bagage [bagaget]	luggage
-n_bagageband	n	ett bagageband [bagagebandet] .: bagageband [bagagebanden]	a baggage carousel
-n_bagare	n	en bagare [bagaren] .: bagare [bagarna]	a baker
-n_bageri	n	ett bageri [bageriet] .: bagerier [bagerierna]	a bakery
-n_bakelse	n	en bakelse [bakelsen] .: bakelser [bakelserna]	a pastry
-n_bakning	mass n	bakning [bakningen]	baking
-n_bakprodukt	n	en bakprodukt [bakprodukten] .: bakprodukter [bakprodukterna]	a baking ingredient
-n_banan	n	en banan [bananen] .: bananer [bananerna]	a banana
-n_bank	n	en bank [banken] .: banker [bankerna]	a bank
-n_bar	n	en bar [baren] .: barer [barerna]	a bar
-n_barn	n	ett barn [barnet] .: barn [barnen]	a children
-n_barnbarn	n	ett barnbarn [barnbarnet] .: barnbarn [barnbarnen]	a grandchildren
-n_barnbarnsbarn	n	ett barnbarnsbarn [barnbarnsbarnet] .: barnbarnsbarn [barnbarnsbarnen]	a great-grandchild
-n_bastu	n	en bastu [bastun] .: bastur [basturna]	a sauna
-n_bearnaisesaas	mass n	bearnaisesås [bearnaisesåsen]	Béarnaise sauce
-n_bebis	n	en bebis [bebisen] .: bebisar [bebisarna]	a baby
-n_befolkning	mass n	befolkning [befolkningen]	population
-n_befolkningstaet	n	en befolkningstäthet [befolkningstätheten] .: befolkningstätheter [befolkningstätheterna]	a population density
-n_begravning	n	en begravning [begravningen] .: begravningar [begravningarna]	a funeral
-n_ben	n	ett ben [benet] .: ben [benen]	a leg / bone
-n_berg	n	ett berg [berget] .: berg [bergen]	a mountain
-n_bestick	n	ett bestick [besticket] .: bestick [besticken]	a cutlery
-n_betoning	mass n	betoning [betoningen]	emphasis
-n_bh	n	en BH [BH:n] .: BH:ar [BH:arna]	a bra
-n_bibliotek	n	ett bibliotek [biblioteket] .: bibliotek [biblioteken]	a library
-n_bil	n	en bil [bilen] .: bilar [bilarna]	a car
-n_bild	n	en bild [bilden] .: bilder [bilderna]	a picture
-n_biljett	n	en biljett [biljetten] .: biljetter [biljetterna]	a ticket
-n_bilresa	n	en bilresa [bilresan] .: bilresor [bilresorna]	a car trip
-n_bindestreck	n	ett bindestreck [bindestrecket] .: bindestreck [bindestrecken]	a hyphen
-n_bio	mass n	bio [bion]	cinema
-n_biograf	n	en biograf [biografen] .: biografer [biograferna]	a cinema
-n_bioteknik	n	bioteknik	a biotechnology
-n_bit_bort	n	en bit bort	a short distance away
-n_blandning	n	en blandning [blandningen] .: blandningar [blandningarna]	a mixture
+n_avsnitt	count n	<span class="ett">ett avsnitt [avsnittet] .: avsnitt [avsnitten]</span>	an episode
+n_baat	count n	<span class="en">en båt [båten] .: båtar [båtarna]</span>	a boat
+n_baattur	count n	<span class="en">en båttur [båtturen] .: båtturer [båtturerna]</span>	a boat tour
+n_bad	count n	<span class="ett">ett bad [badet] .: bad [baden]</span>	a swimming spot
+n_baer	count n	<span class="ett">ett bär [bäret] .: bär [bären]</span>	a berry
+n_bag	count n	<span class="en">en bag [bagen] .: bagar [bagarna]</span>	a bag
+n_bagage	mass n	<span class="ett">bagage [bagaget]</span>	luggage
+n_bagageband	count n	<span class="ett">ett bagageband [bagagebandet] .: bagageband [bagagebanden]</span>	a baggage carousel
+n_bagare	count n	<span class="en">en bagare [bagaren] .: bagare [bagarna]</span>	a baker
+n_bageri	count n	<span class="ett">ett bageri [bageriet] .: bagerier [bagerierna]</span>	a bakery
+n_bakelse	count n	<span class="en">en bakelse [bakelsen] .: bakelser [bakelserna]</span>	a pastry
+n_bakning	mass n	<span class="en">bakning [bakningen]</span>	baking
+n_bakprodukt	count n	<span class="en">en bakprodukt [bakprodukten] .: bakprodukter [bakprodukterna]</span>	a baking ingredient
+n_banan	count n	<span class="en">en banan [bananen] .: bananer [bananerna]</span>	a banana
+n_bank	count n	<span class="en">en bank [banken] .: banker [bankerna]</span>	a bank
+n_bar	count n	<span class="en">en bar [baren] .: barer [barerna]</span>	a bar
+n_barn	count n	<span class="ett">ett barn [barnet] .: barn [barnen]</span>	a children
+n_barnbarn	count n	<span class="ett">ett barnbarn [barnbarnet] .: barnbarn [barnbarnen]</span>	a grandchildren
+n_barnbarnsbarn	count n	<span class="ett">ett barnbarnsbarn [barnbarnsbarnet] .: barnbarnsbarn [barnbarnsbarnen]</span>	a great-grandchild
+n_bastu	count n	<span class="en">en bastu [bastun] .: bastur [basturna]</span>	a sauna
+n_bearnaisesaas	mass n	<span class="en">bearnaisesås [bearnaisesåsen]</span>	Béarnaise sauce
+n_bebis	count n	<span class="en">en bebis [bebisen] .: bebisar [bebisarna]</span>	a baby
+n_befolkning	mass n	<span class="en">befolkning [befolkningen]</span>	population
+n_befolkningstaet	count n	<span class="en">en befolkningstäthet [befolkningstätheten] .: befolkningstätheter [befolkningstätheterna]</span>	a population density
+n_begravning	count n	<span class="en">en begravning [begravningen] .: begravningar [begravningarna]</span>	a funeral
+n_ben	count n	<span class="ett">ett ben [benet] .: ben [benen]</span>	a leg / bone
+n_berg	count n	<span class="ett">ett berg [berget] .: berg [bergen]</span>	a mountain
+n_bestick	count n	<span class="ett">ett bestick [besticket] .: bestick [besticken]</span>	a cutlery
+n_betoning	mass n	<span class="en">betoning [betoningen]</span>	emphasis
+n_bh	count n	<span class="en">en BH [BH:n] .: BH:ar [BH:arna]</span>	a bra
+n_bibliotek	count n	<span class="ett">ett bibliotek [biblioteket] .: bibliotek [biblioteken]</span>	a library
+n_bil	count n	<span class="en">en bil [bilen] .: bilar [bilarna]</span>	a car
+n_bild	count n	<span class="en">en bild [bilden] .: bilder [bilderna]</span>	a picture
+n_biljett	count n	<span class="en">en biljett [biljetten] .: biljetter [biljetterna]</span>	a ticket
+n_bilresa	count n	<span class="en">en bilresa [bilresan] .: bilresor [bilresorna]</span>	a car trip
+n_bindestreck	count n	<span class="ett">ett bindestreck [bindestrecket] .: bindestreck [bindestrecken]</span>	a hyphen
+n_bio	mass n	<span class="en">bio [bion]</span>	cinema
+n_biograf	count n	<span class="en">en biograf [biografen] .: biografer [biograferna]</span>	a cinema
+n_bioteknik	n	bioteknik	biotechnology
+n_bit_bort	count n	<span class="en">en bit bort</span>	a short distance away
+n_blandning	count n	<span class="en">en blandning [blandningen] .: blandningar [blandningarna]</span>	a mixture
 n_blekinge	mass n	Blekinge	Blekinge (region in southern Sweden)
-n_blomkaal	n	en blomkål [blomkålen] .: blomkålar [blomkålarna]	a cauliflower
-n_blomma	n	en blomma [blomman] .: blommor [blommorna]	a flower
-n_blomsterhandel	n	en blomsterhandel [blomsterhandeln] .: blomsterhandlar [blomsterhandlarna]	a flower shop
+n_blomkaal	count n	<span class="en">en blomkål [blomkålen] .: blomkålar [blomkålarna]</span>	a cauliflower
+n_blomma	count n	<span class="en">en blomma [blomman] .: blommor [blommorna]</span>	a flower
+n_blomsterhandel	count n	<span class="en">en blomsterhandel [blomsterhandeln] .: blomsterhandlar [blomsterhandlarna]</span>	a flower shop
 n_bohuslaen	mass n	Bohuslän	Bohuslän (region in southwestern Sweden)
-n_bok	n	en bok [boken] .: böcker [böckerna]	a book
-n_bokhandel	n	en bokhandel [bokhandeln] .: bokhandlar [bokhandlarna]	a bookstore
-n_bokklubb	n	en bokklubb [bokklubben] .: bokklubbar [bokklubbarna]	a book club
-n_bokstav	n	en bokstav [bokstaven] .: bokstäver [bokstäverna]	a letter
-n_bokstaveringsal	n	ett bokstaveringsalfabet [bokstaveringsalfabetet] .: bokstaveringsalfabet [bokstaveringsalfabeten]	a phonetic alphabet
-n_bomb	n	en bomb [bomben] .: bomber [bomberna]	a bomb
-n_bomull	mass n	bomull [bomullen]	cotton
-n_bonusbarn	n	ett bonusbarn [bonusbarnet] .: bonusbarn [bonusbarnen]	a stepchild
-n_bonusbarnbarn	n	ett bonusbarnbarn [bonusbarnbarnet] .: bonusbarnbarn [bonusbarnbarnen]	a step-grandchild
-n_bord	n	ett bord [bordet] .: bord [borden]	a table
-n_borste	n	en borste [borsten] .: borstar [borstarna]	a brush
-n_boule	mass n	boule [boulen]	boules
-n_braak	n	ett bråk [bråket] .: bråk [bråken]	an argument (noun)
-n_braedspel	n	ett brädspel [brädspelet] .: brädspel [brädspelen]	a board game
+n_bok	count n	<span class="en">en bok [boken] .: böcker [böckerna]</span>	a book
+n_bokhandel	count n	<span class="en">en bokhandel [bokhandeln] .: bokhandlar [bokhandlarna]</span>	a bookstore
+n_bokklubb	count n	<span class="en">en bokklubb [bokklubben] .: bokklubbar [bokklubbarna]</span>	a book club
+n_bokstav	count n	<span class="en">en bokstav [bokstaven] .: bokstäver [bokstäverna]</span>	a letter
+n_bokstaveringsal	count n	<span class="ett">ett bokstaveringsalfabet [bokstaveringsalfabetet] .: bokstaveringsalfabet [bokstaveringsalfabeten]</span>	a phonetic alphabet
+n_bomb	count n	<span class="en">en bomb [bomben] .: bomber [bomberna]</span>	a bomb
+n_bomull	mass n	<span class="en">bomull [bomullen]</span>	cotton
+n_bonusbarn	count n	<span class="ett">ett bonusbarn [bonusbarnet] .: bonusbarn [bonusbarnen]</span>	a stepchild
+n_bonusbarnbarn	count n	<span class="ett">ett bonusbarnbarn [bonusbarnbarnet] .: bonusbarnbarn [bonusbarnbarnen]</span>	a step-grandchild
+n_bord	count n	<span class="ett">ett bord [bordet] .: bord [borden]</span>	a table
+n_borste	count n	<span class="en">en borste [borsten] .: borstar [borstarna]</span>	a brush
+n_boule	mass n	<span class="en">boule [boulen]</span>	boules
+n_braak	count n	<span class="ett">ett bråk [bråket] .: bråk [bråken]</span>	an argument (noun)
+n_braedspel	count n	<span class="ett">ett brädspel [brädspelet] .: brädspel [brädspelen]</span>	a board game
 n_brasilien	mass n	Brasilien	Brazil
-n_broed	n	ett bröd [brödet] .: bröd [bröden]	a bread
-n_bror	n	en bror [brodern] .: bröder [bröderna]	a brother
-n_brownie	mass n	brownie [brownien]	brownie
-n_bryggkaffe	mass n	bryggkaffe [bryggkaffet]	brewed coffee
-n_bulle	n	en bulle [bullen] .: bullar [bullarna]	a roll, bun
-n_burk	n	en burk [burken] .: burkar [burkarna]	a can
-n_buss	n	en buss [bussen] .: bussar [bussarna]	a bus
-n_byggnad	n	en byggnad [byggnaden] .: byggnader [byggnaderna]	a building
-n_bytesraett	n	en bytesrätt [bytesrätten] .: bytesrätter [bytesrätterna]	a right to exchange
+n_broed	count n	<span class="ett">ett bröd [brödet] .: bröd [bröden]</span>	a bread
+n_bror	count n	<span class="en">en bror [brodern] .: bröder [bröderna]</span>	a brother
+n_brownie	mass n	<span class="en">brownie [brownien]</span>	brownie
+n_bryggkaffe	mass n	<span class="ett">bryggkaffe [bryggkaffet]</span>	brewed coffee
+n_bulle	count n	<span class="en">en bulle [bullen] .: bullar [bullarna]</span>	a roll, bun
+n_burk	count n	<span class="en">en burk [burken] .: burkar [burkarna]</span>	a can
+n_buss	count n	<span class="en">en buss [bussen] .: bussar [bussarna]</span>	a bus
+n_byggnad	count n	<span class="en">en byggnad [byggnaden] .: byggnader [byggnaderna]</span>	a building
+n_bytesraett	count n	<span class="en">en bytesrätt [bytesrätten] .: bytesrätter [bytesrätterna]</span>	a right to exchange
 n_centralen	mass n	Centralen	the Central Station
-n_cerat	n	ett cerat [ceratet] .: cerat [ceraten]	a lip balm
-n_chans	n	en chans [chansen] .: chanser [chanserna]	a chance; opportunity
-n_chark	mass n	chark [charken]	cured meat, deli section
-n_charter	mass n	charter [chartern]	charter
-n_chips	n	ett chips [chipset] .: chips [chipsen]	a chips
-n_choklad	mass n	choklad [chokladen]	chocolate
-n_chokladboll	n	en chokladboll [chokladbollen] .: chokladbollar [chokladbollarna]	a chocolate ball
-n_cigarett	n	en cigarett [cigaretten] .: cigaretter [cigaretterna]	a cigarette
-n_citat	n	ett citat [citatet] .: citat [citaten]	a quote
-n_citron	n	en citron [citronen] .: citroner [citronerna]	a lemon
-n_cykel	mass n	cykel [cykeln]	bicycle
-n_dag	n	en dag [dagen] .: dagar [dagarna]	a day
-n_dagstur	n	en dagstur [dagsturen] .: dagsturer [dagsturerna]	a day trip
+n_cerat	count n	<span class="ett">ett cerat [ceratet] .: cerat [ceraten]</span>	a lip balm
+n_chans	count n	<span class="en">en chans [chansen] .: chanser [chanserna]</span>	a chance; opportunity
+n_chark	mass n	<span class="en">chark [charken]</span>	cured meat, deli section
+n_charter	mass n	<span class="en">charter [chartern]</span>	charter
+n_chips	count n	<span class="ett">ett chips [chipset] .: chips [chipsen]</span>	a chips
+n_choklad	mass n	<span class="en">choklad [chokladen]</span>	chocolate
+n_chokladboll	count n	<span class="en">en chokladboll [chokladbollen] .: chokladbollar [chokladbollarna]</span>	a chocolate ball
+n_cigarett	count n	<span class="en">en cigarett [cigaretten] .: cigaretter [cigaretterna]</span>	a cigarette
+n_citat	count n	<span class="ett">ett citat [citatet] .: citat [citaten]</span>	a quote
+n_citron	count n	<span class="en">en citron [citronen] .: citroner [citronerna]</span>	a lemon
+n_cykel	mass n	<span class="en">cykel [cykeln]</span>	bicycle
+n_dag	count n	<span class="en">en dag [dagen] .: dagar [dagarna]</span>	a day
+n_dagstur	count n	<span class="en">en dagstur [dagsturen] .: dagsturer [dagsturerna]</span>	a day trip
 n_dalarna	mass n	Dalarna	Dalarna (region in central Sweden)
-n_dam	n	en dam [damen] .: damer [damerna]	a lady
-n_dammsugare	n	en dammsugare [dammsugaren] .: dammsugare [dammsugarna]	a vacuum cleaner (a type of marzipan treat)
+n_dam	count n	<span class="en">en dam [damen] .: damer [damerna]</span>	a lady
+n_dammsugare	count n	<span class="en">en dammsugare [dammsugaren] .: dammsugare [dammsugarna]</span>	a vacuum cleaner (a type of marzipan treat)
 n_danmark	mass n	Danmark	Denmark
-n_danskurs	n	en danskurs [danskursen] .: danskursar [danskursarna]	a dance course
-n_dansmusik	mass n	dansmusik [dansmusiken]	dance music
-n_dataspel	n	ett dataspel [dataspelet] .: dataspel [dataspelen]	a video game
-n_dator	n	en dator [datorn] .: datorer [datorerna]	a computer
-n_datum	n	ett datum [datumet] .: datum [datumen]	a date
-n_december	mass n	december	December
-n_deckare	n	en deckare [deckaren] .: deckare [deckarna]	a crime novel
-n_dejtingapp	n	en dejtingapp [dejtingappen] .: dejtingappar [dejtingapparna]	a dating app
-n_del	n	en del [delen] .: delar [delarna]	a part
-n_deltagare	n	en deltagare [deltagaren] .: deltagare [deltagarna]	a participant
-n_deo	n	en deo [deon] .: deos [deorna]	a deodorant
-n_depression	n	en depression [depressionen] .: depressioner [depressionerna]	a depression
-n_designpryl	n	en designpryl [designprylen] .: designprylar [designprylarna]	a design object
-n_dessert	n	en dessert [desserten] .: desserter [desserterna]	a dessert
-n_destination	n	en destination [destinationen] .: destinationer [destinationerna]	a destination
-n_dialog	n	en dialog [dialogen] .: dialoger [dialogerna]	a dialogue
-n_diplomat	n	en diplomat [diplomaten] .: diplomater [diplomaterna]	a diplomat
-n_djur	n	ett djur [djuret] .: djur [djuren]	an animal
-n_doerr	n	en dörr [dörren] .: dörrar [dörrarna]	a door
-n_doftljus	n	ett doftljus [doftljuset] .: doftljus [doftljusen]	a scented candle
-n_dokumentaer	n	en dokumentär [dokumentären] .: dokumentärer [dokumentärerna]	a documentary
-n_dosa	n	en dosa [dosan] .: dosor [dosorna]	a box (small)
-n_dotter	n	en dotter [dottern] .: döttrar [döttrarna]	a daughter
-n_drama	n	ett drama [dramat] .: dramer [dramerna]	a drama
-n_dricka	n	en dricka [drickan] .: drickor [drickorna]	a drink
-n_drottning	n	en drottning [drottningen] .: drottningar [drottningarna]	a queen
+n_danskurs	count n	<span class="en">en danskurs [danskursen] .: danskursar [danskursarna]</span>	a dance course
+n_dansmusik	mass n	<span class="en">dansmusik [dansmusiken]</span>	dance music
+n_dataspel	count n	<span class="ett">ett dataspel [dataspelet] .: dataspel [dataspelen]</span>	a video game
+n_dator	count n	<span class="en">en dator [datorn] .: datorer [datorerna]</span>	a computer
+n_datum	count n	<span class="ett">ett datum [datumet] .: datum [datumen]</span>	a date
+n_december	n	december	December
+n_deckare	count n	<span class="en">en deckare [deckaren] .: deckare [deckarna]</span>	a crime novel
+n_dejtingapp	count n	<span class="en">en dejtingapp [dejtingappen] .: dejtingappar [dejtingapparna]</span>	a dating app
+n_del	count n	<span class="en">en del [delen] .: delar [delarna]</span>	a part
+n_deltagare	count n	<span class="en">en deltagare [deltagaren] .: deltagare [deltagarna]</span>	a participant
+n_deo	count n	<span class="en">en deo [deon] .: deos [deorna]</span>	a deodorant
+n_depression	count n	<span class="en">en depression [depressionen] .: depressioner [depressionerna]</span>	a depression
+n_designpryl	count n	<span class="en">en designpryl [designprylen] .: designprylar [designprylarna]</span>	a design object
+n_dessert	count n	<span class="en">en dessert [desserten] .: desserter [desserterna]</span>	a dessert
+n_destination	count n	<span class="en">en destination [destinationen] .: destinationer [destinationerna]</span>	a destination
+n_dialog	count n	<span class="en">en dialog [dialogen] .: dialoger [dialogerna]</span>	a dialogue
+n_diplomat	count n	<span class="en">en diplomat [diplomaten] .: diplomater [diplomaterna]</span>	a diplomat
+n_djur	count n	<span class="ett">ett djur [djuret] .: djur [djuren]</span>	an animal
+n_doerr	count n	<span class="en">en dörr [dörren] .: dörrar [dörrarna]</span>	a door
+n_doftljus	count n	<span class="ett">ett doftljus [doftljuset] .: doftljus [doftljusen]</span>	a scented candle
+n_dokumentaer	count n	<span class="en">en dokumentär [dokumentären] .: dokumentärer [dokumentärerna]</span>	a documentary
+n_dosa	count n	<span class="en">en dosa [dosan] .: dosor [dosorna]</span>	a box (small)
+n_dotter	count n	<span class="en">en dotter [dottern] .: döttrar [döttrarna]</span>	a daughter
+n_drama	count n	<span class="ett">ett drama [dramat] .: dramer [dramerna]</span>	a drama
+n_dricka	count n	<span class="en">en dricka [drickan] .: drickor [drickorna]</span>	a drink
+n_drottning	count n	<span class="en">en drottning [drottningen] .: drottningar [drottningarna]</span>	a queen
 n_drottninggatan	mass n	Drottninggatan	Drottninggatan (street in Stockholm)
-n_druva_vindruva	n	en druva/vindruva [druvan] .: druvor [druvorna]	a grape
-n_dryg_vecka	n	en dryg vecka	a bit more than a week
-n_dubbelsaeng	mass n	dubbelsäng [dubbelsängen]	double bed
-n_duntaecke	mass n	duntäcke [duntäcket]	down duvet
-n_dusch	n	en dusch [duschen] .: duschar [duscharna]	a shower
-n_duschkraem	mass n	duschkräm [duschkrämen]	body wash
-n_duschtvaal	n	en duschtvål [duschtvålen] .: duschtvålar [duschtvålarna]	a body wash
-n_duva	n	en duva [duvan] .: duvor [duvorna]	a dove
-n_dvaergpudel	n	en dvärgpudel [dvärgpudeln] .: dvärgpudlar [dvärgpudlarna]	a miniature poodle
-n_dynamit	mass n	dynamit [dynamiten]	dynamite
-n_efternamn	n	ett efternamn [efternamnet] .: efternamn [efternamnen]	a surname
-n_ekonom	n	en ekonom [ekonomen] .: ekonomer [ekonomerna]	an economist / financial officer
-n_ekonomi	n	en ekonomi [ekonomin] .: ekonomier [ekonomierna]	an economy / economics
-n_elektronikaffae	n	en elektronikaffär [elektronikaffären] .: elektronikaffärer [elektronikaffärerna]	an electronics store
-n_elev	n	en elev [eleven] .: elever [eleverna]	a student
-n_elsparkcykel	n	en elsparkcykel [elsparkcykeln] .: elsparkscyklar [elsparkscyklarna]	an e-scooter
-n_energi	n	en energi [energin] .: energier [energierna]	an energy
-n_energidryck	n	en energidryck [energidrycken] .: energidrycker [energidryckerna]	an energy drink
-n_erbjudande	n	ett erbjudande [erbjudandet] .: erbjudanden [erbjudandena]	an offer
+n_druva_vindruva	count n	<span class="en">en druva/vindruva [druvan] .: druvor [druvorna]</span>	a grape
+n_dryg_vecka	count n	<span class="en">en dryg vecka</span>	a bit more than a week
+n_dubbelsaeng	mass n	<span class="en">dubbelsäng [dubbelsängen]</span>	double bed
+n_duntaecke	mass n	<span class="ett">duntäcke [duntäcket]</span>	down duvet
+n_dusch	count n	<span class="en">en dusch [duschen] .: duschar [duscharna]</span>	a shower
+n_duschkraem	mass n	<span class="en">duschkräm [duschkrämen]</span>	body wash
+n_duschtvaal	count n	<span class="en">en duschtvål [duschtvålen] .: duschtvålar [duschtvålarna]</span>	a body wash
+n_duva	count n	<span class="en">en duva [duvan] .: duvor [duvorna]</span>	a dove
+n_dvaergpudel	count n	<span class="en">en dvärgpudel [dvärgpudeln] .: dvärgpudlar [dvärgpudlarna]</span>	a miniature poodle
+n_dynamit	mass n	<span class="en">dynamit [dynamiten]</span>	dynamite
+n_efternamn	count n	<span class="ett">ett efternamn [efternamnet] .: efternamn [efternamnen]</span>	a surname
+n_ekonom	count n	<span class="en">en ekonom [ekonomen] .: ekonomer [ekonomerna]</span>	an economist / financial officer
+n_ekonomi	count n	<span class="en">en ekonomi [ekonomin] .: ekonomier [ekonomierna]</span>	an economy / economics
+n_elektronikaffae	count n	<span class="en">en elektronikaffär [elektronikaffären] .: elektronikaffärer [elektronikaffärerna]</span>	an electronics store
+n_elev	count n	<span class="en">en elev [eleven] .: elever [eleverna]</span>	a student
+n_elsparkcykel	count n	<span class="en">en elsparkcykel [elsparkcykeln] .: elsparkscyklar [elsparkscyklarna]</span>	an e-scooter
+n_energi	count n	<span class="en">en energi [energin] .: energier [energierna]</span>	an energy
+n_energidryck	count n	<span class="en">en energidryck [energidrycken] .: energidrycker [energidryckerna]</span>	an energy drink
+n_erbjudande	count n	<span class="ett">ett erbjudande [erbjudandet] .: erbjudanden [erbjudandena]</span>	an offer
 n_estland	mass n	Estland	Estonia
-n_eu_medborgare	mass n	en EU-medborgare [EU-medborgaren] .: EU-medborgare [EU-medborgarna]	EU citizen
-n_eukalyptus	n	en eukalyptus [eukalyptusen] .: eukalyptusar [eukalyptusarna]	an eucalyptus
+n_eu_medborgare	count n	<span class="en">en EU-medborgare [EU-medborgaren] .: EU-medborgare [EU-medborgarna]</span>	an EU citizen
+n_eukalyptus	count n	<span class="en">en eukalyptus [eukalyptusen] .: eukalyptusar [eukalyptusarna]</span>	an eucalyptus
 n_europa	mass n	Europa	Europe
-n_ex	n	ett ex [exet] .: ex [exen]	an ex
-n_examen	n	en examen [examen] .: examina [examina]	a degree
-n_exempel	n	ett exempel [exemplet] .: exempel [exemplen]	an example
-n_explosion	n	en explosion [explosionen] .: explosioner [explosionerna]	an explosion
-n_export	n	en export [exporten] .: exporter [exporterna]	an export
-n_extrapappa	n	en extrapappa [extrapappan] .: extrapappor [extrapapporna]	a bonus dad
-n_faagel	n	en fågel [fågeln] .: fåglar [fåglarna]	a bird
-n_fabrik	n	en fabrik [fabriken] .: fabriker [fabrikerna]	a factory
-n_faerg	n	en färg [färgen] .: färger [färgerna]	a color
-n_faerja	n	en färja [färjan] .: färjor [färjorna]	a ferry
-n_faerjeterminal	n	en färjeterminal [färjeterminalen] .: färjeterminaler [färjeterminalerna]	a ferry terminal
-n_fakta	mass n	fakta [faktan]	facts
-n_falafelsallad	n	en falafelsallad [falafelsalladen] .: falafelsallader [falafelsalladerna]	a falafel salad
-n_familj	n	en familj [familjen] .: familjer [familjerna]	a family
-n_familjemedlem	n	en familjemedlem [familjemedlemmen] .: familjemedlemmar [familjemedlemmarna]	a family member
-n_familjeord	n	ett familjeord [familjeordet] .: familjeord [familjeorden]	a family-related word
-n_far	n	en far [fadern] .: fäder [fäderna]	a father
-n_farbror	n	en farbror [farbrodern] .: farbröder [farbröderna]	a paternal uncle
-n_farfar	n	en farfar [farfadern] .: farfäder [farfäderna]	a paternal grandfather
-n_farmor	n	en farmor [farmodern] .: farmödrar [farmödrarna]	a paternal grandmother
-n_faster	n	en faster [fastern] .: fastrar [fastrarna]	a paternal aunt
-n_favorit	n	en favorit [favoriten] .: favoriter [favoriterna]	a favorite
-n_favoritkaf	n	ett favoritkafé [favoritkaféet] .: favoritkaféer [favoritkaféerna]	a favourite café
-n_favoritplats	n	en favoritplats [favoritplatsen] .: favoritplatser [favoritplatserna]	a favourite place
-n_favoritpub	n	en favoritpub [favoritpuben] .: favoritpubar [favoritpubarna]	a favourite pub
-n_favoritrestaura	n	en favoritrestaurang [favoritrestaurangen] .: favoritrestauranger [favoritrestaurangerna]	a favourite restaurant
-n_februari	mass n	februari	February
-n_femtedel	n	en femtedel [femtedelen] .: femtedelar [femtedelarna]	a fifth
-n_fest	n	en fest [festen] .: fester [festerna]	a party
-n_festival	n	en festival [festivalen] .: festivaler [festivalerna]	a festival
-n_fet_stil	n	en fet stil [feta stilen] .: feta stilar [feta stilarna]	a bold
-n_fika	n	en fika [fikan] .: fikor [fikorna]	a coffee break
-n_fikabroed	n	ett fikabröd [fikabrödet] .: fikabröd [fikabröden]	a pastry
-n_fikapaus	n	en fikapaus [fikapausen] .: fikapauser [fikapauserna]	a coffee break
-n_fil	mass n	fil [filen]	soured milk / file
-n_film	n	en film [filmen] .: filmer [filmerna]	a film
-n_filmjoelk	mass n	filmjölk [filmjölken]	soured milk
-n_filosofi	n	en filosofi [filosofin] .: filosofier [filosofierna]	a philosophy
-n_finger	n	ett finger [fingret] .: fingrar [fingrarna]	a finger
-n_fisk	n	en fisk [fisken] .: fiskar [fiskarna]	a fish
-n_fisksoppa	n	en fisksoppa [fisksoppan] .: fisksoppor [fisksopporna]	a fish soup
-n_fjaell	n	ett fjäll [fjället] .: fjäll [fjällen]	a mountain
-n_fjaellstation	n	en fjällstation [fjällstationen] .: fjällstationer [fjällstationerna]	a mountain station
-n_flaeskfil	n	en fläskfilé [fläskfilén] .: fläskfiléer [fläskfiléerna]	a pork tenderloin
-n_flaska	n	en flaska [flaskan] .: flaskor [flaskorna]	a bottle
-n_flicka	n	en flicka [flickan] .: flickor [flickorna]	a girl
-n_flyg	n	ett flyg [flyget] .: flyg [flygen]	a flight
-n_flygbuss	n	en flygbuss [flygbussen] .: flygbussar [flygbussarna]	an airport bus
-n_flygplats	n	en flygplats [flygplatsen] .: flygplatser [flygplatserna]	an airport
-n_flykting	n	en flykting [flyktingen] .: flyktingar [flyktingarna]	a refugee
-n_foedelsedag	n	en födelsedag [födelsedagen] .: födelsedagar [födelsedagarna]	a birthday
-n_foeraelder	n	en förälder [föräldern] .: föräldrar [föräldrarna]	a parent
-n_foerbud	n	ett förbud [förbudet] .: förbud [förbuden]	a prohibition, ban
-n_foerdel	n	en fördel [fördelen] .: fördelar [fördelarna]	an advantage
-n_foeretag	n	ett företag [företaget] .: företag [företagen]	a company
-n_foerfattare	n	en författare [författaren] .: författare [författarna]	an author, writer
-n_foerhaallande	n	ett förhållande [förhållandet] .: förhållanden [förhållandena]	a relationship
-n_foerklaring	n	en förklaring [förklaringen] .: förklaringar [förklaringarna]	an explanation
-n_foernamn	n	ett förnamn [förnamnet] .: förnamn [förnamnen]	a first name, given name
-n_foerpackning	n	en förpackning [förpackningen] .: förpackningar [förpackningarna]	a packaging
-n_foerskola	n	en förskola [förskolan] .: förskolor [förskolorna]	a preschool
-n_foerskolebarn	n	ett förskolebarn [förskolebarnet] .: förskolebarn [förskolebarnen]	a preschool child; preschool children
-n_foerskollaerare	n	en förskollärare [förskolläraren] .: förskollärare [förskollärarna]	a preschool teacher
-n_foerslag	n	ett förslag [förslaget] .: förslag [förslagen]	a proposal
-n_fokus	n	ett fokus [fokuset] .: fokus [fokusen]	a focus
-n_folk	n	ett folk [folket] .: folk [folken]	a people
-n_fordon	n	ett fordon [fordonet] .: fordon [fordonen]	a vehicle
-n_form	n	en form [formen] .: former [formerna]	a shape
-n_forskare	n	en forskare [forskaren] .: forskare [forskarna]	a researcher
-n_forskning	mass n	forskning [forskningen]	research
-n_forskningsstipe	n	ett forskningsstipendium [forskningsstipendiet] .: forskningsstipendier [forskningsstipendierna]	a research grant
-n_forum	n	ett forum [forumet] .: forum [forumen]	a forum
-n_fot	n	en fot [foten] .: fötter [fötterna]	a foot
-n_fotboll	n	en fotboll [fotbollen] .: fotbollar [fotbollarna]	a football / soccer
-n_fotbollsspelare	n	en fotbollsspelare [fotbollsspelaren] .: fotbollsspelare [fotbollsspelarna]	a football, soccer player
+n_ex	count n	<span class="ett">ett ex [exet] .: ex [exen]</span>	an ex
+n_examen	count n	<span class="en">en examen [examen] .: examina [examina]</span>	a degree
+n_exempel	count n	<span class="ett">ett exempel [exemplet] .: exempel [exemplen]</span>	an example
+n_explosion	count n	<span class="en">en explosion [explosionen] .: explosioner [explosionerna]</span>	an explosion
+n_export	count n	<span class="en">en export [exporten] .: exporter [exporterna]</span>	an export
+n_extrapappa	count n	<span class="en">en extrapappa [extrapappan] .: extrapappor [extrapapporna]</span>	a bonus dad
+n_faagel	count n	<span class="en">en fågel [fågeln] .: fåglar [fåglarna]</span>	a bird
+n_fabrik	count n	<span class="en">en fabrik [fabriken] .: fabriker [fabrikerna]</span>	a factory
+n_faerg	count n	<span class="en">en färg [färgen] .: färger [färgerna]</span>	a color
+n_faerja	count n	<span class="en">en färja [färjan] .: färjor [färjorna]</span>	a ferry
+n_faerjeterminal	count n	<span class="en">en färjeterminal [färjeterminalen] .: färjeterminaler [färjeterminalerna]</span>	a ferry terminal
+n_fakta	mass n	<span class="en">fakta [faktan]</span>	facts
+n_falafelsallad	count n	<span class="en">en falafelsallad [falafelsalladen] .: falafelsallader [falafelsalladerna]</span>	a falafel salad
+n_familj	count n	<span class="en">en familj [familjen] .: familjer [familjerna]</span>	a family
+n_familjemedlem	count n	<span class="en">en familjemedlem [familjemedlemmen] .: familjemedlemmar [familjemedlemmarna]</span>	a family member
+n_familjeord	count n	<span class="ett">ett familjeord [familjeordet] .: familjeord [familjeorden]</span>	a family-related word
+n_far	count n	<span class="en">en far [fadern] .: fäder [fäderna]</span>	a father
+n_farbror	count n	<span class="en">en farbror [farbrodern] .: farbröder [farbröderna]</span>	a paternal uncle
+n_farfar	count n	<span class="en">en farfar [farfadern] .: farfäder [farfäderna]</span>	a paternal grandfather
+n_farmor	count n	<span class="en">en farmor [farmodern] .: farmödrar [farmödrarna]</span>	a paternal grandmother
+n_faster	count n	<span class="en">en faster [fastern] .: fastrar [fastrarna]</span>	a paternal aunt
+n_favorit	count n	<span class="en">en favorit [favoriten] .: favoriter [favoriterna]</span>	a favorite
+n_favoritkaf	count n	<span class="ett">ett favoritkafé [favoritkaféet] .: favoritkaféer [favoritkaféerna]</span>	a favourite café
+n_favoritplats	count n	<span class="en">en favoritplats [favoritplatsen] .: favoritplatser [favoritplatserna]</span>	a favourite place
+n_favoritpub	count n	<span class="en">en favoritpub [favoritpuben] .: favoritpubar [favoritpubarna]</span>	a favourite pub
+n_favoritrestaura	count n	<span class="en">en favoritrestaurang [favoritrestaurangen] .: favoritrestauranger [favoritrestaurangerna]</span>	a favourite restaurant
+n_februari	n	februari	February
+n_femtedel	count n	<span class="en">en femtedel [femtedelen] .: femtedelar [femtedelarna]</span>	a fifth
+n_fest	count n	<span class="en">en fest [festen] .: fester [festerna]</span>	a party
+n_festival	count n	<span class="en">en festival [festivalen] .: festivaler [festivalerna]</span>	a festival
+n_fet_stil	count n	<span class="en">en fet stil [feta stilen] .: feta stilar [feta stilarna]</span>	a bold
+n_fika	count n	<span class="en">en fika [fikan] .: fikor [fikorna]</span>	a coffee break
+n_fikabroed	count n	<span class="ett">ett fikabröd [fikabrödet] .: fikabröd [fikabröden]</span>	a pastry
+n_fikapaus	count n	<span class="en">en fikapaus [fikapausen] .: fikapauser [fikapauserna]</span>	a coffee break
+n_fil	mass n	<span class="en">fil [filen]</span>	soured milk / file
+n_film	count n	<span class="en">en film [filmen] .: filmer [filmerna]</span>	a film
+n_filmjoelk	mass n	<span class="en">filmjölk [filmjölken]</span>	soured milk
+n_filosofi	count n	<span class="en">en filosofi [filosofin] .: filosofier [filosofierna]</span>	a philosophy
+n_finger	count n	<span class="ett">ett finger [fingret] .: fingrar [fingrarna]</span>	a finger
+n_fisk	count n	<span class="en">en fisk [fisken] .: fiskar [fiskarna]</span>	a fish
+n_fisksoppa	count n	<span class="en">en fisksoppa [fisksoppan] .: fisksoppor [fisksopporna]</span>	a fish soup
+n_fjaell	count n	<span class="ett">ett fjäll [fjället] .: fjäll [fjällen]</span>	a mountain
+n_fjaellstation	count n	<span class="en">en fjällstation [fjällstationen] .: fjällstationer [fjällstationerna]</span>	a mountain station
+n_flaeskfil	count n	<span class="en">en fläskfilé [fläskfilén] .: fläskfiléer [fläskfiléerna]</span>	a pork tenderloin
+n_flaska	count n	<span class="en">en flaska [flaskan] .: flaskor [flaskorna]</span>	a bottle
+n_flicka	count n	<span class="en">en flicka [flickan] .: flickor [flickorna]</span>	a girl
+n_flyg	count n	<span class="ett">ett flyg [flyget] .: flyg [flygen]</span>	a flight
+n_flygbuss	count n	<span class="en">en flygbuss [flygbussen] .: flygbussar [flygbussarna]</span>	an airport bus
+n_flygplats	count n	<span class="en">en flygplats [flygplatsen] .: flygplatser [flygplatserna]</span>	an airport
+n_flykting	count n	<span class="en">en flykting [flyktingen] .: flyktingar [flyktingarna]</span>	a refugee
+n_foedelsedag	count n	<span class="en">en födelsedag [födelsedagen] .: födelsedagar [födelsedagarna]</span>	a birthday
+n_foeraelder	count n	<span class="en">en förälder [föräldern] .: föräldrar [föräldrarna]</span>	a parent
+n_foerbud	count n	<span class="ett">ett förbud [förbudet] .: förbud [förbuden]</span>	a prohibition, ban
+n_foerdel	count n	<span class="en">en fördel [fördelen] .: fördelar [fördelarna]</span>	an advantage
+n_foeretag	count n	<span class="ett">ett företag [företaget] .: företag [företagen]</span>	a company
+n_foerfattare	count n	<span class="en">en författare [författaren] .: författare [författarna]</span>	an author, writer
+n_foerhaallande	count n	<span class="ett">ett förhållande [förhållandet] .: förhållanden [förhållandena]</span>	a relationship
+n_foerklaring	count n	<span class="en">en förklaring [förklaringen] .: förklaringar [förklaringarna]</span>	an explanation
+n_foernamn	count n	<span class="ett">ett förnamn [förnamnet] .: förnamn [förnamnen]</span>	a first name, given name
+n_foerpackning	count n	<span class="en">en förpackning [förpackningen] .: förpackningar [förpackningarna]</span>	a packaging
+n_foerskola	count n	<span class="en">en förskola [förskolan] .: förskolor [förskolorna]</span>	a preschool
+n_foerskolebarn	count n	<span class="ett">ett förskolebarn [förskolebarnet] .: förskolebarn [förskolebarnen]</span>	a preschool child; preschool children
+n_foerskollaerare	count n	<span class="en">en förskollärare [förskolläraren] .: förskollärare [förskollärarna]</span>	a preschool teacher
+n_foerslag	count n	<span class="ett">ett förslag [förslaget] .: förslag [förslagen]</span>	a proposal
+n_fokus	count n	<span class="ett">ett fokus [fokuset] .: fokus [fokusen]</span>	a focus
+n_folk	count n	<span class="ett">ett folk [folket] .: folk [folken]</span>	a people
+n_fordon	count n	<span class="ett">ett fordon [fordonet] .: fordon [fordonen]</span>	a vehicle
+n_form	count n	<span class="en">en form [formen] .: former [formerna]</span>	a shape
+n_forskare	count n	<span class="en">en forskare [forskaren] .: forskare [forskarna]</span>	a researcher
+n_forskning	mass n	<span class="en">forskning [forskningen]</span>	research
+n_forskningsstipe	count n	<span class="ett">ett forskningsstipendium [forskningsstipendiet] .: forskningsstipendier [forskningsstipendierna]</span>	a research grant
+n_forum	count n	<span class="ett">ett forum [forumet] .: forum [forumen]</span>	a forum
+n_fot	count n	<span class="en">en fot [foten] .: fötter [fötterna]</span>	a foot
+n_fotboll	count n	<span class="en">en fotboll [fotbollen] .: fotbollar [fotbollarna]</span>	a football / soccer
+n_fotbollsspelare	count n	<span class="en">en fotbollsspelare [fotbollsspelaren] .: fotbollsspelare [fotbollsspelarna]</span>	a football, soccer player
 n_fotografiska	mass n	Fotografiska	Fotografiska Museum
-n_fraaga	n	en fråga [frågan] .: frågor [frågorna]	a question
-n_fraageord	n	ett frågeord [frågeordet] .: frågeord [frågeorden]	a question word
-n_fraagetecken	n	ett frågetecken [frågetecknet] .: frågetecken [frågetecknen]	a question mark
-n_fraemling	n	en främling [främlingen] .: främlingar [främlingarna]	a stranger
-n_framtid	mass n	framtid [framtiden]	future
+n_fraaga	count n	<span class="en">en fråga [frågan] .: frågor [frågorna]</span>	a question
+n_fraageord	count n	<span class="ett">ett frågeord [frågeordet] .: frågeord [frågeorden]</span>	a question word
+n_fraagetecken	count n	<span class="ett">ett frågetecken [frågetecknet] .: frågetecken [frågetecknen]</span>	a question mark
+n_fraemling	count n	<span class="en">en främling [främlingen] .: främlingar [främlingarna]</span>	a stranger
+n_framtid	mass n	<span class="en">framtid [framtiden]</span>	future
 n_frankrike	mass n	Frankrike	France
-n_fransman	mass n	en fransman [fransmannen] .: fransmän [fransmännen]	Frenchman
-n_fras	n	en fras [frasen] .: fraser [fraserna]	a phrase
-n_fred	n	en fred [freden] .: freder [frederna]	a peace
-n_fredag	mass n	en fredag [fredagen] .: fredagar [fredagarna]	Friday
-n_fredsaktivist	n	en fredsaktivist [fredsaktivisten] .: fredsaktivister [fredsaktivisterna]	a peace activist
-n_fredspris	n	ett fredspris [fredspriset] .: fredspriser [fredspriserna]	a peace prize
-n_frekvens	n	en frekvens [frekvensen] .: frekvenser [frekvenserna]	a frequency
-n_frisoer	n	en frisör [frisören] .: frisörer [frisörerna]	a hairdresser
-n_fritid	n	en fritid [fritiden] .: fritider [fritiderna]	a free time; spare time
-n_fritidsaktivite	n	en fritidsaktivitet [fritidsaktiviteten] .: fritidsaktiviteter [fritidsaktiviteterna]	a leisure activity
-n_fru	n	en fru [frun] .: fruar [fruarna]	a wife
-n_frukost	n	en frukost [frukosten] .: frukostar [frukostarna]	a breakfast
-n_frukt	n	en frukt [frukten] .: frukter [frukterna]	a fruit
-n_frys	n	en frys [frysen] .: frysar [frysarna]	a freezer
-n_fundament	n	ett fundament [fundamentet] .: fundament [fundamenten]	a sentence-initial position
-n_fundamentpositi	n	en fundamentposition [fundamentpositionen] .: fundamentpositioner [fundamentpositionerna]	an initial position
-n_fyrkant	n	en fyrkant [fyrkanten] .: fyrkanter [fyrkanterna]	a hash sign (#)
-n_fysik	mass n	fysik [fysiken]	physics
-n_gaang	n	en gång [gången] .: gånger [gångerna]	a time
-n_gaard	n	en gård [gården] .: gårdar [gårdarna]	a farm
-n_gaffel	mass n	gaffel [gaffeln]	fork
-n_garage	n	ett garage [garaget] .: garage [garagen]	a garage
-n_garanti	n	en garanti [garantin] .: garantier [garantierna]	a guarantee
-n_garderob	n	en garderob [garderoben] .: garderober [garderoberna]	a wardrobe / closet
-n_gardin	n	en gardin [gardinen] .: gardiner [gardinerna]	a curtain
-n_gate	n	en gate [gate] .: gater [gaterna]	a gate
-n_genitiv	n	en genitiv [genitiven] .: genitiver [genitiverna]	a genitive
-n_genre	n	en genre [genren] .: genrer [genrerna]	a genre
-n_get	n	en get [geten] .: getter [getterna]	a goat
-n_giraff	n	en giraff [giraffen] .: giraffer [girafferna]	a giraffe
-n_glas	n	ett glas [glaset] .: glas [glasen]	a glass
-n_glass	n	en glass [glassen] .: glassar [glassarna]	an ice cream
-n_glasstaelle	n	ett glasställe [glasstället] .: glasställen [glasställena]	an ice cream shop
-n_godis	mass n	godis [godiset]	candy
+n_fransman	count n	<span class="en">en fransman [fransmannen] .: fransmän [fransmännen]</span>	a Frenchman
+n_fras	count n	<span class="en">en fras [frasen] .: fraser [fraserna]</span>	a phrase
+n_fred	count n	<span class="en">en fred [freden] .: freder [frederna]</span>	a peace
+n_fredag	count n	<span class="en">en fredag [fredagen] .: fredagar [fredagarna]</span>	a Friday
+n_fredsaktivist	count n	<span class="en">en fredsaktivist [fredsaktivisten] .: fredsaktivister [fredsaktivisterna]</span>	a peace activist
+n_fredspris	count n	<span class="ett">ett fredspris [fredspriset] .: fredspriser [fredspriserna]</span>	a peace prize
+n_frekvens	count n	<span class="en">en frekvens [frekvensen] .: frekvenser [frekvenserna]</span>	a frequency
+n_frisoer	count n	<span class="en">en frisör [frisören] .: frisörer [frisörerna]</span>	a hairdresser
+n_fritid	count n	<span class="en">en fritid [fritiden] .: fritider [fritiderna]</span>	a free time; spare time
+n_fritidsaktivite	count n	<span class="en">en fritidsaktivitet [fritidsaktiviteten] .: fritidsaktiviteter [fritidsaktiviteterna]</span>	a leisure activity
+n_fru	count n	<span class="en">en fru [frun] .: fruar [fruarna]</span>	a wife
+n_frukost	count n	<span class="en">en frukost [frukosten] .: frukostar [frukostarna]</span>	a breakfast
+n_frukt	count n	<span class="en">en frukt [frukten] .: frukter [frukterna]</span>	a fruit
+n_frys	count n	<span class="en">en frys [frysen] .: frysar [frysarna]</span>	a freezer
+n_fundament	count n	<span class="ett">ett fundament [fundamentet] .: fundament [fundamenten]</span>	a sentence-initial position
+n_fundamentpositi	count n	<span class="en">en fundamentposition [fundamentpositionen] .: fundamentpositioner [fundamentpositionerna]</span>	an initial position
+n_fyrkant	count n	<span class="en">en fyrkant [fyrkanten] .: fyrkanter [fyrkanterna]</span>	a hash sign (#)
+n_fysik	mass n	<span class="en">fysik [fysiken]</span>	physics
+n_gaang	count n	<span class="en">en gång [gången] .: gånger [gångerna]</span>	a time
+n_gaard	count n	<span class="en">en gård [gården] .: gårdar [gårdarna]</span>	a farm
+n_gaffel	mass n	<span class="en">gaffel [gaffeln]</span>	fork
+n_garage	count n	<span class="ett">ett garage [garaget] .: garage [garagen]</span>	a garage
+n_garanti	count n	<span class="en">en garanti [garantin] .: garantier [garantierna]</span>	a guarantee
+n_garderob	count n	<span class="en">en garderob [garderoben] .: garderober [garderoberna]</span>	a wardrobe / closet
+n_gardin	count n	<span class="en">en gardin [gardinen] .: gardiner [gardinerna]</span>	a curtain
+n_gate	count n	<span class="en">en gate [gate] .: gater [gaterna]</span>	a gate
+n_genitiv	count n	<span class="en">en genitiv [genitiven] .: genitiver [genitiverna]</span>	a genitive
+n_genre	count n	<span class="en">en genre [genren] .: genrer [genrerna]</span>	a genre
+n_get	count n	<span class="en">en get [geten] .: getter [getterna]</span>	a goat
+n_giraff	count n	<span class="en">en giraff [giraffen] .: giraffer [girafferna]</span>	a giraffe
+n_glas	count n	<span class="ett">ett glas [glaset] .: glas [glasen]</span>	a glass
+n_glass	count n	<span class="en">en glass [glassen] .: glassar [glassarna]</span>	an ice cream
+n_glasstaelle	count n	<span class="ett">ett glasställe [glasstället] .: glasställen [glasställena]</span>	an ice cream shop
+n_godis	mass n	<span class="ett">godis [godiset]</span>	candy
 n_goeteborg	mass n	Göteborg	Gothenburg
-n_golf	n	en golf [golfen] .: golf [golf]	a golf
-n_golve	mass n	golve [golvet]	floor
+n_golf	count n	<span class="en">en golf [golfen] .: golf [golf]</span>	a golf
+n_golve	mass n	<span class="ett">golve [golvet]</span>	floor
 n_gotland	mass n	Gotland	Gotland (island in the Baltic)
-n_graeddfil	mass n	gräddfil [gräddfilen]	sour cream
-n_graens	n	en gräns [gränsen] .: gränser [gränserna]	a border
-n_granne	n	en granne [grannen] .: grannar [grannarna]	a neighbor
-n_grej	n	en grej [grejen] .: grejer [grejerna]	a thing
+n_graeddfil	mass n	<span class="en">gräddfil [gräddfilen]</span>	sour cream
+n_graens	count n	<span class="en">en gräns [gränsen] .: gränser [gränserna]</span>	a border
+n_granne	count n	<span class="en">en granne [grannen] .: grannar [grannarna]</span>	a neighbor
+n_grej	count n	<span class="en">en grej [grejen] .: grejer [grejerna]</span>	a thing
 n_grekland	mass n	Grekland	Greece
-n_gris	n	en gris [grisen] .: grisar [grisarna]	a pig
-n_groda	n	en groda [grodan] .: grodor [grodorna]	a frog
-n_groensak	n	en grönsak [grönsaken] .: grönsaker [grönsakerna]	a vegetable
-n_grupp	n	en grupp [gruppen] .: grupper [grupperna]	a group
-n_gruva	n	en gruva [gruvan] .: gruvor [gruvorna]	a mine
-n_gryta	mass n	gryta [grytan]	pot
-n_guacamole	mass n	guacamole [guacamolen]	guacamole
-n_guide	n	en guide [guiden] .: guider [guiderna]	a guide
-n_guld	mass n	guld [guldet]	gold
-n_gummistoevel	n	en gummistövel [gummistöveln] .: gummistövlar [gummistövlarna]	a rubber boot
-n_gurka	n	en gurka [gurkan] .: gurkor [gurkorna]	a cucumber
-n_gym	n	ett gym [gymmet] .: gym [gymmen]	a gym
-n_haallplats	n	en hållplats [hållplatsen] .: hållplatser [hållplatserna]	a bus stop
-n_haar	mass n	hår [håret]	hair
-n_haelsning	n	en hälsning [hälsningen] .: hälsningar [hälsningarna]	a greeting
-n_haenglaas	n	ett hänglås [hänglåset] .: hänglås [hänglåsen]	a padlock
-n_haest	n	en häst [hästen] .: hästar [hästarna]	a horse
+n_gris	count n	<span class="en">en gris [grisen] .: grisar [grisarna]</span>	a pig
+n_groda	count n	<span class="en">en groda [grodan] .: grodor [grodorna]</span>	a frog
+n_groensak	count n	<span class="en">en grönsak [grönsaken] .: grönsaker [grönsakerna]</span>	a vegetable
+n_grupp	count n	<span class="en">en grupp [gruppen] .: grupper [grupperna]</span>	a group
+n_gruva	count n	<span class="en">en gruva [gruvan] .: gruvor [gruvorna]</span>	a mine
+n_gryta	mass n	<span class="en">gryta [grytan]</span>	pot
+n_guacamole	mass n	<span class="en">guacamole [guacamolen]</span>	guacamole
+n_guide	count n	<span class="en">en guide [guiden] .: guider [guiderna]</span>	a guide
+n_guld	mass n	<span class="ett">guld [guldet]</span>	gold
+n_gummistoevel	count n	<span class="en">en gummistövel [gummistöveln] .: gummistövlar [gummistövlarna]</span>	a rubber boot
+n_gurka	count n	<span class="en">en gurka [gurkan] .: gurkor [gurkorna]</span>	a cucumber
+n_gym	count n	<span class="ett">ett gym [gymmet] .: gym [gymmen]</span>	a gym
+n_haallplats	count n	<span class="en">en hållplats [hållplatsen] .: hållplatser [hållplatserna]</span>	a bus stop
+n_haar	mass n	<span class="ett">hår [håret]</span>	hair
+n_haelsning	count n	<span class="en">en hälsning [hälsningen] .: hälsningar [hälsningarna]</span>	a greeting
+n_haenglaas	count n	<span class="ett">ett hänglås [hänglåset] .: hänglås [hänglåsen]</span>	a padlock
+n_haest	count n	<span class="en">en häst [hästen] .: hästar [hästarna]</span>	a horse
 n_halland	mass n	Halland	Halland (region in southwestern Sweden)
-n_hallon	n	ett hallon [hallonet] .: hallon [hallonen]	a raspberry
-n_hals	n	en hals [halsen] .: halsar [halsarna]	a neck
-n_halsduk	n	en halsduk [halsduken] .: halsdukar [halsdukarna]	a scarf
-n_halstablett	n	en halstablett [halstabletten] .: halstabletter [halstabletterna]	a lozenge
-n_halvsyskon	n	ett halvsyskon [halvsyskonet] .: halvsyskon [halvsyskonen]	a half-sibling
-n_hand	n	en hand [handen] .: händer [händerna]	a hand
-n_handduk	n	en handduk [handduken] .: handdukar [handdukarna]	a towel
-n_handske	n	en handske [handsken] .: handskar [handskarna]	a glove
-n_hashtagg	n	en hashtagg [hashtaggen] .: hashtaggar [hashtaggarna]	a hashtag
-n_hasselnoet	n	en hasselnöt [hasselnöten] .: hasselnötter [hasselnötterna]	a hazelnut
-n_hastighet	n	en hastighet [hastigheten] .: hastigheter [hastigheterna]	a speed; velocity
-n_hatt	n	en hatt [hatten] .: hattar [hattarna]	a hat
-n_havremjoelk	mass n	havremjölk [havremjölken]	oat milk
-n_helg	n	en helg [helgen] .: helger [helgerna]	a weekend
-n_helgon	n	ett helgon [helgonet] .: helgon [helgonen]	a saint
-n_helikopter	n	en helikopter [helikoptern] .: helikoptrar [helikoptrarna]	a helicopter
+n_hallon	count n	<span class="ett">ett hallon [hallonet] .: hallon [hallonen]</span>	a raspberry
+n_hals	count n	<span class="en">en hals [halsen] .: halsar [halsarna]</span>	a neck
+n_halsduk	count n	<span class="en">en halsduk [halsduken] .: halsdukar [halsdukarna]</span>	a scarf
+n_halstablett	count n	<span class="en">en halstablett [halstabletten] .: halstabletter [halstabletterna]</span>	a lozenge
+n_halvsyskon	count n	<span class="ett">ett halvsyskon [halvsyskonet] .: halvsyskon [halvsyskonen]</span>	a half-sibling
+n_hand	count n	<span class="en">en hand [handen] .: händer [händerna]</span>	a hand
+n_handduk	count n	<span class="en">en handduk [handduken] .: handdukar [handdukarna]</span>	a towel
+n_handske	count n	<span class="en">en handske [handsken] .: handskar [handskarna]</span>	a glove
+n_hashtagg	count n	<span class="en">en hashtagg [hashtaggen] .: hashtaggar [hashtaggarna]</span>	a hashtag
+n_hasselnoet	count n	<span class="en">en hasselnöt [hasselnöten] .: hasselnötter [hasselnötterna]</span>	a hazelnut
+n_hastighet	count n	<span class="en">en hastighet [hastigheten] .: hastigheter [hastigheterna]</span>	a speed; velocity
+n_hatt	count n	<span class="en">en hatt [hatten] .: hattar [hattarna]</span>	a hat
+n_havremjoelk	mass n	<span class="en">havremjölk [havremjölken]</span>	oat milk
+n_helg	count n	<span class="en">en helg [helgen] .: helger [helgerna]</span>	a weekend
+n_helgon	count n	<span class="ett">ett helgon [helgonet] .: helgon [helgonen]</span>	a saint
+n_helikopter	count n	<span class="en">en helikopter [helikoptern] .: helikoptrar [helikoptrarna]</span>	a helicopter
 n_helsingfors	mass n	Helsingfors	Helsinki
-n_helvete	n	ett helvete [helvetet] .: helveten [helvetena]	a hell
-n_hem	n	ett hem [hemmet] .: hem [hemmen]	a home (noun)
-n_herre	n	en herre [herren] .: herrar [herrarna]	a gentleman / man
-n_hindu	mass n	en hindu [hindun] .: hinduer [hinduerna]	Hindu
-n_hiss	n	en hiss [hissen] .: hissar [hissarna]	an elevator, lift
-n_historia	n	en historia [historien] .: historier [historierna]	a history
-n_hjaelm	n	en hjälm [hjälmen] .: hjälmar [hjälmarna]	a helmet
-n_hjaelpverb	n	ett hjälpverb [hjälpverbet] .: hjälpverb [hjälpverben]	a helping verb
-n_hobby	n	en hobby [hobbyn] .: hobbyer [hobbyerna]	a hobby
-n_hockey	mass n	hockey [hockeyn]	ice hockey
-n_hoena	n	en höna [hönan] .: hönor [hönorna]	a hen
-n_hoern	n	ett hörn [hörnet] .: hörn [hörnen]	a corner
-n_honung	mass n	honung [honungen]	honey
-n_hopfaellbar_sae	n	en hopfällbar säng [hopfällbara sängen] .: hopfällbara sängar [hopfällbara sängarna]	a foldable bed
-n_hoppborg	n	en hoppborg [hoppborgen] .: hoppborgar [hoppborgarna]	a bouncy castle
-n_hotell	n	ett hotell [hotellet] .: hotell [hotellen]	a hotel
-n_hund	n	en hund [hunden] .: hundar [hundarna]	a dog
-n_hundpromenad	n	en hundpromenad [hundpromenaden] .: hundpromenader [hundpromenaderna]	a dog walk
-n_hundvakt	n	en hundvakt [hundvakten] .: hundvakter [hundvakterna]	a dog walker
-n_hus	n	ett hus [huset] .: hus [husen]	a house
-n_husdjur	n	ett husdjur [husdjuret] .: husdjur [husdjuren]	a pet (animal)
-n_huvud	n	ett huvud [huvudet] .: huvuden [huvudena]	a head
-n_huvudraett	n	en huvudrätt [huvudrätten] .: huvudrätter [huvudrätterna]	a main course
-n_huvudroll	n	en huvudroll [huvudrollen] .: huvudroller [huvudrollerna]	a leading role
-n_huvudsats	n	en huvudsats [huvudsatsen] .: huvudsatser [huvudsatserna]	a main clause
-n_huvudspraak	n	ett huvudspråk [huvudspråket] .: huvudspråk [huvudspråken]	a main language
-n_huvudstad	n	en huvudstad [huvudstaden] .: huvudstäder [huvudstäderna]	a capital city
-n_hygien	mass n	hygien [hygienen]	hygiene
-n_hylla	n	en hylla [hyllan] .: hyllor [hyllorna]	a shelf
-n_id	n	en idé [idén] .: idéer [idéerna]	an idea
-n_ikon	n	en ikon [ikonen] .: ikoner [ikonerna]	an icon
-n_illustration	n	en illustration [illustrationen] .: illustrationer [illustrationerna]	an illustration
+n_helvete	count n	<span class="ett">ett helvete [helvetet] .: helveten [helvetena]</span>	a hell
+n_hem	count n	<span class="ett">ett hem [hemmet] .: hem [hemmen]</span>	a home (noun)
+n_herre	count n	<span class="en">en herre [herren] .: herrar [herrarna]</span>	a gentleman / man
+n_hindu	count n	<span class="en">en hindu [hindun] .: hinduer [hinduerna]</span>	a Hindu
+n_hiss	count n	<span class="en">en hiss [hissen] .: hissar [hissarna]</span>	an elevator, lift
+n_historia	count n	<span class="en">en historia [historien] .: historier [historierna]</span>	a history
+n_hjaelm	count n	<span class="en">en hjälm [hjälmen] .: hjälmar [hjälmarna]</span>	a helmet
+n_hjaelpverb	count n	<span class="ett">ett hjälpverb [hjälpverbet] .: hjälpverb [hjälpverben]</span>	a helping verb
+n_hobby	count n	<span class="en">en hobby [hobbyn] .: hobbyer [hobbyerna]</span>	a hobby
+n_hockey	mass n	<span class="en">hockey [hockeyn]</span>	ice hockey
+n_hoena	count n	<span class="en">en höna [hönan] .: hönor [hönorna]</span>	a hen
+n_hoern	count n	<span class="ett">ett hörn [hörnet] .: hörn [hörnen]</span>	a corner
+n_honung	mass n	<span class="en">honung [honungen]</span>	honey
+n_hopfaellbar_sae	count n	<span class="en">en hopfällbar säng [hopfällbara sängen] .: hopfällbara sängar [hopfällbara sängarna]</span>	a foldable bed
+n_hoppborg	count n	<span class="en">en hoppborg [hoppborgen] .: hoppborgar [hoppborgarna]</span>	a bouncy castle
+n_hotell	count n	<span class="ett">ett hotell [hotellet] .: hotell [hotellen]</span>	a hotel
+n_hund	count n	<span class="en">en hund [hunden] .: hundar [hundarna]</span>	a dog
+n_hundpromenad	count n	<span class="en">en hundpromenad [hundpromenaden] .: hundpromenader [hundpromenaderna]</span>	a dog walk
+n_hundvakt	count n	<span class="en">en hundvakt [hundvakten] .: hundvakter [hundvakterna]</span>	a dog walker
+n_hus	count n	<span class="ett">ett hus [huset] .: hus [husen]</span>	a house
+n_husdjur	count n	<span class="ett">ett husdjur [husdjuret] .: husdjur [husdjuren]</span>	a pet (animal)
+n_huvud	count n	<span class="ett">ett huvud [huvudet] .: huvuden [huvudena]</span>	a head
+n_huvudraett	count n	<span class="en">en huvudrätt [huvudrätten] .: huvudrätter [huvudrätterna]</span>	a main course
+n_huvudroll	count n	<span class="en">en huvudroll [huvudrollen] .: huvudroller [huvudrollerna]</span>	a leading role
+n_huvudsats	count n	<span class="en">en huvudsats [huvudsatsen] .: huvudsatser [huvudsatserna]</span>	a main clause
+n_huvudspraak	count n	<span class="ett">ett huvudspråk [huvudspråket] .: huvudspråk [huvudspråken]</span>	a main language
+n_huvudstad	count n	<span class="en">en huvudstad [huvudstaden] .: huvudstäder [huvudstäderna]</span>	a capital city
+n_hygien	mass n	<span class="en">hygien [hygienen]</span>	hygiene
+n_hylla	count n	<span class="en">en hylla [hyllan] .: hyllor [hyllorna]</span>	a shelf
+n_id	count n	<span class="en">en idé [idén] .: idéer [idéerna]</span>	an idea
+n_ikon	count n	<span class="en">en ikon [ikonen] .: ikoner [ikonerna]</span>	an icon
+n_illustration	count n	<span class="en">en illustration [illustrationen] .: illustrationer [illustrationerna]</span>	an illustration
 n_indien	mass n	Indien	India
-n_industri	n	en industri [industrin] .: industrier [industrierna]	an industry
-n_infinitiv	n	ett infinitiv [infinitivet] .: infinitiv [infinitiven]	an infinitive
-n_information	n	en information [informationen] .: informationer [informationerna]	an information
-n_ingenjoer	n	en ingenjör [ingenjören] .: ingenjörer [ingenjörerna]	an engineer
-n_inkoepslista	n	en inköpslista [inköpslistan] .: inköpslistor [inköpslistorna]	a grocery list
-n_inlines	mass n	inlines [inlinesen]	rollerblades
-n_innebandy	mass n	innebandy [innebandyn]	floorball
-n_inspiration	n	en inspiration [inspirationen] .: inspirationer [inspirationerna]	an inspiration
-n_intervju	n	en intervju [intervjun] .: intervjuer [intervjuerna]	an interview (noun)
-n_intonation	n	en intonation [intonationen] .: intonationer [intonationerna]	an intonation
-n_intraede	n	ett inträde [inträdet] .: inträde [inträdena]	an admission
-n_intresse	n	ett intresse [intresset] .: intressen [intressena]	an interest
-n_invaanare	n	en invånare [invånaren] .: invånare [invånarna]	a resident, population
-n_invandring	mass n	invandring [invandringen]	immigration
-n_isbad	n	ett isbad [isbadet] .: isbad [isbaden]	an ice bath
-n_it_ingenjoer	mass n	en it-ingenjör [it-ingenjören] .: it-ingenjörer [it-ingenjörerna]	IT engineer
-n_it_specialist	mass n	en it-specialist [it-specialisten] .: it-specialister [it-specialisterna]	IT specialist
+n_industri	count n	<span class="en">en industri [industrin] .: industrier [industrierna]</span>	an industry
+n_infinitiv	count n	<span class="ett">ett infinitiv [infinitivet] .: infinitiv [infinitiven]</span>	an infinitive
+n_information	count n	<span class="en">en information [informationen] .: informationer [informationerna]</span>	an information
+n_ingenjoer	count n	<span class="en">en ingenjör [ingenjören] .: ingenjörer [ingenjörerna]</span>	an engineer
+n_inkoepslista	count n	<span class="en">en inköpslista [inköpslistan] .: inköpslistor [inköpslistorna]</span>	a grocery list
+n_inlines	mass n	<span class="en">inlines [inlinesen]</span>	rollerblades
+n_innebandy	mass n	<span class="en">innebandy [innebandyn]</span>	floorball
+n_inspiration	count n	<span class="en">en inspiration [inspirationen] .: inspirationer [inspirationerna]</span>	an inspiration
+n_intervju	count n	<span class="en">en intervju [intervjun] .: intervjuer [intervjuerna]</span>	an interview (noun)
+n_intonation	count n	<span class="en">en intonation [intonationen] .: intonationer [intonationerna]</span>	an intonation
+n_intraede	count n	<span class="ett">ett inträde [inträdet] .: inträde [inträdena]</span>	an admission
+n_intresse	count n	<span class="ett">ett intresse [intresset] .: intressen [intressena]</span>	an interest
+n_invaanare	count n	<span class="en">en invånare [invånaren] .: invånare [invånarna]</span>	a resident, population
+n_invandring	mass n	<span class="en">invandring [invandringen]</span>	immigration
+n_isbad	count n	<span class="ett">ett isbad [isbadet] .: isbad [isbaden]</span>	an ice bath
+n_it_ingenjoer	count n	<span class="en">en it-ingenjör [it-ingenjören] .: it-ingenjörer [it-ingenjörerna]</span>	an IT engineer
+n_it_specialist	count n	<span class="en">en it-specialist [it-specialisten] .: it-specialister [it-specialisterna]</span>	an IT specialist
 n_italien	mass n	Italien	Italy
-n_ja_och_nejfraag	n	en ja- och nejfråga [ja- och nejfrågan] .: ja- och nejfrågor [ja- och nejfrågorna]	a yes-no question
-n_jacka	n	en jacka [jackan] .: jackor [jackorna]	a jacket
-n_jaern	n	ett järn [järnet] .: järn [järnen]	an iron
-n_jaernvaeg	n	en järnväg [järnvägen] .: järnvägar [järnvägarna]	a railway
-n_jaest	mass n	jäst [jästen]	yeast
-n_januari	mass n	januari	January
-n_jazz	mass n	jazz [jazzen]	jazz
-n_jord	mass n	jord [jorden]	earth / soil
-n_jordbruk	n	ett jordbruk [jordbruket] .: jordbruk [jordbruken]	an agriculture
-n_jordbruksland	n	ett jordbruksland [jordbrukslandet] .: jordbruksländer [jordbruksländerna]	a farmland
-n_jordbruksmark	n	en jordbruksmark [jordbruksmarken] .: jordbruksmarker [jordbruksmarkerna]	a farmland
-n_jordgubbe	n	en jordgubbe [jordgubben] .: jordgubbar [jordgubbarna]	a strawberry
-n_jordgubbslukt	mass n	jordgubbslukt [jordgubbslukten]	strawberry smell
-n_journalist	n	en journalist [journalisten] .: journalister [journalisterna]	a journalist
-n_jude	mass n	en jude [juden] .: judar [judarna]	Jew
-n_juice	n	en juice [juicen] .: juicer [juicerna]	a juice
-n_jul	mass n	en jul [julen] .: jular [jularna]	Christmas
-n_juli	mass n	juli	July
-n_juni	mass n	juni	June
-n_kaal	mass n	kål [kålen]	cabbage
-n_kabel	n	en kabel [kabeln] .: kablar [kablarna]	a cable
-n_kaella	n	en källa [källan] .: källor [källorna]	a source
-n_kaerlek	n	en kärlek [kärleken] .: kärlekar [kärlekarna]	a love
-n_kaernteknik	mass n	kärnteknik [kärntekniken]	nuclear technology
-n_kaf	n	ett kafé [kaféet] .: kaféer [kaféerna]	a café
-n_kafaegare	n	en kaféägare [kaféägaren] .: kaféägare [kaféägarna]	a café owner
-n_kaffe	n	ett kaffe [kaffet] .: kaffen [kaffena]	a coffee
-n_kaka	n	en kaka [kakan] .: kakor [kakorna]	a cookie, biscuit
-n_kallbadhus	n	ett kallbadhus [kallbadhuset] .: kallbadhus [kallbadhusen]	a cold bath facility
-n_kalsonger	mass n	kalsonger [kalsongerna]	briefs / men's underwear
+n_ja_och_nejfraag	count n	<span class="en">en ja- och nejfråga [ja- och nejfrågan] .: ja- och nejfrågor [ja- och nejfrågorna]</span>	a yes-no question
+n_jacka	count n	<span class="en">en jacka [jackan] .: jackor [jackorna]</span>	a jacket
+n_jaern	count n	<span class="ett">ett järn [järnet] .: järn [järnen]</span>	an iron
+n_jaernvaeg	count n	<span class="en">en järnväg [järnvägen] .: järnvägar [järnvägarna]</span>	a railway
+n_jaest	mass n	<span class="en">jäst [jästen]</span>	yeast
+n_januari	n	januari	January
+n_jazz	mass n	<span class="en">jazz [jazzen]</span>	jazz
+n_jord	mass n	<span class="en">jord [jorden]</span>	earth / soil
+n_jordbruk	count n	<span class="ett">ett jordbruk [jordbruket] .: jordbruk [jordbruken]</span>	an agriculture
+n_jordbruksland	count n	<span class="ett">ett jordbruksland [jordbrukslandet] .: jordbruksländer [jordbruksländerna]</span>	a farmland
+n_jordbruksmark	count n	<span class="en">en jordbruksmark [jordbruksmarken] .: jordbruksmarker [jordbruksmarkerna]</span>	a farmland
+n_jordgubbe	count n	<span class="en">en jordgubbe [jordgubben] .: jordgubbar [jordgubbarna]</span>	a strawberry
+n_jordgubbslukt	mass n	<span class="en">jordgubbslukt [jordgubbslukten]</span>	strawberry smell
+n_journalist	count n	<span class="en">en journalist [journalisten] .: journalister [journalisterna]</span>	a journalist
+n_jude	count n	<span class="en">en jude [juden] .: judar [judarna]</span>	a Jew
+n_juice	count n	<span class="en">en juice [juicen] .: juicer [juicerna]</span>	a juice
+n_jul	count n	<span class="en">en jul [julen] .: jular [jularna]</span>	a Christmas
+n_juli	n	juli	July
+n_juni	n	juni	June
+n_kaal	mass n	<span class="en">kål [kålen]</span>	cabbage
+n_kabel	count n	<span class="en">en kabel [kabeln] .: kablar [kablarna]</span>	a cable
+n_kaella	count n	<span class="en">en källa [källan] .: källor [källorna]</span>	a source
+n_kaerlek	count n	<span class="en">en kärlek [kärleken] .: kärlekar [kärlekarna]</span>	a love
+n_kaernteknik	mass n	<span class="en">kärnteknik [kärntekniken]</span>	nuclear technology
+n_kaf	count n	<span class="ett">ett kafé [kaféet] .: kaféer [kaféerna]</span>	a café
+n_kafaegare	count n	<span class="en">en kaféägare [kaféägaren] .: kaféägare [kaféägarna]</span>	a café owner
+n_kaffe	count n	<span class="ett">ett kaffe [kaffet] .: kaffen [kaffena]</span>	a coffee
+n_kaka	count n	<span class="en">en kaka [kakan] .: kakor [kakorna]</span>	a cookie, biscuit
+n_kallbadhus	count n	<span class="ett">ett kallbadhus [kallbadhuset] .: kallbadhus [kallbadhusen]</span>	a cold bath facility
+n_kalsonger	mass n	<span class="en">kalsonger [kalsongerna]</span>	briefs / men's underwear
 n_kanada	mass n	Kanada	Canada
-n_kanal	n	en kanal [kanalen] .: kanaler [kanalerna]	a canal
-n_kanelbulle	n	en kanelbulle [kanelbullen] .: kanelbullar [kanelbullarna]	a cinnamon roll/bun
-n_kapitel	n	ett kapitel [kapitlet] .: kapitel [kapitlen]	a chapter
-n_kappa	n	en kappa [kappan] .: kappor [kapporna]	a coat
-n_karaoke	mass n	karaoke [karaoken]	karaoke
-n_karaokebar	n	en karaokebar [karaokebaren] .: karaokebarer [karaokebarerna]	a karaoke bar
-n_karate	n	en karate [karaten] .: karater [karaterna]	a karate
-n_kardemummabulle	n	en kardemummabulle [kardemummabullen] .: kardemummabullar [kardemummabullarna]	a cardamom bun, cardamom roll
+n_kanal	count n	<span class="en">en kanal [kanalen] .: kanaler [kanalerna]</span>	a canal
+n_kanelbulle	count n	<span class="en">en kanelbulle [kanelbullen] .: kanelbullar [kanelbullarna]</span>	a cinnamon roll/bun
+n_kapitel	count n	<span class="ett">ett kapitel [kapitlet] .: kapitel [kapitlen]</span>	a chapter
+n_kappa	count n	<span class="en">en kappa [kappan] .: kappor [kapporna]</span>	a coat
+n_karaoke	mass n	<span class="en">karaoke [karaoken]</span>	karaoke
+n_karaokebar	count n	<span class="en">en karaokebar [karaokebaren] .: karaokebarer [karaokebarerna]</span>	a karaoke bar
+n_karate	count n	<span class="en">en karate [karaten] .: karater [karaterna]</span>	a karate
+n_kardemummabulle	count n	<span class="en">en kardemummabulle [kardemummabullen] .: kardemummabullar [kardemummabullarna]</span>	a cardamom bun, cardamom roll
 n_karibien	mass n	Karibien	the Caribbean
-n_kasse	n	en kasse [kassen] .: kassar [kassarna]	a bag
-n_kastrull	mass n	kastrull [kastrullen]	saucepan
-n_katolik	mass n	en katolik [katoliken] .: katoliker [katolikerna]	Catholic
-n_katt	n	en katt [katten] .: katter [katterna]	a cat
-n_kavaj	n	en kavaj [kavajen] .: kavajer [kavajerna]	a suit jacket
-n_kaviar	mass n	kaviar [kaviaren]	cod roe spread
-n_kebabpizza	n	en kebabpizza [kebabpizzan] .: kebabpizzor [kebabpizzorna]	a kebab pizza
+n_kasse	count n	<span class="en">en kasse [kassen] .: kassar [kassarna]</span>	a bag
+n_kastrull	mass n	<span class="en">kastrull [kastrullen]</span>	saucepan
+n_katolik	count n	<span class="en">en katolik [katoliken] .: katoliker [katolikerna]</span>	a Catholic
+n_katt	count n	<span class="en">en katt [katten] .: katter [katterna]</span>	a cat
+n_kavaj	count n	<span class="en">en kavaj [kavajen] .: kavajer [kavajerna]</span>	a suit jacket
+n_kaviar	mass n	<span class="en">kaviar [kaviaren]</span>	cod roe spread
+n_kebabpizza	count n	<span class="en">en kebabpizza [kebabpizzan] .: kebabpizzor [kebabpizzorna]</span>	a kebab pizza
 n_kebnekaise	mass n	Kebnekaise	Kebnekaise, Sweden's highest peak
-n_kedja	n	en kedja [kedjan] .: kedjor [kedjorna]	a chain
-n_kemi	mass n	kemi [kemin]	chemistry
-n_kemilaexa	n	en kemiläxa [kemiläxan] .: kemiläxor [kemiläxorna]	a chemistry homework
-n_kemist	n	en kemist [kemisten] .: kemister [kemisterna]	a chemist
-n_ketchup	mass n	ketchup [ketchupen]	ketchup
-n_kille	n	en kille [killen] .: killar [killarna]	a guy
-n_kilometer	n	en kilometer [kilometern] .: kilometer [kilometerna]	a kilometre
+n_kedja	count n	<span class="en">en kedja [kedjan] .: kedjor [kedjorna]</span>	a chain
+n_kemi	mass n	<span class="en">kemi [kemin]</span>	chemistry
+n_kemilaexa	count n	<span class="en">en kemiläxa [kemiläxan] .: kemiläxor [kemiläxorna]</span>	a chemistry homework
+n_kemist	count n	<span class="en">en kemist [kemisten] .: kemister [kemisterna]</span>	a chemist
+n_ketchup	mass n	<span class="en">ketchup [ketchupen]</span>	ketchup
+n_kille	count n	<span class="en">en kille [killen] .: killar [killarna]</span>	a guy
+n_kilometer	count n	<span class="en">en kilometer [kilometern] .: kilometer [kilometerna]</span>	a kilometre
 n_kina	mass n	Kina	China
-n_kiosk	n	en kiosk [kiosken] .: kiosker [kioskerna]	a kiosk
-n_kjol	n	en kjol [kjolen] .: kjolar [kjolarna]	a skirt
-n_klaedbutik	n	en klädbutik [klädbutiken] .: klädbutiker [klädbutikerna]	a clothing store
-n_klaeder	mass n	kläder [kläderna]	clothes
-n_klaenning	n	en klänning [klänningen] .: klänningar [klänningarna]	a dress
-n_klaettring	mass n	klättring [klättringen]	climbing
-n_klass	n	en klass [klassen] .: klasser [klasserna]	a class
-n_klasskompis	n	en klasskompis [klasskompisen] .: klasskompisar [klasskompisarna]	a classmate
-n_klinik	n	en klinik [kliniken] .: kliniker [klinikerna]	a clinic
-n_klippa	n	en klippa [klippan] .: klippor [klipporna]	a rock
-n_klubb	n	en klubb [klubben] .: klubbar [klubbarna]	a club
-n_knaeckebroed	n	ett knäckebröd [knäckebrödet] .: knäckebröd [knäckebröden]	a crispbread
-n_kniv	mass n	kniv [kniven]	knife
-n_ko	n	en ko [kon] .: kor [korna]	a cow
-n_kock	n	en kock [kocken] .: kockar [kockarna]	a chef
-n_koek	n	ett kök [köket] .: kök [köken]	a kitchen
-n_koeksavdelning	n	en köksavdelning [köksavdelningen] .: köksavdelningar [köksavdelningarna]	a kitchen department
-n_koeksgrej	n	en köksgrej [köksgrejen] .: köksgrejer [köksgrejerna]	a kitchen utensil
-n_koen	n	ett kön [könet] .: kön [könen]	a gender
-n_koep	n	ett köp [köpet] .: köp [köpen]	a purchase
+n_kiosk	count n	<span class="en">en kiosk [kiosken] .: kiosker [kioskerna]</span>	a kiosk
+n_kjol	count n	<span class="en">en kjol [kjolen] .: kjolar [kjolarna]</span>	a skirt
+n_klaedbutik	count n	<span class="en">en klädbutik [klädbutiken] .: klädbutiker [klädbutikerna]</span>	a clothing store
+n_klaeder	mass n	<span class="en">kläder [kläderna]</span>	clothes
+n_klaenning	count n	<span class="en">en klänning [klänningen] .: klänningar [klänningarna]</span>	a dress
+n_klaettring	mass n	<span class="en">klättring [klättringen]</span>	climbing
+n_klass	count n	<span class="en">en klass [klassen] .: klasser [klasserna]</span>	a class
+n_klasskompis	count n	<span class="en">en klasskompis [klasskompisen] .: klasskompisar [klasskompisarna]</span>	a classmate
+n_klinik	count n	<span class="en">en klinik [kliniken] .: kliniker [klinikerna]</span>	a clinic
+n_klippa	count n	<span class="en">en klippa [klippan] .: klippor [klipporna]</span>	a rock
+n_klubb	count n	<span class="en">en klubb [klubben] .: klubbar [klubbarna]</span>	a club
+n_knaeckebroed	count n	<span class="ett">ett knäckebröd [knäckebrödet] .: knäckebröd [knäckebröden]</span>	a crispbread
+n_kniv	mass n	<span class="en">kniv [kniven]</span>	knife
+n_ko	count n	<span class="en">en ko [kon] .: kor [korna]</span>	a cow
+n_kock	count n	<span class="en">en kock [kocken] .: kockar [kockarna]</span>	a chef
+n_koek	count n	<span class="ett">ett kök [köket] .: kök [köken]</span>	a kitchen
+n_koeksavdelning	count n	<span class="en">en köksavdelning [köksavdelningen] .: köksavdelningar [köksavdelningarna]</span>	a kitchen department
+n_koeksgrej	count n	<span class="en">en köksgrej [köksgrejen] .: köksgrejer [köksgrejerna]</span>	a kitchen utensil
+n_koen	count n	<span class="ett">ett kön [könet] .: kön [könen]</span>	a gender
+n_koep	count n	<span class="ett">ett köp [köpet] .: köp [köpen]</span>	a purchase
 n_koepenhamn	mass n	Köpenhamn	Copenhagen
-n_koer	n	en kör [kören] .: körer [körerna]	a choir
-n_koerkort	n	ett körkort [körkortet] .: körkort [körkorten]	a driver's license
-n_koersbaerstomat	n	en körsbärstomat [körsbärstomaten] .: körsbärstomater [körsbärstomatena]	a cherry tomato
-n_koett	n	ett kött [köttet] .: kött [kötten]	a meat
-n_koettbulle	n	en köttbulle [köttbullen] .: köttbullar [köttbullarna]	a meatball
-n_koettfaers	n	en köttfärs [köttfärsen] .: köttfärser [köttfärserna]	a minced meat
-n_koettfaerssaas	mass n	en köttfärssås [köttfärssåsen] .: köttfärssåser [köttfärssåserna]	Bolognese
-n_koffein	mass n	koffein [koffeinet]	caffeine
-n_kofta	n	en kofta [koftan] .: koftor [koftorna]	a cardigan
-n_kokboksfoerfatt	n	en kokboksförfattare [kokboksförfattaren] .: kokboksförfattare [kokboksförfattarna]	a cookbook author
-n_kollega	n	en kollega [kollegan] .: kollegor [kollegorna]	a colleague
-n_komedi	n	en komedi [komedin] .: komedier [komedierna]	a comedy
-n_komparation	n	en komparation [komparationen] .: komparationer [komparationerna]	a comparison
-n_komparativ	n	en komparativ [komparativen] .: komparativer [komparativerna]	a comparative
-n_kompis	n	en kompis [kompisen] .: kompisar [kompisarna]	a friend
-n_konjunktion	n	en konjunktion [konjunktionen] .: konjunktioner [konjunktionerna]	a conjunction
-n_konsert	n	en konsert [konserten] .: konserter [konserterna]	a concert
-n_konserv	n	en konserv [konserven] .: konserver [konserverna]	a canned food, preserve
-n_konsonant	n	en konsonant [konsonanten] .: konsonanter [konsonanterna]	a consonant
-n_konst	mass n	konst [konsten]	art (noun)
-n_konstnaer	n	en konstnär [konstnären] .: konstnärer [konstnärerna]	an artist
-n_konstutstaellni	n	en konstutställning [konstutställningen] .: konstutställningar [konstutställningarna]	an art exhibit
-n_konsult	n	en konsult [konsulten] .: konsulter [konsulterna]	a consultant
-n_konsumentfakta	mass n	konsumentfakta [konsumentfaktan]	consumer information
-n_kontakt	n	en kontakt [kontakten] .: kontakter [kontakterna]	a contact
-n_kontor	n	ett kontor [kontoret] .: kontor [kontoren]	an office
-n_kopp	n	en kopp [koppen] .: koppar [kopparna]	a cup
-n_korean	mass n	en korean [koreanen] .: koreaner [koreanerna]	Korean
-n_korsning	n	en korsning [korsningen] .: korsningar [korsningarna]	an intersection, crossroads
-n_korvkiosk	n	en korvkiosk [korvkiosken] .: korvkiosker [korvkioskerna]	a hot dog stand
-n_krig	n	ett krig [kriget] .: krig [krigen]	a war
-n_krog	n	en krog [krogen] .: krogar [krogarna]	a bar; restaurant
-n_krokodil	n	en krokodil [krokodilen] .: krokodiler [krokodilerna]	a crocodile
-n_kronprins	n	en kronprins [kronprinsen] .: kronprinsar [kronprinsarna]	a crown prince
-n_kropp	n	en kropp [kroppen] .: kroppar [kropparna]	a body
-n_krukvaext	n	en krukväxt [krukväxten] .: krukväxter [krukväxterna]	a potted plant
-n_kryssning	n	en kryssning [kryssningen] .: kryssningar [kryssningarna]	a cruise
-n_kudde	mass n	kudde [kudden]	pillow
-n_kultur	n	en kultur [kulturen] .: kulturer [kulturerna]	a culture
-n_kung	n	en kung [kungen] .: kungar [kungarna]	a king
-n_kursiv_stil	n	en kursiv stil [kursiva stilen] .: kursiva stilar [kursiva stilarna]	an italics
-n_kusin	n	en kusin [kusinen] .: kusiner [kusinerna]	a cousin
-n_kustlinje	n	en kustlinje [kustlinjen] .: kustlinjer [kustlinjerna]	a coastline
-n_kvadratkilomete	n	en kvadratkilometer [kvadratkilometern] .: kvadratkilometer [kvadratkilometrarna]	a square kilometer
-n_kvaell	n	en kväll [kvällen] .: kvällar [kvällarna]	an evening
-n_kvaellskurs	n	en kvällskurs [kvällskursen] .: kvällskurser [kvällskurserna]	an evening course
-n_kvalitet	mass n	kvalitet [kvaliteten]	quality
-n_kvinna	n	en kvinna [kvinnan] .: kvinnor [kvinnorna]	a woman
-n_kvinnonamn	n	ett kvinnonamn [kvinnonamnet] .: kvinnonamn [kvinnonamnen]	a woman's name
-n_kyckling	n	en kyckling [kycklingen] .: kycklingar [kycklingarna]	a chicken
-n_kycklingfil	n	en kycklingfilé [kycklingfilén] .: kycklingfiléer [kycklingfiléerna]	a chicken fillet
-n_kyrka	n	en kyrka [kyrkan] .: kyrkor [kyrkorna]	a church
-n_kyrkby	n	en kyrkby [kyrkbyn] .: kyrkbyar [kyrkbyarna]	a church village
-n_laat	n	en låt [låten] .: låtar [låtarna]	a song
-n_laatsassyskon	n	ett låtsassyskon [låtsassyskonet] .: låtsassyskon [låtsassyskonen]	a step-sibling
-n_laatskrivare	n	en låtskrivare [låtskrivaren] .: låtskrivare [låtskrivarna]	a songwriter
-n_laege	n	ett läge [läget] .: lägen [lägena]	a situation
-n_laegenhet	n	en lägenhet [lägenheten] .: lägenheter [lägenheterna]	an apartment
-n_laekare	n	en läkare [läkaren] .: läkare [läkarna]	a doctor
-n_laekemedel	n	ett läkemedel [läkemedlet] .: läkemedel [läkemedlen]	a medicine
-n_laenk	n	en länk [länken] .: länkar [länkarna]	a link
-n_laepp	n	en läpp [läppen] .: läppar [läpparna]	a lip
-n_laerare	n	en lärare [läraren] .: lärare [lärarna]	a teacher
-n_laesare	n	en läsare [läsaren] .: läsare [läsarna]	a reader
-n_laesk	mass n	läsk [läsken]	soft drink, fizzy drink
-n_laettoel	mass n	lättöl [lättölet]	light beer
-n_laexa	n	en läxa [läxan] .: läxor [läxorna]	a homework
-n_lag	n	ett lag [laget] .: lag [lagen]	a team
-n_lakan	mass n	lakan [lakanet]	bedsheets
-n_lampa	n	en lampa [lampan] .: lampor [lamporna]	a lamp
-n_land	n	ett land [landet] .: länder [länderna]	a country
-n_landskap	n	ett landskap [landskapet] .: landskap [landen]	a landscape
-n_landskod	n	en landskod [landskoden] .: landskoder [landskoderna]	a country code
-n_landsnummer	n	ett landsnummer [landsnumret] .: landsnummer [landsnumren]	a dialing code, country calling code
+n_koer	count n	<span class="en">en kör [kören] .: körer [körerna]</span>	a choir
+n_koerkort	count n	<span class="ett">ett körkort [körkortet] .: körkort [körkorten]</span>	a driver's license
+n_koersbaerstomat	count n	<span class="en">en körsbärstomat [körsbärstomaten] .: körsbärstomater [körsbärstomatena]</span>	a cherry tomato
+n_koett	count n	<span class="ett">ett kött [köttet] .: kött [kötten]</span>	a meat
+n_koettbulle	count n	<span class="en">en köttbulle [köttbullen] .: köttbullar [köttbullarna]</span>	a meatball
+n_koettfaers	count n	<span class="en">en köttfärs [köttfärsen] .: köttfärser [köttfärserna]</span>	a minced meat
+n_koettfaerssaas	count n	<span class="en">en köttfärssås [köttfärssåsen] .: köttfärssåser [köttfärssåserna]</span>	a Bolognese
+n_koffein	mass n	<span class="ett">koffein [koffeinet]</span>	caffeine
+n_kofta	count n	<span class="en">en kofta [koftan] .: koftor [koftorna]</span>	a cardigan
+n_kokboksfoerfatt	count n	<span class="en">en kokboksförfattare [kokboksförfattaren] .: kokboksförfattare [kokboksförfattarna]</span>	a cookbook author
+n_kollega	count n	<span class="en">en kollega [kollegan] .: kollegor [kollegorna]</span>	a colleague
+n_komedi	count n	<span class="en">en komedi [komedin] .: komedier [komedierna]</span>	a comedy
+n_komparation	count n	<span class="en">en komparation [komparationen] .: komparationer [komparationerna]</span>	a comparison
+n_komparativ	count n	<span class="en">en komparativ [komparativen] .: komparativer [komparativerna]</span>	a comparative
+n_kompis	count n	<span class="en">en kompis [kompisen] .: kompisar [kompisarna]</span>	a friend
+n_konjunktion	count n	<span class="en">en konjunktion [konjunktionen] .: konjunktioner [konjunktionerna]</span>	a conjunction
+n_konsert	count n	<span class="en">en konsert [konserten] .: konserter [konserterna]</span>	a concert
+n_konserv	count n	<span class="en">en konserv [konserven] .: konserver [konserverna]</span>	a canned food, preserve
+n_konsonant	count n	<span class="en">en konsonant [konsonanten] .: konsonanter [konsonanterna]</span>	a consonant
+n_konst	mass n	<span class="en">konst [konsten]</span>	art (noun)
+n_konstnaer	count n	<span class="en">en konstnär [konstnären] .: konstnärer [konstnärerna]</span>	an artist
+n_konstutstaellni	count n	<span class="en">en konstutställning [konstutställningen] .: konstutställningar [konstutställningarna]</span>	an art exhibit
+n_konsult	count n	<span class="en">en konsult [konsulten] .: konsulter [konsulterna]</span>	a consultant
+n_konsumentfakta	mass n	<span class="en">konsumentfakta [konsumentfaktan]</span>	consumer information
+n_kontakt	count n	<span class="en">en kontakt [kontakten] .: kontakter [kontakterna]</span>	a contact
+n_kontor	count n	<span class="ett">ett kontor [kontoret] .: kontor [kontoren]</span>	an office
+n_kopp	count n	<span class="en">en kopp [koppen] .: koppar [kopparna]</span>	a cup
+n_korean	count n	<span class="en">en korean [koreanen] .: koreaner [koreanerna]</span>	a Korean
+n_korsning	count n	<span class="en">en korsning [korsningen] .: korsningar [korsningarna]</span>	an intersection, crossroads
+n_korvkiosk	count n	<span class="en">en korvkiosk [korvkiosken] .: korvkiosker [korvkioskerna]</span>	a hot dog stand
+n_krig	count n	<span class="ett">ett krig [kriget] .: krig [krigen]</span>	a war
+n_krog	count n	<span class="en">en krog [krogen] .: krogar [krogarna]</span>	a bar; restaurant
+n_krokodil	count n	<span class="en">en krokodil [krokodilen] .: krokodiler [krokodilerna]</span>	a crocodile
+n_kronprins	count n	<span class="en">en kronprins [kronprinsen] .: kronprinsar [kronprinsarna]</span>	a crown prince
+n_kropp	count n	<span class="en">en kropp [kroppen] .: kroppar [kropparna]</span>	a body
+n_krukvaext	count n	<span class="en">en krukväxt [krukväxten] .: krukväxter [krukväxterna]</span>	a potted plant
+n_kryssning	count n	<span class="en">en kryssning [kryssningen] .: kryssningar [kryssningarna]</span>	a cruise
+n_kudde	mass n	<span class="en">kudde [kudden]</span>	pillow
+n_kultur	count n	<span class="en">en kultur [kulturen] .: kulturer [kulturerna]</span>	a culture
+n_kung	count n	<span class="en">en kung [kungen] .: kungar [kungarna]</span>	a king
+n_kursiv_stil	count n	<span class="en">en kursiv stil [kursiva stilen] .: kursiva stilar [kursiva stilarna]</span>	an italics
+n_kusin	count n	<span class="en">en kusin [kusinen] .: kusiner [kusinerna]</span>	a cousin
+n_kustlinje	count n	<span class="en">en kustlinje [kustlinjen] .: kustlinjer [kustlinjerna]</span>	a coastline
+n_kvadratkilomete	count n	<span class="en">en kvadratkilometer [kvadratkilometern] .: kvadratkilometer [kvadratkilometrarna]</span>	a square kilometer
+n_kvaell	count n	<span class="en">en kväll [kvällen] .: kvällar [kvällarna]</span>	an evening
+n_kvaellskurs	count n	<span class="en">en kvällskurs [kvällskursen] .: kvällskurser [kvällskurserna]</span>	an evening course
+n_kvalitet	mass n	<span class="en">kvalitet [kvaliteten]</span>	quality
+n_kvinna	count n	<span class="en">en kvinna [kvinnan] .: kvinnor [kvinnorna]</span>	a woman
+n_kvinnonamn	count n	<span class="ett">ett kvinnonamn [kvinnonamnet] .: kvinnonamn [kvinnonamnen]</span>	a woman's name
+n_kyckling	count n	<span class="en">en kyckling [kycklingen] .: kycklingar [kycklingarna]</span>	a chicken
+n_kycklingfil	count n	<span class="en">en kycklingfilé [kycklingfilén] .: kycklingfiléer [kycklingfiléerna]</span>	a chicken fillet
+n_kyrka	count n	<span class="en">en kyrka [kyrkan] .: kyrkor [kyrkorna]</span>	a church
+n_kyrkby	count n	<span class="en">en kyrkby [kyrkbyn] .: kyrkbyar [kyrkbyarna]</span>	a church village
+n_laat	count n	<span class="en">en låt [låten] .: låtar [låtarna]</span>	a song
+n_laatsassyskon	count n	<span class="ett">ett låtsassyskon [låtsassyskonet] .: låtsassyskon [låtsassyskonen]</span>	a step-sibling
+n_laatskrivare	count n	<span class="en">en låtskrivare [låtskrivaren] .: låtskrivare [låtskrivarna]</span>	a songwriter
+n_laege	count n	<span class="ett">ett läge [läget] .: lägen [lägena]</span>	a situation
+n_laegenhet	count n	<span class="en">en lägenhet [lägenheten] .: lägenheter [lägenheterna]</span>	an apartment
+n_laekare	count n	<span class="en">en läkare [läkaren] .: läkare [läkarna]</span>	a doctor
+n_laekemedel	count n	<span class="ett">ett läkemedel [läkemedlet] .: läkemedel [läkemedlen]</span>	a medicine
+n_laenk	count n	<span class="en">en länk [länken] .: länkar [länkarna]</span>	a link
+n_laepp	count n	<span class="en">en läpp [läppen] .: läppar [läpparna]</span>	a lip
+n_laerare	count n	<span class="en">en lärare [läraren] .: lärare [lärarna]</span>	a teacher
+n_laesare	count n	<span class="en">en läsare [läsaren] .: läsare [läsarna]</span>	a reader
+n_laesk	mass n	<span class="en">läsk [läsken]</span>	soft drink, fizzy drink
+n_laettoel	mass n	<span class="ett">lättöl [lättölet]</span>	light beer
+n_laexa	count n	<span class="en">en läxa [läxan] .: läxor [läxorna]</span>	a homework
+n_lag	count n	<span class="ett">ett lag [laget] .: lag [lagen]</span>	a team
+n_lakan	mass n	<span class="ett">lakan [lakanet]</span>	bedsheets
+n_lampa	count n	<span class="en">en lampa [lampan] .: lampor [lamporna]</span>	a lamp
+n_land	count n	<span class="ett">ett land [landet] .: länder [länderna]</span>	a country
+n_landskap	count n	<span class="ett">ett landskap [landskapet] .: landskap [landen]</span>	a landscape
+n_landskod	count n	<span class="en">en landskod [landskoden] .: landskoder [landskoderna]</span>	a country code
+n_landsnummer	count n	<span class="ett">ett landsnummer [landsnumret] .: landsnummer [landsnumren]</span>	a dialing code, country calling code
 n_lappland	mass n	Lappland	Lapland (region in northern Sweden)
-n_laptop	n	en laptop [laptoppen] .: laptops [laptopsen]	a laptop
-n_lastbil	n	en lastbil [lastbilen] .: lastbilar [lastbilarna]	a truck
+n_laptop	count n	<span class="en">en laptop [laptoppen] .: laptops [laptopsen]</span>	a laptop
+n_lastbil	count n	<span class="en">en lastbil [lastbilen] .: lastbilar [lastbilarna]</span>	a truck
 n_latinamerika	mass n	Latinamerika	Latin America
-n_lego	mass n	lego [legot]	Lego
-n_lillkusin	mass n	lillkusin [lillkusinen]	little cousin
-n_lingonsylt	mass n	lingonsylt [lingonsylten]	lingonberry preserves
-n_linne	n	ett linne [linnet] .: linnen [linnena]	a tank top
-n_lista	n	en lista [listan] .: listor [listorna]	a list
-n_liter	n	en liter [litern] .: litrar [litrarna]	a liter
-n_litteratur	n	en litteratur [litteraturen] .: litteraturer [litteraturerna]	a literature
-n_liv	n	ett liv [livet] .: liv [liven]	a life
-n_ljud	n	ett ljud [ljudet] .: ljud [ljuden]	a sound
-n_ljus	n	ett ljus [ljuset] .: ljus [ljusen]	a light (noun)
-n_loek	n	en lök [löken] .: lökar [lökarna]	an onion
-n_loeparsko	n	en löparsko [löparskon] .: löparskor [löparskorna]	a running shoe
-n_loepband	n	ett löpband [löpbandet] .: löpband [löpbanden]	a treadmill
-n_loepning	n	en löpning [löpningen] .: löpningar [löpningarna]	a running
-n_loerdag	mass n	en lördag [lördagen] .: lördagar [lördagarna]	Saturday
-n_loesenord	n	ett lösenord [lösenordet] .: lösenord [lösenorden]	a password
-n_loppis	n	en loppis [loppisen] .: loppisar [loppisarna]	a flea market
-n_lukt	n	en lukt [lukten] .: lukter [lukterna]	a smell (noun)
-n_luktsinne	n	ett luktsinne [luktsinnet] .: luktsinnen [luktsinnena]	a sense of smell
-n_lunch	n	en lunch [lunchen] .: luncher [luncherna]	a lunch
-n_lust	n	en lust [lusten] .: lustar [lustarna]	a desire
-n_luvtroeja	n	en luvtröja [luvtröjan] .: luvtröjor [luvtröjorna]	a hoodie
-n_lyssnare	n	en lyssnare [lyssnaren] .: lyssnare [lyssnarna]	a listener
-n_maanad	n	en månad [månaden] .: månader [månaderna]	a month
-n_maandag	mass n	en måndag [måndagen] .: måndagar [måndagarna]	Monday
-n_maane	n	en måne [månen] .: månar [månarna]	a moon
-n_maattband	n	ett måttband [måttbandet] .: måttband [måttbanden]	a tape measure
-n_madrass	mass n	madrass [madrassen]	mattress
-n_maenniska	n	en människa [människan] .: människor [människorna]	a human, person
-n_maerke	n	ett märke [märket] .: märken [märkena]	a brand; label
-n_maj	mass n	maj	May
-n_mamma	n	en mamma [mamman] .: mammor [mammorna]	a mom, mother
-n_man	n	en man [mannen] .: män [männen]	a man / husband
-n_mandel	n	en mandel [mandeln] .: mandlar [mandlarna]	an almond
-n_mango	n	en mango [mangon] .: mangor [mangorna]	a mango
-n_mansnamn	n	ett mansnamn [mansnamnet] .: mansnamn [mansnamnen]	a man's name
-n_mapp	n	en mapp [mappen] .: mappar [mapparna]	a folder
-n_marmelad	mass n	marmelad [marmeladen]	marmalade
-n_mars	mass n	mars	March
-n_maskin	n	en maskin [maskinen] .: maskiner [maskinerna]	a machine
-n_massa	n	en massa [massan] .: massor [massorna]	a lot
-n_mat	n	en mat [maten] .: matar [matarna]	a food
-n_mataffaer	n	en mataffär [mataffären] .: mataffärer [mataffärerna]	a grocery store
-n_match	n	en match [matchen] .: matcher [matcherna]	a match, game
-n_mazarin	n	en mazarin [mazarinen] .: mazariner [mazarinerna]	an almond pastry
-n_meddelande	n	ett meddelande [meddelandet] .: meddelanden [meddelandena]	a message
-n_medeltid	mass n	medeltid [medeltiden]	Middle Ages
-n_medicin	n	en medicin [medicinen] .: mediciner [medicinerna]	a medicine
-n_medlem	n	en medlem [medlemmen] .: medlemmar [medlemmarna]	a member
-n_mejeri	n	ett mejeri [mejeriet] .: mejerier [mejerierna]	a dairy
-n_mejl	n	ett mejl [mejlet] .: mejl [mejlen]	an email
-n_mellanmaal	n	ett mellanmål [mellanmålet] .: mellanmål [mellanmålen]	a light snack
+n_lego	mass n	<span class="ett">lego [legot]</span>	Lego
+n_lillkusin	mass n	<span class="en">lillkusin [lillkusinen]</span>	little cousin
+n_lingonsylt	mass n	<span class="en">lingonsylt [lingonsylten]</span>	lingonberry preserves
+n_linne	count n	<span class="ett">ett linne [linnet] .: linnen [linnena]</span>	a tank top
+n_lista	count n	<span class="en">en lista [listan] .: listor [listorna]</span>	a list
+n_liter	count n	<span class="en">en liter [litern] .: litrar [litrarna]</span>	a liter
+n_litteratur	count n	<span class="en">en litteratur [litteraturen] .: litteraturer [litteraturerna]</span>	a literature
+n_liv	count n	<span class="ett">ett liv [livet] .: liv [liven]</span>	a life
+n_ljud	count n	<span class="ett">ett ljud [ljudet] .: ljud [ljuden]</span>	a sound
+n_ljus	count n	<span class="ett">ett ljus [ljuset] .: ljus [ljusen]</span>	a light (noun)
+n_loek	count n	<span class="en">en lök [löken] .: lökar [lökarna]</span>	an onion
+n_loeparsko	count n	<span class="en">en löparsko [löparskon] .: löparskor [löparskorna]</span>	a running shoe
+n_loepband	count n	<span class="ett">ett löpband [löpbandet] .: löpband [löpbanden]</span>	a treadmill
+n_loepning	count n	<span class="en">en löpning [löpningen] .: löpningar [löpningarna]</span>	a running
+n_loerdag	count n	<span class="en">en lördag [lördagen] .: lördagar [lördagarna]</span>	a Saturday
+n_loesenord	count n	<span class="ett">ett lösenord [lösenordet] .: lösenord [lösenorden]</span>	a password
+n_loppis	count n	<span class="en">en loppis [loppisen] .: loppisar [loppisarna]</span>	a flea market
+n_lukt	count n	<span class="en">en lukt [lukten] .: lukter [lukterna]</span>	a smell (noun)
+n_luktsinne	count n	<span class="ett">ett luktsinne [luktsinnet] .: luktsinnen [luktsinnena]</span>	a sense of smell
+n_lunch	count n	<span class="en">en lunch [lunchen] .: luncher [luncherna]</span>	a lunch
+n_lust	count n	<span class="en">en lust [lusten] .: lustar [lustarna]</span>	a desire
+n_luvtroeja	count n	<span class="en">en luvtröja [luvtröjan] .: luvtröjor [luvtröjorna]</span>	a hoodie
+n_lyssnare	count n	<span class="en">en lyssnare [lyssnaren] .: lyssnare [lyssnarna]</span>	a listener
+n_maanad	count n	<span class="en">en månad [månaden] .: månader [månaderna]</span>	a month
+n_maandag	count n	<span class="en">en måndag [måndagen] .: måndagar [måndagarna]</span>	a Monday
+n_maane	count n	<span class="en">en måne [månen] .: månar [månarna]</span>	a moon
+n_maattband	count n	<span class="ett">ett måttband [måttbandet] .: måttband [måttbanden]</span>	a tape measure
+n_madrass	mass n	<span class="en">madrass [madrassen]</span>	mattress
+n_maenniska	count n	<span class="en">en människa [människan] .: människor [människorna]</span>	a human, person
+n_maerke	count n	<span class="ett">ett märke [märket] .: märken [märkena]</span>	a brand; label
+n_maj	n	maj	May
+n_mamma	count n	<span class="en">en mamma [mamman] .: mammor [mammorna]</span>	a mom, mother
+n_man	count n	<span class="en">en man [mannen] .: män [männen]</span>	a man / husband
+n_mandel	count n	<span class="en">en mandel [mandeln] .: mandlar [mandlarna]</span>	an almond
+n_mango	count n	<span class="en">en mango [mangon] .: mangor [mangorna]</span>	a mango
+n_mansnamn	count n	<span class="ett">ett mansnamn [mansnamnet] .: mansnamn [mansnamnen]</span>	a man's name
+n_mapp	count n	<span class="en">en mapp [mappen] .: mappar [mapparna]</span>	a folder
+n_marmelad	mass n	<span class="en">marmelad [marmeladen]</span>	marmalade
+n_mars	n	mars	March
+n_maskin	count n	<span class="en">en maskin [maskinen] .: maskiner [maskinerna]</span>	a machine
+n_massa	count n	<span class="en">en massa [massan] .: massor [massorna]</span>	a lot
+n_mat	count n	<span class="en">en mat [maten] .: matar [matarna]</span>	a food
+n_mataffaer	count n	<span class="en">en mataffär [mataffären] .: mataffärer [mataffärerna]</span>	a grocery store
+n_match	count n	<span class="en">en match [matchen] .: matcher [matcherna]</span>	a match, game
+n_mazarin	count n	<span class="en">en mazarin [mazarinen] .: mazariner [mazarinerna]</span>	an almond pastry
+n_meddelande	count n	<span class="ett">ett meddelande [meddelandet] .: meddelanden [meddelandena]</span>	a message
+n_medeltid	mass n	<span class="en">medeltid [medeltiden]</span>	Middle Ages
+n_medicin	count n	<span class="en">en medicin [medicinen] .: mediciner [medicinerna]</span>	a medicine
+n_medlem	count n	<span class="en">en medlem [medlemmen] .: medlemmar [medlemmarna]</span>	a member
+n_mejeri	count n	<span class="ett">ett mejeri [mejeriet] .: mejerier [mejerierna]</span>	a dairy
+n_mejl	count n	<span class="ett">ett mejl [mejlet] .: mejl [mejlen]</span>	an email
+n_mellanmaal	count n	<span class="ett">ett mellanmål [mellanmålet] .: mellanmål [mellanmålen]</span>	a light snack
 n_mellanoestern	mass n	Mellanöstern	Middle East
-n_mellanstorlek	n	en mellanstorlek [mellanstorleken] .: mellanstorlekar [mellanstorlekarna]	a medium size
-n_mening	n	en mening [meningen] .: meningar [meningarna]	a sentence
-n_mentor	n	en mentor [mentorn] .: mentorer [mentorerna]	a mentor
-n_meny	n	en meny [menyn] .: menyer [menyerna]	a menu
-n_mess	n	ett mess [messet] .: mess [messen]	a (colloq.) text; message
-n_metod	n	en metod [metoden] .: metoder [metoderna]	a method
-n_middag	n	en middag [middagen] .: middagar [middagarna]	a dinner
-n_mikro	n	en mikro [mikron] .: mikrar [mikrarna]	a microwave
-n_mil	mass n	en mil [milen] .: mil [milen]	Swedish mile (10 km)
-n_miljon	n	en miljon [miljonen] .: miljoner [miljonerna]	a million
-n_mineralvatten	mass n	mineralvatten [mineralvattnet]	mineral water
-n_minoritet	n	en minoritet [minoriteten] .: minoriteter [minoriteterna]	a minority
-n_minoritetsspraa	n	ett minoritetsspråk [minoritetsspråket] .: minoritetsspråk [minoritetsspråken]	a minority language
-n_mjoel	mass n	mjöl [mjölet]	flour
-n_mjoelk	mass n	mjölk [mjölken]	milk
-n_mjukost	n	en mjukost [mjukosten] .: mjukostar [mjukostarna]	a cheese spread
-n_mobil	n	en mobil [mobilen] .: mobiler [mobilerna]	a cellphone
-n_moessa	n	en mössa [mössan] .: mössor [mössorna]	a hat (beanie)
-n_moete	n	ett möte [mötet] .: möten [mötena]	a meeting
-n_molekyl	n	en molekyl [molekylen] .: molekyler [molekylerna]	a molecule
-n_monster	n	ett monster [monstret] .: monster [monstren]	a monster
-n_mor	n	en mor [modern] .: mödrar [mödrarna]	a mother
-n_morfar	n	en morfar [morfadern] .: morfäder [morfäderna]	a maternal grandfather
-n_morfarsfar	n	en morfarsfar [morfarsfadern] .: morfarsfäder [morfarsfäderna]	a maternal great-grandfather
-n_mormor	n	en mormor [mormodern] .: mormödrar [mormödrarna]	a maternal grandmother
-n_morot	n	en morot [moroten] .: morötter [morötterna]	a carrot
-n_morotskaka	n	en morotskaka [morotskakan] .: morotskakor [morotskakorna]	a carrot cake
-n_morsdag	mass n	en morsdag [morsdagen] .: morsdagar [morsdagarna]	Mother's Day
-n_mosk	n	en moské [moskén] .: moskéer [moskéerna]	a mosque
-n_moster	n	en moster [mostern] .: mostrar [mostrarna]	a maternal aunt
-n_motorcykel	n	en motorcykel [motorcykeln] .: motorcyklar [motorcyklarna]	a motorbike
-n_motorsport	n	en motorsport [motorsporten] .: motorsporter [motorsporterna]	a motorsport
-n_motsats	n	en motsats [motsatsen] .: motsatser [motsatserna]	an opposite
-n_motstaand	n	ett motstånd [motståndet] .: motstånd [motstånden]	a resistance
-n_mountainbike	mass n	mountainbike [mountainbiken]	mountain bike
-n_mun	n	en mun [munnen] .: munnar [munnarna]	a mouth
-n_mus	n	en mus [musen] .: möss [mössen]	a mouse
-n_museum	n	ett museum [museet] .: museum [museerna]	a museum
-n_musik	n	en musik [musiken] .: musik [musiken]	a music
-n_musikindustri	n	en musikindustri [musikindustrin] .: musikindustrier [musikindustrierna]	a music industry
-n_muslim	mass n	en muslim [muslimen] .: muslimer [muslimerna]	Muslim
-n_myggmedel	n	ett myggmedel [myggmedlet] .: myggmedel [myggmedlen]	a mosquito repellent
-n_mys	mass n	mys [myset]	coziness
-n_nachos	mass n	nachos [nachosen]	nachos
-n_nackdel	n	en nackdel [nackdelen] .: nackdelar [nackdelarna]	a disadvantage
-n_naerbutik	n	en närbutik [närbutiken] .: närbutiker [närbutikerna]	a local grocery store
-n_naesa	n	en näsa [näsan] .: näsor [näsorna]	a nose
-n_naet	n	ett nät [nätet] .: nät [näten]	a net
-n_naetdejting	n	en nätdejting [nätdejtingen] .: nätdejting [nätdejting]	an internet dating
-n_namn	n	ett namn [namnet] .: namn [namnen]	a name
-n_nationaldag	n	en nationaldag [nationaldagen] .: nationaldagar [nationaldagarna]	a national day
-n_nattklubb	n	en nattklubb [nattklubben] .: nattklubbar [nattklubbarna]	a nightclub
-n_natur	n	en natur [naturen] .: naturer [naturerna]	a nature
+n_mellanstorlek	count n	<span class="en">en mellanstorlek [mellanstorleken] .: mellanstorlekar [mellanstorlekarna]</span>	a medium size
+n_mening	count n	<span class="en">en mening [meningen] .: meningar [meningarna]</span>	a sentence
+n_mentor	count n	<span class="en">en mentor [mentorn] .: mentorer [mentorerna]</span>	a mentor
+n_meny	count n	<span class="en">en meny [menyn] .: menyer [menyerna]</span>	a menu
+n_mess	count n	<span class="ett">ett mess [messet] .: mess [messen]</span>	a (colloq.) text; message
+n_metod	count n	<span class="en">en metod [metoden] .: metoder [metoderna]</span>	a method
+n_middag	count n	<span class="en">en middag [middagen] .: middagar [middagarna]</span>	a dinner
+n_mikro	count n	<span class="en">en mikro [mikron] .: mikrar [mikrarna]</span>	a microwave
+n_mil	count n	<span class="en">en mil [milen] .: mil [milen]</span>	a Swedish mile (10 km)
+n_miljon	count n	<span class="en">en miljon [miljonen] .: miljoner [miljonerna]</span>	a million
+n_mineralvatten	mass n	<span class="ett">mineralvatten [mineralvattnet]</span>	mineral water
+n_minoritet	count n	<span class="en">en minoritet [minoriteten] .: minoriteter [minoriteterna]</span>	a minority
+n_minoritetsspraa	count n	<span class="ett">ett minoritetsspråk [minoritetsspråket] .: minoritetsspråk [minoritetsspråken]</span>	a minority language
+n_mjoel	mass n	<span class="ett">mjöl [mjölet]</span>	flour
+n_mjoelk	mass n	<span class="en">mjölk [mjölken]</span>	milk
+n_mjukost	count n	<span class="en">en mjukost [mjukosten] .: mjukostar [mjukostarna]</span>	a cheese spread
+n_mobil	count n	<span class="en">en mobil [mobilen] .: mobiler [mobilerna]</span>	a cellphone
+n_moessa	count n	<span class="en">en mössa [mössan] .: mössor [mössorna]</span>	a hat (beanie)
+n_moete	count n	<span class="ett">ett möte [mötet] .: möten [mötena]</span>	a meeting
+n_molekyl	count n	<span class="en">en molekyl [molekylen] .: molekyler [molekylerna]</span>	a molecule
+n_monster	count n	<span class="ett">ett monster [monstret] .: monster [monstren]</span>	a monster
+n_mor	count n	<span class="en">en mor [modern] .: mödrar [mödrarna]</span>	a mother
+n_morfar	count n	<span class="en">en morfar [morfadern] .: morfäder [morfäderna]</span>	a maternal grandfather
+n_morfarsfar	count n	<span class="en">en morfarsfar [morfarsfadern] .: morfarsfäder [morfarsfäderna]</span>	a maternal great-grandfather
+n_mormor	count n	<span class="en">en mormor [mormodern] .: mormödrar [mormödrarna]</span>	a maternal grandmother
+n_morot	count n	<span class="en">en morot [moroten] .: morötter [morötterna]</span>	a carrot
+n_morotskaka	count n	<span class="en">en morotskaka [morotskakan] .: morotskakor [morotskakorna]</span>	a carrot cake
+n_morsdag	count n	<span class="en">en morsdag [morsdagen] .: morsdagar [morsdagarna]</span>	a Mother's Day
+n_mosk	count n	<span class="en">en moské [moskén] .: moskéer [moskéerna]</span>	a mosque
+n_moster	count n	<span class="en">en moster [mostern] .: mostrar [mostrarna]</span>	a maternal aunt
+n_motorcykel	count n	<span class="en">en motorcykel [motorcykeln] .: motorcyklar [motorcyklarna]</span>	a motorbike
+n_motorsport	count n	<span class="en">en motorsport [motorsporten] .: motorsporter [motorsporterna]</span>	a motorsport
+n_motsats	count n	<span class="en">en motsats [motsatsen] .: motsatser [motsatserna]</span>	an opposite
+n_motstaand	count n	<span class="ett">ett motstånd [motståndet] .: motstånd [motstånden]</span>	a resistance
+n_mountainbike	mass n	<span class="en">mountainbike [mountainbiken]</span>	mountain bike
+n_mun	count n	<span class="en">en mun [munnen] .: munnar [munnarna]</span>	a mouth
+n_mus	count n	<span class="en">en mus [musen] .: möss [mössen]</span>	a mouse
+n_museum	count n	<span class="ett">ett museum [museet] .: museum [museerna]</span>	a museum
+n_musik	count n	<span class="en">en musik [musiken] .: musik [musiken]</span>	a music
+n_musikindustri	count n	<span class="en">en musikindustri [musikindustrin] .: musikindustrier [musikindustrierna]</span>	a music industry
+n_muslim	count n	<span class="en">en muslim [muslimen] .: muslimer [muslimerna]</span>	a Muslim
+n_myggmedel	count n	<span class="ett">ett myggmedel [myggmedlet] .: myggmedel [myggmedlen]</span>	a mosquito repellent
+n_mys	mass n	<span class="ett">mys [myset]</span>	coziness
+n_nachos	mass n	<span class="en">nachos [nachosen]</span>	nachos
+n_nackdel	count n	<span class="en">en nackdel [nackdelen] .: nackdelar [nackdelarna]</span>	a disadvantage
+n_naerbutik	count n	<span class="en">en närbutik [närbutiken] .: närbutiker [närbutikerna]</span>	a local grocery store
+n_naesa	count n	<span class="en">en näsa [näsan] .: näsor [näsorna]</span>	a nose
+n_naet	count n	<span class="ett">ett nät [nätet] .: nät [näten]</span>	a net
+n_naetdejting	count n	<span class="en">en nätdejting [nätdejtingen] .: nätdejting [nätdejting]</span>	an internet dating
+n_namn	count n	<span class="ett">ett namn [namnet] .: namn [namnen]</span>	a name
+n_nationaldag	count n	<span class="en">en nationaldag [nationaldagen] .: nationaldagar [nationaldagarna]</span>	a national day
+n_nattklubb	count n	<span class="en">en nattklubb [nattklubben] .: nattklubbar [nattklubbarna]</span>	a nightclub
+n_natur	count n	<span class="en">en natur [naturen] .: naturer [naturerna]</span>	a nature
 n_nederlaenderna	mass n	Nederländerna	the Netherlands
-n_nedervaaning	n	en nedervåning [nedervåningen] .: nedervåningar [nedervåningarna]	a ground floor; lower floor
-n_negation	n	en negation [negationen] .: negationer [negationerna]	a negation
-n_nick	n	ett nick [nicket] .: nick [nicken]	a nickname; handle
-n_nitroglycerin	mass n	nitroglycerin [nitroglycerinet]	nitroglycerin
+n_nedervaaning	count n	<span class="en">en nedervåning [nedervåningen] .: nedervåningar [nedervåningarna]</span>	a ground floor; lower floor
+n_negation	count n	<span class="en">en negation [negationen] .: negationer [negationerna]</span>	a negation
+n_nitroglycerin	mass n	<span class="ett">nitroglycerin [nitroglycerinet]</span>	nitroglycerin
 n_nobelfesten	mass n	Nobelfesten	the Nobel Banquet
-n_nobelpris	n	ett Nobelpris [Nobelpriset] .: Nobelpris [Nobelprisen]	a Nobel Prize
-n_nobelpristagare	mass n	en Nobelpristagare [Nobelpristagaren] .: Nobelpristagare [Nobelpristagarna]	Nobel prize winner
-n_noejespark	n	en nöjespark [nöjesparken] .: nöjesparker [nöjesparkerna]	an amusement park
-n_noet	n	en nöt [nöten] .: nötter [nötterna]	a nut
+n_nobelpris	count n	<span class="ett">ett Nobelpris [Nobelpriset] .: Nobelpris [Nobelprisen]</span>	a Nobel Prize
+n_nobelpristagare	count n	<span class="en">en Nobelpristagare [Nobelpristagaren] .: Nobelpristagare [Nobelpristagarna]</span>	a Nobel prize winner
+n_noejespark	count n	<span class="en">en nöjespark [nöjesparken] .: nöjesparker [nöjesparkerna]</span>	an amusement park
+n_noet	count n	<span class="en">en nöt [nöten] .: nötter [nötterna]</span>	a nut
 n_nordamerika	mass n	Nordamerika	North America
-n_norr	mass n	norr [norren]	north (noun)
-n_november	mass n	november	November
-n_nutid	mass n	nutid [nutiden]	present (time)
-n_nyboerjare	n	en nybörjare [nybörjaren] .: nybörjare [nybörjarna]	a beginner
-n_nyckelord	n	ett nyckelord [nyckelordet] .: nyckelord [nyckelorden]	a key word
-n_nyhet	n	en nyhet [nyheten] .: nyheter [nyheterna]	a news
-n_oe	n	en ö [ön] .: öar [öarna]	an island
-n_oedla	mass n	ödla [ödlan]	lizard
-n_oegon	n	en ögon [ögonen] .: ögon [ögonen]	an eye
-n_oegonblick	n	ett ögonblick	a moment
-n_oegonskugga	n	en ögonskugga [ögonskuggan] .: ögonskuggor [ögonskuggorna]	an eye shadow
-n_oeken	n	en öken [öknen] .: öknar [öknarna]	a desert
-n_oel	mass n	öl [ölet]	beer
+n_norr	mass n	<span class="en">norr [norren]</span>	north (noun)
+n_november	n	november	November
+n_nutid	mass n	<span class="en">nutid [nutiden]</span>	present (time)
+n_nyboerjare	count n	<span class="en">en nybörjare [nybörjaren] .: nybörjare [nybörjarna]</span>	a beginner
+n_nyckelord	count n	<span class="ett">ett nyckelord [nyckelordet] .: nyckelord [nyckelorden]</span>	a key word
+n_nyhet	count n	<span class="en">en nyhet [nyheten] .: nyheter [nyheterna]</span>	a news
+n_oe	count n	<span class="en">en ö [ön] .: öar [öarna]</span>	an island
+n_oedla	mass n	<span class="en">ödla [ödlan]</span>	lizard
+n_oegon	count n	<span class="en">en ögon [ögonen] .: ögon [ögonen]</span>	an eye
+n_oegonblick	count n	<span class="ett">ett ögonblick</span>	a moment
+n_oegonskugga	count n	<span class="en">en ögonskugga [ögonskuggan] .: ögonskuggor [ögonskuggorna]</span>	an eye shadow
+n_oeken	count n	<span class="en">en öken [öknen] .: öknar [öknarna]</span>	a desert
+n_oel	mass n	<span class="ett">öl [ölet]</span>	beer
 n_oeland	mass n	Öland	Öland (island in the Baltic Sea)
-n_oeppen_foerskol	n	en öppen förskola [öppna förskolan] .: öppna förskolor [öppna förskolorna]	a drop-in preschool
-n_oertte	n	ett örtte [örttet] .: örtter [örtterna]	a herbal tea
+n_oeppen_foerskol	count n	<span class="en">en öppen förskola [öppna förskolan] .: öppna förskolor [öppna förskolorna]</span>	a drop-in preschool
+n_oertte	count n	<span class="ett">ett örtte [örttet] .: örtter [örtterna]</span>	a herbal tea
 n_oestersjoen	mass n	Östersjön	Baltic Sea
-n_oeverraskning	n	en överraskning [överraskningen] .: överraskningar [överraskningarna]	a surprise
-n_oevervaaning	n	en övervåning [övervåningen] .: övervåningar [övervåningarna]	an upper floor
-n_oevning	n	en övning [övningen] .: övningar [övningarna]	an exercise
-n_oktober	mass n	oktober	October
-n_oliv	n	en oliv [oliven] .: oliver [oliverna]	an olive
-n_olja	mass n	olja [oljan]	oil
-n_onsdag	mass n	en onsdag [onsdagen] .: onsdagar [onsdagarna]	Wednesday
-n_opera	n	en opera [operan] .: operor [operorna]	an opera
-n_operasaangare	n	en operasångare [operasångaren] .: operasångare [operasångarna]	an opera singer
-n_optiker	n	en optiker [optikern] .: optiker [optikerna]	an optician
-n_ord	n	ett ord [ordet] .: ord [orden]	a word
-n_ordfoeljd	mass n	ordföljd [ordföljden]	word order
-n_ordningstal	n	ett ordningstal [ordningstalet] .: ordningstal [ordningstalen]	an ordinal number
-n_orkid	n	en orkidé [orkidén] .: orkidéer [orkidéerna]	an orchid
-n_orm	n	en orm [ormen] .: ormar [ormarna]	a snake
-n_ostbaage	n	en ostbåge [ostbågen] .: ostbågar [ostbågarna]	a cheese puff
-n_ostpaj	n	en ostpaj [ostpajen] .: ostpajar [ostpajarna]	a cheese quiche
-n_ovaeder	n	ett oväder [ovädret] .: oväder [ovädren]	a storm
-n_paase	n	en påse [påsen] .: påsar [påsarna]	a bag
-n_paastaaende	n	ett påstående [påståendet] .: påståenden [påståendena]	a statement
-n_paelsdjur	mass n	pälsdjur [pälsdjuret]	furry animal
-n_paerla	n	en pärla [pärlan] .: pärlor [pärlorna]	a pearl
-n_paeron	n	ett päron [päronet] .: päron [päronen]	a pear
-n_paket	n	ett paket [paketet] .: paket [paketen]	a package; parcel
-n_pappa	n	en pappa [pappan] .: pappor [papporna]	a dad, father
-n_papper	n	ett papper [pappret] .: papper [pappren]	a paper
-n_papperskorg	n	en papperskorg [papperskorgen] .: papperskorgar [papperskorgarna]	a wastebasket
-n_pappersmassa	n	en pappersmassa [pappersmassan] .: pappersmassor [pappersmassorna]	a wood pulp
-n_par	n	ett par [paret] .: par [paren]	a pair
-n_par_byxor	n	ett par byxor	a pair of pants
-n_par_glasoegon	n	ett par glasögon	a pair of glasses
-n_par_skor	n	ett par skor	a pair of shoes
-n_paraplydrink	n	en paraplydrink [paraplydrinken] .: paraplydrinkar [paraplydrinkarna]	an umbrella drink
-n_park	n	en park [parken] .: parker [parkerna]	a park
-n_parlament	n	ett parlament [parlamentet] .: parlament [parlamenten]	a parliament
-n_partikel	n	en partikel [partikeln] .: partiklar [partiklarna]	a particle
-n_partikelverb	n	ett partikelverb [partikelverbet] .: partikelverb [partikelverben]	a phrasal verb
-n_partner	n	en partner [partnern] .: partner [partnerna]	a partner
-n_pasta	n	en pasta [pastan] .: pastor [pastorna]	a pasta
-n_patent	n	ett patent [patentet] .: patent [patenten]	a patent
-n_paus	n	en paus [pausen] .: pauser [pauserna]	a break, pause
-n_pendeltaag	n	ett pendeltåg [pendeltåget] .: pendeltåg [pendeltågen]	a commuter train
-n_pengar	n	en pengar [pengarna] .: pengar [pengarna]	a money
-n_penna	n	en penna [pennan] .: pennor [pennorna]	a pen
-n_pennfodral	n	ett pennfodral [pennfodralet] .: pennfodral [pennfodralen]	a pencil case
-n_pensionaer	n	en pensionär [pensionären] .: pensionärer [pensionärerna]	a pensioner
-n_pepp	n	ett pepp [peppet] .: pepp [peppen]	a pep
-n_person	n	en person [personen] .: personer [personerna]	a person
-n_personlig_traen	n	en personlig tränare [tränaren] .: tränare [tränarna]	a personal trainer
-n_pirog	n	en pirog [pirogen] .: piroger [pirogerna]	a pasty
-n_pizzabit	n	en pizzabit [pizzabiten] .: pizzabitar [pizzabitarna]	a pizza slice
-n_pjaes	n	en pjäs [pjäsen] .: pjäser [pjäserna]	a theatre play
-n_plagg	n	ett plagg [plagget] .: plagg [plaggen]	a garment
-n_plan	n	en plan [planen] .: planer [planerna]	a plan (noun)
-n_plastikkirurg	n	en plastikkirurg [plastikkirurgen] .: plastikkirurger [plastikkirurgerna]	a plastic surgeon
-n_plastmamma	n	en plastmamma [plastmamman] .: plastmammor [plastmammorna]	a stepmother
-n_podd	n	en podd [podden] .: poddar [poddarna]	a podcast
-n_pojke	n	en pojke [pojken] .: pojkar [pojkarna]	a boy
-n_pojkvaen	n	en pojkvän [pojkvännen] .: pojkvänner [pojkvännerna]	a boyfriend
-n_polcirkel	mass n	en polcirkel [polcirkeln] .: polcirklar [polcirklarna]	Arctic circle
+n_oeverraskning	count n	<span class="en">en överraskning [överraskningen] .: överraskningar [överraskningarna]</span>	a surprise
+n_oevervaaning	count n	<span class="en">en övervåning [övervåningen] .: övervåningar [övervåningarna]</span>	an upper floor
+n_oevning	count n	<span class="en">en övning [övningen] .: övningar [övningarna]</span>	an exercise
+n_oktober	n	oktober	October
+n_oliv	count n	<span class="en">en oliv [oliven] .: oliver [oliverna]</span>	an olive
+n_olja	mass n	<span class="en">olja [oljan]</span>	oil
+n_onsdag	count n	<span class="en">en onsdag [onsdagen] .: onsdagar [onsdagarna]</span>	a Wednesday
+n_opera	count n	<span class="en">en opera [operan] .: operor [operorna]</span>	an opera
+n_operasaangare	count n	<span class="en">en operasångare [operasångaren] .: operasångare [operasångarna]</span>	an opera singer
+n_optiker	count n	<span class="en">en optiker [optikern] .: optiker [optikerna]</span>	an optician
+n_ord	count n	<span class="ett">ett ord [ordet] .: ord [orden]</span>	a word
+n_ordfoeljd	mass n	<span class="en">ordföljd [ordföljden]</span>	word order
+n_ordningstal	count n	<span class="ett">ett ordningstal [ordningstalet] .: ordningstal [ordningstalen]</span>	an ordinal number
+n_orkid	count n	<span class="en">en orkidé [orkidén] .: orkidéer [orkidéerna]</span>	an orchid
+n_orm	count n	<span class="en">en orm [ormen] .: ormar [ormarna]</span>	a snake
+n_ostbaage	count n	<span class="en">en ostbåge [ostbågen] .: ostbågar [ostbågarna]</span>	a cheese puff
+n_ostpaj	count n	<span class="en">en ostpaj [ostpajen] .: ostpajar [ostpajarna]</span>	a cheese quiche
+n_ovaeder	count n	<span class="ett">ett oväder [ovädret] .: oväder [ovädren]</span>	a storm
+n_paase	count n	<span class="en">en påse [påsen] .: påsar [påsarna]</span>	a bag
+n_paastaaende	count n	<span class="ett">ett påstående [påståendet] .: påståenden [påståendena]</span>	a statement
+n_paelsdjur	mass n	<span class="ett">pälsdjur [pälsdjuret]</span>	furry animal
+n_paerla	count n	<span class="en">en pärla [pärlan] .: pärlor [pärlorna]</span>	a pearl
+n_paeron	count n	<span class="ett">ett päron [päronet] .: päron [päronen]</span>	a pear
+n_paket	count n	<span class="ett">ett paket [paketet] .: paket [paketen]</span>	a package; parcel
+n_pappa	count n	<span class="en">en pappa [pappan] .: pappor [papporna]</span>	a dad, father
+n_papper	count n	<span class="ett">ett papper [pappret] .: papper [pappren]</span>	a paper
+n_papperskorg	count n	<span class="en">en papperskorg [papperskorgen] .: papperskorgar [papperskorgarna]</span>	a wastebasket
+n_pappersmassa	count n	<span class="en">en pappersmassa [pappersmassan] .: pappersmassor [pappersmassorna]</span>	a wood pulp
+n_par	count n	<span class="ett">ett par [paret] .: par [paren]</span>	a pair
+n_par_byxor	count n	<span class="ett">ett par byxor</span>	a pair of pants
+n_par_glasoegon	count n	<span class="ett">ett par glasögon</span>	a pair of glasses
+n_par_skor	count n	<span class="ett">ett par skor</span>	a pair of shoes
+n_paraplydrink	count n	<span class="en">en paraplydrink [paraplydrinken] .: paraplydrinkar [paraplydrinkarna]</span>	an umbrella drink
+n_park	count n	<span class="en">en park [parken] .: parker [parkerna]</span>	a park
+n_parlament	count n	<span class="ett">ett parlament [parlamentet] .: parlament [parlamenten]</span>	a parliament
+n_partikel	count n	<span class="en">en partikel [partikeln] .: partiklar [partiklarna]</span>	a particle
+n_partikelverb	count n	<span class="ett">ett partikelverb [partikelverbet] .: partikelverb [partikelverben]</span>	a phrasal verb
+n_partner	count n	<span class="en">en partner [partnern] .: partner [partnerna]</span>	a partner
+n_pasta	count n	<span class="en">en pasta [pastan] .: pastor [pastorna]</span>	a pasta
+n_patent	count n	<span class="ett">ett patent [patentet] .: patent [patenten]</span>	a patent
+n_paus	count n	<span class="en">en paus [pausen] .: pauser [pauserna]</span>	a break, pause
+n_pendeltaag	count n	<span class="ett">ett pendeltåg [pendeltåget] .: pendeltåg [pendeltågen]</span>	a commuter train
+n_pengar	count n	<span class="en">en pengar [pengarna] .: pengar [pengarna]</span>	a money
+n_penna	count n	<span class="en">en penna [pennan] .: pennor [pennorna]</span>	a pen
+n_pennfodral	count n	<span class="ett">ett pennfodral [pennfodralet] .: pennfodral [pennfodralen]</span>	a pencil case
+n_pensionaer	count n	<span class="en">en pensionär [pensionären] .: pensionärer [pensionärerna]</span>	a pensioner
+n_pepp	count n	<span class="ett">ett pepp [peppet] .: pepp [peppen]</span>	a pep
+n_person	count n	<span class="en">en person [personen] .: personer [personerna]</span>	a person
+n_personlig_traen	count n	<span class="en">en personlig tränare [tränaren] .: tränare [tränarna]</span>	a personal trainer
+n_pirog	count n	<span class="en">en pirog [pirogen] .: piroger [pirogerna]</span>	a pasty
+n_pizzabit	count n	<span class="en">en pizzabit [pizzabiten] .: pizzabitar [pizzabitarna]</span>	a pizza slice
+n_pjaes	count n	<span class="en">en pjäs [pjäsen] .: pjäser [pjäserna]</span>	a theatre play
+n_plagg	count n	<span class="ett">ett plagg [plagget] .: plagg [plaggen]</span>	a garment
+n_plan	count n	<span class="en">en plan [planen] .: planer [planerna]</span>	a plan (noun)
+n_plastikkirurg	count n	<span class="en">en plastikkirurg [plastikkirurgen] .: plastikkirurger [plastikkirurgerna]</span>	a plastic surgeon
+n_plastmamma	count n	<span class="en">en plastmamma [plastmamman] .: plastmammor [plastmammorna]</span>	a stepmother
+n_podd	count n	<span class="en">en podd [podden] .: poddar [poddarna]</span>	a podcast
+n_pojke	count n	<span class="en">en pojke [pojken] .: pojkar [pojkarna]</span>	a boy
+n_pojkvaen	count n	<span class="en">en pojkvän [pojkvännen] .: pojkvänner [pojkvännerna]</span>	a boyfriend
+n_polcirkel	count n	<span class="en">en polcirkel [polcirkeln] .: polcirklar [polcirklarna]</span>	an Arctic circle
 n_polen	mass n	Polen	Poland
-n_polis	n	en polis [polisen] .: poliser [poliserna]	a police officer
-n_polisserie	n	en polisserie [polisserien] .: polisserier [polisserierna]	a crime drama series
-n_politik	mass n	politik [politiken]	politics
-n_politiker	n	en politiker [politikern] .: politiker [politikerna]	a politician
-n_pommes_frites	mass n	pommes frites [pommes fritesen]	french fries
-n_position	n	en position [positionen] .: positioner [positionerna]	a position
-n_potatis	n	en potatis [potatisen] .: potatisar [potatisarna]	a potato
-n_potatismos	mass n	potatismos [potatismoset]	mashed potatoes
-n_potatissallad	n	en potatissallad [potatissalladen] .: potatissallader [potatissalladerna]	a potato salad
-n_preposition	n	en preposition [prepositionen] .: prepositioner [prepositionerna]	a preposition
-n_presens	mass n	presens [presenset]	present (tense)
-n_presentation	n	en presentation [presentationen] .: presentationer [presentationerna]	a presentation
-n_prinsessa	n	en prinsessa [prinsessan] .: prinsessor [prinsessorna]	a princess
-n_prinsesstaarta	mass n	en prinsesstårta [prinsesstårtan] .: prinsesstårtor [prinsesstårtorna]	Princess cake
-n_pris	n	ett pris [priset] .: priser [priserna]	a prize
-n_prisutdelning	n	en prisutdelning [prisutdelningen] .: prisutdelningar [prisutdelningarna]	an award ceremony
-n_problem	n	ett problem [problemet] .: problem [problemen]	a problem
-n_procent	mass n	procent [procenten]	percent
-n_producent	n	en producent [producenten] .: producenter [producenterna]	a producer
-n_produkt	n	en produkt [produkten] .: produkter [produkterna]	a product
-n_professor	n	en professor [professorn] .: professorer [professorerna]	a professor
-n_profil	n	en profil [profilen] .: profiler [profilerna]	a profile
-n_program	n	ett program [programmet] .: program [programmen]	a program
-n_programmerare	n	en programmerare [programmeraren] .: programmerare [programmerarna]	a programmer
-n_pronomen	n	ett pronomen [pronomenet] .: pronomen [pronomenen]	a pronoun
-n_protestant	mass n	en protestant [protestanten] .: protestanter [protestanterna]	Protestant
-n_provrum	n	ett provrum [provrummet] .: provrum [provrummen]	a fitting room
-n_pryl	n	en pryl [prylen] .: prylar [prylarna]	a thing (gadget)
-n_pseudolaan	n	ett pseudolån [pseudolånet] .: pseudolån [pseudolånen]	a pseudo-loan
-n_psykolog	n	en psykolog [psykologen] .: psykologer [psykologerna]	a psychologist
-n_pub	n	en pub [puben] .: pubar [pubarna]	a pub
-n_puls	n	en puls [pulsen] .: pulser [pulserna]	a pulse
-n_pumpa	n	en pumpa [pumpan] .: pumpor [pumporna]	a pumpkin
-n_punkt	n	en punkt [punkten] .: punkter [punkterna]	a period; full stop
-n_purjoloek	n	en purjolök [purjolöken] .: purjolökar [purjolökarna]	a leek
-n_puss	n	en puss [pussen] .: pussar [pussarna]	a kiss
-n_pyjamas	n	en pyjamas [pyjamasen] .: pyjamasar [pyjamasarna]	a pyjamas
-n_raad	n	ett råd [rådet] .: råd [råden]	an advice
-n_radio	mass n	radio [radion]	radio
-n_raeka	n	en räka [räkan] .: räkor [räkorna]	a shrimp
-n_raeksallad	n	en räksallad [räksalladen] .: räksallader [räksalladerna]	a shrimp salad
-n_rast	n	en rast [rasten] .: raster [rasterna]	a break
-n_rea	n	en rea [rean] .: reor [reorna]	a sale (discount)
-n_region	n	en region [regionen] .: regioner [regionerna]	a region
-n_regissoer	n	en regissör [regissören] .: regissörer [regissörerna]	a director
-n_regn	n	ett regn [regnet] .: regn [regnen]	a rain
-n_regnjacka	n	en regnjacka [regnjackan] .: regnjackor [regnjackorna]	a raincoat
-n_rekommendation	n	en rekommendation [rekommendationen] .: rekommendationer [rekommendationerna]	a recommendation
-n_rekrytering	n	en rekrytering [rekryteringen] .: rekryteringar [rekryteringarna]	a recruitment
-n_relation	n	en relation [relationen] .: relationer [relationerna]	a relationship
-n_religion	n	en religion [religionen] .: religioner [religionerna]	a religion
-n_resa	n	en resa [resan] .: resor [resorna]	a trip
-n_respons	n	en respons [responsen] .: responser [responserna]	a response
-n_restaurang	n	en restaurang [restaurangen] .: restauranger [restaurangerna]	a restaurant
-n_restaurangvagn	n	en restaurangvagn [restaurangvagnen] .: restaurangvagnar [restaurangvagnarna]	a restaurant carriage, dining car
-n_resvaeska	n	en resväska [resväskan] .: resväskor [resväskorna]	a suitcase
-n_retroflex	n	en retroflex [retroflexen] .: retroflexer [retroflexerna]	a retroflex
-n_retur	n	en retur [returen] .: returer [returerna]	a return
-n_ringmur	n	en ringmur [ringmuren] .: ringmurar [ringmurarna]	a city wall / ring wall
-n_rivstart	n	en rivstart [rivstarten] .: rivstarter [rivstarterna]	a flying start
+n_polis	count n	<span class="en">en polis [polisen] .: poliser [poliserna]</span>	a police officer
+n_polisserie	count n	<span class="en">en polisserie [polisserien] .: polisserier [polisserierna]</span>	a crime drama series
+n_politik	mass n	<span class="en">politik [politiken]</span>	politics
+n_politiker	count n	<span class="en">en politiker [politikern] .: politiker [politikerna]</span>	a politician
+n_pommes_frites	mass n	<span class="en">pommes frites [pommes fritesen]</span>	french fries
+n_position	count n	<span class="en">en position [positionen] .: positioner [positionerna]</span>	a position
+n_potatis	count n	<span class="en">en potatis [potatisen] .: potatisar [potatisarna]</span>	a potato
+n_potatismos	mass n	<span class="ett">potatismos [potatismoset]</span>	mashed potatoes
+n_potatissallad	count n	<span class="en">en potatissallad [potatissalladen] .: potatissallader [potatissalladerna]</span>	a potato salad
+n_preposition	count n	<span class="en">en preposition [prepositionen] .: prepositioner [prepositionerna]</span>	a preposition
+n_presens	mass n	<span class="ett">presens [presenset]</span>	present (tense)
+n_presentation	count n	<span class="en">en presentation [presentationen] .: presentationer [presentationerna]</span>	a presentation
+n_prinsessa	count n	<span class="en">en prinsessa [prinsessan] .: prinsessor [prinsessorna]</span>	a princess
+n_prinsesstaarta	count n	<span class="en">en prinsesstårta [prinsesstårtan] .: prinsesstårtor [prinsesstårtorna]</span>	a Princess cake
+n_pris	count n	<span class="ett">ett pris [priset] .: priser [priserna]</span>	a prize
+n_prisutdelning	count n	<span class="en">en prisutdelning [prisutdelningen] .: prisutdelningar [prisutdelningarna]</span>	an award ceremony
+n_problem	count n	<span class="ett">ett problem [problemet] .: problem [problemen]</span>	a problem
+n_procent	mass n	<span class="en">procent [procenten]</span>	percent
+n_producent	count n	<span class="en">en producent [producenten] .: producenter [producenterna]</span>	a producer
+n_produkt	count n	<span class="en">en produkt [produkten] .: produkter [produkterna]</span>	a product
+n_professor	count n	<span class="en">en professor [professorn] .: professorer [professorerna]</span>	a professor
+n_profil	count n	<span class="en">en profil [profilen] .: profiler [profilerna]</span>	a profile
+n_program	count n	<span class="ett">ett program [programmet] .: program [programmen]</span>	a program
+n_programmerare	count n	<span class="en">en programmerare [programmeraren] .: programmerare [programmerarna]</span>	a programmer
+n_pronomen	count n	<span class="ett">ett pronomen [pronomenet] .: pronomen [pronomenen]</span>	a pronoun
+n_protestant	count n	<span class="en">en protestant [protestanten] .: protestanter [protestanterna]</span>	a Protestant
+n_provrum	count n	<span class="ett">ett provrum [provrummet] .: provrum [provrummen]</span>	a fitting room
+n_pryl	count n	<span class="en">en pryl [prylen] .: prylar [prylarna]</span>	a thing (gadget)
+n_pseudolaan	count n	<span class="ett">ett pseudolån [pseudolånet] .: pseudolån [pseudolånen]</span>	a pseudo-loan
+n_psykolog	count n	<span class="en">en psykolog [psykologen] .: psykologer [psykologerna]</span>	a psychologist
+n_pub	count n	<span class="en">en pub [puben] .: pubar [pubarna]</span>	a pub
+n_puls	count n	<span class="en">en puls [pulsen] .: pulser [pulserna]</span>	a pulse
+n_pumpa	count n	<span class="en">en pumpa [pumpan] .: pumpor [pumporna]</span>	a pumpkin
+n_punkt	count n	<span class="en">en punkt [punkten] .: punkter [punkterna]</span>	a period; full stop
+n_purjoloek	count n	<span class="en">en purjolök [purjolöken] .: purjolökar [purjolökarna]</span>	a leek
+n_puss	count n	<span class="en">en puss [pussen] .: pussar [pussarna]</span>	a kiss
+n_pyjamas	count n	<span class="en">en pyjamas [pyjamasen] .: pyjamasar [pyjamasarna]</span>	a pyjamas
+n_raad	count n	<span class="ett">ett råd [rådet] .: råd [råden]</span>	an advice
+n_radio	mass n	<span class="en">radio [radion]</span>	radio
+n_raeka	count n	<span class="en">en räka [räkan] .: räkor [räkorna]</span>	a shrimp
+n_raeksallad	count n	<span class="en">en räksallad [räksalladen] .: räksallader [räksalladerna]</span>	a shrimp salad
+n_rast	count n	<span class="en">en rast [rasten] .: raster [rasterna]</span>	a break
+n_rea	count n	<span class="en">en rea [rean] .: reor [reorna]</span>	a sale (discount)
+n_region	count n	<span class="en">en region [regionen] .: regioner [regionerna]</span>	a region
+n_regissoer	count n	<span class="en">en regissör [regissören] .: regissörer [regissörerna]</span>	a director
+n_regn	count n	<span class="ett">ett regn [regnet] .: regn [regnen]</span>	a rain
+n_regnjacka	count n	<span class="en">en regnjacka [regnjackan] .: regnjackor [regnjackorna]</span>	a raincoat
+n_rekommendation	count n	<span class="en">en rekommendation [rekommendationen] .: rekommendationer [rekommendationerna]</span>	a recommendation
+n_rekrytering	count n	<span class="en">en rekrytering [rekryteringen] .: rekryteringar [rekryteringarna]</span>	a recruitment
+n_relation	count n	<span class="en">en relation [relationen] .: relationer [relationerna]</span>	a relationship
+n_religion	count n	<span class="en">en religion [religionen] .: religioner [religionerna]</span>	a religion
+n_resa	count n	<span class="en">en resa [resan] .: resor [resorna]</span>	a trip
+n_respons	count n	<span class="en">en respons [responsen] .: responser [responserna]</span>	a response
+n_restaurang	count n	<span class="en">en restaurang [restaurangen] .: restauranger [restaurangerna]</span>	a restaurant
+n_restaurangvagn	count n	<span class="en">en restaurangvagn [restaurangvagnen] .: restaurangvagnar [restaurangvagnarna]</span>	a restaurant carriage, dining car
+n_resvaeska	count n	<span class="en">en resväska [resväskan] .: resväskor [resväskorna]</span>	a suitcase
+n_retroflex	count n	<span class="en">en retroflex [retroflexen] .: retroflexer [retroflexerna]</span>	a retroflex
+n_retur	count n	<span class="en">en retur [returen] .: returer [returerna]</span>	a return
+n_ringmur	count n	<span class="en">en ringmur [ringmuren] .: ringmurar [ringmurarna]</span>	a city wall / ring wall
+n_rivstart	count n	<span class="en">en rivstart [rivstarten] .: rivstarter [rivstarterna]</span>	a flying start
 n_rom	mass n	Rom	Rome
-n_ros	n	en ros [rosen] .: rosor [rosorna]	a rose
-n_rum	mass n	rum [rummet]	room
-n_rundresa	n	en rundresa [rundresan] .: rundresor [rundresorna]	a circular trip
-n_ruta	n	en ruta [rutan] .: rutor [rutorna]	a square (box)
-n_rutt	n	en rutt [rutten] .: rutter [rutterna]	a route
-n_ryggsaeck	n	en ryggsäck [ryggsäcken] .: ryggsäckar [ryggsäckarna]	a backpack
-n_rysare	n	en rysare [rysaren] .: rysare [rysarna]	a thriller (movie/book)
-n_ryska	mass n	ryska [ryskan]	Russian
+n_ros	count n	<span class="en">en ros [rosen] .: rosor [rosorna]</span>	a rose
+n_rum	mass n	<span class="ett">rum [rummet]</span>	room
+n_rundresa	count n	<span class="en">en rundresa [rundresan] .: rundresor [rundresorna]</span>	a circular trip
+n_ruta	count n	<span class="en">en ruta [rutan] .: rutor [rutorna]</span>	a square (box)
+n_rutt	count n	<span class="en">en rutt [rutten] .: rutter [rutterna]</span>	a route
+n_ryggsaeck	count n	<span class="en">en ryggsäck [ryggsäcken] .: ryggsäckar [ryggsäckarna]</span>	a backpack
+n_rysare	count n	<span class="en">en rysare [rysaren] .: rysare [rysarna]</span>	a thriller (movie/book)
+n_ryska	mass n	<span class="en">ryska [ryskan]</span>	Russian
 n_ryssland	mass n	Ryssland	Russia
-n_saas	n	en sås [såsen] .: såser [såserna]	a sauce
-n_saekerhetskontr	n	en säkerhetskontroll [säkerhetskontrollen] .: säkerhetskontroller [säkerhetskontrollerna]	a security check
-n_saeng	mass n	säng [sängen]	bed
-n_saenglampa	mass n	sänglampa [sänglampan]	bedside lamp
-n_saerbo	n	en särbo [särbon] .: särbor [särborna]	a partner living separately
-n_saesongsarbetar	n	en säsongsarbetare [säsongsarbetaren] .: säsongsarbetare [säsongsarbetarna]	a seasonal worker
-n_saett	n	ett sätt [sättet] .: sätt [sätten]	a way (method)
-n_saffransbulle	n	en saffransbulle [saffransbullen] .: saffransbullar [saffransbullarna]	a saffron bun
-n_sak	n	en sak [saken] .: saker [sakerna]	a thing
-n_salami	mass n	salami [salamin]	salami
-n_sallad	n	en sallad [salladen] .: sallader [salladerna]	a lettuce / salad
-n_saltlakrits	mass n	saltlakrits [saltlakritset]	salty licorice
-n_saltvatten	n	ett saltvatten [saltvattnet] .: saltvatten [saltvattnen]	a saltwater
-n_sambo	n	en sambo [sambon] .: sambor [samborna]	a live-in partner
-n_same	mass n	en same [samen] .: samer [samerna]	Sami person
-n_samhaelle	n	ett samhälle [samhället] .: samhällen [samhällena]	a society
-n_sammanhang	n	ett sammanhang [sammanhanget] .: sammanhang [sammanhangen]	a context
-n_sand	n	en sand [sanden] .: sandar [sandarna]	a sand
-n_satsadverbial	mass n	satsadverbial [satsadverbialet]	adverbial
-n_schack	n	ett schack [schacket] .: schack [schacken]	a chess
-n_schnitzel	n	en schnitzel [schnitzeln] .: schnitzlar [schnitzlarna]	a schnitzel
+n_saas	count n	<span class="en">en sås [såsen] .: såser [såserna]</span>	a sauce
+n_saekerhetskontr	count n	<span class="en">en säkerhetskontroll [säkerhetskontrollen] .: säkerhetskontroller [säkerhetskontrollerna]</span>	a security check
+n_saeng	mass n	<span class="en">säng [sängen]</span>	bed
+n_saenglampa	mass n	<span class="en">sänglampa [sänglampan]</span>	bedside lamp
+n_saerbo	count n	<span class="en">en särbo [särbon] .: särbor [särborna]</span>	a partner living separately
+n_saesongsarbetar	count n	<span class="en">en säsongsarbetare [säsongsarbetaren] .: säsongsarbetare [säsongsarbetarna]</span>	a seasonal worker
+n_saett	count n	<span class="ett">ett sätt [sättet] .: sätt [sätten]</span>	a way (method)
+n_saffransbulle	count n	<span class="en">en saffransbulle [saffransbullen] .: saffransbullar [saffransbullarna]</span>	a saffron bun
+n_sak	count n	<span class="en">en sak [saken] .: saker [sakerna]</span>	a thing
+n_salami	mass n	<span class="en">salami [salamin]</span>	salami
+n_sallad	count n	<span class="en">en sallad [salladen] .: sallader [salladerna]</span>	a lettuce / salad
+n_saltlakrits	mass n	<span class="ett">saltlakrits [saltlakritset]</span>	salty licorice
+n_saltvatten	count n	<span class="ett">ett saltvatten [saltvattnet] .: saltvatten [saltvattnen]</span>	a saltwater
+n_sambo	count n	<span class="en">en sambo [sambon] .: sambor [samborna]</span>	a live-in partner
+n_same	count n	<span class="en">en same [samen] .: samer [samerna]</span>	a Sami person
+n_samhaelle	count n	<span class="ett">ett samhälle [samhället] .: samhällen [samhällena]</span>	a society
+n_sammanhang	count n	<span class="ett">ett sammanhang [sammanhanget] .: sammanhang [sammanhangen]</span>	a context
+n_sand	count n	<span class="en">en sand [sanden] .: sandar [sandarna]</span>	a sand
+n_satsadverbial	mass n	<span class="ett">satsadverbial [satsadverbialet]</span>	adverbial
+n_schack	count n	<span class="ett">ett schack [schacket] .: schack [schacken]</span>	a chess
+n_schnitzel	count n	<span class="en">en schnitzel [schnitzeln] .: schnitzlar [schnitzlarna]</span>	a schnitzel
 n_schweiz	mass n	Schweiz	Switzerland
-n_science_fiction	mass n	science fiction [science fictionen]	science fiction
-n_sektor	n	en sektor [sektorn] .: sektorer [sektorerna]	a sector
-n_semester	n	en semester [semestern] .: semestrar [semestrarna]	a vacation, holiday
-n_semla	n	en semla [semlan] .: semlor [semlorna]	a semla, Swedish cream bun
-n_september	mass n	september	September
-n_serie	n	en serie [serien] .: serier [serierna]	a series
-n_servitoer	n	en servitör [servitören] .: servitörer [servitörerna]	a waiter
-n_shopping	mass n	shopping [shoppingen]	shopping
-n_sida	n	en sida [sidan] .: sidor [sidorna]	a page (side)
+n_science_fiction	mass n	<span class="en">science fiction [science fictionen]</span>	science fiction
+n_sektor	count n	<span class="en">en sektor [sektorn] .: sektorer [sektorerna]</span>	a sector
+n_semester	count n	<span class="en">en semester [semestern] .: semestrar [semestrarna]</span>	a vacation, holiday
+n_semla	count n	<span class="en">en semla [semlan] .: semlor [semlorna]</span>	a semla, Swedish cream bun
+n_september	n	september	September
+n_serie	count n	<span class="en">en serie [serien] .: serier [serierna]</span>	a series
+n_servitoer	count n	<span class="en">en servitör [servitören] .: servitörer [servitörerna]</span>	a waiter
+n_shopping	mass n	<span class="en">shopping [shoppingen]</span>	shopping
+n_sida	count n	<span class="en">en sida [sidan] .: sidor [sidorna]</span>	a page (side)
 n_siljan	mass n	Siljan	Siljan Lake
-n_sill	n	en sill [sillen] .: sillar [sillarna]	a herring
-n_singular	n	en singular [singularen] .: singularer [singularerna]	a singular
-n_sjael	n	en själ [själen] .: själar [själarna]	a soul
-n_sjoe	n	en sjö [sjön] .: sjöar [sjöarna]	a lake
-n_sjoekapten	n	en sjökapten [sjökaptenen] .: sjökaptener [sjökaptenerna]	a sea captain
-n_sjukskoeterska	n	en sjuksköterska [sjuksköterskan] .: sjuksköterskor [sjuksköterskorna]	a nurse
-n_skaadespelare	n	en skådespelare [skådespelaren] .: skådespelare [skådespelarna]	an actor
-n_skaal	n	en skål [skålen] .: skålar [skålarna]	a bowl
+n_sill	count n	<span class="en">en sill [sillen] .: sillar [sillarna]</span>	a herring
+n_singular	count n	<span class="en">en singular [singularen] .: singularer [singularerna]</span>	a singular
+n_sjael	count n	<span class="en">en själ [själen] .: själar [själarna]</span>	a soul
+n_sjoe	count n	<span class="en">en sjö [sjön] .: sjöar [sjöarna]</span>	a lake
+n_sjoekapten	count n	<span class="en">en sjökapten [sjökaptenen] .: sjökaptener [sjökaptenerna]</span>	a sea captain
+n_sjukskoeterska	count n	<span class="en">en sjuksköterska [sjuksköterskan] .: sjuksköterskor [sjuksköterskorna]</span>	a nurse
+n_skaadespelare	count n	<span class="en">en skådespelare [skådespelaren] .: skådespelare [skådespelarna]</span>	an actor
+n_skaal	count n	<span class="en">en skål [skålen] .: skålar [skålarna]</span>	a bowl
 n_skaane	mass n	Skåne	Skåne (region in southern Sweden)
 n_skaanegatan	mass n	Skånegatan	Skånegatan (street in Stockholm)
-n_skaergaard	n	en skärgård [skärgården] .: skärgårdar [skärgårdarna]	an archipelago
-n_skaerm	n	en skärm [skärmen] .: skärmar [skärmarna]	a screen
-n_skaldjur	n	ett skaldjur [skaldjuret] .: skaldjur [skaldjuren]	a shellfish
-n_sked	mass n	sked [skeden]	spoon
-n_skejtare	n	en skejtare [skejtaren] .: skejtare [skejtarna]	a skater
-n_skejtboard	n	en skejtboard [skejtboarden] .: skejtboardar [skejtboardarna]	a skateboard
-n_skejtklipp	n	ett skejtklipp [skejtklippet] .: skejtklipp [skejtklippen]	a skate clip
-n_skejtpark	n	en skejtpark [skejtparken] .: skejtparker [skejtparkerna]	a skatepark
+n_skaergaard	count n	<span class="en">en skärgård [skärgården] .: skärgårdar [skärgårdarna]</span>	an archipelago
+n_skaerm	count n	<span class="en">en skärm [skärmen] .: skärmar [skärmarna]</span>	a screen
+n_skaldjur	count n	<span class="ett">ett skaldjur [skaldjuret] .: skaldjur [skaldjuren]</span>	a shellfish
+n_sked	mass n	<span class="en">sked [skeden]</span>	spoon
+n_skejtare	count n	<span class="en">en skejtare [skejtaren] .: skejtare [skejtarna]</span>	a skater
+n_skejtboard	count n	<span class="en">en skejtboard [skejtboarden] .: skejtboardar [skejtboardarna]</span>	a skateboard
+n_skejtklipp	count n	<span class="ett">ett skejtklipp [skejtklippet] .: skejtklipp [skejtklippen]</span>	a skate clip
+n_skejtpark	count n	<span class="en">en skejtpark [skejtparken] .: skejtparker [skejtparkerna]</span>	a skatepark
 n_skeppsholmen	mass n	Skeppsholmen	Skeppsholmen (island in Stockholm)
-n_skida	n	en skida [skidan] .: skidor [skidorna]	a ski
-n_skinka	n	en skinka [skinkan] .: skinkor [skinkorna]	a ham
-n_skjorta	n	en skjorta [skjortan] .: skjortor [skjortorna]	a shirt
-n_sko	n	en sko [skon] .: skor [skorna]	a shoe
-n_skoaffaer	n	en skoaffär [skoaffären] .: skoaffärer [skoaffärerna]	a shoe store
-n_skog	n	en skog [skogen] .: skogar [skogarna]	a forest
-n_skogsmark	n	en skogsmark [skogsmarken] .: skogsmarker [skogsmarkerna]	a woodland
-n_skola	n	en skola [skolan] .: skolor [skolorna]	a school
-n_skolflicka	n	en skolflicka [skolflickan] .: skolflickor [skolflickorna]	a schoolgirl
-n_skorpa	n	en skorpa [skorpan] .: skorpor [skorporna]	a rusk (biscotti)
-n_skraeckfilm	n	en skräckfilm [skräckfilmen] .: skräckfilmer [skräckfilmerna]	a horror movie
-n_skrattyoga	mass n	skrattyoga [skrattyogan]	laughter yoga
-n_skridsko	n	en skridsko [skridskon] .: skridskor [skridskorna]	a skate
-n_skrivare	n	en skrivare [skrivaren] .: skrivare [skrivarna]	a printer
-n_skylt	n	en skylt [skylten] .: skyltar [skylttarna]	a sign
-n_sladd	n	en sladd [sladden] .: sladdar [sladdarna]	a cord
-n_slaekt	mass n	släkt [släkten]	relatives
-n_slaekting	n	en släkting [släktingen] .: släktingar [släktingarna]	a relative
-n_slaektmiddag	n	en släktmiddag [släktmiddagen] .: släktmiddagar [släktmiddagarna]	a family dinner
-n_slaekttraed	n	ett släktträd [släktträdet] .: släktträd [släktträden]	a family tree
-n_slips	n	en slips [slipsen] .: slipsar [slipsarna]	a tie
-n_slut	n	ett slut [slutet] .: slut [sluten]	an end
-n_slutspel	n	ett slutspel [slutspelet] .: slutspel [slutspelen]	a playoff
-n_smaastad	n	en småstad [småstaden] .: småstäder [småstäderna]	a small town
-n_smak	n	en smak [smaken] .: smaker [smakerna]	a taste, flavor
-n_smoer	mass n	smör [smöret]	butter
-n_smoergaas	n	en smörgås [smörgåsen] .: smörgåsar [smörgåsarna]	a sandwich
-n_snabbkaffe	mass n	snabbkaffe [snabbkaffet]	instant coffee
-n_snabel_a	mass n	ett snabel-a [snabel-a\:et] .: snabel-a\:n [snabel-a\:na]	the @ symbol
-n_snack	n	ett snack [snacket] .: snacks [snacksen]	a snack
-n_sneakers	mass n	sneakers [sneakersen]	sneakers
-n_snedstreck	n	ett snedstreck [snedstrecket] .: snedstreck [snedstrecken]	a slash
-n_snoe	mass n	snö [snön]	snow
-n_snus	mass n	snus [snuset]	snuff
-n_snusdosa	n	en snusdosa [snusdosan] .: snusdosor [snusdosorna]	a snuff box
-n_snygging	n	en snygging [snyggingen] .: snyggingar [snyggingarna]	a hottie; good-looking person
-n_socker	mass n	socker [sockret]	sugar
-n_soeder	mass n	söder [södern]	south (noun)
-n_soendag	mass n	en söndag [söndagen] .: söndagar [söndagarna]	Sunday
-n_soetvatten	n	ett sötvatten [sötvattnet] .: sötvatten [sötvattnen]	a freshwater
-n_soffa	n	en soffa [soffan] .: soffor [sofforna]	a sofa
-n_sol	n	en sol [solen] .: solar [solarna]	a sun
-n_solglasoegon	n	en solglasögon [solglasögonen] .: solglasögon [solglasögonen]	a sunglasses
-n_solkraem	n	en solkräm [solkrämen] .: solkrämer [solkrämerna]	a sunscreen
-n_sommarklaeder	mass n	sommarkläder [sommarkläderna]	summer clothes
-n_son	n	en son [sonen] .: söner [sönerna]	a son
-n_spaar	n	ett spår [spåret] .: spår [spåren]	a rail
+n_skida	count n	<span class="en">en skida [skidan] .: skidor [skidorna]</span>	a ski
+n_skinka	count n	<span class="en">en skinka [skinkan] .: skinkor [skinkorna]</span>	a ham
+n_skjorta	count n	<span class="en">en skjorta [skjortan] .: skjortor [skjortorna]</span>	a shirt
+n_sko	count n	<span class="en">en sko [skon] .: skor [skorna]</span>	a shoe
+n_skoaffaer	count n	<span class="en">en skoaffär [skoaffären] .: skoaffärer [skoaffärerna]</span>	a shoe store
+n_skog	count n	<span class="en">en skog [skogen] .: skogar [skogarna]</span>	a forest
+n_skogsmark	count n	<span class="en">en skogsmark [skogsmarken] .: skogsmarker [skogsmarkerna]</span>	a woodland
+n_skola	count n	<span class="en">en skola [skolan] .: skolor [skolorna]</span>	a school
+n_skolflicka	count n	<span class="en">en skolflicka [skolflickan] .: skolflickor [skolflickorna]</span>	a schoolgirl
+n_skorpa	count n	<span class="en">en skorpa [skorpan] .: skorpor [skorporna]</span>	a rusk (biscotti)
+n_skraeckfilm	count n	<span class="en">en skräckfilm [skräckfilmen] .: skräckfilmer [skräckfilmerna]</span>	a horror movie
+n_skrattyoga	mass n	<span class="en">skrattyoga [skrattyogan]</span>	laughter yoga
+n_skridsko	count n	<span class="en">en skridsko [skridskon] .: skridskor [skridskorna]</span>	a skate
+n_skrivare	count n	<span class="en">en skrivare [skrivaren] .: skrivare [skrivarna]</span>	a printer
+n_skylt	count n	<span class="en">en skylt [skylten] .: skyltar [skylttarna]</span>	a sign
+n_sladd	count n	<span class="en">en sladd [sladden] .: sladdar [sladdarna]</span>	a cord
+n_slaekt	mass n	<span class="en">släkt [släkten]</span>	relatives
+n_slaekting	count n	<span class="en">en släkting [släktingen] .: släktingar [släktingarna]</span>	a relative
+n_slaektmiddag	count n	<span class="en">en släktmiddag [släktmiddagen] .: släktmiddagar [släktmiddagarna]</span>	a family dinner
+n_slaekttraed	count n	<span class="ett">ett släktträd [släktträdet] .: släktträd [släktträden]</span>	a family tree
+n_slips	count n	<span class="en">en slips [slipsen] .: slipsar [slipsarna]</span>	a tie
+n_slut	count n	<span class="ett">ett slut [slutet] .: slut [sluten]</span>	an end
+n_slutspel	count n	<span class="ett">ett slutspel [slutspelet] .: slutspel [slutspelen]</span>	a playoff
+n_smaastad	count n	<span class="en">en småstad [småstaden] .: småstäder [småstäderna]</span>	a small town
+n_smak	count n	<span class="en">en smak [smaken] .: smaker [smakerna]</span>	a taste, flavor
+n_smeknamn	count n	<span class="ett">ett smeknamn [smeknamnet] .: smeknamn [smeknamnen]</span>	a nickname
+n_smoer	mass n	<span class="ett">smör [smöret]</span>	butter
+n_smoergaas	count n	<span class="en">en smörgås [smörgåsen] .: smörgåsar [smörgåsarna]</span>	a sandwich
+n_snabbkaffe	mass n	<span class="ett">snabbkaffe [snabbkaffet]</span>	instant coffee
+n_snabel_a	count n	<span class="ett">ett snabel-a [snabel-a:et] .: snabel-a:n [snabel-a:na]</span>	an at-sign
+n_snack	count n	<span class="ett">ett snack [snacket] .: snacks [snacksen]</span>	a snack
+n_sneakers	mass n	<span class="en">sneakers [sneakersen]</span>	sneakers
+n_snedstreck	count n	<span class="ett">ett snedstreck [snedstrecket] .: snedstreck [snedstrecken]</span>	a slash
+n_snoe	mass n	<span class="en">snö [snön]</span>	snow
+n_snus	mass n	<span class="ett">snus [snuset]</span>	snuff
+n_snusdosa	count n	<span class="en">en snusdosa [snusdosan] .: snusdosor [snusdosorna]</span>	a snuff box
+n_snygging	count n	<span class="en">en snygging [snyggingen] .: snyggingar [snyggingarna]</span>	a hottie; good-looking person
+n_socker	mass n	<span class="ett">socker [sockret]</span>	sugar
+n_soeder	mass n	<span class="en">söder [södern]</span>	south (noun)
+n_soendag	count n	<span class="en">en söndag [söndagen] .: söndagar [söndagarna]</span>	a Sunday
+n_soetvatten	count n	<span class="ett">ett sötvatten [sötvattnet] .: sötvatten [sötvattnen]</span>	a freshwater
+n_soffa	count n	<span class="en">en soffa [soffan] .: soffor [sofforna]</span>	a sofa
+n_sol	count n	<span class="en">en sol [solen] .: solar [solarna]</span>	a sun
+n_solglasoegon	count n	<span class="en">en solglasögon [solglasögonen] .: solglasögon [solglasögonen]</span>	a sunglasses
+n_solkraem	count n	<span class="en">en solkräm [solkrämen] .: solkrämer [solkrämerna]</span>	a sunscreen
+n_sommarklaeder	mass n	<span class="en">sommarkläder [sommarkläderna]</span>	summer clothes
+n_son	count n	<span class="en">en son [sonen] .: söner [sönerna]</span>	a son
+n_spaar	count n	<span class="ett">ett spår [spåret] .: spår [spåren]</span>	a rail
 n_spanien	mass n	Spanien	Spain
-n_spel	n	ett spel [spelet] .: spel [spelen]	a game
-n_spelfoeretag	n	ett spelföretag [spelföretaget] .: spelföretag [spelföretagen]	a gaming company
-n_spenat	n	en spenat [spenaten] .: spenater [spenaterna]	a spinach
-n_spindel	n	en spindel [spindeln] .: spindlar [spindlarna]	a spider
-n_sport	n	en sport [sporten] .: sporter [sporterna]	a sport
-n_sportbar	n	en sportbar [sportbaren] .: sportbarer [sportbarerna]	a sports bar
-n_sporthatare	n	en sporthatare [sporthataren] .: sporthatare [sporthatarna]	a sports-hater
-n_spraak	n	ett språk [språket] .: språk [språken]	a language
-n_spraakkurs	n	en språkkurs [språkkursen] .: språkkurser [språkkurserna]	a language course
-n_squash	mass n	squash [squashen]	squash (sport)
-n_staal	n	ett stål [stålet] .: stål [stålen]	a steel
-n_staaupp	mass n	ståupp [ståuppen]	stand-up comedy
-n_stad	n	en stad [staden] .: städer [städerna]	a city / town
-n_stadshus	n	ett stadshus [stadshuset] .: stadshus [stadshusen]	a city hall
-n_stadssafari	n	ett stadssafari [stadssafarit] .: stadssafaris [stadssafarisarna]	a city safari
-n_staelle	n	ett ställe [stället] .: ställen [ställena]	a place
-n_stan	n	en stan [staden] .: städer [städerna]	a city / downtown
-n_startup	n	en startup [startupen] .: startuper [startuperna]	a startup
-n_station	n	en station [stationen] .: stationer [stationerna]	a station
-n_statskick	n	ett statskick [statskicket] .: statsskick [statsskicken]	a government
-n_stavning	n	en stavning [stavningen] .: stavningar [stavningarna]	a spelling
-n_stepbonussyskon	n	ett stepbonussyskon [stepbonussyskonet] .: stepbonussyskon [stepbonussyskonen]	a step-siblings
-n_stickad_troeja	n	en stickad tröja [tröjan] .: tröjor [tröjorna]	a knitted sweater
-n_stjaerna	n	en stjärna [stjärnan] .: stjärnor [stjärnorna]	a star
+n_spel	count n	<span class="ett">ett spel [spelet] .: spel [spelen]</span>	a game
+n_spelfoeretag	count n	<span class="ett">ett spelföretag [spelföretaget] .: spelföretag [spelföretagen]</span>	a gaming company
+n_spenat	count n	<span class="en">en spenat [spenaten] .: spenater [spenaterna]</span>	a spinach
+n_spindel	count n	<span class="en">en spindel [spindeln] .: spindlar [spindlarna]</span>	a spider
+n_sport	count n	<span class="en">en sport [sporten] .: sporter [sporterna]</span>	a sport
+n_sportbar	count n	<span class="en">en sportbar [sportbaren] .: sportbarer [sportbarerna]</span>	a sports bar
+n_sporthatare	count n	<span class="en">en sporthatare [sporthataren] .: sporthatare [sporthatarna]</span>	a sports-hater
+n_spraak	count n	<span class="ett">ett språk [språket] .: språk [språken]</span>	a language
+n_spraakkurs	count n	<span class="en">en språkkurs [språkkursen] .: språkkurser [språkkurserna]</span>	a language course
+n_squash	mass n	<span class="en">squash [squashen]</span>	squash (sport)
+n_staal	count n	<span class="ett">ett stål [stålet] .: stål [stålen]</span>	a steel
+n_staaupp	mass n	<span class="en">ståupp [ståuppen]</span>	stand-up comedy
+n_stad	count n	<span class="en">en stad [staden] .: städer [städerna]</span>	a city / town
+n_stadshus	count n	<span class="ett">ett stadshus [stadshuset] .: stadshus [stadshusen]</span>	a city hall
+n_stadssafari	count n	<span class="ett">ett stadssafari [stadssafarit] .: stadssafaris [stadssafarisarna]</span>	a city safari
+n_staelle	count n	<span class="ett">ett ställe [stället] .: ställen [ställena]</span>	a place
+n_stan	count n	<span class="en">en stan [staden] .: städer [städerna]</span>	a city / downtown
+n_startup	count n	<span class="en">en startup [startupen] .: startuper [startuperna]</span>	a startup
+n_station	count n	<span class="en">en station [stationen] .: stationer [stationerna]</span>	a station
+n_statskick	count n	<span class="ett">ett statskick [statskicket] .: statsskick [statsskicken]</span>	a government
+n_stavning	count n	<span class="en">en stavning [stavningen] .: stavningar [stavningarna]</span>	a spelling
+n_stepbonussyskon	count n	<span class="ett">ett stepbonussyskon [stepbonussyskonet] .: stepbonussyskon [stepbonussyskonen]</span>	a step-siblings
+n_stickad_troeja	count n	<span class="en">en stickad tröja [tröjan] .: tröjor [tröjorna]</span>	a knitted sweater
+n_stjaerna	count n	<span class="en">en stjärna [stjärnan] .: stjärnor [stjärnorna]</span>	a star
 n_storbritannien	mass n	Storbritannien	the United Kingdom
-n_storlek_mindre	n	en storlek mindre	an one size smaller
-n_storstad	n	en storstad [storstaden] .: storstäder [storstäderna]	a big city
-n_strand	n	en strand [stranden] .: stränder [stränderna]	a beach
-n_streamingtjaens	n	en streamingtjänst [streamingtjänsten] .: streamingtjänster [streamingtjänsterna]	a streaming service
-n_strumpa	n	en strumpa [strumpan] .: strumpor [strumporna]	a sock
-n_studenttidning	n	en studenttidning [studenttidningen] .: studenttidningar [studenttidningarna]	a student paper
-n_studieresa	n	en studieresa [studieresan] .: studieresor [studieresorna]	a study trip
-n_stund	n	en stund [stunden] .: stunder [stunderna]	a moment
+n_storlek_mindre	count n	<span class="en">en storlek mindre</span>	an one size smaller
+n_storstad	count n	<span class="en">en storstad [storstaden] .: storstäder [storstäderna]</span>	a big city
+n_strand	count n	<span class="en">en strand [stranden] .: stränder [stränderna]</span>	a beach
+n_streamingtjaens	count n	<span class="en">en streamingtjänst [streamingtjänsten] .: streamingtjänster [streamingtjänsterna]</span>	a streaming service
+n_strumpa	count n	<span class="en">en strumpa [strumpan] .: strumpor [strumporna]</span>	a sock
+n_studenttidning	count n	<span class="en">en studenttidning [studenttidningen] .: studenttidningar [studenttidningarna]</span>	a student paper
+n_studieresa	count n	<span class="en">en studieresa [studieresan] .: studieresor [studieresorna]</span>	a study trip
+n_stund	count n	<span class="en">en stund [stunden] .: stunder [stunderna]</span>	a moment
 n_stureplan	mass n	Stureplan	Stureplan (square in central Stockholm)
-n_stycke	mass n	stycke [stycket]	paragraph
-n_subjekt	n	ett subjekt [subjektet] .: subjekt [subjekten]	a subject
-n_substantiv	n	ett substantiv [substantivet] .: substantiv [substantiven]	a noun
-n_superlativ	n	ett superlativ [superlativet] .: superlativ [superlativen]	a superlative
-n_supinum	n	ett supinum [supinumet] .: supinum [supinumen]	a supine
-n_surfplatta	n	en surfplatta [surfplattan] .: surfplattor [surfplattorna]	a tablet
-n_sushirestaurang	n	en sushirestaurang [sushirestaurangen] .: sushirestauranger [sushirestaurangerna]	a sushi restaurant
-n_svaegerska	n	en svägerska [svägerskan] .: svägerskor [svägerskorna]	a sister-in-law
-n_svaermor	n	en svärmor [svärmodern] .: svärmödrar [svärmödrarna]	a mother-in-law
-n_svar	n	ett svar [svaret] .: svar [svaren]	an answer
-n_svarsalternativ	n	ett svarsalternativ [svarsalternativet] .: svarsalternativ [svarsalternativen]	an answer choice
-n_svensk	mass n	en svensk [svensken] .: svenskar [svenskarna]	Swedish (person)
-n_sverigefinne	mass n	en sverigefinne [sverigefinnen] .: sverigefinnar [sverigefinnarna]	Sweden Finn
+n_stycke	mass n	<span class="ett">stycke [stycket]</span>	paragraph
+n_subjekt	count n	<span class="ett">ett subjekt [subjektet] .: subjekt [subjekten]</span>	a subject
+n_substantiv	count n	<span class="ett">ett substantiv [substantivet] .: substantiv [substantiven]</span>	a noun
+n_superlativ	count n	<span class="ett">ett superlativ [superlativet] .: superlativ [superlativen]</span>	a superlative
+n_supinum	count n	<span class="ett">ett supinum [supinumet] .: supinum [supinumen]</span>	a supine
+n_surfplatta	count n	<span class="en">en surfplatta [surfplattan] .: surfplattor [surfplattorna]</span>	a tablet
+n_sushirestaurang	count n	<span class="en">en sushirestaurang [sushirestaurangen] .: sushirestauranger [sushirestaurangerna]</span>	a sushi restaurant
+n_svaegerska	count n	<span class="en">en svägerska [svägerskan] .: svägerskor [svägerskorna]</span>	a sister-in-law
+n_svaermor	count n	<span class="en">en svärmor [svärmodern] .: svärmödrar [svärmödrarna]</span>	a mother-in-law
+n_svar	count n	<span class="ett">ett svar [svaret] .: svar [svaren]</span>	an answer
+n_svarsalternativ	count n	<span class="ett">ett svarsalternativ [svarsalternativet] .: svarsalternativ [svarsalternativen]</span>	an answer choice
+n_svensk	count n	<span class="en">en svensk [svensken] .: svenskar [svenskarna]</span>	a Swedish (person)
+n_sverigefinne	count n	<span class="en">en sverigefinne [sverigefinnen] .: sverigefinnar [sverigefinnarna]</span>	a Sweden Finn
 n_sydeuropa	mass n	Sydeuropa	Southern Europe
 n_sydkorea	mass n	Sydkorea	South Korea
-n_sylt	mass n	sylt [sylten]	jam
-n_synagoga	n	en synagoga [synagogan] .: synagogor [synagogorna]	a synagogue
+n_sylt	mass n	<span class="en">sylt [sylten]</span>	jam
+n_synagoga	count n	<span class="en">en synagoga [synagogan] .: synagogor [synagogorna]</span>	a synagogue
 n_syrien	mass n	Syrien	Syria
-n_syskon	n	ett syskon [syskonet] .: syskon [syskonen]	a sibling
-n_syskonbarn	n	ett syskonbarn [syskonbarnet] .: syskonbarn [syskonbarnen]	a niece / nephew
-n_system	n	ett system [systemet] .: system [systemen]	a system
-n_syster	n	en syster [systern] .: systrar [systrarna]	a sister
-n_t_shirt	mass n	en t-shirt [t-shirten] .: t-shirtar [t-shirtarna]	T-shirt
-n_taa	n	en tå [tån] .: tår [tårna]	a toe
-n_taag	n	ett tåg [tåget] .: tåg [tågen]	a train
-n_taalamod	n	ett tålamod [tålamodet] .: tålamod [tålamod]	a patience
-n_tabell	n	en tabell [tabellen] .: tabeller [tabellerna]	a table
-n_tacobroed	n	ett tacobröd [tacobrödet] .: tacobröd [tacobröden]	a tortilla
-n_taelt	n	ett tält [tältet] .: tält [tälten]	a tent
-n_taendsticka	n	en tändsticka [tändstickan] .: tändstickor [tändstickorna]	a match
-n_tallrik	n	en tallrik [tallriken] .: tallrikar [tallrikarna]	a plate
-n_tandkraem	n	en tandkräm [tandkrämen] .: tandkrämer [tandkrämerna]	a toothpaste
-n_tandlaekare	n	en tandläkare [tandläkaren] .: tandläkare [tandläkarna]	a dentist
-n_tangentbord	n	ett tangentbord [tangentbordet] .: tangentbord [tangentborden]	a keyboard
-n_tavla	n	en tavla [tavlan] .: tavlor [tavlorna]	a painting
-n_taxi	n	en taxi [taxin] .: taxibilar [taxibilarna]	a taxi
-n_te	n	ett te [teet] .: teer [teerna]	a tea
-n_teater	n	en teater [teatern] .: teatrar [teatrarna]	a theater
-n_techbolag	n	ett techbolag [techbolaget] .: techbolag [techbolagen]	a tech company
-n_tecknad_film	n	en tecknad film [tecknade filmen] .: tecknade filmer [tecknade filmerna]	a cartoon; animated film
-n_tempel	n	ett tempel [templet] .: tempel [templen]	a temple
-n_temperatur	n	en temperatur [temperaturen] .: temperaturer [temperaturerna]	a temperature
-n_tennisracket	n	en tennisracket [tennisracketen] .: tennisracketar [tennisracketarna]	a tennis racket
-n_terminal	n	en terminal [terminalen] .: terminaler [terminalerna]	a terminal
-n_testamente	n	ett testamente [testamentet] .: testamenten [testamentena]	a will
-n_teve	mass n	en teve [teveapparaten] .: teveapparater [teveapparaterna]	TV
-n_thaimat	mass n	thaimat [thaimaten]	Thai food
-n_tid	n	en tid [tiden] .: tider [tiderna]	a time
-n_tidning	n	en tidning [tidningen] .: tidningar [tidningarna]	a newspaper
-n_tidpunkt	n	en tidpunkt [tidpunkten] .: tidpunkter [tidpunkterna]	a point in time
-n_tidsadverbial	n	ett tidsadverbial [tidsadverbialet] .: tidsadverbial [tidsadverbialen]	a temporal adverbial
-n_tidsperiod	n	en tidsperiod [tidsperioden] .: tidsperioder [tidsperioderna]	a period
-n_tidspreposition	n	en tidspreposition [tidsprepositionen] .: tidsprepositioner [tidsprepositionerna]	a preposition of time
-n_tidtabell	n	en tidtabell [tidtabellen] .: tidtabeller [tidtabellerna]	a timetable, schedule
-n_tillaatelse	n	en tillåtelse [tillåtelsen] .: tillåtelser [tillåtelserna]	a permission
-n_tillstaand	n	ett tillstånd [tillståndet] .: tillstånd [tillstånden]	a permit
-n_tilltalsnamn	n	ett tilltalsnamn [tilltalsnamnet] .: tilltalsnamn [tilltalsnamnen]	a first name
-n_tisdag	mass n	en tisdag [tisdagen] .: tisdagar [tisdagarna]	Tuesday
-n_tjaenst	n	en tjänst [tjänsten] .: tjänster [tjänsterna]	a service
+n_syskon	count n	<span class="ett">ett syskon [syskonet] .: syskon [syskonen]</span>	a sibling
+n_syskonbarn	count n	<span class="ett">ett syskonbarn [syskonbarnet] .: syskonbarn [syskonbarnen]</span>	a niece / nephew
+n_system	count n	<span class="ett">ett system [systemet] .: system [systemen]</span>	a system
+n_syster	count n	<span class="en">en syster [systern] .: systrar [systrarna]</span>	a sister
+n_t_shirt	count n	<span class="en">en t-shirt [t-shirten] .: t-shirtar [t-shirtarna]</span>	a T-shirt
+n_taa	count n	<span class="en">en tå [tån] .: tår [tårna]</span>	a toe
+n_taag	count n	<span class="ett">ett tåg [tåget] .: tåg [tågen]</span>	a train
+n_taalamod	count n	<span class="ett">ett tålamod [tålamodet] .: tålamod [tålamod]</span>	a patience
+n_tabell	count n	<span class="en">en tabell [tabellen] .: tabeller [tabellerna]</span>	a table
+n_tacobroed	count n	<span class="ett">ett tacobröd [tacobrödet] .: tacobröd [tacobröden]</span>	a tortilla
+n_taelt	count n	<span class="ett">ett tält [tältet] .: tält [tälten]</span>	a tent
+n_taendsticka	count n	<span class="en">en tändsticka [tändstickan] .: tändstickor [tändstickorna]</span>	a match
+n_tallrik	count n	<span class="en">en tallrik [tallriken] .: tallrikar [tallrikarna]</span>	a plate
+n_tandkraem	count n	<span class="en">en tandkräm [tandkrämen] .: tandkrämer [tandkrämerna]</span>	a toothpaste
+n_tandlaekare	count n	<span class="en">en tandläkare [tandläkaren] .: tandläkare [tandläkarna]</span>	a dentist
+n_tangentbord	count n	<span class="ett">ett tangentbord [tangentbordet] .: tangentbord [tangentborden]</span>	a keyboard
+n_tavla	count n	<span class="en">en tavla [tavlan] .: tavlor [tavlorna]</span>	a painting
+n_taxi	count n	<span class="en">en taxi [taxin] .: taxibilar [taxibilarna]</span>	a taxi
+n_te	count n	<span class="ett">ett te [teet] .: teer [teerna]</span>	a tea
+n_teater	count n	<span class="en">en teater [teatern] .: teatrar [teatrarna]</span>	a theater
+n_techbolag	count n	<span class="ett">ett techbolag [techbolaget] .: techbolag [techbolagen]</span>	a tech company
+n_tecknad_film	count n	<span class="en">en tecknad film [tecknade filmen] .: tecknade filmer [tecknade filmerna]</span>	a cartoon; animated film
+n_tempel	count n	<span class="ett">ett tempel [templet] .: tempel [templen]</span>	a temple
+n_temperatur	count n	<span class="en">en temperatur [temperaturen] .: temperaturer [temperaturerna]</span>	a temperature
+n_tennisracket	count n	<span class="en">en tennisracket [tennisracketen] .: tennisracketar [tennisracketarna]</span>	a tennis racket
+n_terminal	count n	<span class="en">en terminal [terminalen] .: terminaler [terminalerna]</span>	a terminal
+n_testamente	count n	<span class="ett">ett testamente [testamentet] .: testamenten [testamentena]</span>	a will
+n_teve	count n	<span class="en">en teve [teveapparaten] .: teveapparater [teveapparaterna]</span>	a TV
+n_thaimat	mass n	<span class="en">thaimat [thaimaten]</span>	Thai food
+n_tid	count n	<span class="en">en tid [tiden] .: tider [tiderna]</span>	a time
+n_tidning	count n	<span class="en">en tidning [tidningen] .: tidningar [tidningarna]</span>	a newspaper
+n_tidpunkt	count n	<span class="en">en tidpunkt [tidpunkten] .: tidpunkter [tidpunkterna]</span>	a point in time
+n_tidsadverbial	count n	<span class="ett">ett tidsadverbial [tidsadverbialet] .: tidsadverbial [tidsadverbialen]</span>	a temporal adverbial
+n_tidsperiod	count n	<span class="en">en tidsperiod [tidsperioden] .: tidsperioder [tidsperioderna]</span>	a period
+n_tidspreposition	count n	<span class="en">en tidspreposition [tidsprepositionen] .: tidsprepositioner [tidsprepositionerna]</span>	a preposition of time
+n_tidtabell	count n	<span class="en">en tidtabell [tidtabellen] .: tidtabeller [tidtabellerna]</span>	a timetable, schedule
+n_tillaatelse	count n	<span class="en">en tillåtelse [tillåtelsen] .: tillåtelser [tillåtelserna]</span>	a permission
+n_tillstaand	count n	<span class="ett">ett tillstånd [tillståndet] .: tillstånd [tillstånden]</span>	a permit
+n_tilltalsnamn	count n	<span class="ett">ett tilltalsnamn [tilltalsnamnet] .: tilltalsnamn [tilltalsnamnen]</span>	a first name
+n_tisdag	count n	<span class="en">en tisdag [tisdagen] .: tisdagar [tisdagarna]</span>	a Tuesday
+n_tjaenst	count n	<span class="en">en tjänst [tjänsten] .: tjänster [tjänsterna]</span>	a service
 n_tjeckien	mass n	Tjeckien	the Czech Republic
-n_tjej	n	en tjej [tjejen] .: tjejer [tjejerna]	a girl
-n_tjejkompis	n	en tjejkompis [tjejkompisen] .: tjejkompisar [tjejkompisarna]	a girlfriend (platonic; female friend
-n_tjur	n	en tjur [tjuren] .: tjurar [tjurarna]	a bull
-n_toapapper	n	ett toapapper [toapappret] .: toapapper [toapappren]	a toilet paper
-n_tobak	mass n	tobak [tobaken]	tobacco
-n_tomat	n	en tomat [tomaten] .: tomater [tomaterna]	a tomato
-n_tomatpur	n	en tomatpuré [tomatpurén] .: tomatpuréer [tomatpuréerna]	a tomato paste
-n_ton	n	en ton [tonen] .: toner [tonerna]	a pitch
-n_torg	n	ett torg [torget] .: torg [torgen]	a square
-n_torsdag	mass n	en torsdag [torsdagen] .: torsdagar [torsdagarna]	Thursday
-n_traad	n	en tråd [tråden] .: trådar [trådarna]	a thread
-n_trae	n	ett trä [träet] .: trä [träden]	a wood
-n_traedgaard	n	en trädgård [trädgården] .: trädgårdar [trädgårdarna]	a garden
-n_traening	n	en träning [träningen] .: träningar [träningarna]	a training (workout)
-n_traeningsklaede	mass n	träningskläder [träningskläderna]	workout clothes
-n_transport	n	en transport [transporten] .: transporter [transporterna]	a transport
-n_troeja	n	en tröja [tröjan] .: tröjor [tröjorna]	a sweater
-n_trosor	mass n	trosor [trosorna]	panties / women's underwear
-n_trumpet	n	en trumpet [trumpeten] .: trumpeter [trumpeterna]	a trumpet
-n_tub	n	en tub [tuben] .: tuber [tuberna]	a tube
-n_tumme	n	en tumme [tummen] .: tummar [tummarna]	a thumb
-n_tunga	n	en tunga [tungan] .: tungor [tungorna]	a tongue
-n_tunnel	n	en tunnel [tunneln] .: tunnlar [tunnlarna]	a tunnel
-n_tunnelbana	n	en tunnelbana [tunnelbanan] .: tunnelbanor [tunnelbanorna]	a subway, metro
-n_tunnelbanestati	n	en tunnelbanestation [tunnelbanestationen] .: tunnelbanestationer [tunnelbanestationerna]	a subway station
-n_tupplur	n	en tupplur [tuppluren] .: tupplurar [tupplurarna]	a nap
-n_turist	n	en turist [turisten] .: turister [turisterna]	a tourist
+n_tjej	count n	<span class="en">en tjej [tjejen] .: tjejer [tjejerna]</span>	a girl
+n_tjejkompis	count n	<span class="en">en tjejkompis [tjejkompisen] .: tjejkompisar [tjejkompisarna]</span>	a girlfriend (platonic; female friend
+n_tjur	count n	<span class="en">en tjur [tjuren] .: tjurar [tjurarna]</span>	a bull
+n_toapapper	count n	<span class="ett">ett toapapper [toapappret] .: toapapper [toapappren]</span>	a toilet paper
+n_tobak	mass n	<span class="en">tobak [tobaken]</span>	tobacco
+n_tomat	count n	<span class="en">en tomat [tomaten] .: tomater [tomaterna]</span>	a tomato
+n_tomatpur	count n	<span class="en">en tomatpuré [tomatpurén] .: tomatpuréer [tomatpuréerna]</span>	a tomato paste
+n_ton	count n	<span class="en">en ton [tonen] .: toner [tonerna]</span>	a pitch
+n_torg	count n	<span class="ett">ett torg [torget] .: torg [torgen]</span>	a square
+n_torsdag	count n	<span class="en">en torsdag [torsdagen] .: torsdagar [torsdagarna]</span>	a Thursday
+n_traad	count n	<span class="en">en tråd [tråden] .: trådar [trådarna]</span>	a thread
+n_trae	count n	<span class="ett">ett trä [träet] .: trä [träden]</span>	a wood
+n_traedgaard	count n	<span class="en">en trädgård [trädgården] .: trädgårdar [trädgårdarna]</span>	a garden
+n_traening	count n	<span class="en">en träning [träningen] .: träningar [träningarna]</span>	a training (workout)
+n_traeningsklaede	mass n	<span class="en">träningskläder [träningskläderna]</span>	workout clothes
+n_transport	count n	<span class="en">en transport [transporten] .: transporter [transporterna]</span>	a transport
+n_troeja	count n	<span class="en">en tröja [tröjan] .: tröjor [tröjorna]</span>	a sweater
+n_trosor	mass n	<span class="en">trosor [trosorna]</span>	panties / women's underwear
+n_trumpet	count n	<span class="en">en trumpet [trumpeten] .: trumpeter [trumpeterna]</span>	a trumpet
+n_tub	count n	<span class="en">en tub [tuben] .: tuber [tuberna]</span>	a tube
+n_tumme	count n	<span class="en">en tumme [tummen] .: tummar [tummarna]</span>	a thumb
+n_tunga	count n	<span class="en">en tunga [tungan] .: tungor [tungorna]</span>	a tongue
+n_tunnel	count n	<span class="en">en tunnel [tunneln] .: tunnlar [tunnlarna]</span>	a tunnel
+n_tunnelbana	count n	<span class="en">en tunnelbana [tunnelbanan] .: tunnelbanor [tunnelbanorna]</span>	a subway, metro
+n_tunnelbanestati	count n	<span class="en">en tunnelbanestation [tunnelbanestationen] .: tunnelbanestationer [tunnelbanestationerna]</span>	a subway station
+n_tupplur	count n	<span class="en">en tupplur [tuppluren] .: tupplurar [tupplurarna]</span>	a nap
+n_turist	count n	<span class="en">en turist [turisten] .: turister [turisterna]</span>	a tourist
 n_turkiet	mass n	Turkiet	Turkey
-n_typsnitt	n	ett typsnitt [typsnittet] .: typsnitt [typsnitten]	a font
-n_tyska	mass n	tyska [tyskan]	German
+n_typsnitt	count n	<span class="ett">ett typsnitt [typsnittet] .: typsnitt [typsnitten]</span>	a font
+n_tyska	mass n	<span class="en">tyska [tyskan]</span>	German
 n_tyskland	mass n	Tyskland	Germany
-n_underlag	n	ett underlag [underlaget] .: underlag [underlagen]	a reference
-n_understreck	n	ett understreck [understrecket] .: understreck [understrecken]	an underscore
-n_ungdom	n	en ungdom [ungdomen] .: ungdomar [ungdomarna]	a youth
-n_universitet	n	ett universitet [universitetet] .: universitet [universiteten]	an university
-n_uppfinnare	n	en uppfinnare [uppfinnaren] .: uppfinnare [uppfinnarna]	an inventor
-n_uppgift	n	en uppgift [uppgiften] .: uppgifter [uppgifterna]	a task (assignment)
-n_ursprungsfolk	n	ett ursprungsfolk [ursprungsfolket] .: ursprungsfolk [ursprungsfolken]	an indigenous people
-n_usa	mass n	USA	USA
-n_usb_ingaang	mass n	en USB-ingång [USB-ingången] .: USB-ingångar [USB-ingångarna]	USB port
-n_utbytesstudent	n	en utbytesstudent [utbytesstudenten] .: utbytesstudenter [utbytesstudenterna]	an exchange student
-n_uteliv	n	ett uteliv [utelivet] .: uteliv [uteliv]	a nightlife
-n_utomjording	n	en utomjording [utomjordingen] .: utomjordingar [utomjordingarna]	an alien
-n_utropstecken	n	ett utropstecken [utropstecknet] .: utropstecken [utropstecknen]	an exclamation point
-n_utsikt	n	en utsikt [utsikten] .: utsikter [utsikterna]	a view
-n_utstaellning	n	en utställning [utställningen] .: utställningar [utställningarna]	an exhibit
-n_uttryck	n	ett uttryck [uttrycket] .: uttryck [uttrycken]	an expression
-n_vaaning	n	en våning [våningen] .: våningar [våningarna]	a floor
-n_vaar	n	en vår [våren] .: vårar [vårarna]	a spring
-n_vaeder	n	ett väder [vädret] .: väder [vädren]	a weather
-n_vaederprognos	n	en väderprognos [väderprognosen] .: väderprognoser [väderprognoserna]	a weather forecast
-n_vaeg	n	en väg [vägen] .: vägar [vägarna]	a road
-n_vaen	n	en vän [vännen] .: vänner [vännerna]	a friend
+n_underlag	count n	<span class="ett">ett underlag [underlaget] .: underlag [underlagen]</span>	a reference
+n_understreck	count n	<span class="ett">ett understreck [understrecket] .: understreck [understrecken]</span>	an underscore
+n_ungdom	count n	<span class="en">en ungdom [ungdomen] .: ungdomar [ungdomarna]</span>	a youth
+n_universitet	count n	<span class="ett">ett universitet [universitetet] .: universitet [universiteten]</span>	an university
+n_uppfinnare	count n	<span class="en">en uppfinnare [uppfinnaren] .: uppfinnare [uppfinnarna]</span>	an inventor
+n_uppgift	count n	<span class="en">en uppgift [uppgiften] .: uppgifter [uppgifterna]</span>	a task (assignment)
+n_ursprungsfolk	count n	<span class="ett">ett ursprungsfolk [ursprungsfolket] .: ursprungsfolk [ursprungsfolken]</span>	an indigenous people
+n_usa	n	USA	USA
+n_usb_ingaang	count n	<span class="en">en USB-ingång [USB-ingången] .: USB-ingångar [USB-ingångarna]</span>	an USB port
+n_utbytesstudent	count n	<span class="en">en utbytesstudent [utbytesstudenten] .: utbytesstudenter [utbytesstudenterna]</span>	an exchange student
+n_uteliv	count n	<span class="ett">ett uteliv [utelivet] .: uteliv [uteliv]</span>	a nightlife
+n_utomjording	count n	<span class="en">en utomjording [utomjordingen] .: utomjordingar [utomjordingarna]</span>	an alien
+n_utropstecken	count n	<span class="ett">ett utropstecken [utropstecknet] .: utropstecken [utropstecknen]</span>	an exclamation point
+n_utsikt	count n	<span class="en">en utsikt [utsikten] .: utsikter [utsikterna]</span>	a view
+n_utstaellning	count n	<span class="en">en utställning [utställningen] .: utställningar [utställningarna]</span>	an exhibit
+n_uttryck	count n	<span class="ett">ett uttryck [uttrycket] .: uttryck [uttrycken]</span>	an expression
+n_vaaning	count n	<span class="en">en våning [våningen] .: våningar [våningarna]</span>	a floor
+n_vaar	count n	<span class="en">en vår [våren] .: vårar [vårarna]</span>	a spring
+n_vaeder	count n	<span class="ett">ett väder [vädret] .: väder [vädren]</span>	a weather
+n_vaederprognos	count n	<span class="en">en väderprognos [väderprognosen] .: väderprognoser [väderprognoserna]</span>	a weather forecast
+n_vaeg	count n	<span class="en">en väg [vägen] .: vägar [vägarna]</span>	a road
+n_vaen	count n	<span class="en">en vän [vännen] .: vänner [vännerna]</span>	a friend
 n_vaenern	mass n	Vänern	Vänern (largest lake in Sweden)
-n_vaenskap	n	en vänskap [vänskapen] .: vänskaper [vänskaperna]	a friendship
-n_vaerktablett	n	en värktablett [värktabletten] .: värktabletter [värktabletterna]	a painkiller
-n_vaerld	n	en värld [världen] .: världar [världarna]	a world
-n_vaerme	n	en värme [värmen] .: värmar [värmarna]	a warmth
-n_vaeska	n	en väska [väskan] .: väskor [väskorna]	a bag
-n_vaestkust	mass n	västkust [västkusten]	west coast
+n_vaenskap	count n	<span class="en">en vänskap [vänskapen] .: vänskaper [vänskaperna]</span>	a friendship
+n_vaerktablett	count n	<span class="en">en värktablett [värktabletten] .: värktabletter [värktabletterna]</span>	a painkiller
+n_vaerld	count n	<span class="en">en värld [världen] .: världar [världarna]</span>	a world
+n_vaerme	count n	<span class="en">en värme [värmen] .: värmar [värmarna]</span>	a warmth
+n_vaeska	count n	<span class="en">en väska [väskan] .: väskor [väskorna]</span>	a bag
+n_vaestkust	mass n	<span class="en">västkust [västkusten]</span>	west coast
 n_vaettern	mass n	Vättern	Vättern (second-largest lake in Sweden)
-n_vagn	n	en vagn [vagnen] .: vagnar [vagnarna]	a carriage
-n_valuta	n	en valuta [valutan] .: valutor [valutorna]	a currency
-n_vampyr	n	en vampyr [vampyren] .: vampyrer [vampyrerna]	a vampire
-n_vandrarhem	n	ett vandrarhem [vandrarhemmet] .: vandrarhem [hemmen]	a hostel
-n_vandringsled	n	en vandringsled [vandringsleden] .: vandringsleder [vandringslederna]	a hiking trail
-n_vanilj	mass n	vanilj [vaniljen]	vanilla
-n_vapen	n	ett vapen [vapnet] .: vapen [vapnen]	a weapon
-n_vapenkonstrukto	n	en vapenkonstruktör [vapenkonstruktören] .: vapenkonstruktörer [vapenkonstruktörerna]	a weapons engineer
-n_vara	n	en vara [varan] .: varor [varorna]	a ware
-n_variant	n	en variant [varianten] .: varianter [varianterna]	a variant
-n_varm_troeja	n	en varm tröja [tröjan] .: tröjor [tröjorna]	a warm sweater
-n_varor	mass n	varor [varorna]	goods
-n_varuhus	mass n	varuhus [varuhuset]	department store
+n_vagn	count n	<span class="en">en vagn [vagnen] .: vagnar [vagnarna]</span>	a carriage
+n_valuta	count n	<span class="en">en valuta [valutan] .: valutor [valutorna]</span>	a currency
+n_vampyr	count n	<span class="en">en vampyr [vampyren] .: vampyrer [vampyrerna]</span>	a vampire
+n_vandrarhem	count n	<span class="ett">ett vandrarhem [vandrarhemmet] .: vandrarhem [hemmen]</span>	a hostel
+n_vandringsled	count n	<span class="en">en vandringsled [vandringsleden] .: vandringsleder [vandringslederna]</span>	a hiking trail
+n_vanilj	mass n	<span class="en">vanilj [vaniljen]</span>	vanilla
+n_vapen	count n	<span class="ett">ett vapen [vapnet] .: vapen [vapnen]</span>	a weapon
+n_vapenkonstrukto	count n	<span class="en">en vapenkonstruktör [vapenkonstruktören] .: vapenkonstruktörer [vapenkonstruktörerna]</span>	a weapons engineer
+n_vara	count n	<span class="en">en vara [varan] .: varor [varorna]</span>	a ware
+n_variant	count n	<span class="en">en variant [varianten] .: varianter [varianterna]</span>	a variant
+n_varm_troeja	count n	<span class="en">en varm tröja [tröjan] .: tröjor [tröjorna]</span>	a warm sweater
+n_varor	mass n	<span class="en">varor [varorna]</span>	goods
+n_varuhus	mass n	<span class="ett">varuhus [varuhuset]</span>	department store
 n_vasamuseet	mass n	Vasamuseet	the Vasa Museum
-n_vatten	mass n	vatten [vattnet]	water
-n_vattendrag	n	ett vattendrag [vattendraget] .: vattendrag [vattendragen]	a watercourse
-n_vattenflaska	n	en vattenflaska [vattenflaskan] .: vattenflaskor [vattenflaskorna]	a water bottle
-n_vattengympa	mass n	vattengympa [vattengympan]	water aerobics
-n_veckodag	n	en veckodag [veckodagen] .: veckodagar [veckodagarna]	a weekday
-n_veganbrownie	mass n	veganbrownie [veganbrownien]	vegan brownie
-n_vegoburgare	n	en vegoburgare [vegoburgaren] .: vegoburgare [vegoburgarna]	a veggie burger
-n_verb	n	ett verb [verbet] .: verb [verben]	a verb
-n_verbpartikel	n	en verbpartikel [verbpartikeln] .: verbpartiklar [verbpartiklarna]	a verb particle
-n_veta	n	ett veta [vet] .: visste [vetat]	a know
-n_vetenskapsman	n	en vetenskapsman [vetenskapsmannen] .: vetenskapsmän [vetenskapsmännen]	a scientist
-n_villa	n	en villa [villan] .: villor [villorna]	a villa, house
-n_vin	n	ett vin [vinet] .: viner [vinerna]	a wine
-n_vindruva	n	en vindruva [vindruvan] .: vindruvor [vindruvorna]	a grape
-n_vitloek	n	en vitlök [vitlöken] .: vitlökar [vitlökarna]	a garlic
-n_vokal	n	en vokal [vokalen] .: vokaler [vokalerna]	a vowel
-n_webbdesigner	n	en webbdesigner [webbdesignern] .: webbdesigner [webbdesignerna]	a web designer
-n_webbkamera	n	en webbkamera [webbkameran] .: webbkameror [webbkamerorna]	a webcam
-n_wienerbroed	mass n	ett wienerbröd [wienerbrödet] .: wienerbröden [wienerbrödena]	Danish pastry
-n_yogainstruktoer	n	en yogainstruktör [yogainstruktören] .: yogainstruktörer [yogainstruktörerna]	a yoga instructor
-n_yogalaeger	n	ett yogaläger [lägret] .: yogaläger [lägren]	a yoga retreat
-n_yogastudio	n	en yogastudio [yogastudion] .: yogastudios [yogastudiorna]	a yoga studio
-n_yrke	n	ett yrke [yrket] .: yrken [yrkena]	a profession
-n_yta	n	en yta [ytan] .: ytor [ytorna]	a surface
-num_aatta_aattan	num	åtta [åttan]	eight
+n_vatten	mass n	<span class="ett">vatten [vattnet]</span>	water
+n_vattendrag	count n	<span class="ett">ett vattendrag [vattendraget] .: vattendrag [vattendragen]</span>	a watercourse
+n_vattenflaska	count n	<span class="en">en vattenflaska [vattenflaskan] .: vattenflaskor [vattenflaskorna]</span>	a water bottle
+n_vattengympa	mass n	<span class="en">vattengympa [vattengympan]</span>	water aerobics
+n_veckodag	count n	<span class="en">en veckodag [veckodagen] .: veckodagar [veckodagarna]</span>	a weekday
+n_veganbrownie	mass n	<span class="en">veganbrownie [veganbrownien]</span>	vegan brownie
+n_vegoburgare	count n	<span class="en">en vegoburgare [vegoburgaren] .: vegoburgare [vegoburgarna]</span>	a veggie burger
+n_verb	count n	<span class="ett">ett verb [verbet] .: verb [verben]</span>	a verb
+n_verbpartikel	count n	<span class="en">en verbpartikel [verbpartikeln] .: verbpartiklar [verbpartiklarna]</span>	a verb particle
+n_veta	count n	<span class="ett">ett veta [vet] .: visste [vetat]</span>	a know
+n_vetenskapsman	count n	<span class="en">en vetenskapsman [vetenskapsmannen] .: vetenskapsmän [vetenskapsmännen]</span>	a scientist
+n_villa	count n	<span class="en">en villa [villan] .: villor [villorna]</span>	a villa, house
+n_vin	count n	<span class="ett">ett vin [vinet] .: viner [vinerna]</span>	a wine
+n_vindruva	count n	<span class="en">en vindruva [vindruvan] .: vindruvor [vindruvorna]</span>	a grape
+n_vitloek	count n	<span class="en">en vitlök [vitlöken] .: vitlökar [vitlökarna]</span>	a garlic
+n_vokal	count n	<span class="en">en vokal [vokalen] .: vokaler [vokalerna]</span>	a vowel
+n_webbdesigner	count n	<span class="en">en webbdesigner [webbdesignern] .: webbdesigner [webbdesignerna]</span>	a web designer
+n_webbkamera	count n	<span class="en">en webbkamera [webbkameran] .: webbkameror [webbkamerorna]</span>	a webcam
+n_wienerbroed	count n	<span class="ett">ett wienerbröd [wienerbrödet] .: wienerbröden [wienerbrödena]</span>	a Danish pastry
+n_yogainstruktoer	count n	<span class="en">en yogainstruktör [yogainstruktören] .: yogainstruktörer [yogainstruktörerna]</span>	a yoga instructor
+n_yogalaeger	count n	<span class="ett">ett yogaläger [lägret] .: yogaläger [lägren]</span>	a yoga retreat
+n_yogastudio	count n	<span class="en">en yogastudio [yogastudion] .: yogastudios [yogastudiorna]</span>	a yoga studio
+n_yrke	count n	<span class="ett">ett yrke [yrket] .: yrken [yrkena]</span>	a profession
+n_yta	count n	<span class="en">en yta [ytan] .: ytor [ytorna]</span>	a surface
+num_aatta	num	åtta [åttan]	eight
 num_aattonde	num	åttonde	eighth
 num_andra	num	andra	second
 num_artonde	num	artonde	eighteenth
 num_elfte	num	elfte	eleventh
-num_elva_elvan	num	elva [elvan]	eleven
-num_ett_ettan	num	ett [ettan]	one
-num_fem_femman	num	fem [femman]	five
+num_elva	num	elva [elvan]	eleven
+num_ett	num	ett [ettan]	one
+num_fem	num	fem [femman]	five
 num_femte	num	femte	fifth
 num_femtonde	num	femtonde	fifteenth
 num_fjaerde	num	fjärde	fourth
 num_fjortonde	num	fjortonde	fourteenth
-num_fyra_fyran	num	fyra [fyran]	four
+num_fyra	num	fyra [fyran]	four
 num_nionde	num	nionde	ninth
 num_nittonde	num	nittonde	nineteenth
-num_sex_sexan	num	sex [sexan]	six
+num_sex	num	sex [sexan]	six
 num_sextonde	num	sextonde	sixteenth
 num_sjaette	num	sjätte	sixth
-num_sju_sjuan	num	sju [sjuan]	seven
+num_sju	num	sju [sjuan]	seven
 num_sjunde	num	sjunde	seventh
 num_sjuttonde	num	sjuttonde	seventeenth
-num_tio_tian	num	tio [tian]	ten
+num_tio	num	tio [tian]	ten
 num_tionde	num	tionde	tenth
-num_tjugo_tjugan	num	tjugo [tjugan]	twenty
+num_tjugo	num	tjugo [tjugan]	twenty
 num_tjugoandra	num	tjugoandra	twenty-second
 num_tjugofoersta	num	tjugoförsta	twenty-first
 num_tjugonde	num	tjugonde	twentieth
 num_tolfte	num	tolfte	twelfth
-num_tolv_tolvan	num	tolv [tolvan]	twelve
-num_tre_trean	num	tre [trean]	three
+num_tolv	num	tolv [tolvan]	twelve
+num_tre	num	tre [trean]	three
 num_tredje	num	tredje	third
 num_trettiofoersta	num	trettioförsta	thirty-first
 num_trettionde	num	trettionde	thirtieth
 num_trettonde	num	trettonde	thirteenth
-num_tvaa_tvaaan	num	två [tvåan]	two
+num_tvaa	num	två [tvåan]	two
 phr_aa_vad_synd_jag_sx	phr	Å, vad synd! Jag ska X	Oh, what a shame! I'm going to...
 phr_aaka_runt	phr	åka runt	drive around
 phr_abba_museet	phr	ABBA-museet	The ABBA Museum
+phr_alla	phr	alla	everyone
+phr_allt	phr	allt	everything
 phr_baade_x_och_y	phr	både X och Y	both X and Y
 phr_bara_bra	phr	bara bra	I'm fine
 phr_bestaemd_form	phr	bestämd form	definite form
@@ -1475,6 +1474,7 @@ phr_mitt_paa_dagen	phr	mitt på dagen	middle of the day
 phr_naagon_gaang	phr	någon gång	sometime / at some point
 phr_naagra_gaanger	phr	några gånger	a few times
 phr_obestaemd_form	phr	obestämd form	indefinite form
+phr_om_10_dagar	phr	om 10 dagar	in 10 days
 phr_paa_kartan	phr	på kartan	on the map
 phr_paa_landet	phr	på landet	in the countryside
 phr_paa_maandag	phr	på måndag	on Monday
@@ -1900,7 +1900,7 @@ s_du_maaste_byta_bis	s	Du måste byta buss i Sundbyberg.	You have to transfer bu
 s_du_maaste_laesa_dhb	s	Du måste läsa den här boken.	You must read this book.
 s_duken_paa_borde_ar	s	Duken på bordet är rutig.	The tablecloth is checkered.
 s_duschtvaalen_do_l	s	Duschtvålen doftar lavendel.	The body wash smells like lavender.
-s_e_postadressen_mhesa	s	E-postadressen måste ha ett snabel-a.	The email address must have an at symbol.
+s_e_postadressen_mhesa	s	E-postadressen måste ha ett snabel-a.	The email address must have an at-sign.
 s_efter_alarmet_gjud	s	Efter alarmet går jag upp direkt.	After the alarm, I get up immediately.
 s_efter_jobbet_tr_jv	s	Efter jobbet träffar jag vänner.	After work, I meet friends.
 s_efter_jobbet_vi_jkameb	s	Efter jobbet vill jag koppla av med en bok.	After work I want to relax with a book.
@@ -2898,6 +2898,7 @@ s_kontoret_staeng_kf	s	Kontoret stänger klockan fem.	The office closes at five.
 s_kontrollera_om_dhrk	s	Kontrollera om du har rätt kvitto.	Check if you have the correct receipt.
 s_koppla_datorn_tsmek	s	Koppla datorn till skärmen med en kabel.	Connect the computer to the monitor with a cable.
 s_kram	s	Kram!	Hugs!
+s_kriget_foerstoe_s	s	Kriget förstör staden.	The war destroys the city.
 s_kronprinsen_del_ic	s	Kronprinsen deltog i ceremonin.	The crown prince took part in the ceremony.
 s_kroppen_behoeve_vet	s	Kroppen behöver vila efter träningen.	The body needs rest after the workout.
 s_krossade_tomate_aims	s	Krossade tomater används i många såser.	Crushed tomatoes are used in many sauces.
@@ -3361,7 +3362,7 @@ s_titta_om_kabeln_sio	s	Titta om kabeln sitter i ordentligt.	Check if the cable 
 s_tja	s	Tja!	Hey! / Hi!
 s_tja_det_aer_sva_as	s	Tja, det är svårt att säga.	Well, it's hard to say.
 s_tjena	s	Tjena!	Hi!
-s_tjenixen	s	Tjenixen!	Hi there!/Hey!
+s_tjenixen	s	Tjenixen!	Hey there!
 s_tjoho	s	Tjoho!	Woohoo!/Yay!
 s_tjuren_betade_pa	s	Tjuren betade på ängen.	The bull grazed in the meadow.
 s_tokyo_aer_en_va_ts	s	Tokyo är en väldigt tätbefolkad stad.	Tokyo is a very densely populated city.
@@ -3399,7 +3400,6 @@ s_vad_aer_det_foe_di	s	Vad är det för datum idag?	What is the date today?
 s_vad_aer_det_foe_did	s	Vad är det för dag i dag?	What day is it today?
 s_vad_aer_det_foe_v	s	Vad är det för väder?	What is the weather like?
 s_vad_aer_ditt_ef	s	Vad är ditt efternamn?	What is your last name?
-s_vad_aer_ditt_ni_pf	s	Vad är ditt nick på forumet?	What's your handle on the forum?
 s_vad_betyder_det	s	Vad betyder det?	What does that mean?
 s_vad_betyder_x	s	Vad betyder X?	What does X mean?
 s_vad_bra_att_du_k	s	Vad bra att du kom!	That's great that you came!
@@ -3844,6 +3844,7 @@ u_middag		middag	dinner
 u_mitt_i_natten		mitt i natten	in the middle of the night
 u_mobilspelbransc		mobilspelbranschen	the mobile gaming industry
 u_mobiltelefoni		mobiltelefoni	mobile technology
+u_morsdag		morsdag	Mother's Day
 u_mot		mot	against
 u_naer		när	when
 u_naermare		närmare	closer
@@ -3861,7 +3862,6 @@ u_oeverraskande		överraskande	surprising
 u_ofta		ofta	often
 u_okej		okej	okay
 u_olika_saett		olika sätt	different ways
-u_om_10_dagar		om 10 dagar	in 10 days
 u_om_inte		om inte	if not
 u_ord		ord	word
 u_ortodoxt_kristn		ortodoxt kristna	Orthodox Christians
@@ -3903,6 +3903,7 @@ u_spraak		språk	language
 u_startup		startup	startup
 u_suddgummi		suddgummi	eraser
 u_svensk_krona		svensk krona (SEK)	Swedish krona
+u_svenska		svenska	Swedish (language)
 u_ta_en_aw		ta en AW	go for after-work drinks
 u_tack		tack	thank you
 u_tala		tala	speak
