@@ -120,7 +120,7 @@ def fix_sv(sv, tags):
     if re.search(r'.* \[.*\] => .* \[.*\]', sv):
         return sv.replace('=>', '.:'), 'n'
     first = sv.split()[0]
-    if 'num' not in tags and first in ['en', 'ett']:
+    if 'num' not in tags and 'phr' not in tags and first in ['en', 'ett']:
         return f'<span class="{first}">{sv}</span>', 'count n'
     if re.match(r'^[A-ZÄÅÖ][a-zäåö]+$', sv):
         return sv, 'mass n'
@@ -128,8 +128,6 @@ def fix_sv(sv, tags):
         return sv.replace('=>', '.:'), 'adj'
     if sv.startswith('att '):
         return sv, 'v'
-    if sv.startswith('en ') or re.match(r'^ett [a-zäåö]', sv):
-        return sv, 'n'
     if re.search(r'^"?[A-ZÄÅÖ]', sv) and len(sv.split()) > 1:
         return sv, 's'
     return sv, tags
@@ -138,7 +136,7 @@ def fix_en(en, tags):
     if '<br>' in en:
         first, rest = en.split('<br>', 1)
         return fix_en(first, tags) + '<br>' + rest, tags
-    en, tags = split_pos(en, tags)
+    _, tags = split_pos(en, tags)
     if en.startswith('*'):
         return en[1:], tags
     if en.split().count('...') == 1:
@@ -258,7 +256,9 @@ def fix(infile, outfile, sides=['sv', 'en']):
         en_key = re.sub(r'\([^)]*\)', '', record['en'].split('/')[0]).strip()
         if len(en_tags.get(en_key, set())) > 1:
             # add part-of-speeeh tag to disambiguate identical English words
-            record['en'] += f' ({record["tags"]})'
+            _, tags = split_pos(record['en'], '')
+            if record['tags'] not in tags:
+                record['en'] += f' ({record["tags"]})'
 
     outfile.write('#html:true\n')
     outfile.write('#separator:tab\n')
