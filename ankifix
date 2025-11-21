@@ -18,6 +18,9 @@ def fix_note(sv, en, tags):
     tags = norm_tags(tags)
     return sv, en, tags
 
+def remove_html(html):
+    return re.sub(r'<[^>]*>', '', html)
+
 def norm_tags(tags):
     return ' '.join(sorted(tags.split()))
 
@@ -284,13 +287,23 @@ def fix(infile, outfile, sides=['sv', 'en']):
             if 'u_' + guid_key in fixed:
                 del fixed['u_' + guid_key]
 
+    records_by_en_key = {}
+
     for record in fixed.values():
         en_key = re.sub(r'\([^)]*\)', '', record['en'].split('/')[0]).strip()
+        records_by_en_key.setdefault(en_key, []).append(record)
         if len(en_tags.get(en_key, set())) > 1:
             # add part-of-speeeh tag to disambiguate identical English words
             _, tags = split_pos(record['en'], '')
             if record['tags'] not in tags:
                 record['en'] += f' ({record["tags"]})'
+
+    dups = [k for k in records_by_en_key if len(records_by_en_key[k]) > 1]
+    for en_key in sorted(dups):
+        records = records_by_en_key[en_key]
+        sys.stderr.write('"%s" has multiple translations:\n' % records[0]['en'])
+        for sv, en in sorted((record['sv'], record['en']) for record in records):
+            sys.stderr.write('    %s = %s\n' % (remove_html(sv), en))
 
     outfile.write('#html:true\n')
     outfile.write('#separator:tab\n')
