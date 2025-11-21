@@ -99,11 +99,10 @@ adj_klok	adj	<span class="en">klok</span> / <span class="ett">klokt</span> .: kl
 adj_kommunal	adj	<span class="en">kommunal</span> / <span class="ett">kommunalt</span> .: kommunala	municipal
 adj_korrekt	adj	<span class="en">korrekt</span> / <span class="ett">korrekt</span> .: korrekta	correct
 adj_kort	adj	<span class="en">kort</span> / <span class="ett">kort</span> .: korta	short (adj)
-adj_kul	adj	kul (kul, kul)	fun (adj)
+adj_kul	adj	kul	fun / nice (adj)
 adj_laang	adj	<span class="en">lång</span> / <span class="ett">långt</span> .: långa	long
 adj_laeskig	adj	<span class="en">läskig</span> / <span class="ett">läskigt</span> .: läskiga	scary
 adj_laett	adj	<span class="en">lätt</span> / <span class="ett">lätt</span> .: lätta	easy / lightweight
-adj_lila	adj	<span class="en">lila</span> / <span class="ett">lila</span> .: lila	purple
 adj_liten	adj	<span class="en">liten</span> / <span class="ett">litet</span> .: små	small
 adj_ljus	adj	<span class="en">ljus</span> / <span class="ett">ljust</span> .: ljusa	light / bright
 adj_lojal	adj	<span class="en">lojal</span> / <span class="ett">lojalt</span> .: lojala	loyal
@@ -142,7 +141,7 @@ adj_ointressant	adj	<span class="en">ointressant</span> / <span class="ett">oint
 adj_olik	adj	<span class="en">olik</span> / <span class="ett">olikt</span> .: olika	different
 adj_omgift	adj	<span class="en">omgift</span> / <span class="ett">omgift</span> .: omgifta	remarried
 adj_omodern	adj	<span class="en">omodern</span> / <span class="ett">omodernt</span> .: omoderna	outdated / old-fashioned
-adj_orange	adj	orange (orange, orange)	orange (adj)
+adj_orange	adj	orange	orange (adj)
 adj_otrolig	adj	<span class="en">otrolig</span> / <span class="ett">otroligt</span> .: otroliga	incredible
 adj_ovanlig	adj	<span class="en">ovanlig</span> / <span class="ett">ovanligt</span> .: ovanliga	unusual
 adj_paaslagen	adj	<span class="en">påslagen</span> / <span class="ett">påslaget</span> .: påslagna	on (switched on)
@@ -168,7 +167,7 @@ adj_rosa	adj	<span class="en">rosa</span> / <span class="ett">rosa</span> .: ros
 adj_rund	adj	<span class="en">rund</span> / <span class="ett">runt</span> .: runda	round
 adj_rutig	adj	<span class="en">rutig</span> / <span class="ett">rutigt</span> .: rutiga	checkered
 adj_salt	adj	<span class="en">salt</span> / <span class="ett">salt</span> .: salta	salty
-adj_samma	adj	<span class="en">samma</span> / <span class="ett">samma</span> .: samma	same (adj)
+adj_samma	adj	samma	same (adj)
 adj_samtidig	adj	<span class="en">samtidig</span> / <span class="ett">samtidigt</span> .: samtidiga	at the same time
 adj_sen	adj	<span class="en">sen</span> / <span class="ett">sent</span> .: sena	late (adj)
 adj_separat	adj	<span class="en">separat</span> / <span class="ett">separat</span> .: separata	separate
@@ -967,7 +966,6 @@ n_nobelpristagare	count n	<span class="en">en Nobelpristagare [Nobelpristagaren]
 n_noejespark	count n	<span class="en">en nöjespark [nöjesparken] .: nöjesparker [nöjesparkerna]</span>	an amusement park
 n_noet	count n	<span class="en">en nöt [nöten] .: nötter [nötterna]</span>	a nut
 n_nordamerika	mass n	Nordamerika	North America
-n_norr	mass n	<span class="en">norr [norren]</span>	north (noun) (mass n)
 n_november	n	november	November
 n_nutid	mass n	<span class="en">nutid [nutiden]</span>	present (time)
 n_nyboerjare	count n	<span class="en">en nybörjare [nybörjaren] .: nybörjare [nybörjarna]</span>	a beginner
@@ -1209,7 +1207,6 @@ n_snus	mass n	<span class="ett">snus [snuset]</span>	snuff
 n_snusdosa	count n	<span class="en">en snusdosa [snusdosan] .: snusdosor [snusdosorna]</span>	a snuff box
 n_snygging	count n	<span class="en">en snygging [snyggingen] .: snyggingar [snyggingarna]</span>	a hottie; good-looking person
 n_socker	mass n	<span class="ett">socker [sockret]</span>	sugar
-n_soeder	mass n	<span class="en">söder [södern]</span>	south (noun) (mass n)
 n_soendag	count n	<span class="en">en söndag [söndagen] .: söndagar [söndagarna]</span>	a Sunday
 n_soetvatten	count n	<span class="ett">ett sötvatten [sötvattnet] .: sötvatten [sötvattnen]</span>	a freshwater
 n_soffa	count n	<span class="en">en soffa [soffan] .: soffor [sofforna]</span>	a sofa
@@ -3635,6 +3632,7 @@ s_vi_haaller_tumm	s	Vi håller tummarna.	Fingers crossed.
 s_vi_hade_bara_sn_h	s	Vi hade bara snabbkaffe hemma.	We only had instant coffee at home.
 s_vi_hade_en_fant_uos	s	Vi hade en fantastisk utsikt över staden.	We had a fantastic view of the city.
 s_vi_hade_en_unde_dps	s	Vi hade en underbar dag på stranden.	We had a wonderful day at the beach.
+s_vi_hade_kul	s	Vi hade kul!	We had fun!
 s_vi_hade_slaektm_il	s	Vi hade släktmiddag i lördags.	We had a family dinner last Saturday.
 s_vi_har_en_bastu_ik	s	Vi har en bastu i källaren.	We have a sauna in the basement.
 s_vi_har_en_massa_ag	s	Vi har en massa att göra.	We have a lot to do.
@@ -3878,6 +3876,7 @@ u_komma		komma	come
 u_konstitutionell_m		konstitutionell monarki	constitutional monarchy
 u_kristen		kristen (kristna)	Christian
 u_laenge		länge	a long time / long
+u_lila		lila	purple
 u_lite		lite	some / a little
 u_liten_pojke		liten pojke	little boy
 u_livs		livs (= livsmedelsbutik)	grocery store
