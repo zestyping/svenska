@@ -3756,7 +3756,6 @@ u_aeven		även	also; even; as well
 u_annars		annars	otherwise
 u_baesta		bästa	best
 u_bara		bara	only
-u_borde		borde	should
 u_braaka		bråka	quarrel / struggle
 u_braeckt_vatten		bräckt vatten	brackish water
 u_cirka		cirka	approximately
@@ -3767,14 +3766,8 @@ u_de		de	they
 u_den_det		den / det	it
 u_designprylar		designprylar	design stuff
 u_det_mesta		det mesta	most
-u_dialog		dialog	dialogue
 u_direkt		direkt	directly / immediately
-u_doftljus		doftljus	scented candle
-u_dokumentaer		dokumentär	documentary
-u_drama		drama	drama
-u_duva		duva	pigeon
 u_egyptisk		egyptisk	Egyptian
-u_elev		elev	student
 u_eller		eller	or
 u_engelska		engelska	English (language)
 u_enkel_resa		enkel resa	single ticket; one-way trip
@@ -3790,16 +3783,13 @@ u_franska		franska	French (language)
 u_full		full	full
 u_gaerna		gärna	gladly / willingly
 u_ganska		ganska	quite / rather
-u_ge_bort		ge bort	give away
 u_genom		genom	through
-u_genre		genre	genre
 u_geografi		geografi	geography
 u_gratis		gratis	free (of charge)
 u_grekiska		grekiska	Greek (language)
 u_haer		här	here
 u_helt		helt	completely
 u_helt_okej		helt okej	not bad; pretty okay
-u_hem		hem	home (to)
 u_hemifraan		hemifrån	from home
 u_hemma		hemma	at home
 u_i		i	in / at
@@ -3816,31 +3806,17 @@ u_jag		jag	I
 u_japanska		japanska	Japanese (language)
 u_jiddisch		jiddisch	Yiddish
 u_jorden		jorden	the Earth
-u_jordgubbslukt		jordgubbslukt	strawberry scent
 u_ju		ju	you know
-u_kafaegare		kaféägare	café owner
 u_kanske		kanske	maybe
-u_koek		kök	kitchen
 u_koeksgrejer		köksgrejer	kitchen stuff
-u_koersbaerstomat		körsbärstomater	cherry tomatoes
 u_komma		komma	come
 u_konstitutionell_m		konstitutionell monarki	constitutional monarchy
 u_kristen		kristen (kristna)	Christian
-u_krukvaext		krukväxt	potted plant
-u_laana		låna	borrow
 u_laenge		länge	a long time / long
-u_laerare		lärare	teacher
-u_laesa		läsa	read
-u_land		land	country
-u_lego		lego	LEGO
-u_ligga		ligga	lie / be situated
 u_lite		lite	some / a little
 u_liten_pojke		liten pojke	little boy
 u_livs		livs (= livsmedelsbutik)	grocery store
 u_ljusgraa		ljusgrå	light gray
-u_lukt		lukt	scent / smell
-u_luktsuddgummi		luktsuddgummi	scented eraser
-u_lyssna		lyssna	listen
 u_maanga		många	many
 u_makaroner		makaroner	macaroni
 u_markera		markera	mark
@@ -3849,11 +3825,9 @@ u_mellan_jobb		mellan jobb	between jobs
 u_men		men	but
 u_mer		mer	more
 u_mest		mest	mostly
-u_middag		middag	dinner
 u_mitt_i_natten		mitt i natten	in the middle of the night
 u_mobilspelbransc		mobilspelbranschen	the mobile gaming industry
 u_mobiltelefoni		mobiltelefoni	mobile technology
-u_morsdag		morsdag	Mother's Day
 u_mot		mot	against
 u_naer		när	when
 u_naermare		närmare	closer
@@ -3872,45 +3846,30 @@ u_ofta		ofta	often
 u_okej		okej	okay
 u_olika_saett		olika sätt	different ways
 u_om_inte		om inte	if not
-u_ord		ord	word
 u_ortodoxt_kristn		ortodoxt kristna	Orthodox Christians
 u_portugisiska		portugisiska	Portuguese (language)
 u_prata_engelska		prata engelska	speak English
-u_presens		presens	present tense
-u_presentation		presentation	presentation
 u_pyttelite		pyttelite	a tiny bit
 u_rakt_fram		rakt fram	straight ahead
-u_rea		rea	sale
 u_redan		redan	already
 u_redo		redo	ready
 u_retroflexer		retroflexer	retroflexes
 u_ringa_in		ringa in	circle
-u_rivstart		rivstart	flying start
 u_roed_dag		röd dag	public holiday
 u_romska		romska	Romani
-u_ruta		ruta	box / square
-u_rysare		rysare	thriller / horror
 u_saa		så	so
 u_saa_laenge		så länge	meanwhile / in the meantime
 u_saellan		sällan	rarely
 u_saemre		sämre	worse
 u_samiska		samiska	Sami/Saami
 u_semesterplan		semesterplan	holiday plan
-u_serie		serie	series
-u_sida		sida	page
 u_ska		ska	will (verb)
-u_skorpa		skorpa	rusk
 u_skulle		skulle	would / was going to
-u_slut		slut	finished / run out
 u_snabbfakta		snabbfakta	quick facts
 u_snart		snart	soon
 u_som		som	as / that / who
 u_som_vanligt		som vanligt	as usual
 u_spanska		spanska	Spanish (language)
-u_spara		spara	save
-u_spraak		språk	language
-u_startup		startup	startup
-u_suddgummi		suddgummi	eraser
 u_svensk_krona		svensk krona (SEK)	Swedish krona
 u_svenska		svenska	Swedish (language)
 u_ta_en_aw		ta en AW	go for after-work drinks
@@ -3920,18 +3879,15 @@ u_telekom		telekom	telecommunications
 u_tillsammans		tillsammans	together
 u_titta_paa_en_fi		titta på en film	watch a movie
 u_tja		tja	well
-u_traeningsklaede		träningskläder	sportswear
 u_tur_och_retur		tur och retur	return ticket; there and back
 u_turkiska		turkiska	Turkish (language)
 u_under		under	under
 u_upp		upp	up
-u_uppgift		uppgift	task
 u_ut		ut	out
 u_utan		utan	without
 u_utomlands		utomlands	abroad
 u_uttala		uttala	pronounce
 u_vad_bra		vad bra	that's great
-u_vaeder		väder	weather
 u_vaeldigt_mycket		väldigt mycket	very much
 u_vakna_av		vakna av	wake up from
 u_var		var	where

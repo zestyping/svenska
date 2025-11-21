@@ -272,6 +272,11 @@ def fix(infile, outfile, sides=['sv', 'en']):
                 if guid.startswith('u_') and guid in fixed:
                     del fixed[guid]
 
+    for guid in [g for g in fixed if g.startswith('u_')]:
+        base = guid[2:]
+        if 'n_' + base in fixed or 'v_' + base in fixed:
+            del fixed[guid]
+
     for record in fixed.values():
         en_key = re.sub(r'\([^)]*\)', '', record['en'].split('/')[0]).strip()
         if len(en_tags.get(en_key, set())) > 1:
