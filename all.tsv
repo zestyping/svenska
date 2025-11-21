@@ -10,7 +10,7 @@ adj_annan	adj	<span class="en">annan</span> / <span class="ett">annat</span> .: 
 adj_arbetsloes	adj	<span class="en">arbetslös</span> / <span class="ett">arbetslöst</span> .: arbetslösa	unemployed
 adj_avlaang	adj	<span class="en">avlång</span> / <span class="ett">avlångt</span> .: avlånga	elongated, oblong
 adj_avstaengd	adj	<span class="en">avstängd</span> / <span class="ett">avstängt</span> .: avstängda	off (switched off)
-adj_bakre	adj	bakre	back / rear (adj)
+adj_bakre	adj	bakre	back (adj)
 adj_barnfri	adj	<span class="en">barnfri</span> / <span class="ett">barnfritt</span> .: barnfria	without children
 adj_begagnad	adj	<span class="en">begagnad</span> / <span class="ett">begagnat</span> .: begagnade	used / second-hand
 adj_besatt	adj	<span class="en">besatt</span> / <span class="ett">besatt</span> .: besatta	obsessed
@@ -18,6 +18,7 @@ adj_betonad	adj	<span class="en">betonad</span> / <span class="ett">betonat</spa
 adj_billig	adj	<span class="en">billig</span> / <span class="ett">billigt</span> .: billiga	cheap
 adj_blaa	adj	<span class="en">blå</span> / <span class="ett">blått</span> .: blåa	blue
 adj_blommig	adj	<span class="en">blommig</span> / <span class="ett">blommigt</span> .: blommiga	floral
+adj_bortre	adj	bortre	far (adj)
 adj_bostadsloes	adj	<span class="en">bostadslös</span> / <span class="ett">bostadslöst</span> .: bostadslösa	without housing; homeless
 adj_bra	adj	bra	good (adj)
 adj_bred	adj	<span class="en">bred</span> / <span class="ett">brett</span> .: breda	wide
@@ -74,6 +75,7 @@ adj_hemsk	adj	<span class="en">hemsk</span> / <span class="ett">hemskt</span> .:
 adj_historisk	adj	<span class="en">historisk</span> / <span class="ett">historiskt</span> .: historiska	historical
 adj_hjaelpsam	adj	<span class="en">hjälpsam</span> / <span class="ett">hjälpsamt</span> .: hjälpsamma	helpful
 adj_hjaertlig	adj	<span class="en">hjärtlig</span> / <span class="ett">hjärtligt</span> .: hjärtliga	heartfelt
+adj_hoegra	adj	högra	right (adj)
 adj_hoegutbildad	adj	<span class="en">högutbildad</span> / <span class="ett">högutbildat</span> .: högutbildade	highly educated
 adj_huslig	adj	<span class="en">huslig</span> / <span class="ett">husligt</span> .: husliga	domestic; homey
 adj_indisk	adj	<span class="en">indisk</span> / <span class="ett">indiskt</span> .: indiska	Indian
@@ -114,7 +116,6 @@ adj_moerk	adj	<span class="en">mörk</span> / <span class="ett">mörkt</span> .:
 adj_motsatt	adj	<span class="en">motsatt</span> / <span class="ett">motsatt</span> .: motsatta	opposite (adj)
 adj_mysig	adj	<span class="en">mysig</span> / <span class="ett">mysigt</span> .: mysiga	cozy
 adj_naagon	adj	<span class="en">någon</span> / <span class="ett">något</span> .: några	any / someone
-adj_naera	adj	nära	near (adj)
 adj_naesta	adj	nästa	next (adj)
 adj_nationell	adj	<span class="en">nationell</span> / <span class="ett">nationellt</span> .: nationella	national
 adj_nedre	adj	nedre	lower (adj)
@@ -123,14 +124,16 @@ adj_neongroen	adj	<span class="en">neongrön</span> / <span class="ett">neongrö
 adj_nervoes	adj	<span class="en">nervös</span> / <span class="ett">nervöst</span> .: nervösa	nervous
 adj_noedvaendig	adj	<span class="en">nödvändig</span> / <span class="ett">nödvändigt</span> .: nödvändiga	necessary
 adj_nordisk	adj	<span class="en">nordisk</span> / <span class="ett">nordiskt</span> .: nordiska	Nordic
-adj_nordlig	adj	<span class="en">nordlig</span> / <span class="ett">nordligt</span> .: nordliga	northern
+adj_nordlig	adj	<span class="en">nordlig</span> / <span class="ett">nordligt</span> .: nordliga	northerly
 adj_normal	adj	<span class="en">normal</span> / <span class="ett">normalt</span> .: normala	normal
+adj_norra	adj	norra	northern (part)
 adj_ny	adj	<span class="en">ny</span> / <span class="ett">nytt</span> .: nya	new
 adj_nyfiken	adj	<span class="en">nyfiken</span> / <span class="ett">nyfiket</span> .: nyfikna	curious
 adj_obestaemd	adj	<span class="en">obestämd</span> / <span class="ett">obestämt</span> .: obestämda	indefinite
 adj_obetonad	adj	<span class="en">obetonad</span> / <span class="ett">obetonat</span> .: obetonade	unstressed
 adj_oeppen	adj	<span class="en">öppen</span> / <span class="ett">öppet</span> .: öppna	open
-adj_oestlig	adj	<span class="en">östlig</span> / <span class="ett">östligt</span> .: östliga	eastern
+adj_oestlig	adj	<span class="en">östlig</span> / <span class="ett">östligt</span> .: östliga	easterly
+adj_oestra	adj	östra	eastern (part)
 adj_oevertygad	adj	<span class="en">övertygad</span> / <span class="ett">övertygat</span> .: övertygade	convinced
 adj_oevre	adj	övre	upper (adj)
 adj_officiell	adj	<span class="en">officiell</span> / <span class="ett">officiellt</span> .: officiella	official
@@ -154,7 +157,7 @@ adj_privat	adj	<span class="en">privat</span> / <span class="ett">privat</span> 
 adj_psykisk	adj	<span class="en">psykisk</span> / <span class="ett">psykiskt</span> .: psykiska	psychological
 adj_pytteliten	adj	<span class="en">pytteliten</span> / <span class="ett">pyttelitet</span> .: pyttesmå	tiny
 adj_raedd	adj	rädd .: rädda	afraid
-adj_raett	adj	<span class="en">rätt</span> / <span class="ett">rätt</span> .: rätta	right (correct)
+adj_raett	adj	<span class="en">rätt</span> / <span class="ett">rätt</span> .: rätta	right (correct) (adj)
 adj_rak	adj	<span class="en">rak</span> / <span class="ett">rakt</span> .: raka	straight (adj)
 adj_randig	adj	<span class="en">randig</span> / <span class="ett">randigt</span> .: randiga	striped
 adj_relativ	adj	<span class="en">relativ</span> / <span class="ett">relativt</span> .: relativa	relative (adj)
@@ -180,6 +183,7 @@ adj_skoen	adj	<span class="en">skön</span> / <span class="ett">skönt</span> .:
 adj_smal	adj	<span class="en">smal</span> / <span class="ett">smalt</span> .: smala	thin / narrow
 adj_snabb	adj	<span class="en">snabb</span> / <span class="ett">snabbt</span> .: snabba	quick
 adj_snygg	adj	<span class="en">snygg</span> / <span class="ett">snyggt</span> .: snygga	nice / attractive
+adj_soedra	adj	södra	southern (part)
 adj_solig	adj	<span class="en">solig</span> / <span class="ett">soligt</span> .: soliga	sunny
 adj_sorglig	adj	<span class="en">sorglig</span> / <span class="ett">sorgligt</span> .: sorgliga	sad
 adj_spaennande	adj	spännande	exciting
@@ -197,7 +201,7 @@ adj_supernervoes	adj	<span class="en">supernervös</span> / <span class="ett">su
 adj_svaar	adj	<span class="en">svår</span> / <span class="ett">svårt</span> .: svåra	difficult
 adj_svart	adj	<span class="en">svart</span> / <span class="ett">svart</span> .: svarta	black
 adj_sydamerikansk	adj	<span class="en">sydamerikansk</span> / <span class="ett">sydamerikanskt</span> .: sydamerikanska	South American
-adj_sydlig	adj	<span class="en">sydlig</span> / <span class="ett">sydligt</span> .: sydliga	southern
+adj_sydlig	adj	<span class="en">sydlig</span> / <span class="ett">sydligt</span> .: sydliga	southerly
 adj_taetbefolkad	adj	<span class="en">tätbefolkad</span> / <span class="ett">tätbefolkat</span> .: tätbefolkade	densely populated
 adj_tidig	adj	<span class="en">tidig</span> / <span class="ett">tidigt</span> .: tidiga	early (adj)
 adj_tjock	adj	<span class="en">tjock</span> / <span class="ett">tjockt</span> .: tjocka	fat / thick
@@ -217,7 +221,9 @@ adj_upptagen	adj	<span class="en">upptagen</span> / <span class="ett">upptaget</
 adj_vacker	adj	<span class="en">vacker</span> / <span class="ett">vackert</span> .: vackra	beautiful
 adj_vaeldig	adj	<span class="en">väldig</span> / <span class="ett">väldigt</span> .: väldiga	vast / immense
 adj_vaelkommen	adj	<span class="en">välkommen</span> / <span class="ett">välkommet</span> .: välkomna	welcome
-adj_vaestlig	adj	<span class="en">västlig</span> / <span class="ett">västligt</span> .: västliga	western (adj)
+adj_vaenstra	adj	vänstra	left (adj)
+adj_vaestlig	adj	<span class="en">västlig</span> / <span class="ett">västligt</span> .: västliga	westerly
+adj_vaestra	adj	västra	western (part)
 adj_vaken	adj	<span class="en">vaken</span> / <span class="ett">vaket</span> .: vakna	awake
 adj_vanlig	adj	<span class="en">vanlig</span> / <span class="ett">vanligt</span> .: vanliga	usual, ordinary
 adj_varannan	adj	<span class="en">varannan</span> / <span class="ett">varannat</span> .: varannan	every other
@@ -233,13 +239,68 @@ adv_absolut	adv	absolut	absolutely
 adv_aendaa	adv	ändå	still / anyway (adv)
 adv_aldrig	adv	aldrig	never
 adv_alltid	adv	alltid	always
-adv_bak	adv	bak	back (adv)
+adv_bak	adv	bak	to the back (dir)
+adv_bakaat	adv	bakåt	backward (dir)
+adv_bakifraan	adv	bakifrån	from the back (dir)
+adv_bakom	adv	bakom	back (pos)
+adv_bort	adv	bort	away (dir)
+adv_borta	adv	borta	away (pos)
+adv_bortaat	adv	bortåt	toward away (dir)
+adv_bortifraan	adv	bortifrån	from away (dir)
+adv_daer	adv	där	there (pos)
+adv_daerifraan	adv	därifrån	from there (dir)
+adv_dit	adv	dit	to there (dir)
+adv_ditaat	adv	ditåt	toward there (dir)
 adv_efteraat	adv	efteråt	afterwards (adv)
 adv_foerr	adv	förr	in the past (adv)
 adv_foerst	adv	först	first (adv)
 adv_fortfarande	adv	fortfarande	still (ongoing) (adv)
-adv_fram	adv	fram	front (adv)
+adv_fram	adv	fram	to the front (dir)
+adv_framaat	adv	framåt	frontward (dir)
+adv_framifraan	adv	framifrån	from the front (dir)
+adv_framme	adv	framme	front (pos)
+adv_haer	adv	här	here (pos)
+adv_haerifraan	adv	härifrån	from here (dir)
+adv_hem	adv	hem	to home (dir)
+adv_hemifraan	adv	hemifrån	from home (dir)
+adv_hemma	adv	hemma	at home (pos)
+adv_hit	adv	hit	to here (dir)
+adv_hitaat	adv	hitåt	toward here (dir)
+adv_hoeger	adv	höger	right (dir)
+adv_i_norr	adv	i norr	up north (pos)
+adv_i_oester	adv	i öster	out east (pos)
+adv_i_soeder	adv	i söder	up south (pos)
+adv_i_vaester	adv	i väster	out west (pos)
+adv_in	adv	in	in (dir)
+adv_inaat	adv	inåt	inward (dir)
+adv_inifraan	adv	inifrån	from inside (dir)
+adv_inne	adv	inne	inside (pos)
 adv_kvar	adv	kvar	left / remaining (adv)
+adv_mot_norr	adv	mot norr	north (dir)
+adv_mot_oester	adv	mot öster	east (dir)
+adv_mot_soeder	adv	mot söder	south (dir)
+adv_mot_vaester	adv	mot väster	west (dir)
+adv_ner	adv	ner	down (dir)
+adv_neraat	adv	neråt	downward (dir)
+adv_nere	adv	nere	down below (pos)
+adv_nerifraan	adv	nerifrån	from below (dir)
+adv_norrifraan	adv	norrifrån	from the north (dir)
+adv_norrut	adv	norrut	northward (dir)
+adv_oesterifraan	adv	österifrån	from the east (dir)
+adv_oesterut	adv	österut	eastward (dir)
+adv_soederifraan	adv	söderifrån	from the south (dir)
+adv_soederut	adv	söderut	southward (dir)
+adv_upp	adv	upp	up (dir)
+adv_uppaat	adv	uppåt	upward (dir)
+adv_uppe	adv	uppe	up above (pos)
+adv_uppifraan	adv	uppifrån	from above (dir)
+adv_ut	adv	ut	out (dir)
+adv_utaat	adv	utåt	outward (dir)
+adv_ute	adv	ute	outside (pos)
+adv_utifraan	adv	utifrån	from outside (dir)
+adv_vaenster	adv	vänster	left (dir)
+adv_vaesterifraan	adv	västerifrån	from the west (dir)
+adv_vaesterut	adv	västerut	westward (dir)
 conj_innan	conj	innan	before (conj)
 n_17_aaring	count n	<span class="en">en 17-åring [17-åringen] .: 17-åringar [17-åringarna]</span>	a 17-year-old
 n_90_saeng	count n	<span class="en">en 90-säng [sängen] .: sängar [sängarna]</span>	a single bed
@@ -906,7 +967,7 @@ n_nobelpristagare	count n	<span class="en">en Nobelpristagare [Nobelpristagaren]
 n_noejespark	count n	<span class="en">en nöjespark [nöjesparken] .: nöjesparker [nöjesparkerna]</span>	an amusement park
 n_noet	count n	<span class="en">en nöt [nöten] .: nötter [nötterna]</span>	a nut
 n_nordamerika	mass n	Nordamerika	North America
-n_norr	mass n	<span class="en">norr [norren]</span>	north (noun)
+n_norr	mass n	<span class="en">norr [norren]</span>	north (noun) (mass n)
 n_november	n	november	November
 n_nutid	mass n	<span class="en">nutid [nutiden]</span>	present (time)
 n_nyboerjare	count n	<span class="en">en nybörjare [nybörjaren] .: nybörjare [nybörjarna]</span>	a beginner
@@ -1148,7 +1209,7 @@ n_snus	mass n	<span class="ett">snus [snuset]</span>	snuff
 n_snusdosa	count n	<span class="en">en snusdosa [snusdosan] .: snusdosor [snusdosorna]</span>	a snuff box
 n_snygging	count n	<span class="en">en snygging [snyggingen] .: snyggingar [snyggingarna]</span>	a hottie; good-looking person
 n_socker	mass n	<span class="ett">socker [sockret]</span>	sugar
-n_soeder	mass n	<span class="en">söder [södern]</span>	south (noun)
+n_soeder	mass n	<span class="en">söder [södern]</span>	south (noun) (mass n)
 n_soendag	count n	<span class="en">en söndag [söndagen] .: söndagar [söndagarna]</span>	a Sunday
 n_soetvatten	count n	<span class="ett">ett sötvatten [sötvattnet] .: sötvatten [sötvattnen]</span>	a freshwater
 n_soffa	count n	<span class="en">en soffa [soffan] .: soffor [sofforna]</span>	a sofa
@@ -1484,13 +1545,23 @@ phr_naagon_gaang	phr	någon gång	sometime / at some point
 phr_naagra_gaanger	phr	några gånger	a few times
 phr_obestaemd_form	phr	obestämd form	indefinite form
 phr_om_10_dagar	phr	om 10 dagar	in 10 days
+phr_paa_baksidan	phr	på baksidan	on the back
+phr_paa_framsidan	phr	på framsidan	on the front
+phr_paa_hoeger_sida	phr	på höger sida	on the right side
+phr_paa_insidan	phr	på insidan	on the inside
 phr_paa_kartan	phr	på kartan	on the map
 phr_paa_landet	phr	på landet	in the countryside
 phr_paa_maandag	phr	på måndag	on Monday
 phr_paa_min_pappas_s	phr	på min pappas sida	on my father's side
+phr_paa_norra_sidan	phr	på norra sidan	on the north side
+phr_paa_oestra_sida	phr	på östra sidan	on the east side
+phr_paa_soedra_sida	phr	på södra sidan	on the south side
 phr_paa_stan	phr	på stan	downtown / in the city
 phr_paa_taket	phr	på taket	on the roof
+phr_paa_utsidan	phr	på utsidan	on the outside
 phr_paa_vaegen_hem	phr	på vägen hem	on the way home
+phr_paa_vaenster_si	phr	på vänster sida	on the left side
+phr_paa_vaestra_sid	phr	på västra sidan	on the west side
 phr_paa_vintern	phr	på vintern	in the winter
 phr_plugga_till_x	phr	plugga till X	study to be an X
 phr_plus_12_grader	phr	plus 12 grader	12 °C
@@ -3777,7 +3848,6 @@ u_foer_laenge_sed		för länge sedan	a long time ago
 u_foerr_i_tiden		förr i tiden	the olden days
 u_forna_jugoslavi		forna Jugoslavien	former Yugoslavia
 u_fraan		från	from
-u_framme		framme	arrived
 u_franska		franska	French (language)
 u_full		full	full
 u_gaerna		gärna	gladly / willingly
@@ -3786,16 +3856,12 @@ u_genom		genom	through
 u_geografi		geografi	geography
 u_gratis		gratis	free (of charge)
 u_grekiska		grekiska	Greek (language)
-u_haer		här	here
 u_helt		helt	completely
 u_helt_okej		helt okej	not bad; pretty okay
-u_hemifraan		hemifrån	from home
-u_hemma		hemma	at home
-u_i		i	in / at
+u_hemaat		hemåt	homeward
 u_ibland		ibland	sometimes
 u_igen		igen	again
 u_ingenting		ingenting	nothing
-u_inne		inne	inside
 u_inom		inom	within
 u_inte		inte	not
 u_intervjua		intervjua	interview
@@ -3829,10 +3895,10 @@ u_mobilspelbransc		mobilspelbranschen	the mobile gaming industry
 u_mobiltelefoni		mobiltelefoni	mobile technology
 u_mot		mot	against
 u_naer		när	when
+u_naera		nära	near / close to
 u_naermare		närmare	closer
 u_naesta_vecka		nästa vecka	next week
 u_naestan		nästan	almost
-u_ner		ner	down
 u_nio		nio (nian)	nine
 u_nu		nu	now
 u_objektspronomen		objektspronomen	object pronoun
@@ -3880,8 +3946,6 @@ u_titta_paa_en_fi		titta på en film	watch a movie
 u_tur_och_retur		tur och retur	return ticket; there and back
 u_turkiska		turkiska	Turkish (language)
 u_under		under	under
-u_upp		upp	up
-u_ut		ut	out
 u_utan		utan	without
 u_utomlands		utomlands	abroad
 u_uttala		uttala	pronounce
