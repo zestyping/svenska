@@ -38,6 +38,21 @@ def split_pos(text, tags):
         return text, ' '.join(sorted(new_tags))
     return text, tags
 
+def possible_definite_forms(base):
+    last = base[-1]
+    if last in 'aeiouäåö':
+        yield base + 'n'
+    if last in 'mnp':
+        yield base + last + 'en'
+    yield base + 'en'
+    if base[-2:] in ['el', 'en', 'er']:
+        yield base[:-2] + last + 'et'
+    if last in 'aeiouäåö':
+        yield base + 't'
+    if last in 'mnp':
+        yield base + last + 'et'
+    yield base + 'et'
+
 def fix_sv(sv, tags):
     sv = sv.strip()
     if sv.startswith('<br>'):
@@ -67,6 +82,8 @@ def fix_sv(sv, tags):
     if match:
         base = match.group(1)
         forms = re.split(r', *', match.group(2))
+        while forms[-1] == '-':
+            forms.pop()
         [f1, f2, f3] = (forms + ['', ''])[:3]
         if len(forms) == 1 and (has(tags, 'n') or f1 in [
             base + 'n', base + 't', base + 'en', base + 'et', base + 'na',
@@ -79,10 +96,13 @@ def fix_sv(sv, tags):
             article = 'ett' if f1.endswith('t') else 'en'
             return f'<span class="{article}">{base} [{f1}]</span>', 'mass n'
 
-        if len(forms) == 3 and (has(tags, 'n') or (
-            f1.endswith('et') or f1.endswith('en') or f3.endswith('rna') or
-            f1 in ['-n', '-t', '-en', '-et']
-        )):
+        if len(forms) == 3 and (has(tags, 'n') or
+            f3.endswith('rna') or
+            f2 in [base, '-'] or
+            f1 in ['-n', '-t', '-en', '-et'] or
+            f1.endswith(':en') or f1.endswith(':et') or
+            f1 in possible_definite_forms(base)
+        ):
             # noun with definite, plural, and definite plural forms
             base = re.sub(r'^(en|ett) ', '', base)
             article = 'ett' if f1.endswith('t') else 'en'
@@ -111,7 +131,7 @@ def fix_sv(sv, tags):
             # adjective with ett and plural forms
             return f'{base} / {f1} .: {f2}', 'adj'
 
-        if len(forms) == 3:
+        if len(forms) == 3 and (has(tags, 'v') or f2 != f3):
             # verb with present, preteritum, and pluperfect forms
             base = re.sub(r'^(att )*', '', base)
             f3 = re.sub(r'^(har )*', '', f3)

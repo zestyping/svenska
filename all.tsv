@@ -423,7 +423,7 @@ n_eu_medborgare	count n	<span class="en">en EU-medborgare [EU-medborgaren] .: EU
 n_eukalyptus	count n	<span class="en">en eukalyptus [eukalyptusen] .: eukalyptusar [eukalyptusarna]</span>	an eucalyptus
 n_europa	mass n	Europa	Europe
 n_ex	count n	<span class="ett">ett ex [exet] .: ex [exen]</span>	an ex
-n_examen	count n	<span class="en">en examen [examen] .: examina [examina]</span>	a degree
+n_examen	count n	<span class="en">en examen [examen] .: examina [examina]</span>	a degree (educational)
 n_exempel	count n	<span class="ett">ett exempel [exemplet] .: exempel [exemplen]</span>	an example
 n_explosion	count n	<span class="en">en explosion [explosionen] .: explosioner [explosionerna]</span>	an explosion
 n_export	count n	<span class="en">en export [exporten] .: exporter [exporterna]</span>	an export
@@ -497,6 +497,7 @@ n_forum	count n	<span class="ett">ett forum [forumet] .: forum [forumen]</span>	
 n_fot	count n	<span class="en">en fot [foten] .: fötter [fötterna]</span>	a foot
 n_fotboll	count n	<span class="en">en fotboll [fotbollen] .: fotbollar [fotbollarna]</span>	a football / soccer
 n_fotbollsspelare	count n	<span class="en">en fotbollsspelare [fotbollsspelaren] .: fotbollsspelare [fotbollsspelarna]</span>	a football, soccer player
+n_foto	count n	<span class="ett">ett foto [fotot] .: foton [fotona]</span>	a photo
 n_fotografiska	mass n	Fotografiska	Fotografiska Museum
 n_fraaga	count n	<span class="en">en fråga [frågan] .: frågor [frågorna]</span>	a question
 n_fraageord	count n	<span class="ett">ett frågeord [frågeordet] .: frågeord [frågeorden]</span>	a question word
@@ -539,7 +540,7 @@ n_glass	count n	<span class="en">en glass [glassen] .: glassar [glassarna]</span
 n_glasstaelle	count n	<span class="ett">ett glasställe [glasstället] .: glasställen [glasställena]</span>	an ice cream shop
 n_godis	mass n	<span class="ett">godis [godiset]</span>	candy
 n_goeteborg	mass n	Göteborg	Gothenburg
-n_golf	count n	<span class="en">en golf [golfen] .: golf [golf]</span>	a golf
+n_golf	mass n	<span class="en">golf [golfen]</span>	golf
 n_golve	mass n	<span class="ett">golve [golvet]</span>	floor
 n_gotland	mass n	Gotland	Gotland (island in the Baltic)
 n_graeddfil	mass n	<span class="en">gräddfil [gräddfilen]</span>	sour cream
@@ -578,6 +579,7 @@ n_hasselnoet	count n	<span class="en">en hasselnöt [hasselnöten] .: hasselnöt
 n_hastighet	count n	<span class="en">en hastighet [hastigheten] .: hastigheter [hastigheterna]</span>	a speed; velocity
 n_hatt	count n	<span class="en">en hatt [hatten] .: hattar [hattarna]</span>	a hat
 n_havremjoelk	mass n	<span class="en">havremjölk [havremjölken]</span>	oat milk
+n_havsnivaa	mass n	<span class="en">havsnivå [havsnivån]</span>	sea level
 n_helg	count n	<span class="en">en helg [helgen] .: helger [helgerna]</span>	a weekend
 n_helgon	count n	<span class="ett">ett helgon [helgonet] .: helgon [helgonen]</span>	a saint
 n_helikopter	count n	<span class="en">en helikopter [helikoptern] .: helikoptrar [helikoptrarna]</span>	a helicopter
@@ -807,6 +809,7 @@ n_loesenord	count n	<span class="ett">ett lösenord [lösenordet] .: lösenord [
 n_loppis	count n	<span class="en">en loppis [loppisen] .: loppisar [loppisarna]</span>	a flea market
 n_lukt	count n	<span class="en">en lukt [lukten] .: lukter [lukterna]</span>	a smell (noun)
 n_luktsinne	count n	<span class="ett">ett luktsinne [luktsinnet] .: luktsinnen [luktsinnena]</span>	a sense of smell
+n_luktsuddgummi	count n	<span class="ett">ett luktsuddgummi [luktsuddgummit] .: suddgummin [suddgummina]</span>	a scented eraser
 n_lunch	count n	<span class="en">en lunch [lunchen] .: luncher [luncherna]</span>	a lunch
 n_lust	count n	<span class="en">en lust [lusten] .: lustar [lustarna]</span>	a desire
 n_luvtroeja	count n	<span class="en">en luvtröja [luvtröjan] .: luvtröjor [luvtröjorna]</span>	a hoodie
@@ -889,7 +892,7 @@ n_nackdel	count n	<span class="en">en nackdel [nackdelen] .: nackdelar [nackdela
 n_naerbutik	count n	<span class="en">en närbutik [närbutiken] .: närbutiker [närbutikerna]</span>	a local grocery store
 n_naesa	count n	<span class="en">en näsa [näsan] .: näsor [näsorna]</span>	a nose
 n_naet	count n	<span class="ett">ett nät [nätet] .: nät [näten]</span>	a net
-n_naetdejting	count n	<span class="en">en nätdejting [nätdejtingen] .: nätdejting [nätdejting]</span>	an internet dating
+n_naetdejting	mass n	<span class="en">nätdejting [nätdejtingen]</span>	internet dating
 n_namn	count n	<span class="ett">ett namn [namnet] .: namn [namnen]</span>	a name
 n_nationaldag	count n	<span class="en">en nationaldag [nationaldagen] .: nationaldagar [nationaldagarna]</span>	a national day
 n_nattklubb	count n	<span class="en">en nattklubb [nattklubben] .: nattklubbar [nattklubbarna]</span>	a nightclub
@@ -912,6 +915,7 @@ n_nyckelord	count n	<span class="ett">ett nyckelord [nyckelordet] .: nyckelord [
 n_nyhet	count n	<span class="en">en nyhet [nyheten] .: nyheter [nyheterna]</span>	a news
 n_oe	count n	<span class="en">en ö [ön] .: öar [öarna]</span>	an island
 n_oedla	mass n	<span class="en">ödla [ödlan]</span>	lizard
+n_oega	count n	<span class="ett">ett öga [ögat] .: ögon [ögonen]</span>	an eye
 n_oegon	count n	<span class="en">en ögon [ögonen] .: ögon [ögonen]</span>	an eye
 n_oegonblick	count n	<span class="ett">ett ögonblick</span>	a moment
 n_oegonskugga	count n	<span class="en">en ögonskugga [ögonskuggan] .: ögonskuggor [ögonskuggorna]</span>	an eye shadow
@@ -919,6 +923,7 @@ n_oeken	count n	<span class="en">en öken [öknen] .: öknar [öknarna]</span>	a
 n_oel	mass n	<span class="ett">öl [ölet]</span>	beer
 n_oeland	mass n	Öland	Öland (island in the Baltic Sea)
 n_oeppen_foerskol	count n	<span class="en">en öppen förskola [öppna förskolan] .: öppna förskolor [öppna förskolorna]</span>	a drop-in preschool
+n_oera	count n	<span class="ett">ett öra [örat] .: öron [öronen]</span>	an ear
 n_oertte	count n	<span class="ett">ett örtte [örttet] .: örtter [örtterna]</span>	a herbal tea
 n_oestersjoen	mass n	Östersjön	Baltic Sea
 n_oeverraskning	count n	<span class="en">en överraskning [överraskningen] .: överraskningar [överraskningarna]</span>	a surprise
@@ -970,6 +975,7 @@ n_pensionaer	count n	<span class="en">en pensionär [pensionären] .: pensionär
 n_pepp	count n	<span class="ett">ett pepp [peppet] .: pepp [peppen]</span>	a pep
 n_person	count n	<span class="en">en person [personen] .: personer [personerna]</span>	a person
 n_personlig_traen	count n	<span class="en">en personlig tränare [tränaren] .: tränare [tränarna]</span>	a personal trainer
+n_piano	count n	<span class="ett">ett piano [pianot] .: pianon [pianona]</span>	a piano
 n_pirog	count n	<span class="en">en pirog [pirogen] .: piroger [pirogerna]</span>	a pasty
 n_pizzabit	count n	<span class="en">en pizzabit [pizzabiten] .: pizzabitar [pizzabitarna]</span>	a pizza slice
 n_pjaes	count n	<span class="en">en pjäs [pjäsen] .: pjäser [pjäserna]</span>	a theatre play
@@ -1072,6 +1078,8 @@ n_sammanhang	count n	<span class="ett">ett sammanhang [sammanhanget] .: sammanha
 n_sand	count n	<span class="en">en sand [sanden] .: sandar [sandarna]</span>	a sand
 n_satsadverbial	mass n	<span class="ett">satsadverbial [satsadverbialet]</span>	adverbial
 n_schack	count n	<span class="ett">ett schack [schacket] .: schack [schacken]</span>	a chess
+n_schampo	count n	<span class="ett">ett schampo [schampot] .: schampon [schampona]</span>	a shampoo
+n_schema	count n	<span class="ett">ett schema [schemat] .: scheman [schemana]</span>	a schedule
 n_schnitzel	count n	<span class="en">en schnitzel [schnitzeln] .: schnitzlar [schnitzlarna]</span>	a schnitzel
 n_schweiz	mass n	Schweiz	Switzerland
 n_science_fiction	mass n	<span class="en">science fiction [science fictionen]</span>	science fiction
@@ -1188,6 +1196,7 @@ n_stureplan	mass n	Stureplan	Stureplan (square in central Stockholm)
 n_stycke	mass n	<span class="ett">stycke [stycket]</span>	paragraph
 n_subjekt	count n	<span class="ett">ett subjekt [subjektet] .: subjekt [subjekten]</span>	a subject
 n_substantiv	count n	<span class="ett">ett substantiv [substantivet] .: substantiv [substantiven]</span>	a noun
+n_suddgummi	count n	<span class="ett">ett suddgummi [suddgummit] .: suddgummin [suddgummina]</span>	an eraser
 n_superlativ	count n	<span class="ett">ett superlativ [superlativet] .: superlativ [superlativen]</span>	a superlative
 n_supinum	count n	<span class="ett">ett supinum [supinumet] .: supinum [supinumen]</span>	a supine
 n_surfplatta	count n	<span class="en">en surfplatta [surfplattan] .: surfplattor [surfplattorna]</span>	a tablet
@@ -1210,7 +1219,7 @@ n_syster	count n	<span class="en">en syster [systern] .: systrar [systrarna]</sp
 n_t_shirt	count n	<span class="en">en t-shirt [t-shirten] .: t-shirtar [t-shirtarna]</span>	a T-shirt
 n_taa	count n	<span class="en">en tå [tån] .: tår [tårna]</span>	a toe
 n_taag	count n	<span class="ett">ett tåg [tåget] .: tåg [tågen]</span>	a train
-n_taalamod	count n	<span class="ett">ett tålamod [tålamodet] .: tålamod [tålamod]</span>	a patience
+n_taalamod	mass n	<span class="ett">tålamod [tålamodet]</span>	patience
 n_tabell	count n	<span class="en">en tabell [tabellen] .: tabeller [tabellerna]</span>	a table
 n_tacobroed	count n	<span class="ett">ett tacobröd [tacobrödet] .: tacobröd [tacobröden]</span>	a tortilla
 n_taelt	count n	<span class="ett">ett tält [tältet] .: tält [tälten]</span>	a tent
@@ -1225,6 +1234,7 @@ n_te	count n	<span class="ett">ett te [teet] .: teer [teerna]</span>	a tea
 n_teater	count n	<span class="en">en teater [teatern] .: teatrar [teatrarna]</span>	a theater
 n_techbolag	count n	<span class="ett">ett techbolag [techbolaget] .: techbolag [techbolagen]</span>	a tech company
 n_tecknad_film	count n	<span class="en">en tecknad film [tecknade filmen] .: tecknade filmer [tecknade filmerna]</span>	a cartoon; animated film
+n_tema	count n	<span class="ett">ett tema [temat] .: teman [temana]</span>	a theme
 n_tempel	count n	<span class="ett">ett tempel [templet] .: tempel [templen]</span>	a temple
 n_temperatur	count n	<span class="en">en temperatur [temperaturen] .: temperaturer [temperaturerna]</span>	a temperature
 n_tennisracket	count n	<span class="en">en tennisracket [tennisracketen] .: tennisracketar [tennisracketarna]</span>	a tennis racket
@@ -1243,6 +1253,7 @@ n_tillaatelse	count n	<span class="en">en tillåtelse [tillåtelsen] .: tillåte
 n_tillstaand	count n	<span class="ett">ett tillstånd [tillståndet] .: tillstånd [tillstånden]</span>	a permit
 n_tilltalsnamn	count n	<span class="ett">ett tilltalsnamn [tilltalsnamnet] .: tilltalsnamn [tilltalsnamnen]</span>	a first name
 n_tisdag	count n	<span class="en">en tisdag [tisdagen] .: tisdagar [tisdagarna]</span>	a Tuesday
+n_tivoli	count n	<span class="ett">ett tivoli [tivolit] .: tivolin [tivolina]</span>	a funfair
 n_tjaenst	count n	<span class="en">en tjänst [tjänsten] .: tjänster [tjänsterna]</span>	a service
 n_tjeckien	mass n	Tjeckien	the Czech Republic
 n_tjej	count n	<span class="en">en tjej [tjejen] .: tjejer [tjejerna]</span>	a girl
@@ -1286,7 +1297,7 @@ n_ursprungsfolk	count n	<span class="ett">ett ursprungsfolk [ursprungsfolket] .:
 n_usa	n	USA	USA
 n_usb_ingaang	count n	<span class="en">en USB-ingång [USB-ingången] .: USB-ingångar [USB-ingångarna]</span>	an USB port
 n_utbytesstudent	count n	<span class="en">en utbytesstudent [utbytesstudenten] .: utbytesstudenter [utbytesstudenterna]</span>	an exchange student
-n_uteliv	count n	<span class="ett">ett uteliv [utelivet] .: uteliv [uteliv]</span>	a nightlife
+n_uteliv	mass n	<span class="ett">uteliv [utelivet]</span>	nightlife
 n_utomjording	count n	<span class="en">en utomjording [utomjordingen] .: utomjordingar [utomjordingarna]</span>	an alien
 n_utropstecken	count n	<span class="ett">ett utropstecken [utropstecknet] .: utropstecken [utropstecknen]</span>	an exclamation point
 n_utsikt	count n	<span class="en">en utsikt [utsikten] .: utsikter [utsikterna]</span>	a view
@@ -1329,7 +1340,6 @@ n_veganbrownie	mass n	<span class="en">veganbrownie [veganbrownien]</span>	vegan
 n_vegoburgare	count n	<span class="en">en vegoburgare [vegoburgaren] .: vegoburgare [vegoburgarna]</span>	a veggie burger
 n_verb	count n	<span class="ett">ett verb [verbet] .: verb [verben]</span>	a verb
 n_verbpartikel	count n	<span class="en">en verbpartikel [verbpartikeln] .: verbpartiklar [verbpartiklarna]</span>	a verb particle
-n_veta	count n	<span class="ett">ett veta [vet] .: visste [vetat]</span>	a know
 n_vetenskapsman	count n	<span class="en">en vetenskapsman [vetenskapsmannen] .: vetenskapsmän [vetenskapsmännen]</span>	a scientist
 n_villa	count n	<span class="en">en villa [villan] .: villor [villorna]</span>	a villa, house
 n_vin	count n	<span class="ett">ett vin [vinet] .: viner [vinerna]</span>	a wine
@@ -4008,7 +4018,6 @@ v_foerstaa	v	att förstå (förstår, förstod, har förstått)	to understand
 v_foerstoera	v	att förstöra (förstör, förstörde, har förstört)	to destroy
 v_forska	v	att forska (forskar, forskade, har forskat)	to do research
 v_fortsaetta	v	att fortsätta (fortsätter, fortsatte, har fortsatt)	to continue
-v_foto	v	att foto (fotot, foton, har fotona)	to photo
 v_fraaga	v	att fråga (frågar, frågade, har frågat)	to ask
 v_fundera	v	att fundera (funderar, funderade, har funderat)	to ponder
 v_fungera	v	att fungera (fungerar, fungerade, har fungerat)	to work (function)
@@ -4039,7 +4048,6 @@ v_haenga	v	att hänga (hänger, hängde, har hängt)	to hang / hang out
 v_haenga_med	v	att hänga med (hänger, hängde, har hängt)	to join in
 v_handla_mat	v	att handla mat	to buy food
 v_handla_om	v	att handla om (handlar, handlade, har handlat)	to be about
-v_havsnivaa	v	att havsnivå (havsnivån, -, har -)	to sea level
 v_heta	v	att heta (heter, hette, har hetat)	to be called
 v_hinna	v	att hinna (hinner, hann, har hunnit)	to have time; manage to
 v_hitta	v	att hitta (hittar, hittade, har hittat)	to find
@@ -4091,21 +4099,18 @@ v_ligga	v	att ligga (ligger, låg, har legat)	to be located
 v_ljuga	v	att ljuga (ljuger, ljög, har ljugit)	to lie
 v_logga_in	v	att logga in (loggar in, loggade in, har loggat in)	to log in
 v_lukta	v	att lukta (luktar, luktade, har luktat)	to smell
-v_luktsuddgummi	v	att luktsuddgummi (luktsuddgummit, suddgummin, har suddgummina)	to scented eraser
 v_lyssna	v	att lyssna (lyssnar, lyssnade, har lyssnat)	to listen
 v_maa	v	att må (mår, mådde, har mått)	to feel
 v_maala	v	att måla (målar, målade, har målat)	to paint
 v_maala_graffiti	v	att måla graffiti (målar, målade, har målat)	to paint graffiti
-v_maaste	v	att måste (måste, måste, har måst)	to must
+v_maaste	v	måste	to must
 v_messa	v	att messa (messar, messade, har messat)	to text
 v_mingla	v	att mingla (minglar, minglade, har minglat)	to mingle
 v_missa	v	att missa (missar, missade, har missat)	to miss
 v_mjuta	v	att mjuta (mjutar, mjutade, har mjutat)	to mute
 v_mysa	v	att mysa (myser, myste, har myst)	to cozy up
 v_odla	v	att odla (odlar, odlade, har odlat)	to cultivate, grow
-v_oega	v	att öga (ögat, ögon, har ögonen)	to eye
 v_oeppna	v	att öppna (öppnar, öppnade, har öppnat)	to open
-v_oera	v	att öra (örat, öron, har öronen)	to ear
 v_oeva	v	att öva (övar, övade, har övat)	to practise
 v_oeverraska	v	att överraska (överraskar, överraskade, har överraskat)	to surprise
 v_oeversaetta	v	att översätta (översätter, översatte, har översatt)	to translate
@@ -4115,7 +4120,6 @@ v_passa	v	att passa (passar, passade, har passat)	to fit
 v_passa_in	v	att passa in (passar in, passade in, har passat in)	to fit in
 v_peka	v	att peka (pekar, pekade, har pekat)	to point
 v_peppa	v	att peppa (peppar, peppade, har peppat)	to hype up; encourage
-v_piano	v	att piano (pianot, pianon, har pianona)	to piano
 v_placera	v	att placera (placerar, placerade, har placerat)	to place
 v_planera	v	att planera (planerar, planerade, har planerat)	to plan
 v_plocka	v	att plocka (plockar, plockade, har plockat)	to pick
@@ -4141,8 +4145,6 @@ v_saetta_ihop	v	att sätta ihop (sätter ihop, satte ihop, har satt ihop)	to ass
 v_saetta_paa	v	att sätta på (sätter på, satte på, har satt på)	to turn on; put on
 v_sakna	v	att sakna (saknar, saknade, har saknat)	to miss (emotionally)
 v_samla	v	att samla (samlar, samlade, har samlat)	to collect
-v_schampo	v	att schampo (schampot, schampon, har schampona)	to shampoo
-v_schema	v	att schema (schemat, scheman, har schemana)	to schedule
 v_se	v	att se (ser, såg, har sett)	to see
 v_segla	v	att segla (seglar, seglade, har seglat)	to sail
 v_separera	v	att separera (separerar, separerade, har separerat)	to separate
@@ -4191,7 +4193,6 @@ v_stoppa	v	att stoppa (stoppar, stoppade, har stoppat)	to stop
 v_stoppa_in	v	att stoppa in (stoppar in, stoppade in, har stoppat in)	to put in; insert
 v_stryka	v	att stryka (stryker, strök, har strukit)	to iron
 v_stryka_under	v	att stryka under (stryker, strök, har strukit)	to underline
-v_suddgummi	v	att suddgummi (suddgummit, suddgummin, har suddgummina)	to eraser
 v_ta	v	att ta (tar, tog, har tagit)	to take
 v_ta_chansen	v	att ta chansen (tar, tog, har tagit)	to take the chance
 v_ta_en_burgare	v	att ta en burgare (tar, tog, har tagit)	to have a burger
@@ -4202,10 +4203,8 @@ v_taala	v	att tåla (tål, tålde, har tålt)	to tolerate
 v_taelta	v	att tälta (tältar, tältade, har tältat)	to camp
 v_taenka	v	att tänka (tänker, tänkte, har tänkt)	to think / plan / contemplate
 v_tappa	v	att tappa (tappar, tappade, har tappat)	to lose
-v_tema	v	att tema (temat, teman, har temana)	to theme
 v_tipsa	v	att tipsa (tipsar, tipsade, har tipsat)	to tip; give a tip
 v_titta	v	att titta (tittar, tittade, har tittat)	to look
-v_tivoli	v	att tivoli (tivolit, tivolin, har tivolina)	to funfair
 v_tjaena	v	att tjäna (tjänar, tjänade, har tjänat)	to earn
 v_traeffa	v	att träffa (träffar, träffade, har träffat)	to meet
 v_traena	v	att träna (tränar, tränade, har tränat)	to exercise
@@ -4227,6 +4226,7 @@ v_vara	v	att vara (är, var, har varit)	to be
 v_variera	v	att variera (varierar, varierade, har varierat)	to vary
 v_varsla	v	att varsla (varslar, varslade, har varslat)	to announce layoffs; give notice
 v_verka	v	att verka (verkar, verkade, har verkat)	to seem
+v_veta	v	att veta (vet, visste, har vetat)	to know
 v_vila	v	att vila (vilar, vilade, har vilat)	to rest
 v_vilja	v	att vilja (vill, ville, har velat)	to want
 v_vinterbada	v	att vinterbada (vinterbadar, vinterbadade, har vinterbadat)	to ice-swim
