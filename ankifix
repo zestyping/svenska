@@ -263,7 +263,7 @@ def fix(infile, outfile, sides=['sv', 'en']):
     outfile.write('#separator:tab\n')
     outfile.write('#guid column:1\n')
     outfile.write('#tags column:2\n')
-    for n in sorted(fixed.values(), key=lambda n: (n['tags'], n['sv'])):
+    for n in sorted(fixed.values(), key=lambda n: n['guid']):
         fields = [n['guid'], n['tags']] + [n[col] for col in sides]
         outfile.write('\t'.join(fields) + '\n')
 
