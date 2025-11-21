@@ -18,7 +18,7 @@ adj_betonad	adj	<span class="en">betonad</span> / <span class="ett">betonat</spa
 adj_billig	adj	<span class="en">billig</span> / <span class="ett">billigt</span> .: billiga	cheap
 adj_blaa	adj	<span class="en">blå</span> / <span class="ett">blått</span> .: blåa	blue
 adj_blommig	adj	<span class="en">blommig</span> / <span class="ett">blommigt</span> .: blommiga	floral
-adj_bortre	adj	bortre	far (adj)
+adj_bortre	adj	bortre	far / yonder (adj)
 adj_bostadsloes	adj	<span class="en">bostadslös</span> / <span class="ett">bostadslöst</span> .: bostadslösa	without housing; homeless
 adj_bra	adj	bra	good (adj)
 adj_bred	adj	<span class="en">bred</span> / <span class="ett">brett</span> .: breda	wide
@@ -261,6 +261,7 @@ adv_framme	adv	framme	front (pos)
 adv_haer	adv	här	here (pos)
 adv_haerifraan	adv	härifrån	from here (dir)
 adv_hem	adv	hem	to home (dir)
+adv_hemaat	adv	hemåt	homeward (dir)
 adv_hemifraan	adv	hemifrån	from home (dir)
 adv_hemma	adv	hemma	at home (pos)
 adv_hit	adv	hit	to here (dir)
@@ -1452,6 +1453,7 @@ phr_abba_museet	phr	ABBA-museet	The ABBA Museum
 phr_alla	phr	alla	everyone
 phr_allt	phr	allt	everything
 phr_baade_x_och_y	phr	både X och Y	both X and Y
+phr_bakom_x	phr	bakom X (prep)	behind X
 phr_bara_bra	phr	bara bra	I'm fine
 phr_bestaemd_form	phr	bestämd form	definite form
 phr_bo_ihop	phr	bo ihop	live together
@@ -1473,6 +1475,7 @@ phr_foerra_aaret	phr	förra året	last year
 phr_foerra_maanaden	phr	förra månaden	last month
 phr_foerra_veckan	phr	förra veckan	last week
 phr_foersta_gaangen	phr	första gången	first time
+phr_framfoer_x	phr	framför X (prep)	in front of X
 phr_frisk_luft	phr	frisk luft	fresh air
 phr_gaa_av	phr	gå av	get off
 phr_gaa_i_skolan	phr	gå i skolan	go to school
@@ -1488,7 +1491,7 @@ phr_halva_priset	phr	halva priset	half price
 phr_har_ni_x	phr	Har ni X ?	Do you have ...?
 phr_hela_dagen	phr	hela dagen	all day
 phr_hela_helgen	phr	hela helgen (phr)	all weekend
-phr_hemma_hos_x	phr	hemma hos X (phr)	at the home of X
+phr_hemma_hos_x	phr	hemma hos X (prep)	at the home of X
 phr_hoppa_fallskaer	phr	hoppa fallskärm	go skydiving
 phr_hur_saeger_man_xps	phr	Hur säger man X på svenska?	How do you say X in Swedish?
 phr_hur_stavar_skri_mx	phr	Hur stavar/skriver man X ?	How do you spell/write X ?
@@ -1518,6 +1521,7 @@ phr_igaar_morse	phr	igår morse	yesterday morning
 phr_imorgon_bitti	phr	imorgon bitti	tomorrow morning
 phr_inget_speciellt	phr	inget speciellt	nothing special
 phr_innan_x	phr	innan X	before X (in a sequence)
+phr_inne_i_x	phr	inne i X (prep)	inside of X
 phr_inom_parentes	phr	inom parentes	in parentheses
 phr_inte_aen	phr	inte än	not yet
 phr_inte_direkt	phr	inte direkt	not really
@@ -1540,25 +1544,30 @@ phr_mitt_i_stan	phr	mitt i stan	in the middle of the city
 phr_mitt_paa_dagen	phr	mitt på dagen	middle of the day
 phr_naagon_gaang	phr	någon gång	sometime / at some point
 phr_naagra_gaanger	phr	några gånger	a few times
+phr_nedanfoer_x	phr	nedanför X (prep)	below X
+phr_norr_om_x	phr	norr om X (prep)	north of X
 phr_obestaemd_form	phr	obestämd form	indefinite form
+phr_oester_om_x	phr	öster om X (prep)	east of X
+phr_oever_x	phr	över X (prep)	over X
 phr_om_10_dagar	phr	om 10 dagar	in 10 days
-phr_paa_baksidan	phr	på baksidan	on the back
-phr_paa_framsidan	phr	på framsidan	on the front
-phr_paa_hoeger_sida	phr	på höger sida	on the right side
-phr_paa_insidan	phr	på insidan	on the inside
+phr_ovanfoer_x	phr	ovanför X	above X
+phr_paa_baksidan	phr	på baksidan (phr)	on the back
+phr_paa_framsidan	phr	på framsidan (phr)	on the front
+phr_paa_hoeger_sida	phr	på höger sida (phr)	on the right side
+phr_paa_insidan	phr	på insidan (phr)	on the inside
 phr_paa_kartan	phr	på kartan	on the map
 phr_paa_landet	phr	på landet	in the countryside
 phr_paa_maandag	phr	på måndag	on Monday
 phr_paa_min_pappas_s	phr	på min pappas sida	on my father's side
-phr_paa_norra_sidan	phr	på norra sidan	on the north side
-phr_paa_oestra_sida	phr	på östra sidan	on the east side
-phr_paa_soedra_sida	phr	på södra sidan	on the south side
+phr_paa_norra_sidan	phr	på norra sidan (phr)	on the north side
+phr_paa_oestra_sida	phr	på östra sidan (phr)	on the east side
+phr_paa_soedra_sida	phr	på södra sidan (phr)	on the south side
 phr_paa_stan	phr	på stan	downtown / in the city
 phr_paa_taket	phr	på taket	on the roof
-phr_paa_utsidan	phr	på utsidan	on the outside
+phr_paa_utsidan	phr	på utsidan (phr)	on the outside
 phr_paa_vaegen_hem	phr	på vägen hem	on the way home
-phr_paa_vaenster_si	phr	på vänster sida	on the left side
-phr_paa_vaestra_sid	phr	på västra sidan	on the west side
+phr_paa_vaenster_si	phr	på vänster sida (phr)	on the left side
+phr_paa_vaestra_sid	phr	på västra sidan (phr)	on the west side
 phr_paa_vintern	phr	på vintern	in the winter
 phr_plugga_till_x	phr	plugga till X	study to be an X
 phr_plus_12_grader	phr	plus 12 grader	12 °C
@@ -1569,6 +1578,7 @@ phr_raett_alternati	phr	rätt alternativ	correct option
 phr_relativt_pronom	phr	relativt pronomen	relative pronoun
 phr_sammansatta_ord	phr	sammansatta ord	compound words
 phr_sent_paa_kvaell	phr	sent på kvällen	late in the evening
+phr_soeder_om_x	phr	söder om X (prep)	south of X
 phr_sova_gott	phr	sova gott	sleep well
 phr_sova_paa_saken	phr	sova på saken	sleep on it
 phr_spela_roll	phr	spela roll	matter
@@ -1579,13 +1589,18 @@ phr_ta_det_lugnt	phr	ta det lugnt	take it easy
 phr_ta_ett_glas_x	phr	ta ett glas X	have a glass of X
 phr_taenk_dig_att	phr	tänk dig att	imagine that
 phr_till_hoeger	phr	till höger	to the right
+phr_till_hoeger_om_x	phr	till höger om X (prep)	to the right of X
 phr_till_vaenster	phr	till vänster	to the left
+phr_till_vaenster_ox	phr	till vänster om X (prep)	to the left of X
 phr_titta_paa_sidan_xito	phr	Titta på sidan X i textboken/övningsboken.	Look at page X in the textbook/exercise book.
 phr_tjaena_pengar	phr	tjäna pengar	earn money
 phr_tyvaerr_jag_kan_ijmx	phr	Tyvärr, jag kan inte. Jag måste X	Sorry, I can't. I have to...
+phr_under_x	phr	under X (prep)	under X
+phr_utanfoer_x	phr	utanför X (prep)	outside of X
 phr_vad_heter_x_paa_s	phr	Vad heter X på svenska?	What is X called in Swedish?
 phr_vad_x_foer	phr	vad X för	what kind of
 phr_vaerldens_mat	phr	världens mat	international food
+phr_vaester_om_x	phr	väster om X (prep)	west of X
 phr_vaexlande_vaede	phr	växlande väder	changing weather
 phr_varje_dag	phr	varje dag	every day
 phr_vattna_blommor	phr	vattna blommor	water the flowers
@@ -3856,7 +3871,6 @@ u_gratis		gratis	free (of charge)
 u_grekiska		grekiska	Greek (language)
 u_helt		helt	completely
 u_helt_okej		helt okej	not bad; pretty okay
-u_hemaat		hemåt	homeward
 u_ibland		ibland	sometimes
 u_igen		igen	again
 u_ingenting		ingenting	nothing
