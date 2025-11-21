@@ -2,232 +2,232 @@
 #separator:tab
 #guid column:1
 #tags column:2
-adj_aecklig	adj	äcklig / äckligt .: äckliga	disgusting
-adj_aerlig	adj	ärlig / ärligt .: ärliga	honest
-adj_aeventyrlig	adj	äventyrlig / äventyrligt .: äventyrliga	adventurous
+adj_aecklig	adj	<span class="en">äcklig</span> / <span class="ett">äckligt</span> .: äckliga	disgusting
+adj_aerlig	adj	<span class="en">ärlig</span> / <span class="ett">ärligt</span> .: ärliga	honest
+adj_aeventyrlig	adj	<span class="en">äventyrlig</span> / <span class="ett">äventyrligt</span> .: äventyrliga	adventurous
 adj_allergisk	adj	allergisk	allergic
-adj_annan	adj	annan / annat .: andra	another
-adj_arbetsloes	adj	arbetslös / arbetslöst .: arbetslösa	unemployed
-adj_avlaang	adj	avlång / avlångt .: avlånga	elongated, oblong
-adj_avstaengd	adj	avstängd / avstängt .: avstängda	off (switched off)
+adj_annan	adj	<span class="en">annan</span> / <span class="ett">annat</span> .: andra	another
+adj_arbetsloes	adj	<span class="en">arbetslös</span> / <span class="ett">arbetslöst</span> .: arbetslösa	unemployed
+adj_avlaang	adj	<span class="en">avlång</span> / <span class="ett">avlångt</span> .: avlånga	elongated, oblong
+adj_avstaengd	adj	<span class="en">avstängd</span> / <span class="ett">avstängt</span> .: avstängda	off (switched off)
 adj_bakre	adj	bakre	back / rear (adj)
-adj_barnfri	adj	barnfri / barnfritt .: barnfria	without children
-adj_begagnad	adj	begagnad / begagnat .: begagnade	used / second-hand
-adj_besatt	adj	besatt / besatt .: besatta	obsessed
-adj_betonad	adj	betonad / betonat .: betonade	emphasized
-adj_billig	adj	billig / billigt .: billiga	cheap
-adj_blaa	adj	blå / blått .: blåa	blue
-adj_blommig	adj	blommig / blommigt .: blommiga	floral
-adj_bostadsloes	adj	bostadslös / bostadslöst .: bostadslösa	without housing; homeless
+adj_barnfri	adj	<span class="en">barnfri</span> / <span class="ett">barnfritt</span> .: barnfria	without children
+adj_begagnad	adj	<span class="en">begagnad</span> / <span class="ett">begagnat</span> .: begagnade	used / second-hand
+adj_besatt	adj	<span class="en">besatt</span> / <span class="ett">besatt</span> .: besatta	obsessed
+adj_betonad	adj	<span class="en">betonad</span> / <span class="ett">betonat</span> .: betonade	emphasized
+adj_billig	adj	<span class="en">billig</span> / <span class="ett">billigt</span> .: billiga	cheap
+adj_blaa	adj	<span class="en">blå</span> / <span class="ett">blått</span> .: blåa	blue
+adj_blommig	adj	<span class="en">blommig</span> / <span class="ett">blommigt</span> .: blommiga	floral
+adj_bostadsloes	adj	<span class="en">bostadslös</span> / <span class="ett">bostadslöst</span> .: bostadslösa	without housing; homeless
 adj_bra	adj	bra	good (adj)
-adj_bred	adj	bred / brett .: breda	wide
-adj_brun	adj	brun / brunt .: bruna	brown
-adj_central	adj	central / centralt .: centrala	central
-adj_cool	adj	cool / coolt .: coola	cool
-adj_daalig	adj	dålig / dåligt .: dåliga	bad (adj)
-adj_digital	adj	digital / digitalt .: digitala	digital
-adj_duktig	adj	duktig / duktigt .: duktiga	good; capable
-adj_dyr	adj	dyr / dyrt .: dyra	expensive
-adj_egen	adj	egen / eget .: egna	own
-adj_ekologisk	adj	ekologisk / ekologiskt .: ekologiska	organic
-adj_ekonomisk	adj	ekonomisk / ekonomiskt .: ekonomiska	economic
-adj_enkel	adj	enkel / enkelt .: enkla	simple
-adj_ensam	adj	ensam / ensamt .: ensamma	lonely; alone
-adj_envis	adj	envis / envist .: envisa	stubborn
-adj_faersk	adj	färsk / färskt .: färska	fresh
-adj_falsk	adj	falsk / falskt .: falska	fake (adj)
-adj_fantastisk	adj	fantastisk / fantastiskt .: fantastiska	fantastic
-adj_farlig	adj	farlig / farligt .: farliga	dangerous
-adj_fattig	adj	fattig / fattigt .: fattiga	poor
+adj_bred	adj	<span class="en">bred</span> / <span class="ett">brett</span> .: breda	wide
+adj_brun	adj	<span class="en">brun</span> / <span class="ett">brunt</span> .: bruna	brown
+adj_central	adj	<span class="en">central</span> / <span class="ett">centralt</span> .: centrala	central
+adj_cool	adj	<span class="en">cool</span> / <span class="ett">coolt</span> .: coola	cool
+adj_daalig	adj	<span class="en">dålig</span> / <span class="ett">dåligt</span> .: dåliga	bad (adj)
+adj_digital	adj	<span class="en">digital</span> / <span class="ett">digitalt</span> .: digitala	digital
+adj_duktig	adj	<span class="en">duktig</span> / <span class="ett">duktigt</span> .: duktiga	good; capable
+adj_dyr	adj	<span class="en">dyr</span> / <span class="ett">dyrt</span> .: dyra	expensive
+adj_egen	adj	<span class="en">egen</span> / <span class="ett">eget</span> .: egna	own
+adj_ekologisk	adj	<span class="en">ekologisk</span> / <span class="ett">ekologiskt</span> .: ekologiska	organic
+adj_ekonomisk	adj	<span class="en">ekonomisk</span> / <span class="ett">ekonomiskt</span> .: ekonomiska	economic
+adj_enkel	adj	<span class="en">enkel</span> / <span class="ett">enkelt</span> .: enkla	simple
+adj_ensam	adj	<span class="en">ensam</span> / <span class="ett">ensamt</span> .: ensamma	lonely; alone
+adj_envis	adj	<span class="en">envis</span> / <span class="ett">envist</span> .: envisa	stubborn
+adj_faersk	adj	<span class="en">färsk</span> / <span class="ett">färskt</span> .: färska	fresh
+adj_falsk	adj	<span class="en">falsk</span> / <span class="ett">falskt</span> .: falska	fake (adj)
+adj_fantastisk	adj	<span class="en">fantastisk</span> / <span class="ett">fantastiskt</span> .: fantastiska	fantastic
+adj_farlig	adj	<span class="en">farlig</span> / <span class="ett">farligt</span> .: farliga	dangerous
+adj_fattig	adj	<span class="en">fattig</span> / <span class="ett">fattigt</span> .: fattiga	poor
 adj_fel	adj	fel	wrong (incorrect)
-adj_fet	adj	fet / fett .: feta	cool (slang)
-adj_fin	adj	fin / fint .: fina	nice / pretty
-adj_foeraeldraledig	adj	föräldraledig / föräldraledigt .: föräldralediga	on parental leave
-adj_foerkyld	adj	förkyld / förkylt .: förkylda	sick with a cold
+adj_fet	adj	<span class="en">fet</span> / <span class="ett">fett</span> .: feta	cool (slang)
+adj_fin	adj	<span class="en">fin</span> / <span class="ett">fint</span> .: fina	nice / pretty
+adj_foeraeldraledig	adj	<span class="en">föräldraledig</span> / <span class="ett">föräldraledigt</span> .: föräldralediga	on parental leave
+adj_foerkyld	adj	<span class="en">förkyld</span> / <span class="ett">förkylt</span> .: förkylda	sick with a cold
 adj_foerra	adj	förra	previous (adj)
-adj_foersenad	adj	försenad / försenat .: försenade	delayed
+adj_foersenad	adj	<span class="en">försenad</span> / <span class="ett">försenat</span> .: försenade	delayed
 adj_foersta	adj	första	first (adj)
-adj_fraanskild	adj	frånskild / frånskilt .: frånskilda	divorced
+adj_fraanskild	adj	<span class="en">frånskild</span> / <span class="ett">frånskilt</span> .: frånskilda	divorced
 adj_fraemre	adj	främre	front (adj)
-adj_frisk	adj	frisk / friskt .: friska	healthy / fresh
-adj_fryst	adj	fryst / fryst .: frysta	frozen
-adj_ful	adj	ful / fult .: fula	ugly
-adj_fysisk	adj	fysisk / fysiskt .: fysiska	physical
-adj_galen	adj	galen / galet .: galna	crazy
-adj_gammal	adj	gammal / gammalt .: gamla	old
-adj_generell	adj	generell / generellt .: generella	general
-adj_gift	adj	gift / gift .: gifta	married
-adj_glad	adj	glad / glatt .: glada	happy
-adj_glesbefolkad	adj	glesbefolkad / glesbefolkat .: glesbefolkade	sparsely populated
-adj_glutenfri	adj	glutenfri / glutenfritt .: glutenfria	gluten-free
-adj_god	adj	god / gott .: goda	tasty
-adj_graa	adj	grå / grått .: gråa	gray
-adj_groen	adj	grön / grönt .: gröna	green (adj)
-adj_gul	adj	gul / gult .: gula	yellow
-adj_gullig	adj	gullig / gulligt .: gulliga	cute
-adj_haard	adj	hård / hårt .: hårda	hard
-adj_hackad	adj	hackad / hackat .: hackade	hacked
-adj_haerlig	adj	härlig / härligt .: härliga	lovely
-adj_halv	adj	halv / halvt .: halva	half (adj)
-adj_halvstaengd	adj	halvstängd / halvstängt .: halvstängda	half-closed
-adj_hemsk	adj	hemsk / hemskt .: hemska	horrible
-adj_historisk	adj	historisk / historiskt .: historiska	historical
-adj_hjaelpsam	adj	hjälpsam / hjälpsamt .: hjälpsamma	helpful
-adj_hjaertlig	adj	hjärtlig / hjärtligt .: hjärtliga	heartfelt
-adj_hoegutbildad	adj	högutbildad / högutbildat .: högutbildade	highly educated
-adj_huslig	adj	huslig / husligt .: husliga	domestic; homey
-adj_indisk	adj	indisk / indiskt .: indiska	Indian
-adj_informell	adj	informell / informellt .: informella	informal
+adj_frisk	adj	<span class="en">frisk</span> / <span class="ett">friskt</span> .: friska	healthy / fresh
+adj_fryst	adj	<span class="en">fryst</span> / <span class="ett">fryst</span> .: frysta	frozen
+adj_ful	adj	<span class="en">ful</span> / <span class="ett">fult</span> .: fula	ugly
+adj_fysisk	adj	<span class="en">fysisk</span> / <span class="ett">fysiskt</span> .: fysiska	physical
+adj_galen	adj	<span class="en">galen</span> / <span class="ett">galet</span> .: galna	crazy
+adj_gammal	adj	<span class="en">gammal</span> / <span class="ett">gammalt</span> .: gamla	old
+adj_generell	adj	<span class="en">generell</span> / <span class="ett">generellt</span> .: generella	general
+adj_gift	adj	<span class="en">gift</span> / <span class="ett">gift</span> .: gifta	married
+adj_glad	adj	<span class="en">glad</span> / <span class="ett">glatt</span> .: glada	happy
+adj_glesbefolkad	adj	<span class="en">glesbefolkad</span> / <span class="ett">glesbefolkat</span> .: glesbefolkade	sparsely populated
+adj_glutenfri	adj	<span class="en">glutenfri</span> / <span class="ett">glutenfritt</span> .: glutenfria	gluten-free
+adj_god	adj	<span class="en">god</span> / <span class="ett">gott</span> .: goda	tasty
+adj_graa	adj	<span class="en">grå</span> / <span class="ett">grått</span> .: gråa	gray
+adj_groen	adj	<span class="en">grön</span> / <span class="ett">grönt</span> .: gröna	green (adj)
+adj_gul	adj	<span class="en">gul</span> / <span class="ett">gult</span> .: gula	yellow
+adj_gullig	adj	<span class="en">gullig</span> / <span class="ett">gulligt</span> .: gulliga	cute
+adj_haard	adj	<span class="en">hård</span> / <span class="ett">hårt</span> .: hårda	hard
+adj_hackad	adj	<span class="en">hackad</span> / <span class="ett">hackat</span> .: hackade	hacked
+adj_haerlig	adj	<span class="en">härlig</span> / <span class="ett">härligt</span> .: härliga	lovely
+adj_halv	adj	<span class="en">halv</span> / <span class="ett">halvt</span> .: halva	half (adj)
+adj_halvstaengd	adj	<span class="en">halvstängd</span> / <span class="ett">halvstängt</span> .: halvstängda	half-closed
+adj_hemsk	adj	<span class="en">hemsk</span> / <span class="ett">hemskt</span> .: hemska	horrible
+adj_historisk	adj	<span class="en">historisk</span> / <span class="ett">historiskt</span> .: historiska	historical
+adj_hjaelpsam	adj	<span class="en">hjälpsam</span> / <span class="ett">hjälpsamt</span> .: hjälpsamma	helpful
+adj_hjaertlig	adj	<span class="en">hjärtlig</span> / <span class="ett">hjärtligt</span> .: hjärtliga	heartfelt
+adj_hoegutbildad	adj	<span class="en">högutbildad</span> / <span class="ett">högutbildat</span> .: högutbildade	highly educated
+adj_huslig	adj	<span class="en">huslig</span> / <span class="ett">husligt</span> .: husliga	domestic; homey
+adj_indisk	adj	<span class="en">indisk</span> / <span class="ett">indiskt</span> .: indiska	Indian
+adj_informell	adj	<span class="en">informell</span> / <span class="ett">informellt</span> .: informella	informal
 adj_inre	adj	inre	inner (adj)
-adj_instaelld	adj	inställd / inställt .: inställda	canceled
-adj_internationell	adj	internationell / internationellt .: internationella	international
-adj_intressant	adj	intressant / intressant .: intressanta	interesting
-adj_intresserad	adj	intresserad / intresserat .: intresserade	interested (in)
-adj_intresserad_av	adj	intresserad av / intresserat .: intresserade	interested in
-adj_ironisk	adj	ironisk / ironiskt .: ironiska	ironic
-adj_jaetteduktig	adj	jätteduktig / jätteduktigt .: jätteduktiga	very good / very skilled
-adj_jaettekonstig	adj	jättekonstig / jättekonstigt .: jättekonstiga	really strange
-adj_jaettetrevlig	adj	jättetrevlig / jättetrevligt .: jättetrevliga	really nice
-adj_kaend	adj	känd / känt .: kända	famous
-adj_kaer	adj	kär / kärt .: kära	in love
-adj_kaerleksfull	adj	kärleksfull / kärleksfullt .: kärleksfulla	loving
-adj_kall	adj	kall / kallt .: kalla	cold
-adj_klassisk	adj	klassisk / klassiskt .: klassiska	classic
-adj_klok	adj	klok / klokt .: kloka	wise
-adj_kommunal	adj	kommunal / kommunalt .: kommunala	municipal
-adj_korrekt	adj	korrekt / korrekt .: korrekta	correct
-adj_kort	adj	kort / kort .: korta	short (adj)
+adj_instaelld	adj	<span class="en">inställd</span> / <span class="ett">inställt</span> .: inställda	canceled
+adj_internationell	adj	<span class="en">internationell</span> / <span class="ett">internationellt</span> .: internationella	international
+adj_intressant	adj	<span class="en">intressant</span> / <span class="ett">intressant</span> .: intressanta	interesting
+adj_intresserad	adj	<span class="en">intresserad</span> / <span class="ett">intresserat</span> .: intresserade	interested (in)
+adj_intresserad_av	adj	<span class="en">intresserad av</span> / <span class="ett">intresserat</span> .: intresserade	interested in
+adj_ironisk	adj	<span class="en">ironisk</span> / <span class="ett">ironiskt</span> .: ironiska	ironic
+adj_jaetteduktig	adj	<span class="en">jätteduktig</span> / <span class="ett">jätteduktigt</span> .: jätteduktiga	very good / very skilled
+adj_jaettekonstig	adj	<span class="en">jättekonstig</span> / <span class="ett">jättekonstigt</span> .: jättekonstiga	really strange
+adj_jaettetrevlig	adj	<span class="en">jättetrevlig</span> / <span class="ett">jättetrevligt</span> .: jättetrevliga	really nice
+adj_kaend	adj	<span class="en">känd</span> / <span class="ett">känt</span> .: kända	famous
+adj_kaer	adj	<span class="en">kär</span> / <span class="ett">kärt</span> .: kära	in love
+adj_kaerleksfull	adj	<span class="en">kärleksfull</span> / <span class="ett">kärleksfullt</span> .: kärleksfulla	loving
+adj_kall	adj	<span class="en">kall</span> / <span class="ett">kallt</span> .: kalla	cold
+adj_klassisk	adj	<span class="en">klassisk</span> / <span class="ett">klassiskt</span> .: klassiska	classic
+adj_klok	adj	<span class="en">klok</span> / <span class="ett">klokt</span> .: kloka	wise
+adj_kommunal	adj	<span class="en">kommunal</span> / <span class="ett">kommunalt</span> .: kommunala	municipal
+adj_korrekt	adj	<span class="en">korrekt</span> / <span class="ett">korrekt</span> .: korrekta	correct
+adj_kort	adj	<span class="en">kort</span> / <span class="ett">kort</span> .: korta	short (adj)
 adj_kul	adj	kul (kul, kul)	fun (adj)
-adj_laang	adj	lång / långt .: långa	long
-adj_laeskig	adj	läskig / läskigt .: läskiga	scary
-adj_laett	adj	lätt / lätt .: lätta	easy / lightweight
-adj_lila	adj	lila / lila .: lila	purple
-adj_liten	adj	liten / litet .: små	small
-adj_ljus	adj	ljus / ljust .: ljusa	light / bright
-adj_lojal	adj	lojal / lojalt .: lojala	loyal
-adj_lugn	adj	lugn / lugnt .: lugna	calm (adj)
-adj_mjuk	adj	mjuk / mjukt .: mjuka	soft
-adj_modern	adj	modern / modernt .: moderna	modern
-adj_modig	adj	modig / modigt .: modiga	brave
-adj_moenstrad	adj	mönstrad / mönstrat .: mönstrade	patterned
-adj_moerk	adj	mörk / mörkt .: mörka	dark
-adj_motsatt	adj	motsatt / motsatt .: motsatta	opposite (adj)
-adj_mysig	adj	mysig / mysigt .: mysiga	cozy
-adj_naagon	adj	någon / något .: några	any / someone
+adj_laang	adj	<span class="en">lång</span> / <span class="ett">långt</span> .: långa	long
+adj_laeskig	adj	<span class="en">läskig</span> / <span class="ett">läskigt</span> .: läskiga	scary
+adj_laett	adj	<span class="en">lätt</span> / <span class="ett">lätt</span> .: lätta	easy / lightweight
+adj_lila	adj	<span class="en">lila</span> / <span class="ett">lila</span> .: lila	purple
+adj_liten	adj	<span class="en">liten</span> / <span class="ett">litet</span> .: små	small
+adj_ljus	adj	<span class="en">ljus</span> / <span class="ett">ljust</span> .: ljusa	light / bright
+adj_lojal	adj	<span class="en">lojal</span> / <span class="ett">lojalt</span> .: lojala	loyal
+adj_lugn	adj	<span class="en">lugn</span> / <span class="ett">lugnt</span> .: lugna	calm (adj)
+adj_mjuk	adj	<span class="en">mjuk</span> / <span class="ett">mjukt</span> .: mjuka	soft
+adj_modern	adj	<span class="en">modern</span> / <span class="ett">modernt</span> .: moderna	modern
+adj_modig	adj	<span class="en">modig</span> / <span class="ett">modigt</span> .: modiga	brave
+adj_moenstrad	adj	<span class="en">mönstrad</span> / <span class="ett">mönstrat</span> .: mönstrade	patterned
+adj_moerk	adj	<span class="en">mörk</span> / <span class="ett">mörkt</span> .: mörka	dark
+adj_motsatt	adj	<span class="en">motsatt</span> / <span class="ett">motsatt</span> .: motsatta	opposite (adj)
+adj_mysig	adj	<span class="en">mysig</span> / <span class="ett">mysigt</span> .: mysiga	cozy
+adj_naagon	adj	<span class="en">någon</span> / <span class="ett">något</span> .: några	any / someone
 adj_naera	adj	nära	near (adj)
 adj_naesta	adj	nästa	next (adj)
-adj_nationell	adj	nationell / nationellt .: nationella	national
+adj_nationell	adj	<span class="en">nationell</span> / <span class="ett">nationellt</span> .: nationella	national
 adj_nedre	adj	nedre	lower (adj)
-adj_negativ	adj	negativ / negativt .: negativa	negative
-adj_neongroen	adj	neongrön / neongrönt .: neongröna	neon green
-adj_nervoes	adj	nervös / nervöst .: nervösa	nervous
-adj_noedvaendig	adj	nödvändig / nödvändigt .: nödvändiga	necessary
-adj_nordisk	adj	nordisk / nordiskt .: nordiska	Nordic
-adj_nordlig	adj	nordlig / nordligt .: nordliga	northern
-adj_normal	adj	normal / normalt .: normala	normal
-adj_ny	adj	ny / nytt .: nya	new
-adj_nyfiken	adj	nyfiken / nyfiket .: nyfikna	curious
-adj_obestaemd	adj	obestämd / obestämt .: obestämda	indefinite
-adj_obetonad	adj	obetonad / obetonat .: obetonade	unstressed
-adj_oeppen	adj	öppen / öppet .: öppna	open
-adj_oestlig	adj	östlig / östligt .: östliga	eastern
-adj_oevertygad	adj	övertygad / övertygat .: övertygade	convinced
+adj_negativ	adj	<span class="en">negativ</span> / <span class="ett">negativt</span> .: negativa	negative
+adj_neongroen	adj	<span class="en">neongrön</span> / <span class="ett">neongrönt</span> .: neongröna	neon green
+adj_nervoes	adj	<span class="en">nervös</span> / <span class="ett">nervöst</span> .: nervösa	nervous
+adj_noedvaendig	adj	<span class="en">nödvändig</span> / <span class="ett">nödvändigt</span> .: nödvändiga	necessary
+adj_nordisk	adj	<span class="en">nordisk</span> / <span class="ett">nordiskt</span> .: nordiska	Nordic
+adj_nordlig	adj	<span class="en">nordlig</span> / <span class="ett">nordligt</span> .: nordliga	northern
+adj_normal	adj	<span class="en">normal</span> / <span class="ett">normalt</span> .: normala	normal
+adj_ny	adj	<span class="en">ny</span> / <span class="ett">nytt</span> .: nya	new
+adj_nyfiken	adj	<span class="en">nyfiken</span> / <span class="ett">nyfiket</span> .: nyfikna	curious
+adj_obestaemd	adj	<span class="en">obestämd</span> / <span class="ett">obestämt</span> .: obestämda	indefinite
+adj_obetonad	adj	<span class="en">obetonad</span> / <span class="ett">obetonat</span> .: obetonade	unstressed
+adj_oeppen	adj	<span class="en">öppen</span> / <span class="ett">öppet</span> .: öppna	open
+adj_oestlig	adj	<span class="en">östlig</span> / <span class="ett">östligt</span> .: östliga	eastern
+adj_oevertygad	adj	<span class="en">övertygad</span> / <span class="ett">övertygat</span> .: övertygade	convinced
 adj_oevre	adj	övre	upper (adj)
-adj_officiell	adj	officiell / officiellt .: officiella	official
-adj_ogift	adj	ogift / ogift .: ogifta	unmarried
-adj_ointressant	adj	ointressant / ointressant .: ointressanta	uninteresting
-adj_olik	adj	olik / olikt .: olika	different
-adj_omgift	adj	omgift / omgift .: omgifta	remarried
-adj_omodern	adj	omodern / omodernt .: omoderna	outdated / old-fashioned
+adj_officiell	adj	<span class="en">officiell</span> / <span class="ett">officiellt</span> .: officiella	official
+adj_ogift	adj	<span class="en">ogift</span> / <span class="ett">ogift</span> .: ogifta	unmarried
+adj_ointressant	adj	<span class="en">ointressant</span> / <span class="ett">ointressant</span> .: ointressanta	uninteresting
+adj_olik	adj	<span class="en">olik</span> / <span class="ett">olikt</span> .: olika	different
+adj_omgift	adj	<span class="en">omgift</span> / <span class="ett">omgift</span> .: omgifta	remarried
+adj_omodern	adj	<span class="en">omodern</span> / <span class="ett">omodernt</span> .: omoderna	outdated / old-fashioned
 adj_orange	adj	orange (orange, orange)	orange (adj)
-adj_otrolig	adj	otrolig / otroligt .: otroliga	incredible
-adj_ovanlig	adj	ovanlig / ovanligt .: ovanliga	unusual
-adj_paaslagen	adj	påslagen / påslaget .: påslagna	on (switched on)
+adj_otrolig	adj	<span class="en">otrolig</span> / <span class="ett">otroligt</span> .: otroliga	incredible
+adj_ovanlig	adj	<span class="en">ovanlig</span> / <span class="ett">ovanligt</span> .: ovanliga	unusual
+adj_paaslagen	adj	<span class="en">påslagen</span> / <span class="ett">påslaget</span> .: påslagna	on (switched on)
 adj_perfekt	adj	perfekt .: perfekta	perfect
-adj_pirrig	adj	pirrig / pirrigt .: pirriga	excited; fluttery
-adj_platt	adj	platt / platt .: platta	flat
-adj_populaer	adj	populär / populärt .: populära	popular
-adj_positiv	adj	positiv / positivt .: positiva	positive
-adj_praktisk	adj	praktisk / praktiskt .: praktiska	practical
-adj_prickig	adj	prickig / prickigt .: prickiga	spotted / polka-dot
-adj_privat	adj	privat / privat .: privata	private
-adj_psykisk	adj	psykisk / psykiskt .: psykiska	psychological
-adj_pytteliten	adj	pytteliten / pyttelitet .: pyttesmå	tiny
+adj_pirrig	adj	<span class="en">pirrig</span> / <span class="ett">pirrigt</span> .: pirriga	excited; fluttery
+adj_platt	adj	<span class="en">platt</span> / <span class="ett">platt</span> .: platta	flat
+adj_populaer	adj	<span class="en">populär</span> / <span class="ett">populärt</span> .: populära	popular
+adj_positiv	adj	<span class="en">positiv</span> / <span class="ett">positivt</span> .: positiva	positive
+adj_praktisk	adj	<span class="en">praktisk</span> / <span class="ett">praktiskt</span> .: praktiska	practical
+adj_prickig	adj	<span class="en">prickig</span> / <span class="ett">prickigt</span> .: prickiga	spotted / polka-dot
+adj_privat	adj	<span class="en">privat</span> / <span class="ett">privat</span> .: privata	private
+adj_psykisk	adj	<span class="en">psykisk</span> / <span class="ett">psykiskt</span> .: psykiska	psychological
+adj_pytteliten	adj	<span class="en">pytteliten</span> / <span class="ett">pyttelitet</span> .: pyttesmå	tiny
 adj_raedd	adj	rädd .: rädda	afraid
-adj_raett	adj	rätt / rätt .: rätta	right (correct)
-adj_rak	adj	rak / rakt .: raka	straight (adj)
-adj_randig	adj	randig / randigt .: randiga	striped
-adj_relativ	adj	relativ / relativt .: relativa	relative (adj)
-adj_roed	adj	röd / rött .: röda	red
-adj_rolig	adj	rolig / roligt .: roliga	fun
-adj_romantisk	adj	romantisk / romantiskt .: romantiska	romantic
-adj_rosa	adj	rosa / rosa .: rosa	pink
-adj_rund	adj	rund / runt .: runda	round
-adj_rutig	adj	rutig / rutigt .: rutiga	checkered
-adj_salt	adj	salt / salt .: salta	salty
-adj_samma	adj	samma / samma .: samma	same (adj)
-adj_samtidig	adj	samtidig / samtidigt .: samtidiga	at the same time
-adj_sen	adj	sen / sent .: sena	late (adj)
-adj_separat	adj	separat / separat .: separata	separate
-adj_separerad	adj	separerad / separerat .: separerade	separated
+adj_raett	adj	<span class="en">rätt</span> / <span class="ett">rätt</span> .: rätta	right (correct)
+adj_rak	adj	<span class="en">rak</span> / <span class="ett">rakt</span> .: raka	straight (adj)
+adj_randig	adj	<span class="en">randig</span> / <span class="ett">randigt</span> .: randiga	striped
+adj_relativ	adj	<span class="en">relativ</span> / <span class="ett">relativt</span> .: relativa	relative (adj)
+adj_roed	adj	<span class="en">röd</span> / <span class="ett">rött</span> .: röda	red
+adj_rolig	adj	<span class="en">rolig</span> / <span class="ett">roligt</span> .: roliga	fun
+adj_romantisk	adj	<span class="en">romantisk</span> / <span class="ett">romantiskt</span> .: romantiska	romantic
+adj_rosa	adj	<span class="en">rosa</span> / <span class="ett">rosa</span> .: rosa	pink
+adj_rund	adj	<span class="en">rund</span> / <span class="ett">runt</span> .: runda	round
+adj_rutig	adj	<span class="en">rutig</span> / <span class="ett">rutigt</span> .: rutiga	checkered
+adj_salt	adj	<span class="en">salt</span> / <span class="ett">salt</span> .: salta	salty
+adj_samma	adj	<span class="en">samma</span> / <span class="ett">samma</span> .: samma	same (adj)
+adj_samtidig	adj	<span class="en">samtidig</span> / <span class="ett">samtidigt</span> .: samtidiga	at the same time
+adj_sen	adj	<span class="en">sen</span> / <span class="ett">sent</span> .: sena	late (adj)
+adj_separat	adj	<span class="en">separat</span> / <span class="ett">separat</span> .: separata	separate
+adj_separerad	adj	<span class="en">separerad</span> / <span class="ett">separerat</span> .: separerade	separated
 adj_singel	adj	singel	single (adj)
 adj_sista	adj	sista	last (adj)
-adj_sjaelv	adj	själv / självt .: själva	self / myself / yourself
-adj_skaer	adj	skär / skärt .: skära	pink
-adj_skandinavisk	adj	skandinavisk / skandinaviskt .: skandinaviska	Scandinavian
-adj_skild	adj	skild / skilt .: skilda	divorced
-adj_skoen	adj	skön / skönt .: sköna	pleasant / comfortable
-adj_smal	adj	smal / smalt .: smala	thin / narrow
-adj_snabb	adj	snabb / snabbt .: snabba	quick
-adj_snygg	adj	snygg / snyggt .: snygga	nice / attractive
-adj_solig	adj	solig / soligt .: soliga	sunny
-adj_sorglig	adj	sorglig / sorgligt .: sorgliga	sad
+adj_sjaelv	adj	<span class="en">själv</span> / <span class="ett">självt</span> .: själva	self / myself / yourself
+adj_skaer	adj	<span class="en">skär</span> / <span class="ett">skärt</span> .: skära	pink
+adj_skandinavisk	adj	<span class="en">skandinavisk</span> / <span class="ett">skandinaviskt</span> .: skandinaviska	Scandinavian
+adj_skild	adj	<span class="en">skild</span> / <span class="ett">skilt</span> .: skilda	divorced
+adj_skoen	adj	<span class="en">skön</span> / <span class="ett">skönt</span> .: sköna	pleasant / comfortable
+adj_smal	adj	<span class="en">smal</span> / <span class="ett">smalt</span> .: smala	thin / narrow
+adj_snabb	adj	<span class="en">snabb</span> / <span class="ett">snabbt</span> .: snabba	quick
+adj_snygg	adj	<span class="en">snygg</span> / <span class="ett">snyggt</span> .: snygga	nice / attractive
+adj_solig	adj	<span class="en">solig</span> / <span class="ett">soligt</span> .: soliga	sunny
+adj_sorglig	adj	<span class="en">sorglig</span> / <span class="ett">sorgligt</span> .: sorgliga	sad
 adj_spaennande	adj	spännande	exciting
-adj_speciell	adj	speciell / speciellt .: speciella	special (adj)
-adj_specifik	adj	specifik / specifikt .: specifika	specific
-adj_spontan	adj	spontan / spontant .: spontana	spontaneous
-adj_sportig	adj	sportig / sportigt .: sportiga	athletic
+adj_speciell	adj	<span class="en">speciell</span> / <span class="ett">speciellt</span> .: speciella	special (adj)
+adj_specifik	adj	<span class="en">specifik</span> / <span class="ett">specifikt</span> .: specifika	specific
+adj_spontan	adj	<span class="en">spontan</span> / <span class="ett">spontant</span> .: spontana	spontaneous
+adj_sportig	adj	<span class="en">sportig</span> / <span class="ett">sportigt</span> .: sportiga	athletic
 adj_stackars	adj	stackars	poor (unfortunate)
-adj_staengd	adj	stängd / stängt .: stängda	closed
-adj_stor	adj	stor / stort .: stora	big
-adj_suddig	adj	suddig / suddigt .: suddiga	blurry
-adj_superekologisk	adj	superekologisk / superekologiskt .: superekologiska	ultra-organic
-adj_superfin	adj	superfin / superfint .: superfina	super nice / very beautiful
-adj_supernervoes	adj	supernervös / supernervöst .: supernervösa	super nervous
-adj_svaar	adj	svår / svårt .: svåra	difficult
-adj_svart	adj	svart / svart .: svarta	black
-adj_sydamerikansk	adj	sydamerikansk / sydamerikanskt .: sydamerikanska	South American
-adj_sydlig	adj	sydlig / sydligt .: sydliga	southern
-adj_taetbefolkad	adj	tätbefolkad / tätbefolkat .: tätbefolkade	densely populated
-adj_tidig	adj	tidig / tidigt .: tidiga	early (adj)
-adj_tjock	adj	tjock / tjockt .: tjocka	fat / thick
-adj_toentig	adj	töntig / töntigt .: töntiga	dorky; uncool
-adj_torr	adj	torr / torrt .: torra	dry
-adj_total	adj	total / totalt .: totala	total
-adj_traakig	adj	tråkig / tråkigt .: tråkiga	boring
-adj_trasig	adj	trasig / trasigt .: trasiga	broken
-adj_trist	adj	trist / trist .: trista	boring; dull
-adj_troett	adj	trött / trött .: trötta	tired
-adj_tuff	adj	tuff / tufft .: tuffa	tough
-adj_tyst	adj	tyst / tyst .: tysta	silent
-adj_underbar	adj	underbar / underbart .: underbara	wonderful
-adj_ung	adj	ung / ungt .: unga	young (adj)
-adj_ungefaerlig	adj	ungefärlig / ungefärligt .: ungefärliga	approximate
-adj_upptagen	adj	upptagen / upptaget .: upptagna	busy
-adj_vacker	adj	vacker / vackert .: vackra	beautiful
-adj_vaeldig	adj	väldig / väldigt .: väldiga	vast / immense
-adj_vaelkommen	adj	välkommen / välkommet .: välkomna	welcome
-adj_vaestlig	adj	västlig / västligt .: västliga	western (adj)
-adj_vaken	adj	vaken / vaket .: vakna	awake
-adj_vanlig	adj	vanlig / vanligt .: vanliga	usual, ordinary
-adj_varannan	adj	varannan / varannat .: varannan	every other
-adj_varm	adj	varm / varmt .: varma	warm
-adj_vegansk	adj	vegansk / veganskt .: veganska	vegan
-adj_verklig	adj	verklig / verkligt .: verkliga	real (adj)
-adj_viktig	adj	viktig / viktigt .: viktiga	important
-adj_viss	adj	viss / visst .: vissa	certain / specific
-adj_vit	adj	vit / vitt .: vita	white
-adj_vuxen	adj	vuxen / vuxet .: vuxna	adult
+adj_staengd	adj	<span class="en">stängd</span> / <span class="ett">stängt</span> .: stängda	closed
+adj_stor	adj	<span class="en">stor</span> / <span class="ett">stort</span> .: stora	big
+adj_suddig	adj	<span class="en">suddig</span> / <span class="ett">suddigt</span> .: suddiga	blurry
+adj_superekologisk	adj	<span class="en">superekologisk</span> / <span class="ett">superekologiskt</span> .: superekologiska	ultra-organic
+adj_superfin	adj	<span class="en">superfin</span> / <span class="ett">superfint</span> .: superfina	super nice / very beautiful
+adj_supernervoes	adj	<span class="en">supernervös</span> / <span class="ett">supernervöst</span> .: supernervösa	super nervous
+adj_svaar	adj	<span class="en">svår</span> / <span class="ett">svårt</span> .: svåra	difficult
+adj_svart	adj	<span class="en">svart</span> / <span class="ett">svart</span> .: svarta	black
+adj_sydamerikansk	adj	<span class="en">sydamerikansk</span> / <span class="ett">sydamerikanskt</span> .: sydamerikanska	South American
+adj_sydlig	adj	<span class="en">sydlig</span> / <span class="ett">sydligt</span> .: sydliga	southern
+adj_taetbefolkad	adj	<span class="en">tätbefolkad</span> / <span class="ett">tätbefolkat</span> .: tätbefolkade	densely populated
+adj_tidig	adj	<span class="en">tidig</span> / <span class="ett">tidigt</span> .: tidiga	early (adj)
+adj_tjock	adj	<span class="en">tjock</span> / <span class="ett">tjockt</span> .: tjocka	fat / thick
+adj_toentig	adj	<span class="en">töntig</span> / <span class="ett">töntigt</span> .: töntiga	dorky; uncool
+adj_torr	adj	<span class="en">torr</span> / <span class="ett">torrt</span> .: torra	dry
+adj_total	adj	<span class="en">total</span> / <span class="ett">totalt</span> .: totala	total
+adj_traakig	adj	<span class="en">tråkig</span> / <span class="ett">tråkigt</span> .: tråkiga	boring
+adj_trasig	adj	<span class="en">trasig</span> / <span class="ett">trasigt</span> .: trasiga	broken
+adj_trist	adj	<span class="en">trist</span> / <span class="ett">trist</span> .: trista	boring; dull
+adj_troett	adj	<span class="en">trött</span> / <span class="ett">trött</span> .: trötta	tired
+adj_tuff	adj	<span class="en">tuff</span> / <span class="ett">tufft</span> .: tuffa	tough
+adj_tyst	adj	<span class="en">tyst</span> / <span class="ett">tyst</span> .: tysta	silent
+adj_underbar	adj	<span class="en">underbar</span> / <span class="ett">underbart</span> .: underbara	wonderful
+adj_ung	adj	<span class="en">ung</span> / <span class="ett">ungt</span> .: unga	young (adj)
+adj_ungefaerlig	adj	<span class="en">ungefärlig</span> / <span class="ett">ungefärligt</span> .: ungefärliga	approximate
+adj_upptagen	adj	<span class="en">upptagen</span> / <span class="ett">upptaget</span> .: upptagna	busy
+adj_vacker	adj	<span class="en">vacker</span> / <span class="ett">vackert</span> .: vackra	beautiful
+adj_vaeldig	adj	<span class="en">väldig</span> / <span class="ett">väldigt</span> .: väldiga	vast / immense
+adj_vaelkommen	adj	<span class="en">välkommen</span> / <span class="ett">välkommet</span> .: välkomna	welcome
+adj_vaestlig	adj	<span class="en">västlig</span> / <span class="ett">västligt</span> .: västliga	western (adj)
+adj_vaken	adj	<span class="en">vaken</span> / <span class="ett">vaket</span> .: vakna	awake
+adj_vanlig	adj	<span class="en">vanlig</span> / <span class="ett">vanligt</span> .: vanliga	usual, ordinary
+adj_varannan	adj	<span class="en">varannan</span> / <span class="ett">varannat</span> .: varannan	every other
+adj_varm	adj	<span class="en">varm</span> / <span class="ett">varmt</span> .: varma	warm
+adj_vegansk	adj	<span class="en">vegansk</span> / <span class="ett">veganskt</span> .: veganska	vegan
+adj_verklig	adj	<span class="en">verklig</span> / <span class="ett">verkligt</span> .: verkliga	real (adj)
+adj_viktig	adj	<span class="en">viktig</span> / <span class="ett">viktigt</span> .: viktiga	important
+adj_viss	adj	<span class="en">viss</span> / <span class="ett">visst</span> .: vissa	certain / specific
+adj_vit	adj	<span class="en">vit</span> / <span class="ett">vitt</span> .: vita	white
+adj_vuxen	adj	<span class="en">vuxen</span> / <span class="ett">vuxet</span> .: vuxna	adult
 adj_yttre	adj	yttre	outer (adj)
 adv_absolut	adv	absolut	absolutely
 adv_aendaa	adv	ändå	still / anyway (adv)

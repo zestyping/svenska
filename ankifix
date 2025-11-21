@@ -129,7 +129,7 @@ def fix_sv(sv, tags):
             if f2.startswith('-'):
                 f2 = base + f2[1:]
             # adjective with ett and plural forms
-            return f'{base} / {f1} .: {f2}', 'adj'
+            return f'<span class="en">{base}</span> / <span class="ett">{f1}</span> .: {f2}', 'adj'
 
         if len(forms) == 3 and (has(tags, 'v') or f2 != f3):
             # verb with present, preteritum, and pluperfect forms
