@@ -1322,7 +1322,7 @@ n_tobak	mass n	<span class="en">tobak [tobaken]</span>	tobacco
 n_tomat	count n	<span class="en">en tomat [tomaten] .: tomater [tomaterna]</span>	a tomato
 n_tomatpure	count n	<span class="en">en tomatpuré [tomatpurén] .: tomatpuréer [tomatpuréerna]</span>	a tomato paste
 n_ton	count n	<span class="en">en ton [tonen] .: toner [tonerna]</span>	a pitch
-n_torg	count n	<span class="ett">ett torg [torget] .: torg [torgen]</span>	a square
+n_torg	count n	<span class="ett">ett torg [torget] .: torg [torgen]</span>	a square (place)
 n_torsdag	count n	<span class="en">en torsdag [torsdagen] .: torsdagar [torsdagarna]</span>	a Thursday
 n_traad	count n	<span class="en">en tråd [tråden] .: trådar [trådarna]</span>	a thread
 n_trae	count n	<span class="ett">ett trä [träet] .: trä [träden]</span>	a wood
@@ -3836,7 +3836,6 @@ u_aeven		även	also; even; as well
 u_annars		annars	otherwise
 u_baesta		bästa	best
 u_bara		bara	only
-u_braaka		bråka	quarrel / struggle
 u_braeckt_vatten		bräckt vatten	brackish water
 u_cirka		cirka	approximately
 u_daerfoer		därför	therefore
@@ -3873,7 +3872,6 @@ u_igen		igen	again
 u_ingenting		ingenting	nothing
 u_inom		inom	within
 u_inte		inte	not
-u_intervjua		intervjua	interview
 u_jaettekul		jättekul	a lot of fun
 u_jaettemaanga		jättemånga	a huge number
 u_jag		jag	I
@@ -3894,7 +3892,6 @@ u_livs		livs (= livsmedelsbutik)	grocery store
 u_ljusgraa		ljusgrå	light gray
 u_maanga		många	many
 u_makaroner		makaroner	macaroni
-u_markera		markera	mark
 u_med		med	with
 u_mellan_jobb		mellan jobb	between jobs
 u_men		men	but
@@ -3928,7 +3925,6 @@ u_rakt_fram		rakt fram	straight ahead
 u_redan		redan	already
 u_redo		redo	ready
 u_retroflexer		retroflexer	retroflexes
-u_ringa_in		ringa in	circle
 u_roed_dag		röd dag	public holiday
 u_romska		romska	Romani
 u_saa		så	so
@@ -3937,7 +3933,6 @@ u_saellan		sällan	rarely
 u_saemre		sämre	worse
 u_samiska		samiska	Sami/Saami
 u_semesterplan		semesterplan	holiday plan
-u_ska		ska	will (verb)
 u_skulle		skulle	would / was going to
 u_snabbfakta		snabbfakta	quick facts
 u_snart		snart	soon
@@ -3948,7 +3943,6 @@ u_svensk_krona		svensk krona (SEK)	Swedish krona
 u_svenska		svenska	Swedish (language)
 u_ta_en_aw		ta en AW	go for after-work drinks
 u_tack		tack	thank you
-u_tala		tala	speak
 u_telekom		telekom	telecommunications
 u_tillsammans		tillsammans	together
 u_titta_paa_en_fi		titta på en film	watch a movie
@@ -4008,6 +4002,7 @@ v_boerja	v	att börja (börjar, började, har börjat)	to begin; start
 v_boka	v	att boka (bokar, bokade, har bokat)	to book, reserve
 v_borde	v	borde	to should
 v_bowla	v	att bowla (bowlar, bowlade, har bowlat)	to bowl
+v_braaka	v	att bråka (bråkar, bråkade, har bråkat)	to argue / quarrel
 v_bruka	v	att bruka (brukar, brukade, har brukat)	to usually
 v_bygga	v	att bygga (bygger, byggde, har byggt)	to build
 v_byta	v	att byta (byter, bytte, har bytt)	to change / exchange
@@ -4034,7 +4029,7 @@ v_fira	v	att fira (firar, firade, har firat)	to celebrate
 v_fiska	v	att fiska (fiskar, fiskade, har fiskat)	to fish
 v_fixa	v	att fixa (fixar, fixade, har fixat)	to sort out
 v_flyga	v	att flyga (flyger, flög, har flugit)	to fly
-v_flytta	v	att flytta (flyttar, flyttade, har flyttat)	to move
+v_flytta	v	att flytta (flyttar, flyttade, har flyttat)	to move (residence / an object)
 v_foedas	v	att födas (föds, föddes, har fötts)	to be born
 v_foelja_med	v	att följa med (följer, följde, har följt)	to come along
 v_foerbaettra	v	att förbättra (förbättrar, förbättrade, har förbättrat)	to improve
@@ -4043,14 +4038,14 @@ v_foeredra	v	att föredra (föredrar, föredrade, har föredrat)	to prefer
 v_foereslaa	v	att föreslå (föreslår, föreslog, har föreslagit)	to suggest
 v_foerstaa	v	att förstå (förstår, förstod, har förstått)	to understand
 v_foerstoera	v	att förstöra (förstör, förstörde, har förstört)	to destroy
-v_forska	v	att forska (forskar, forskade, har forskat)	to do research
+v_forska	v	att forska (forskar, forskade, har forskat)	to research
 v_fortsaetta	v	att fortsätta (fortsätter, fortsatte, har fortsatt)	to continue
 v_fraaga	v	att fråga (frågar, frågade, har frågat)	to ask
 v_fundera	v	att fundera (funderar, funderade, har funderat)	to ponder
 v_fungera	v	att fungera (fungerar, fungerade, har fungerat)	to work (function)
 v_funka	v	att funka (funkar, funkade, har funkat)	to work
 v_fylla_paa	v	att fylla på (fyller på, fyllde på, har fyllt på)	to refill; top up
-v_gaa	v	att gå (går, gick, har gått)	to walk / go
+v_gaa	v	att gå (går, gick, har gått)	to walk / go (by foot)
 v_gaa_upp	v	att gå upp (går, gick, har gått)	to get up
 v_ge	v	att ge (ger, gav, har gett)	to give
 v_ge_bort	v	att ge bort (ger, gav, har gett)	to give away
@@ -4073,6 +4068,7 @@ v_haelsa	v	att hälsa (hälsar, hälsade, har hälsat)	to greet
 v_haenda	v	att hända (händer, hände, har hänt)	to happen
 v_haenga	v	att hänga (hänger, hängde, har hängt)	to hang / hang out
 v_haenga_med	v	att hänga med (hänger, hängde, har hängt)	to join in
+v_handla	v	att handla (handlar, handlade, har handlat)	to deal with / to shop
 v_handla_mat	v	att handla mat	to buy food
 v_handla_om	v	att handla om (handlar, handlade, har handlat)	to be about
 v_heta	v	att heta (heter, hette, har hetat)	to be called
@@ -4083,6 +4079,7 @@ v_hoera	v	att höra (hör, hörde, har hört)	to hear
 v_hoppa	v	att hoppa (hoppar, hoppade, har hoppat)	to jump
 v_imitera	v	att imitera (imiterar, imiterade, har imiterat)	to imitate
 v_inspirera	v	att inspirera (inspirerar, inspirerade, har inspirerat)	to inspire
+v_intervjua	v	att intervjua (intervjuar, intervjuade, har intervjuat)	to interview
 v_jaemfoera	v	att jämföra (jämför, jämförde, har jämfört)	to compare
 v_jaga	v	att jaga (jagar, jagade, har jagat)	to hunt
 v_jobba	v	att jobba (jobbar, jobbade, har jobbat)	to work
@@ -4118,7 +4115,7 @@ v_laemna_tillbaka	v	att lämna tillbaka (lämnar, lämnade, har lämnat)	to retu
 v_laengta_efter	v	att längta efter (längtar, längtade, har längtat)	to long for / yearn for
 v_laera_kaenna	v	att lära känna (lär, lärde, har lärt)	to get to know
 v_laera_sig	v	att lära sig (lär, lärde, har lärt)	to learn
-v_laesa	v	att läsa (läser, läste, har läst)	to study
+v_laesa	v	att läsa (läser, läste, har läst)	to read / study
 v_laga_mat	v	att laga mat (lagar, lagade, har lagat)	to cook
 v_leka	v	att leka (leker, lekte, har lekt)	to play
 v_leta_efter	v	att leta efter (letar, letade, har letat)	to look for; search for
@@ -4131,6 +4128,7 @@ v_maa	v	att må (mår, mådde, har mått)	to feel
 v_maala	v	att måla (målar, målade, har målat)	to paint
 v_maala_graffiti	v	att måla graffiti (målar, målade, har målat)	to paint graffiti
 v_maaste	v	måste	to must
+v_markera	v	att markera (markerar, markerade, har markerat)	to mark
 v_messa	v	att messa (messar, messade, har messat)	to text
 v_mingla	v	att mingla (minglar, minglade, har minglat)	to mingle
 v_missa	v	att missa (missar, missade, har missat)	to miss
@@ -4150,7 +4148,8 @@ v_peppa	v	att peppa (peppar, peppade, har peppat)	to hype up; encourage
 v_placera	v	att placera (placerar, placerade, har placerat)	to place
 v_planera	v	att planera (planerar, planerade, har planerat)	to plan
 v_plocka	v	att plocka (plockar, plockade, har plockat)	to pick
-v_plugga	v	att plugga (pluggar, pluggade, har pluggat)	to study
+v_plugga	v	att plugga (pluggar, pluggade, har pluggat)	to study (informal)
+v_prata	v	att prata (pratar, pratade, har pratat)	to talk / chat
 v_presentera_sig	v	att presentera sig (presenterar, presenterade, har presenterat)	to introduce oneself
 v_producera	v	att producera (producerar, producerade, har producerat)	to produce
 v_proeva	v	att pröva (prövar, prövade, har prövat)	to test; try
@@ -4164,6 +4163,7 @@ v_rekommendera	v	att rekommendera (rekommenderar, rekommenderade, har rekommende
 v_repetera	v	att repetera (repeterar, repeterade, har repeterat)	to repeat
 v_resa	v	att resa (reser, reste, har rest)	to travel
 v_rida	v	att rida (rider, red, har ridit)	to ride
+v_ringa_in	v	att ringa in (ringer, ringde, har ringt)	to circle
 v_roeka	v	att röka (röker, rökte, har rökt)	to smoke
 v_saega	v	att säga (säger, sa, har sagt)	to say
 v_saelja	v	att sälja (säljer, sålde, har sålt)	to sell
@@ -4182,6 +4182,7 @@ v_simma	v	att simma (simmar, simmade, har simmat)	to swim
 v_sitta	v	att sitta (sitter, satt, har suttit)	to sit
 v_sitta_bak	v	att sitta bak (sitter, satt, har suttit)	to sit in the back; sit behind
 v_sjunga	v	att sjunga (sjunger, sjöng, har sjungit)	to sing
+v_ska	v	att ska (ska, skulle, har skolat)	to will / would (modal verb)
 v_skapa	v	att skapa (skapar, skapade, har skapat)	to create
 v_skejta	v	att skejta (skejtar, skejtade, har skejtat)	to skate
 v_skicka_tillbaka	v	att skicka tillbaka (skickar, skickade, har skickat)	to send back; return
@@ -4229,9 +4230,11 @@ v_ta_laang_tid	v	att ta lång tid (tar, tog, har tagit)	to take a long time
 v_taala	v	att tåla (tål, tålde, har tålt)	to tolerate
 v_taelta	v	att tälta (tältar, tältade, har tältat)	to camp
 v_taenka	v	att tänka (tänker, tänkte, har tänkt)	to think / plan / contemplate
+v_tala	v	att tala (talar, talade, har talat)	to speak
 v_tappa	v	att tappa (tappar, tappade, har tappat)	to lose
 v_tipsa	v	att tipsa (tipsar, tipsade, har tipsat)	to tip; give a tip
 v_titta	v	att titta (tittar, tittade, har tittat)	to look
+v_titta_paa	v	att titta på (tittar, tittade, har tittat)	to watch
 v_tjaena	v	att tjäna (tjänar, tjänade, har tjänat)	to earn
 v_traeffa	v	att träffa (träffar, träffade, har träffat)	to meet
 v_traena	v	att träna (tränar, tränade, har tränat)	to exercise

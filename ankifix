@@ -305,7 +305,7 @@ def fix(infile, outfile, sides=['sv', 'en']):
     dups = [k for k in records_by_en_key if len(records_by_en_key[k]) > 1]
     for en_key in sorted(dups):
         records = records_by_en_key[en_key]
-        sys.stderr.write('"%s" has multiple translations:\n' % records[0]['en'])
+        sys.stderr.write('"%s" has %d translations:\n' % (records[0]['en'], len(records)))
         for sv, en in sorted((record['sv'], record['en']) for record in records):
             sys.stderr.write('    %s = %s\n' % (remove_html(sv), en))
 
