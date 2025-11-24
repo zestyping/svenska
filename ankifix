@@ -86,6 +86,7 @@ def fix_sv(sv, tags):
         if len(forms) == 1 and (has(tags, 'n') or f1 in [
             base + 'n', base + 't', base + 'en', base + 'et', base + 'na',
             base[:-2] + base[-1] + 'en', base[:-2] + base[-1] + 'et',
+            base[:-1] + 'en', base[:-1] + 'et',
             '-n', '-t', '-en', '-et'
         ]):
             # noun with definite form only
@@ -303,7 +304,7 @@ def fix(infile, outfile, sides=['sv', 'en']):
         if len(en_tags.get(en_key, set())) > 1:
             # add part-of-speeeh tag to disambiguate identical English words
             _, tags = split_pos(record['en'], '')
-            if record['tags'] not in tags:
+            if '(' not in record['en']:
                 record['en'] += f' ({record["tags"]})'
 
     dups = [k for k in records_by_en_key if len(records_by_en_key[k]) > 1]
