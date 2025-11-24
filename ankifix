@@ -143,7 +143,7 @@ def fix_sv(sv, tags):
             return sv, 's'
         if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
             return sv, 'phr'
-        if re.search(r'\b(för|förra|hela|i|inte|på) [a-zäåö]', sv):
+        if re.search(r'\b(för|förra|hela|i|inte|på|till) [a-zäåö]', sv):
             return sv, 'phr'
         if 'X' in sv.split():
             return sv, 'phr'
