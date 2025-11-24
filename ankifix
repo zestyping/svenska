@@ -76,15 +76,6 @@ def fix_sv(sv, tags):
     sv, tags = split_pos(sv, tags)
     if sv.startswith('*'):
         return sv[1:], tags
-    if not tags:
-        if re.match(r'^[A-ZÄÅÖ][a-zäåö]+!$', sv):
-            return sv, 's'
-        if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
-            return sv, 'phr'
-        if re.match(r'^(förra|hela|i|inte|på) [a-zäåö]', sv):
-            return sv, 'phr'
-        if 'X' in sv.split():
-            return sv, 'phr'
     match = re.search(r'^([^(]+) \(([^,)]+(, [^,)]+)*)\)\s*$', sv)
     if match:
         base = match.group(1)
@@ -144,6 +135,17 @@ def fix_sv(sv, tags):
             f3 = re.sub(r'^(har )*', '', f3)
             return f'att {base} ({f1}, {f2}, har {f3})', 'v'
 
+    if not tags:
+        if re.match(r'^[A-ZÄÅÖ][a-zäåö]+.*[.!?]$', sv):
+            return sv, 's'
+        if re.search(r'^"?[A-ZÄÅÖ][^ ]+ +[a-zäåö]', sv) and len(sv.split()) > 2:
+            return sv, 's'
+        if re.match(r'^gå [a-zäåö]+ [a-zäåö]', sv):
+            return sv, 'phr'
+        if re.search(r'\b(för|förra|hela|i|inte|på) [a-zäåö]', sv):
+            return sv, 'phr'
+        if 'X' in sv.split():
+            return sv, 'phr'
     if re.search(r'.* \[.*\] => .* \[.*\]', sv):
         return sv.replace('=>', '.:'), 'n'
     first = sv.split()[0]
@@ -174,8 +176,10 @@ def fix_en(en, tags):
         if has(tags, 'count'):
             if en.split()[0] not in ['a', 'an']:
                 en = 'an ' + en if en[0].lower() in 'aeiou' else 'a ' + en
-        elif en.split()[0] == 'the':
+        elif en.split()[0].lower() == 'the':
             return en, 'mass n'
+    if not tags and en.split()[0].lower() == 'the':
+        return en, 'mass n'
     return en, tags
 
 def find_cols(count, directives, sides):
