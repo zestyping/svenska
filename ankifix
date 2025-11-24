@@ -314,6 +314,7 @@ def fix(infile, outfile, sides=['sv', 'en']):
     outfile.write('#guid column:1\n')
     outfile.write('#tags column:2\n')
     for n in sorted(fixed.values(), key=lambda n: n['guid']):
+        n['sv'] = '<div class="sv">' + n['sv'] + '</div>'
         fields = [n['guid'], n['tags']] + [n[col] for col in sides]
         outfile.write('\t'.join(fields) + '\n')
 
