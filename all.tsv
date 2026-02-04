@@ -672,7 +672,6 @@ n_fotboll	count n	<div class="sv"><span class="en">en fotboll [fotbollen] .: fot
 n_fotbollsproffs	count n	<div class="sv"><span class="ett">ett fotbollsproffs [fotbollsproffset] .: fotbollsproffs [fotbollsproffsen]</span></div>	a professional footballer
 n_fotbollsspelare	count n	<div class="sv"><span class="en">en fotbollsspelare [fotbollsspelaren] .: fotbollsspelare [fotbollsspelarna]</span></div>	a football, soccer player
 n_foto	count n	<div class="sv"><span class="ett">ett foto [fotot] .: foton [fotona]</span></div>	a photo
-n_fotografiska	mass n	<div class="sv">Fotografiska</div>	Fotografiska Museum
 n_fraaga	count n	<div class="sv"><span class="en">en fråga [frågan] .: frågor [frågorna]</span></div>	a question
 n_fraageord	count n	<div class="sv"><span class="ett">ett frågeord [frågeordet] .: frågeord [frågeorden]</span></div>	a question word
 n_fraagetecken	count n	<div class="sv"><span class="ett">ett frågetecken [frågetecknet] .: frågetecken [frågetecknen]</span></div>	a question mark
@@ -2415,7 +2414,6 @@ s_forskning_inom_mav	s	<div class="sv">Forskning inom medicin är viktig.</div>	
 s_fotboll_aer_en_psis	s	<div class="sv">Fotboll är en populär sport i Sverige.</div>	Football is a popular sport in Sweden.
 s_fotbollsspelare_gtmim	s	<div class="sv">Fotbollsspelaren gjorde tre mål i matchen.</div>	The football player scored three goals in the match.
 s_fotnoten_finns_nt	s	<div class="sv">Fotnoten finns nedanför tabellen.</div>	The footnote is below the table.
-s_fotografiska_vi_if	s	<div class="sv">Fotografiska visar inspirerande fotokonst.</div>	Fotografiska exhibits inspiring photography.
 s_fraagan_aer_for_a	s	<div class="sv">Frågan är fortfarande aktuell.</div>	The issue is still relevant.
 s_frankrike_aer_kfsm	s	<div class="sv">Frankrike är känt för sin mat.</div>	France is known for its food.
 s_frekvensen_av_tvfa	s	<div class="sv">Frekvensen av träning varierar för alla.</div>	The frequency of exercise varies for everyone.
@@ -3937,6 +3935,7 @@ s_titta_om_kabeln_sio	s	<div class="sv">Titta om kabeln sitter i ordentligt.</di
 s_titta_paa_sidan_xito	s	<div class="sv">Titta på sidan X i textboken/övningsboken.</div>	Look at page X in the textbook/exercise book.
 s_tja	s	<div class="sv">Tja!</div>	Hey! / Hi!
 s_tja_det_aer_sva_as	s	<div class="sv">Tja, det är svårt att säga.</div>	Well, it's hard to say.
+s_tjax	s	<div class="sv">Tja...</div>	Well...
 s_tjena	s	<div class="sv">Tjena!</div>	Hi!
 s_tjenixen	s	<div class="sv">Tjenixen!</div>	Hey there!
 s_tjoho	s	<div class="sv">Tjoho!</div>	Woohoo!/Yay!
@@ -4424,6 +4423,7 @@ u_eller		<div class="sv">eller</div>	or
 u_enkel_resa		<div class="sv">enkel resa</div>	single ticket; one-way trip
 u_exempelvis		<div class="sv">exempelvis</div>	for example
 u_flera		<div class="sv">flera</div>	several
+u_foermodligen		<div class="sv">förmodligen</div>	probably
 u_foerraen		<div class="sv">förrän</div>	until
 u_foertjust_i		<div class="sv">förtjust i</div>	fond of; keen on
 u_forna_jugoslavi		<div class="sv">forna Jugoslavien</div>	former Yugoslavia
